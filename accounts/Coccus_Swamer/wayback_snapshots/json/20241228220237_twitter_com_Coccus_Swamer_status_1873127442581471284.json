@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1872826701362937856"
+      ],
+      "media_source_tweet_id": [
+        "1872827056167190812"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1873127442581471284",
+    "created_at": "2024-12-28T22:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T23:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873127442581471284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705961363343048704",
+          "start": 3,
+          "username": "nzawasaji777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cQXmaOiu8h",
+          "end": 41,
+          "expanded_url": "https://x.com/nzawasaji777/status/1872827056167190812/photo/1",
+          "media_key": "16_1872826701362937856",
+          "start": 18,
+          "url": "https://t.co/cQXmaOiu8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873127442581471284",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 556
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872827056167190812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzawasaji777: https://t.co/cQXmaOiu8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "16_1872826701362937856",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gf2d9lSawAALaUc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gf2d9lSawAALaUc.mp4"
+          }
+        ],
+        "width": 1510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1872826701362937856"
+          ],
+          "media_source_tweet_id": [
+            "1872827056167190812"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1873127442581471284",
+        "created_at": "2024-12-28T22:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T23:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873127442581471284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705961363343048704",
+              "start": 3,
+              "username": "nzawasaji777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQXmaOiu8h",
+              "end": 41,
+              "expanded_url": "https://x.com/nzawasaji777/status/1872827056167190812/photo/1",
+              "media_key": "16_1872826701362937856",
+              "start": 18,
+              "url": "https://t.co/cQXmaOiu8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873127442581471284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 556
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872827056167190812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzawasaji777: https://t.co/cQXmaOiu8h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1872826701362937856"
+          ]
+        },
+        "author_id": "1705961363343048704",
+        "conversation_id": "1872827056167190812",
+        "created_at": "2024-12-28T02:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T03:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872827056167190812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQXmaOiu8h",
+              "end": 23,
+              "expanded_url": "https://x.com/nzawasaji777/status/1872827056167190812/photo/1",
+              "media_key": "16_1872826701362937856",
+              "start": 0,
+              "url": "https://t.co/cQXmaOiu8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872827056167190812",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 403,
+          "impression_count": 42067,
+          "like_count": 3792,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 556
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cQXmaOiu8h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1364,
+          "like_count": 6548,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2276
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T15:04:27.000Z",
+        "description": "皆さんは隣人を愛してあげてください 絵があります          ブルスカhttps://t.co/FDlSxuhS72",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/nzawas…",
+                "end": 61,
+                "expanded_url": "https://bsky.app/profile/nzawasaji777.bsky.social",
+                "start": 38,
+                "url": "https://t.co/FDlSxuhS72"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/77kt79yrtb0fqd…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/77kt79yrtb0fqdm?t=7gauYw&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/qmpo5Wl6S7"
+              }
+            ]
+          }
+        },
+        "id": "1705961363343048704",
+        "location": "AI、無断使用禁止",
+        "name": "ん沢　匙(んざわさじ)",
+        "pinned_tweet_id": "1864962370566787169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799237508188057600/pFHAklYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 576,
+          "like_count": 5941,
+          "listed_count": 8,
+          "media_count": 239,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/qmpo5Wl6S7",
+        "username": "nzawasaji777",
+        "verified": false
+      }
+    ]
+  }
+}

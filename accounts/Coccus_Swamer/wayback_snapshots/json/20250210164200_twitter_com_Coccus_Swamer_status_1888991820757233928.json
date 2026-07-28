@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1888453711954911232"
+      ],
+      "media_source_tweet_id": [
+        "1888453763544842363"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1888991820757233928",
+    "created_at": "2025-02-10T16:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T17:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888991820757233928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772377179705233409",
+          "start": 3,
+          "username": "LongCadetBlu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1QZMFD0McS",
+          "end": 54,
+          "expanded_url": "https://x.com/LongCadetBlu/status/1888453763544842363/photo/1",
+          "media_key": "16_1888453711954911232",
+          "start": 31,
+          "url": "https://t.co/1QZMFD0McS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888991820757233928",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1333
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888453763544842363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LongCadetBlu: raffle winnr https://t.co/1QZMFD0McS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1488,
+        "media_key": "16_1888453711954911232",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GjUipUPXIAAaIq2.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GjUipUPXIAAaIq2.mp4"
+          }
+        ],
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1888453711954911232"
+          ],
+          "media_source_tweet_id": [
+            "1888453763544842363"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1888991820757233928",
+        "created_at": "2025-02-10T16:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T17:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888991820757233928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1772377179705233409",
+              "start": 3,
+              "username": "LongCadetBlu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QZMFD0McS",
+              "end": 54,
+              "expanded_url": "https://x.com/LongCadetBlu/status/1888453763544842363/photo/1",
+              "media_key": "16_1888453711954911232",
+              "start": 31,
+              "url": "https://t.co/1QZMFD0McS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888991820757233928",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1333
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888453763544842363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LongCadetBlu: raffle winnr https://t.co/1QZMFD0McS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1888453711954911232"
+          ]
+        },
+        "author_id": "1772377179705233409",
+        "conversation_id": "1888453763544842363",
+        "created_at": "2025-02-09T05:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T06:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888453763544842363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QZMFD0McS",
+              "end": 36,
+              "expanded_url": "https://x.com/LongCadetBlu/status/1888453763544842363/photo/1",
+              "media_key": "16_1888453711954911232",
+              "start": 13,
+              "url": "https://t.co/1QZMFD0McS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888453763544842363",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1327,
+          "impression_count": 89163,
+          "like_count": 11422,
+          "quote_count": 11,
+          "reply_count": 10,
+          "retweet_count": 1333
+        },
+        "reply_settings": "everyone",
+        "text": "raffle winnr https://t.co/1QZMFD0McS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1887214692319568005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 1704,
+          "like_count": 7723,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 2755
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-25T21:37:12.000Z",
+        "description": "Evythin is mad w love, :o\n18 bluess olde",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/_blu_moon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/_blu_moon",
+                "start": 0,
+                "url": "https://t.co/koChJkhiTw"
+              }
+            ]
+          }
+        },
+        "id": "1772377179705233409",
+        "name": "Cadet-Blu",
+        "pinned_tweet_id": "1824252572535771383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882456582228676608/rxQuubRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11527,
+          "following_count": 104,
+          "like_count": 513,
+          "listed_count": 18,
+          "media_count": 116,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/koChJkhiTw",
+        "username": "LongCadetBlu",
+        "verified": false
+      }
+    ]
+  }
+}

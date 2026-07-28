@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081340690160898048"
+      ],
+      "media_source_tweet_id": [
+        "2081340877671432415"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081381084051436023",
+    "created_at": "2026-07-26T14:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081381084051436023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2021003064883412997",
+          "start": 3,
+          "username": "hakuto_hirumin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/67FYdfxi9L",
+          "end": 54,
+          "expanded_url": "https://x.com/hakuto_hirumin/status/2081340877671432415/video/1",
+          "media_key": "13_2081340690160898048",
+          "start": 31,
+          "url": "https://t.co/67FYdfxi9L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081381084051436023",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081340877671432415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hakuto_hirumin: 火花 \n※リョナ注意 https://t.co/67FYdfxi9L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34858,
+        "height": 1080,
+        "media_key": "13_2081340690160898048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081340690160898048/img/DsmBjxxKZf-sLazG.jpg",
+        "public_metrics": {
+          "view_count": 9208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081340690160898048/vid/avc1/1624x1080/Ti6wQlrG-kAVKOOa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081340690160898048/vid/avc1/1082x720/-77p05hZaa4ID6PN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081340690160898048/vid/avc1/540x360/XgIbiXHYeLGEKZZs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081340690160898048/pl/gk0r6tYg6NVYwASF.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081340690160898048/vid/avc1/406x270/AfLlhIupWEatSz4f.mp4"
+          }
+        ],
+        "width": 1624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081340690160898048"
+          ]
+        },
+        "author_id": "2021003064883412997",
+        "conversation_id": "2081340877671432415",
+        "created_at": "2026-07-26T11:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081340877671432415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/67FYdfxi9L",
+              "end": 34,
+              "expanded_url": "https://x.com/hakuto_hirumin/status/2081340877671432415/video/1",
+              "media_key": "13_2081340690160898048",
+              "start": 11,
+              "url": "https://t.co/67FYdfxi9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081340877671432415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 654,
+          "impression_count": 17450,
+          "like_count": 1180,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "reply_settings": "following",
+        "text": "火花 \n※リョナ注意 https://t.co/67FYdfxi9L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081340690160898048"
+          ],
+          "media_source_tweet_id": [
+            "2081340877671432415"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081381084051436023",
+        "created_at": "2026-07-26T14:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081381084051436023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2021003064883412997",
+              "start": 3,
+              "username": "hakuto_hirumin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/67FYdfxi9L",
+              "end": 54,
+              "expanded_url": "https://x.com/hakuto_hirumin/status/2081340877671432415/video/1",
+              "media_key": "13_2081340690160898048",
+              "start": 31,
+              "url": "https://t.co/67FYdfxi9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081381084051436023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081340877671432415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hakuto_hirumin: 火花 \n※リョナ注意 https://t.co/67FYdfxi9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 2704,
+          "like_count": 10014,
+          "listed_count": 0,
+          "media_count": 705,
+          "tweet_count": 3724
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-09T23:27:49.000Z",
+        "description": "🔞\n\nアイコン　えぬ様\nCV　二階堂くるみ様\nFANBOX↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanbox.cc/@haku-to",
+                "end": 23,
+                "expanded_url": "https://www.fanbox.cc/@haku-to",
+                "start": 0,
+                "url": "https://t.co/S7WH3XAZ4A"
+              }
+            ]
+          }
+        },
+        "id": "2021003064883412997",
+        "location": "無断転載禁止",
+        "name": "みん兎",
+        "pinned_tweet_id": "2065408249843892440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031005689691435008/ZTdh-l2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19273,
+          "following_count": 308,
+          "like_count": 2550,
+          "listed_count": 44,
+          "media_count": 27,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/S7WH3XAZ4A",
+        "username": "hakuto_hirumin",
+        "verified": true
+      }
+    ]
+  }
+}

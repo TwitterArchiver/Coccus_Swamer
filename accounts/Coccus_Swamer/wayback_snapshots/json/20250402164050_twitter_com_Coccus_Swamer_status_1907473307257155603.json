@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1907473307257155603",
+    "created_at": "2025-04-02T16:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T17:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907473307257155603"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1907473307257155603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "他坐在那里，面孔瘦削得像被岁月剜去了一层皮，眼窝深陷，像是藏着无数未曾言说的苦痛。他跟我说，他想去死。声音低哑，平淡得像街边小贩叫卖烂菜叶时那种无所谓的腔调，却又带着一种刺骨的寒意，仿佛这话不是从嘴里吐出来的，而是从灵魂的裂缝里硬挤出来的。\n窗外，下雨了。雨丝细得像针，密密麻麻地刺在玻璃上，发出一种单调而执拗的声响，像无数小虫在啃噬着什么。天是灰的，沉甸甸地压下来，空气里满是湿冷的腥味，仿佛连呼吸都被这雨浸得黏稠。我看着他，他看着虚空。沉默像一柄钝刀，慢吞吞地割着时间，割着这屋子里仅剩的那点生气。雨还在下，像个不知疲倦的说书人，低声念叨着没人想听的悲凉故事。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他坐在那里，面孔瘦削得像被岁月剜去了一层皮，眼窝深陷，像是藏着无数未曾言说的苦痛。他跟我说，他想去死。声音低哑，平淡得像街边小贩叫卖烂菜叶时那种无所谓的腔调，却又带着一种刺骨的寒意，仿佛这话不是从嘴里吐出来的，而是从灵魂的裂缝里硬挤出来的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1907473307257155603",
+        "created_at": "2025-04-02T16:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907473307257155603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907473307257155603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "他坐在那里，面孔瘦削得像被岁月剜去了一层皮，眼窝深陷，像是藏着无数未曾言说的苦痛。他跟我说，他想去死。声音低哑，平淡得像街边小贩叫卖烂菜叶时那种无所谓的腔调，却又带着一种刺骨的寒意，仿佛这话不是从嘴里吐出来的，而是从灵魂的裂缝里硬挤出来的。\n窗外，下雨了。雨丝细得像针，密密麻麻地刺在玻璃上，发出一种单调而执拗的声响，像无数小虫在啃噬着什么。天是灰的，沉甸甸地压下来，空气里满是湿冷的腥味，仿佛连呼吸都被这雨浸得黏稠。我看着他，他看着虚空。沉默像一柄钝刀，慢吞吞地割着时间，割着这屋子里仅剩的那点生气。雨还在下，像个不知疲倦的说书人，低声念叨着没人想听的悲凉故事。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他坐在那里，面孔瘦削得像被岁月剜去了一层皮，眼窝深陷，像是藏着无数未曾言说的苦痛。他跟我说，他想去死。声音低哑，平淡得像街边小贩叫卖烂菜叶时那种无所谓的腔调，却又带着一种刺骨的寒意，仿佛这话不是从嘴里吐出来的，而是从灵魂的裂缝里硬挤出来的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 2113,
+          "like_count": 8697,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 3139
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

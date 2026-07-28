@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1824215785272910061",
+    "created_at": "2024-08-15T22:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T23:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824215785272910061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776563758497955840",
+          "start": 3,
+          "username": "wngy170505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824215785272910061",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823371496070488305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wngy170505: How to commit suicide without pain, so why do people live? I'm so tired and want to die! I don't want to live anymore!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1824215785272910061",
+        "created_at": "2024-08-15T22:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T23:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824215785272910061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776563758497955840",
+              "start": 3,
+              "username": "wngy170505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824215785272910061",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823371496070488305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wngy170505: How to commit suicide without pain, so why do people live? I'm so tired and want to die! I don't want to live anymore!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776563758497955840",
+        "conversation_id": "1823371496070488305",
+        "created_at": "2024-08-13T14:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T15:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823371496070488305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823371496070488305",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "How to commit suicide without pain, so why do people live? I'm so tired and want to die! I don't want to live anymore!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n休学中\n激素治療中非二元性别\n血图/od/日常学习，互关慎重。",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1813715606069465466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813715743890157568/kJLcdlib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 734,
+          "like_count": 4170,
+          "listed_count": 0,
+          "tweet_count": 1329
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T10:53:38.000Z",
+        "description": "",
+        "id": "1776563758497955840",
+        "name": "想自杀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823386190378397696/Bclf3B5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 33,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "wngy170505",
+        "verified": false
+      }
+    ]
+  }
+}

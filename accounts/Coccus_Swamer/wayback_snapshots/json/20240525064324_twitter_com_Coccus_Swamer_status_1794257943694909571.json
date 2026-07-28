@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1794254680702484865",
+    "created_at": "2024-05-25T06:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T07:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794257943694909571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664988013406089217",
+          "start": 0,
+          "username": "SUKI_2023wasted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794257943694909571",
+    "in_reply_to_user_id": "1664988013406089217",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794254680702484865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUKI_2023wasted 🥺，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1794254680702484865",
+        "created_at": "2024-05-25T06:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T07:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794257943694909571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664988013406089217",
+              "start": 0,
+              "username": "SUKI_2023wasted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794257943694909571",
+        "in_reply_to_user_id": "1664988013406089217",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794254680702484865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUKI_2023wasted 🥺，"
+      },
+      {
+        "attachments": {},
+        "author_id": "1664988013406089217",
+        "conversation_id": "1794254680702484865",
+        "created_at": "2024-05-25T06:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T07:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794254680702484865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794254680702484865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前的600fo抽奖我回来了\n\n关转赞评～我会给你回复编号～一定要评论哦不然我可能看不到你。锁推了的宝宝可以私信我。\n一等奖：maimai你所在的机厅200币。\n二等奖：电子烟×1。不抽烟的可以换任何等值物品或者折现。\n三等奖：各种奇怪的我不o的药。\n安慰奖依旧保留：我的maimai原味包浆手套😋😋😋😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "早餐一種。\nMTX 休学学生 成分复杂，爱看血图，互关慎重。\n读书/药物/分享生活/日本語勉強中/Deutschlehrer/English also OK!",
+        "id": "1552238688590958592",
+        "name": "帝國粉色果醬配奶油麵包片",
+        "pinned_tweet_id": "1716744793404191029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725501871039909888/eBg1RNIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 510,
+          "like_count": 3151,
+          "listed_count": 0,
+          "tweet_count": 1032
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T13:31:13.000Z",
+        "description": "ftx🏳️‍⚧️｜泛｜20↑｜0.5switch ｜妹妹：@EwayYii 💙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "EwayYii"
+              }
+            ]
+          }
+        },
+        "id": "1664988013406089217",
+        "name": "SUKI-2.0｜",
+        "pinned_tweet_id": "1794254680702484865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790570866646122496/8fnSiyW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 311,
+          "like_count": 10123,
+          "listed_count": 0,
+          "tweet_count": 2206
+        },
+        "username": "SUKI_2023wasted",
+        "verified": false
+      }
+    ]
+  }
+}

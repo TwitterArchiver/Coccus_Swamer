@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915211956677730307"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1915211960062533963",
+    "created_at": "2025-04-24T01:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T02:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915211960062533963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KTv2Rd49M4",
+          "end": 145,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1915211960062533963/photo/1",
+          "media_key": "3_1915211956677730307",
+          "start": 122,
+          "url": "https://t.co/KTv2Rd49M4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915211960062533963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "眼睛在熟悉光影变动的反应之后，就很难再想象那种没有穷尽的黑暗了。哪怕闭上眼皮，视网膜上的神经电总能精确地告诉我环境 明暗的变化， 这种感觉很像坐过山车冲刺时候 失重的感觉，是一种下意识的生理反馈。我还 能听到我的眼睛在尖啸，是在我确定已经天黑 后拉上窗帘关上灯头蒙在被子里闭上眼睛之后还能听到了它们的不安。身处荒原的女娲一定也这样嘶吼过，物质的环境之中只有异于己身 的异形的话，那么他一定是害怕的。所以就像做泥塑一样，眼睛在消解它们自己的恐惧：可 是有谁能保证自己真的看到过光那样的东西呢。是的，它们能捕捉到的一切都是虚幻，不透光的物体是反射光的模样，透光的物体是吸收光的颜色，弱光的地方又是明与暗的黑，没有光的地方.………它们连光都没有见过，如何相 信没有光的远方。恐怖是模仿见过的身形和笨 拙的手艺，和捏造出镜子那一边的我一样捏造出长条状的、圆形的、扭曲的和闪动的肉都市，但我又不能十分怪罪它们，这已经是能制造出的最大分贝噪音。\n\n         我相信眼睛爱光是胜过 爱我自己的。\n\n          张开眼睛拉开窗帘，倒在阳台上向上望去，哪怕目之所及的极远之处也只是稍微暗一点的光的幻觉。那个连光的速度都不能超越的终极，究竟是什么模样。宇宙，我突然想到，宇宙真的好远好远，又大又远让我搜索枯肠的想象开始变得十分无趣，看不见光的地方会自 己捏造色彩，听不见声音的地方会有心里自己的音乐，尝不到味道的地方会有自己的回忆，所有思索的经验告诉我，我应该飘到的地方是海。\n\n        这是我第一次感受到漂浮。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眼睛在熟悉光影变动的反应之后，就很难再想象那种没有穷尽的黑暗了。哪怕闭上眼皮，视网膜上的神经电总能精确地告诉我环境 明暗的变化， 这种感觉很像坐过山车冲刺时候 失重的感觉，是一种下意识的生理反馈。我还 能听到我的眼睛在尖啸，是在我确定已经天黑 https://t.co/KTv2Rd49M4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1915211956677730307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpQzIJtbYAMz2EL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915211956677730307"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1915211960062533963",
+        "created_at": "2025-04-24T01:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T02:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915211960062533963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTv2Rd49M4",
+              "end": 145,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1915211960062533963/photo/1",
+              "media_key": "3_1915211956677730307",
+              "start": 122,
+              "url": "https://t.co/KTv2Rd49M4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915211960062533963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "眼睛在熟悉光影变动的反应之后，就很难再想象那种没有穷尽的黑暗了。哪怕闭上眼皮，视网膜上的神经电总能精确地告诉我环境 明暗的变化， 这种感觉很像坐过山车冲刺时候 失重的感觉，是一种下意识的生理反馈。我还 能听到我的眼睛在尖啸，是在我确定已经天黑 后拉上窗帘关上灯头蒙在被子里闭上眼睛之后还能听到了它们的不安。身处荒原的女娲一定也这样嘶吼过，物质的环境之中只有异于己身 的异形的话，那么他一定是害怕的。所以就像做泥塑一样，眼睛在消解它们自己的恐惧：可 是有谁能保证自己真的看到过光那样的东西呢。是的，它们能捕捉到的一切都是虚幻，不透光的物体是反射光的模样，透光的物体是吸收光的颜色，弱光的地方又是明与暗的黑，没有光的地方.………它们连光都没有见过，如何相 信没有光的远方。恐怖是模仿见过的身形和笨 拙的手艺，和捏造出镜子那一边的我一样捏造出长条状的、圆形的、扭曲的和闪动的肉都市，但我又不能十分怪罪它们，这已经是能制造出的最大分贝噪音。\n\n         我相信眼睛爱光是胜过 爱我自己的。\n\n          张开眼睛拉开窗帘，倒在阳台上向上望去，哪怕目之所及的极远之处也只是稍微暗一点的光的幻觉。那个连光的速度都不能超越的终极，究竟是什么模样。宇宙，我突然想到，宇宙真的好远好远，又大又远让我搜索枯肠的想象开始变得十分无趣，看不见光的地方会自 己捏造色彩，听不见声音的地方会有心里自己的音乐，尝不到味道的地方会有自己的回忆，所有思索的经验告诉我，我应该飘到的地方是海。\n\n        这是我第一次感受到漂浮。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛在熟悉光影变动的反应之后，就很难再想象那种没有穷尽的黑暗了。哪怕闭上眼皮，视网膜上的神经电总能精确地告诉我环境 明暗的变化， 这种感觉很像坐过山车冲刺时候 失重的感觉，是一种下意识的生理反馈。我还 能听到我的眼睛在尖啸，是在我确定已经天黑 https://t.co/KTv2Rd49M4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1915104988734562596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 2197,
+          "like_count": 8926,
+          "listed_count": 0,
+          "media_count": 535,
+          "tweet_count": 3209
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

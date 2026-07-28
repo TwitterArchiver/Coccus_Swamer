@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055827917763186688"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2055827938646581602",
+    "created_at": "2026-05-17T01:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T02:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055827938646581602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C7Zw4GCmy7",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2055827938646581602/photo/1",
+          "media_key": "3_2055827917763186688",
+          "start": 0,
+          "url": "https://t.co/C7Zw4GCmy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055827938646581602",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/C7Zw4GCmy7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2055827917763186688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfEmVWbEAAS9U3.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055827917763186688"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2055827938646581602",
+        "created_at": "2026-05-17T01:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055827938646581602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7Zw4GCmy7",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2055827938646581602/photo/1",
+              "media_key": "3_2055827917763186688",
+              "start": 0,
+              "url": "https://t.co/C7Zw4GCmy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055827938646581602",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C7Zw4GCmy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Funabashi, Chiba, Japan",
+              "geo": {
+                "coordinates": [
+                  139.98333,
+                  35.69306
+                ],
+                "type": "Point"
+              },
+              "locality": "Funabashi",
+              "region": "Chiba"
+            }
+          ]
+        },
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/od/ADHD-rsd/植物医学专业/诗歌/日本語_Deutsch/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1943417317855236106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 2511,
+          "like_count": 9759,
+          "listed_count": 0,
+          "media_count": 662,
+          "tweet_count": 3582
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

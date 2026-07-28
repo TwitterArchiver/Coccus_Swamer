@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1862794155942093068",
+    "created_at": "2024-11-30T18:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T19:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862929240494338203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692446433222463488",
+          "start": 0,
+          "username": "0721sandwich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862929240494338203",
+    "in_reply_to_user_id": "1692446433222463488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862794155942093068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0721sandwich 文明玩家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1862794155942093068",
+        "created_at": "2024-11-30T18:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T19:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862929240494338203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692446433222463488",
+              "start": 0,
+              "username": "0721sandwich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862929240494338203",
+        "in_reply_to_user_id": "1692446433222463488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862794155942093068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0721sandwich 文明玩家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692446433222463488",
+        "conversation_id": "1862794155942093068",
+        "created_at": "2024-11-30T09:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T10:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862794155942093068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cpup2024/statu…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/cpup2024/status/1862463609064104143",
+              "start": 137,
+              "url": "https://t.co/Le08H4HE7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862794155942093068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9065,
+          "like_count": 142,
+          "quote_count": 6,
+          "reply_count": 39,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862463609064104143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好多人玩诶我也要玩\n\n🇹🇼 :宣战\n🇺🇸 :宣战\n🇨🇦 :宣战\n🇲🇽 :宣战\n🇷🇺 :宣战\n🇺🇦 :宣战\n🇮🇱 :宣战\n🇵🇸 :宣战\n🇸🇦 :宣战\n🇨🇳 :宣战\n🇰🇵 :宣战\n🇰🇷 :宣战\n🇯🇵 :宣战\n🇬🇧 :宣战\n🇩🇪 :宣战\n🇭🇰 :宣战\n🇫🇷 :宣战\n🇸🇪 :宣战 https://t.co/Le08H4HE7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1281,
+          "like_count": 6160,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 2098
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T08:01:11.000Z",
+        "description": "有趣的简介能让你被更多人看见哦～    无聊！我要看血流成河！ Boring! I want to see some body parts!",
+        "id": "1692446433222463488",
+        "location": "Shanghai, China",
+        "name": "三明治 Sandwich",
+        "pinned_tweet_id": "1851831983925764484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831848267057131520/_lon0Nqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 657,
+          "like_count": 1133,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1506
+        },
+        "username": "0721sandwich",
+        "verified": false
+      }
+    ]
+  }
+}

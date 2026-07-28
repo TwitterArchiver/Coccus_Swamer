@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2072471973867983236",
+    "created_at": "2026-07-02T00:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072471973867983236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053435734737186816",
+          "start": 3,
+          "username": "xingstaro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072471973867983236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071946762521280887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingstaro: 毒越吸越无聊这tm正常吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2072471973867983236",
+        "created_at": "2026-07-02T00:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072471973867983236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053435734737186816",
+              "start": 3,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072471973867983236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071946762521280887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingstaro: 毒越吸越无聊这tm正常吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2071946762521280887",
+        "created_at": "2026-06-30T13:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071946762521280887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071946762521280887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7858,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "毒越吸越无聊这tm正常吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 2603,
+          "like_count": 9857,
+          "listed_count": 0,
+          "media_count": 680,
+          "tweet_count": 3646
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 453,
+          "like_count": 1287,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 866
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

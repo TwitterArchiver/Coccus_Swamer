@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1891539199452381474",
+    "created_at": "2025-02-17T17:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T18:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891539199452381474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1856322437144817667",
+          "start": 3,
+          "username": "ChosekiNoraneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891539199452381474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891489615636308164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChosekiNoraneko: 第一批ISRIB已經合成完成，僅供實驗，售價為300/克，折合美元42刀，僅支持虛擬貨幣支付，歡迎下單，純度在97%以上。\n\n此物質有巨大生物醫藥潛力，CAS Number：1597403-47-8。\nhttps://t.co/gLkz…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1891539199452381474",
+        "created_at": "2025-02-17T17:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T18:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891539199452381474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1856322437144817667",
+              "start": 3,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891539199452381474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891489615636308164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChosekiNoraneko: 第一批ISRIB已經合成完成，僅供實驗，售價為300/克，折合美元42刀，僅支持虛擬貨幣支付，歡迎下單，純度在97%以上。\n\n此物質有巨大生物醫藥潛力，CAS Number：1597403-47-8。\nhttps://t.co/gLkz…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891489562037518336"
+          ]
+        },
+        "author_id": "1856322437144817667",
+        "conversation_id": "1891489615636308164",
+        "created_at": "2025-02-17T14:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T15:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891489615636308164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "zh.wikipedia.org/zh-hant/ISRIB?…",
+              "end": 124,
+              "expanded_url": "https://zh.wikipedia.org/zh-hant/ISRIB?wprov=sfla1",
+              "images": [
+                {
+                  "height": 431,
+                  "url": "https://pbs.twimg.com/news_img/1891489618899410944/gjcu6j6q?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1891489618899410944/gjcu6j6q?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "ISRIB - 維基百科，自由的百科全書",
+              "unwound_url": "https://zh.wikipedia.org/zh-hant/ISRIB?wprov=sfla1",
+              "url": "https://t.co/gLkzWWmaed"
+            },
+            {
+              "display_url": "pic.x.com/5C8kwcy0AO",
+              "end": 148,
+              "expanded_url": "https://x.com/ChosekiNoraneko/status/1891489615636308164/photo/1",
+              "media_key": "3_1891489562037518336",
+              "start": 125,
+              "url": "https://t.co/5C8kwcy0AO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891489615636308164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 882,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "第一批ISRIB已經合成完成，僅供實驗，售價為300/克，折合美元42刀，僅支持虛擬貨幣支付，歡迎下單，純度在97%以上。\n\n此物質有巨大生物醫藥潛力，CAS Number：1597403-47-8。\nhttps://t.co/gLkzWWmaed https://t.co/5C8kwcy0AO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1887214692319568005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1748,
+          "like_count": 7874,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 2792
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "潮汐工作室的官方賬號",
+        "id": "1856322437144817667",
+        "location": "Macau",
+        "name": "Choseki Studio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856322922924912640/-kfTtOYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 14,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

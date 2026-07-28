@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900692070656077824",
+        "3_1900692070517665793"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1900692073512423923",
+    "created_at": "2025-03-14T23:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T00:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900692073512423923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0GZWmfdYnA",
+          "end": 165,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1900692073512423923/photo/1",
+          "media_key": "3_1900692070656077824",
+          "start": 142,
+          "url": "https://t.co/0GZWmfdYnA"
+        },
+        {
+          "display_url": "pic.x.com/0GZWmfdYnA",
+          "end": 165,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1900692073512423923/photo/1",
+          "media_key": "3_1900692070517665793",
+          "start": 142,
+          "url": "https://t.co/0GZWmfdYnA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900692073512423923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "感觉让精神状态最好的方法就是按时作息，精神状态不好和作息紊乱反而又是个打结的死循环，如果能好好按时睡觉早上起来也不赖床，那你已经成为了一个很棒很了不起的人了。只是做到这个，那么你的不论是意志力精神力还是行动力都已经是相当顶级的水平了，就凭借这点，打游戏刷手机发呆发病根本不能被称之为浪费时间了，因为时间本来就应该是这么用的。\n\n我是氟硝西泮bzd吃太久了真的感觉影响到我的认知和记忆了，后面退到奥沙和地西泮还是能睡，但是损伤还是有，干脆现在用Z药唑吡坦扎来普隆，结果共用受体共用耐受还是不行，主要还是入睡困难，而我又是那种不睡觉就不能正常工作的人，很麻烦。打算几个月不碰gaba受体那一块了，要么扎来普隆大量后慢慢减，要么试试褪黑素那一系的阿戈美拉汀替米沙坦片达利多雷生雷美尔通配褪黑素也不知道什么时候能上市（指我能买到）走点歪门邪道也有，，， 曲唑酮米氮平喹硫平苯海拉明配加巴喷丁这种，，把作息调回来真的是麻烦大事。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉让精神状态最好的方法就是按时作息，精神状态不好和作息紊乱反而又是个打结的死循环，如果能好好按时睡觉早上起来也不赖床，那你已经成为了一个很棒很了不起的人了。只是做到这个，那么你的不论是意志力精神力还是行动力都已经是相当顶级的水平了，就凭借这点，打游戏刷手机发呆发病根本不能被称之… https://t.co/0GZWmfdYnA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900692070656077824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmCdXjLbcAAIoc3.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1900692070517665793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmCdXiqbcAEq927.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900692070656077824",
+            "3_1900692070517665793"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900692073512423923",
+        "created_at": "2025-03-14T23:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T00:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900692073512423923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GZWmfdYnA",
+              "end": 165,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1900692073512423923/photo/1",
+              "media_key": "3_1900692070656077824",
+              "start": 142,
+              "url": "https://t.co/0GZWmfdYnA"
+            },
+            {
+              "display_url": "pic.x.com/0GZWmfdYnA",
+              "end": 165,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1900692073512423923/photo/1",
+              "media_key": "3_1900692070517665793",
+              "start": 142,
+              "url": "https://t.co/0GZWmfdYnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900692073512423923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "感觉让精神状态最好的方法就是按时作息，精神状态不好和作息紊乱反而又是个打结的死循环，如果能好好按时睡觉早上起来也不赖床，那你已经成为了一个很棒很了不起的人了。只是做到这个，那么你的不论是意志力精神力还是行动力都已经是相当顶级的水平了，就凭借这点，打游戏刷手机发呆发病根本不能被称之为浪费时间了，因为时间本来就应该是这么用的。\n\n我是氟硝西泮bzd吃太久了真的感觉影响到我的认知和记忆了，后面退到奥沙和地西泮还是能睡，但是损伤还是有，干脆现在用Z药唑吡坦扎来普隆，结果共用受体共用耐受还是不行，主要还是入睡困难，而我又是那种不睡觉就不能正常工作的人，很麻烦。打算几个月不碰gaba受体那一块了，要么扎来普隆大量后慢慢减，要么试试褪黑素那一系的阿戈美拉汀替米沙坦片达利多雷生雷美尔通配褪黑素也不知道什么时候能上市（指我能买到）走点歪门邪道也有，，， 曲唑酮米氮平喹硫平苯海拉明配加巴喷丁这种，，把作息调回来真的是麻烦大事。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉让精神状态最好的方法就是按时作息，精神状态不好和作息紊乱反而又是个打结的死循环，如果能好好按时睡觉早上起来也不赖床，那你已经成为了一个很棒很了不起的人了。只是做到这个，那么你的不论是意志力精神力还是行动力都已经是相当顶级的水平了，就凭借这点，打游戏刷手机发呆发病根本不能被称之… https://t.co/0GZWmfdYnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1900165369517793788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1944,
+          "like_count": 8189,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 2995
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

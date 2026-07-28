@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1820021074979086698",
+    "created_at": "2024-08-14T04:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T05:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823577618144543202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1776563758497955840",
+          "start": 0,
+          "username": "wngy170505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823577618144543202",
+    "in_reply_to_user_id": "1776563758497955840",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823382943789895976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy170505 好想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1820021074979086698",
+        "created_at": "2024-08-14T04:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T05:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823577618144543202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1776563758497955840",
+              "start": 0,
+              "username": "wngy170505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823577618144543202",
+        "in_reply_to_user_id": "1776563758497955840",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823382943789895976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy170505 好想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776563758497955840",
+        "conversation_id": "1820021074979086698",
+        "created_at": "2024-08-13T15:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T16:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823382943789895976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823382943789895976",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820021074979086698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 好想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n休学中\n激素治療中非二元性别\n血图/od/日常学习，互关慎重。",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1813715606069465466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813715743890157568/kJLcdlib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 727,
+          "like_count": 4151,
+          "listed_count": 0,
+          "tweet_count": 1326
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T10:53:38.000Z",
+        "description": "",
+        "id": "1776563758497955840",
+        "name": "想自杀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823386190378397696/Bclf3B5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 33,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "wngy170505",
+        "verified": false
+      }
+    ]
+  }
+}

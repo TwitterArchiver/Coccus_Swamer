@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861309034667917312"
+      ],
+      "media_source_tweet_id": [
+        "1861309040892223746"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1861475260572528979",
+    "created_at": "2024-11-26T18:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T19:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861475260572528979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1693966145915895808",
+          "start": 3,
+          "username": "mofuMor_STAY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HNZRDb86z4",
+          "end": 60,
+          "expanded_url": "https://x.com/mofuMor_STAY/status/1861309040892223746/photo/1",
+          "media_key": "3_1861309034667917312",
+          "start": 37,
+          "url": "https://t.co/HNZRDb86z4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861475260572528979",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861309040892223746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mofuMor_STAY: 他所の子！\n血が赤いのでふぃるたぁ。 https://t.co/HNZRDb86z4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1861475260572528979].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1861475260572528979",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1861475260572528979"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ワルコくん描いていただいちゃったお礼も兼ねてとか思って描いたけどお礼にしては物騒過ぎないか？大丈夫か？",
+        "height": 1109,
+        "media_key": "3_1861309034667917312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdSytJSbQAAQBAB.jpg",
+        "width": 974
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861309034667917312"
+          ]
+        },
+        "author_id": "1693966145915895808",
+        "conversation_id": "1861309040892223746",
+        "created_at": "2024-11-26T07:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T08:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861309040892223746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNZRDb86z4",
+              "end": 42,
+              "expanded_url": "https://x.com/mofuMor_STAY/status/1861309040892223746/photo/1",
+              "media_key": "3_1861309034667917312",
+              "start": 19,
+              "url": "https://t.co/HNZRDb86z4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861309040892223746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1621,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "他所の子！\n血が赤いのでふぃるたぁ。 https://t.co/HNZRDb86z4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849107417721958731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1240,
+          "like_count": 6046,
+          "listed_count": 0,
+          "tweet_count": 2054
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T12:39:59.000Z",
+        "description": "餌と人の好き嫌いが激しいもふもふです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mofuMor_STAY",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@mofuMor_STAY",
+                "start": 0,
+                "url": "https://t.co/OXW7VjgCX0"
+              }
+            ]
+          }
+        },
+        "id": "1693966145915895808",
+        "location": "双極性障害治療なう",
+        "name": "白間もる",
+        "pinned_tweet_id": "1852860137649942741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814974072549527552/q7VugWZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 192,
+          "like_count": 9083,
+          "listed_count": 12,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/OXW7VjgCX0",
+        "username": "mofuMor_STAY",
+        "verified": false
+      }
+    ]
+  }
+}

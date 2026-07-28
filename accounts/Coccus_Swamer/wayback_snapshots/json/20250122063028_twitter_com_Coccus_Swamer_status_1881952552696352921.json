@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1881952552696352921",
+    "created_at": "2025-01-22T06:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T07:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881952552696352921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/azwqhz/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/azwqhz/status/1881952184021172697",
+          "start": 6,
+          "url": "https://t.co/KdopSKFf1y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881952552696352921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881952184021172697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "客户返图捏 https://t.co/KdopSKFf1y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1881952552696352921",
+        "created_at": "2025-01-22T06:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T07:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881952552696352921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/azwqhz/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/azwqhz/status/1881952184021172697",
+              "start": 6,
+              "url": "https://t.co/KdopSKFf1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881952552696352921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881952184021172697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "客户返图捏 https://t.co/KdopSKFf1y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881952152740143104",
+            "16_1881952156133232641"
+          ]
+        },
+        "author_id": "1707724233613451264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1881952184021172697",
+        "created_at": "2025-01-22T06:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T07:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881952184021172697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552238688590958592",
+              "start": 1,
+              "username": "Coccus_Swamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrNHPJwQPP",
+              "end": 54,
+              "expanded_url": "https://x.com/azwqhz/status/1881952184021172697/photo/1",
+              "media_key": "3_1881952152740143104",
+              "start": 31,
+              "url": "https://t.co/jrNHPJwQPP"
+            },
+            {
+              "display_url": "pic.x.com/jrNHPJwQPP",
+              "end": 54,
+              "expanded_url": "https://x.com/azwqhz/status/1881952184021172697/photo/1",
+              "media_key": "16_1881952156133232641",
+              "start": 31,
+              "url": "https://t.co/jrNHPJwQPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881952184021172697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从@Coccus_Swamer  买的pea到了，小溜一下~ https://t.co/jrNHPJwQPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1881853916813627874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 1536,
+          "like_count": 7205,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 2521
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-29T11:49:37.000Z",
+        "description": "寄！",
+        "id": "1707724233613451264",
+        "name": "癌症晚期患者",
+        "pinned_tweet_id": "1786814330400628882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756618509050576896/Z8AF0SK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 333,
+          "like_count": 9702,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 57
+        },
+        "username": "azwqhz",
+        "verified": false
+      }
+    ]
+  }
+}

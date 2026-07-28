@@ -1,0 +1,233 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1641812865685266433"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1642054492891013120",
+    "created_at": "2023-04-01T06:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-01T07:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1642054492891013120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641793771359576064",
+          "start": 3,
+          "username": "tllain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4nycfq60q2",
+          "end": 35,
+          "expanded_url": "https://twitter.com/tllain/status/1641813019809202178/video/1",
+          "media_key": "7_1641812865685266433",
+          "start": 12,
+          "url": "https://t.co/4nycfq60q2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1642054492891013120",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1641813019809202178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tllain: https://t.co/4nycfq60q2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9241,
+        "height": 720,
+        "media_key": "7_1641812865685266433",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1641812865685266433/pu/img/r_mzxs1NzZDbyUmx.jpg",
+        "public_metrics": {
+          "view_count": 2045
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641812865685266433/pu/vid/360x270/ZRuIIdS_U1V_P69M.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641812865685266433/pu/vid/480x360/5ds25oEJ9QFrJ7SW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1641812865685266433/pu/pl/mX_ISPs93ChTwi-R.m3u8?tag=12&container=fmp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641812865685266433/pu/vid/960x720/GKNgH1ETgU9_dMGe.mp4?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1641812865685266433"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1642054492891013120",
+        "created_at": "2023-04-01T06:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-01T07:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1642054492891013120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641793771359576064",
+              "start": 3,
+              "username": "tllain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4nycfq60q2",
+              "end": 35,
+              "expanded_url": "https://twitter.com/tllain/status/1641813019809202178/video/1",
+              "media_key": "7_1641812865685266433",
+              "start": 12,
+              "url": "https://t.co/4nycfq60q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1642054492891013120",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1641813019809202178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tllain: https://t.co/4nycfq60q2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1641812865685266433"
+          ]
+        },
+        "author_id": "1641793771359576064",
+        "conversation_id": "1641813019809202178",
+        "created_at": "2023-03-31T14:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-31T15:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1641813019809202178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4nycfq60q2",
+              "end": 23,
+              "expanded_url": "https://twitter.com/tllain/status/1641813019809202178/video/1",
+              "media_key": "7_1641812865685266433",
+              "start": 0,
+              "url": "https://t.co/4nycfq60q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1641813019809202178",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "impression_count": 4662,
+          "like_count": 229,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4nycfq60q2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "想交朋友。\n\n学生/无性别/精神分裂/血腥暴力紫餐/喜欢可爱的东西/日本語/汉语/English learning/低浮上\n\n记录生活，觉得无聊的话就算了吧。",
+        "id": "1552238688590958592",
+        "name": "是一只小浆果呀，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588005577422098432/d316dpUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 206,
+          "listed_count": 0,
+          "tweet_count": 299
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T13:25:40.000Z",
+        "description": "🕷",
+        "id": "1641793771359576064",
+        "location": "she/her 20 ☢ || capricorn ||",
+        "name": "Lain",
+        "pinned_tweet_id": "1641813019809202178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641797616487759872/r4Cxt67O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 1,
+          "listed_count": 0,
+          "tweet_count": 52
+        },
+        "username": "tllain",
+        "verified": false
+      }
+    ]
+  }
+}

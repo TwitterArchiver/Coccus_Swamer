@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953732682052931584"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1953732700533125196",
+    "created_at": "2025-08-08T08:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T09:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953732700533125196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8c82vtYqGT",
+          "end": 46,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1953732700533125196/photo/1",
+          "media_key": "3_1953732682052931584",
+          "start": 23,
+          "url": "https://t.co/8c82vtYqGT"
+        },
+        {
+          "display_url": "x.com/Zero_Rinko/sta…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/Zero_Rinko/status/1953694969908400502",
+          "start": 47,
+          "url": "https://t.co/B5s2sQh3CE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953732700533125196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953694969908400502",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚刚云南省政府打电话来说注销我的云南户口了。 https://t.co/8c82vtYqGT https://t.co/B5s2sQh3CE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1953732682052931584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0NhePWEAATz3U.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953732682052931584"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1953732700533125196",
+        "created_at": "2025-08-08T08:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953732700533125196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8c82vtYqGT",
+              "end": 46,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1953732700533125196/photo/1",
+              "media_key": "3_1953732682052931584",
+              "start": 23,
+              "url": "https://t.co/8c82vtYqGT"
+            },
+            {
+              "display_url": "x.com/Zero_Rinko/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Zero_Rinko/status/1953694969908400502",
+              "start": 47,
+              "url": "https://t.co/B5s2sQh3CE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953732700533125196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953694969908400502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚云南省政府打电话来说注销我的云南户口了。 https://t.co/8c82vtYqGT https://t.co/B5s2sQh3CE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1953694969908400502",
+        "created_at": "2025-08-08T05:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T06:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953694969908400502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953694969908400502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看浆果和白鳥两个吃芝士米线的感觉：😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 2502,
+          "like_count": 10086,
+          "listed_count": 0,
+          "media_count": 615,
+          "tweet_count": 3427
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 232,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2599
+        },
+        "username": "Zero_Rinko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1919428941040722079",
+    "created_at": "2025-05-05T16:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T17:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919430907544379893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1260075631431135232",
+          "start": 0,
+          "username": "Hawthor20853776"
+        },
+        {
+          "end": 32,
+          "id": "1176077981099446272",
+          "start": 17,
+          "username": "Yesmynamehaer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919430907544379893",
+    "in_reply_to_user_id": "1260075631431135232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919430085171397002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hawthor20853776 @Yesmynamehaer1 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1919428941040722079",
+        "created_at": "2025-05-05T16:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T17:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919430907544379893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1260075631431135232",
+              "start": 0,
+              "username": "Hawthor20853776"
+            },
+            {
+              "end": 32,
+              "id": "1176077981099446272",
+              "start": 17,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919430907544379893",
+        "in_reply_to_user_id": "1260075631431135232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919430085171397002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hawthor20853776 @Yesmynamehaer1 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260075631431135232",
+        "conversation_id": "1919428941040722079",
+        "created_at": "2025-05-05T16:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T17:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919430085171397002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            },
+            {
+              "end": 30,
+              "id": "1176077981099446272",
+              "start": 15,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919430085171397002",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919428941040722079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer @Yesmynamehaer1 🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 2211,
+          "like_count": 9056,
+          "listed_count": 0,
+          "media_count": 544,
+          "tweet_count": 3245
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-12T05:13:51.000Z",
+        "description": "",
+        "id": "1260075631431135232",
+        "name": "Hawthorn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785467548965990400/9O0ZWzt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 488,
+          "like_count": 3503,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 374
+        },
+        "username": "Hawthor20853776",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "你好，我是白鳥。\n此处只有我所能找到的我的碎片。\nFTX/@Dopppelaganger /Unitarian Universalists/Fyrir frelsi, fyrir mig, fyrir @Coccus_Swamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "Dopppelaganger"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Coccus_Swamer"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1914957098028335440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915580498006478848/LzNu85g6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 461,
+          "like_count": 19150,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1945
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

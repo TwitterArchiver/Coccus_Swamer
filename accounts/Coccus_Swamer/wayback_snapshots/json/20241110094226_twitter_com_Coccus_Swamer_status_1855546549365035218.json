@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1855536082722476244",
+    "created_at": "2024-11-10T09:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T10:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855546549365035218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712668446415302656",
+          "start": 0,
+          "username": "ylmypsspzd26370"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855546549365035218",
+    "in_reply_to_user_id": "1712668446415302656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855536082722476244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ylmypsspzd26370 感觉胡辣汤对我太辣，，还是和辣椒不一样的辣😫😫😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1855536082722476244",
+        "created_at": "2024-11-10T09:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T10:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855546549365035218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712668446415302656",
+              "start": 0,
+              "username": "ylmypsspzd26370"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855546549365035218",
+        "in_reply_to_user_id": "1712668446415302656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855536082722476244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ylmypsspzd26370 感觉胡辣汤对我太辣，，还是和辣椒不一样的辣😫😫😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712668446415302656",
+        "conversation_id": "1855536082722476244",
+        "created_at": "2024-11-10T09:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T10:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855536082722476244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dhskKnslQn/sta…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/dhskKnslQn/status/1855109686238007659",
+              "start": 50,
+              "url": "https://t.co/3y3LFrikLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855536082722476244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855109686238007659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "胡辣汤超级好喝，虽然只喝过一次……还是没喝完急匆匆的倒掉了！！😭因为要赶飞机……下次一定要再喝。。 https://t.co/3y3LFrikLW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1854462143812514271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 1126,
+          "like_count": 5642,
+          "listed_count": 0,
+          "tweet_count": 1921
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T03:16:03.000Z",
+        "description": "我是一条🐟友跨，事intp/istp。欢迎交朋友！can English！月抛聊骚的都滚。主推：言和 Kobaryo 更多属性欢迎发掘——个人比较性冷淡和阳痿。家里有一只猫，叫光光( ﾟ∀ ﾟ)\n推特的内容多数源于生活～(=^^=）我是教主，名字阿亮～\n一般半夜在线～个人Q群239919655\nfo突破个位数了开心！",
+        "id": "1712668446415302656",
+        "location": "♡你心里♡",
+        "name": "🐟★5_Ylmy1Pssp4Zdfz-☆☔️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849474323364618240/ZeUIK8-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 102,
+          "like_count": 1234,
+          "listed_count": 0,
+          "tweet_count": 706
+        },
+        "username": "ylmypsspzd26370",
+        "verified": false
+      }
+    ]
+  }
+}

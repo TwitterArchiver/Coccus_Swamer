@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1889441725527343434",
+    "created_at": "2025-02-12T09:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T10:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889601864188006504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "sikkmywife"
+        },
+        {
+          "end": 28,
+          "id": "1456231777224347651",
+          "start": 12,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889601864188006504",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889538386081595772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sikkmywife @dDguwkiRkZcCSrt 原来是这么解决的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1889441725527343434",
+        "created_at": "2025-02-12T09:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T10:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889601864188006504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "sikkmywife"
+            },
+            {
+              "end": 28,
+              "id": "1456231777224347651",
+              "start": 12,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889601864188006504",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889538386081595772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sikkmywife @dDguwkiRkZcCSrt 原来是这么解决的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1889441725527343434",
+        "created_at": "2025-02-12T04:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T05:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889538386081595772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            },
+            {
+              "end": 31,
+              "id": "1456231777224347651",
+              "start": 15,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889538386081595772",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889538241440981492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer @dDguwkiRkZcCSrt 我会在你睡着之后放音乐睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1887214692319568005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 1724,
+          "like_count": 7761,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 2767
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "Fyrir frelsi, fyrir mig, fyrir @Coccus_Swamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Coccus_Swamer"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Hinode-machi, Tokyo",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1885907141648904357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887817504007020544/aLgpsEUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 249,
+          "like_count": 12239,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1141
+        },
+        "username": "sikkmywife",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "intp",
+        "id": "1456231777224347651",
+        "name": "徐翔",
+        "pinned_tweet_id": "1864929593679057128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456231862645428232/EwsAhO0p_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 47,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 3524
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ]
+  }
+}

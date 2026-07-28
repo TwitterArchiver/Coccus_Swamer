@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2076417198307016749",
+    "created_at": "2026-07-13T17:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076715145712284082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1603310799618859008",
+          "start": 0,
+          "username": "sanyangyunyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076715145712284082",
+    "in_reply_to_user_id": "1603310799618859008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076685028982239381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanyangyunyun 我好痛苦，今天还晕倒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2076417198307016749",
+        "created_at": "2026-07-13T17:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076715145712284082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1603310799618859008",
+              "start": 0,
+              "username": "sanyangyunyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076715145712284082",
+        "in_reply_to_user_id": "1603310799618859008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076685028982239381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanyangyunyun 我好痛苦，今天还晕倒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603310799618859008",
+        "conversation_id": "2076417198307016749",
+        "created_at": "2026-07-13T15:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076685028982239381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076685028982239381",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076417198307016749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer o草好大的🌈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 2664,
+          "like_count": 9901,
+          "listed_count": 0,
+          "media_count": 691,
+          "tweet_count": 3680
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-15T08:48:14.000Z",
+        "description": "只会被自己的fo看到的透明人😡✟od✟INFP✟不键政👿",
+        "id": "1603310799618859008",
+        "name": "云智风乃",
+        "pinned_tweet_id": "1792760945879761121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060298141623271424/i-bZQQ1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 403,
+          "like_count": 18871,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 8081
+        },
+        "url": "",
+        "username": "sanyangyunyun",
+        "verified": false
+      }
+    ]
+  }
+}

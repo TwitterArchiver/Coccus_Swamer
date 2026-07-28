@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1886298198571876744",
+    "created_at": "2025-02-03T06:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T07:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886298198571876744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1856322437144817667",
+          "start": 3,
+          "username": "ChosekiNoraneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886298198571876744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886150449100902670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChosekiNoraneko: ISRIB is coming.\nWithin 30 days we will start the synthesis plan and sell it publicly.\n\nISRIB 即將到來。\n30天內我們會啟動合成計畫並公開出售。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1886298198571876744",
+        "created_at": "2025-02-03T06:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T07:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886298198571876744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1856322437144817667",
+              "start": 3,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886298198571876744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886150449100902670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChosekiNoraneko: ISRIB is coming.\nWithin 30 days we will start the synthesis plan and sell it publicly.\n\nISRIB 即將到來。\n30天內我們會啟動合成計畫並公開出售。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856322437144817667",
+        "conversation_id": "1886150449100902670",
+        "created_at": "2025-02-02T20:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T21:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886150449100902670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886150449100902670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1402,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ISRIB is coming.\nWithin 30 days we will start the synthesis plan and sell it publicly.\n\nISRIB 即將到來。\n30天內我們會啟動合成計畫並公開出售。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1885764777039048935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 1631,
+          "like_count": 7563,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 2710
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "潮汐工作室的官方賬號",
+        "id": "1856322437144817667",
+        "location": "Macau",
+        "name": "Choseki Studio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856322922924912640/-kfTtOYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 10,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

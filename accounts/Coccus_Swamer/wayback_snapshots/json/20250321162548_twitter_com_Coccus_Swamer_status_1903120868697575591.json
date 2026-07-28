@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1903027855346565120"
+      ],
+      "media_source_tweet_id": [
+        "1903027920844755141"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1903120868697575591",
+    "created_at": "2025-03-21T16:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T17:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903120868697575591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1347745232721301505",
+          "start": 3,
+          "username": "Blueberry_Hedy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QMYNUlM52z",
+          "end": 45,
+          "expanded_url": "https://x.com/Blueberry_Hedy/status/1903027920844755141/video/1",
+          "media_key": "7_1903027855346565120",
+          "start": 22,
+          "url": "https://t.co/QMYNUlM52z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903120868697575591",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903027920844755141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blueberry_Hedy: 🥲 https://t.co/QMYNUlM52z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22966,
+        "height": 720,
+        "media_key": "7_1903027855346565120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1903027855346565120/pu/img/N4STdLP1yGI6lxCC.jpg",
+        "public_metrics": {
+          "view_count": 423
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903027855346565120/pu/vid/avc1/320x320/XoB1apzVErGyXZ22.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903027855346565120/pu/vid/avc1/540x540/xu0-4F6x-Z6bzsCQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903027855346565120/pu/vid/avc1/720x720/j7_JFQnkIMHsPpoW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1903027855346565120/pu/pl/5esPtYgYOT3gMJvI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1903027855346565120"
+          ],
+          "media_source_tweet_id": [
+            "1903027920844755141"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1903120868697575591",
+        "created_at": "2025-03-21T16:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T17:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903120868697575591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1347745232721301505",
+              "start": 3,
+              "username": "Blueberry_Hedy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMYNUlM52z",
+              "end": 45,
+              "expanded_url": "https://x.com/Blueberry_Hedy/status/1903027920844755141/video/1",
+              "media_key": "7_1903027855346565120",
+              "start": 22,
+              "url": "https://t.co/QMYNUlM52z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903120868697575591",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903027920844755141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blueberry_Hedy: 🥲 https://t.co/QMYNUlM52z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1903027855346565120"
+          ]
+        },
+        "author_id": "1347745232721301505",
+        "conversation_id": "1903027920844755141",
+        "created_at": "2025-03-21T10:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T11:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903027920844755141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMYNUlM52z",
+              "end": 25,
+              "expanded_url": "https://x.com/Blueberry_Hedy/status/1903027920844755141/video/1",
+              "media_key": "7_1903027855346565120",
+              "start": 2,
+              "url": "https://t.co/QMYNUlM52z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903027920844755141",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 815,
+          "like_count": 85,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "🥲 https://t.co/QMYNUlM52z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1900165369517793788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 2028,
+          "like_count": 8466,
+          "listed_count": 0,
+          "media_count": 503,
+          "tweet_count": 3068
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-09T03:21:29.000Z",
+        "description": "這裡是藍莓Hedy🫐✨喜歡畫畫🎨中國人🇨🇳20↑🎶vocaloid🎶🍊🍌鏡音が一番好き💛🧡💛🧡💕畫作/視頻搬運請標註作者哦！！！💛🧡よろしくお願いします!!!!(((*°▽°*)八(*°▽°*)))♪✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/36994679",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/36994679",
+                "start": 0,
+                "url": "https://t.co/k2K3QDljtW"
+              }
+            ]
+          }
+        },
+        "id": "1347745232721301505",
+        "name": "蓝莓Hedy",
+        "pinned_tweet_id": "1856566624981266663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600389966424526849/3CNUEI9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 653,
+          "like_count": 2874,
+          "listed_count": 19,
+          "media_count": 473,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/k2K3QDljtW",
+        "username": "Blueberry_Hedy",
+        "verified": false
+      }
+    ]
+  }
+}

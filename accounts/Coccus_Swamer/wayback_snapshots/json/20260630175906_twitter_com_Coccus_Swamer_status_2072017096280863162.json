@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2072017096280863162",
+    "created_at": "2026-06-30T17:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072017096280863162"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072017096280863162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的难受和痛苦和你相比根本不值一提。\n你才是最难受的，你才是世界上最痛苦的人，最需要安慰最需要帮助最需要朋友的人，我不过是学着你的样子东施效颦让人看得满脸笑话，我咋那么可悲呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2072017096280863162",
+        "created_at": "2026-06-30T17:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072017096280863162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072017096280863162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的难受和痛苦和你相比根本不值一提。\n你才是最难受的，你才是世界上最痛苦的人，最需要安慰最需要帮助最需要朋友的人，我不过是学着你的样子东施效颦让人看得满脸笑话，我咋那么可悲呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 2594,
+          "like_count": 9846,
+          "listed_count": 0,
+          "media_count": 678,
+          "tweet_count": 3637
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

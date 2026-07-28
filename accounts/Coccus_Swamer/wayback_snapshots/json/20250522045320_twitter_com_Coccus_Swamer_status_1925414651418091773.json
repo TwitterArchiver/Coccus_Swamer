@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1925410216302321671",
+    "created_at": "2025-05-22T04:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T05:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925414651418091773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1925414651418091773",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "怎么会这样？我应该是上海户口的人，在上海上私立高中，父母长期海外工作。早上有妹妹爬在床边叫我起床吃他亲手做的早饭，出门有可爱的青梅竹马同级生等着我去上学。班里新来的大小姐转校生，是我的同桌的，在课上给我递小纸条，傲娇的巨茹风纪委员红着脸给我整理领带，保健系的美女老师会一脸坏笑的问我恋爱情况。放学后会有可爱的后辈学妹在只有幽灵社员的部系等我，一脸开心的叫我前辈，无表情的学生会长学姐以检查部系的名义靠近我嘴角微笑。放学后隔壁女校的辣妹热情在校门口等我去唱卡拉OK，然后和身旁的青梅竹马同级生争风吃醋。晚上洗澡撞见正在浴室穿衣服的妹妹，夜里喝的烂醉的社会人姐姐到床上抱着我说嫁不出去要和我过一辈子，难道这都是我的幻想吗？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925410216302321671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么会这样？我应该是上海户口的人，在上海上私立高中，父母长期海外工作。早上有妹妹爬在床边叫我起床吃他亲手做的早饭，出门有可爱的青梅竹马同级生等着我去上学。班里新来的大小姐转校生，是我的同桌的，在课上给我递小纸条，傲娇的巨茹风纪委员红着脸给我整理领带，保健系的美女老师会一脸坏笑的问"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1925410137004810240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrhuUX8boAAJAXY.jpg",
+        "width": 690
+      },
+      {
+        "duration_ms": 18400,
+        "height": 720,
+        "media_key": "7_1925410155673657346",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1925410155673657346/pu/img/TVfE8yyleqEXU-eX.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925410155673657346/pu/vid/avc1/360x270/P8lax_9_CD9zAg1H.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925410155673657346/pu/vid/avc1/480x360/PZPprB5TuE55fX_t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925410155673657346/pu/vid/avc1/960x720/OZCJOVwJhZeKyTCr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1925410155673657346/pu/pl/qZY_eQqQWIw5QpeW.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1925410216302321671",
+        "created_at": "2025-05-22T04:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T05:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925414651418091773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925414651418091773",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "怎么会这样？我应该是上海户口的人，在上海上私立高中，父母长期海外工作。早上有妹妹爬在床边叫我起床吃他亲手做的早饭，出门有可爱的青梅竹马同级生等着我去上学。班里新来的大小姐转校生，是我的同桌的，在课上给我递小纸条，傲娇的巨茹风纪委员红着脸给我整理领带，保健系的美女老师会一脸坏笑的问我恋爱情况。放学后会有可爱的后辈学妹在只有幽灵社员的部系等我，一脸开心的叫我前辈，无表情的学生会长学姐以检查部系的名义靠近我嘴角微笑。放学后隔壁女校的辣妹热情在校门口等我去唱卡拉OK，然后和身旁的青梅竹马同级生争风吃醋。晚上洗澡撞见正在浴室穿衣服的妹妹，夜里喝的烂醉的社会人姐姐到床上抱着我说嫁不出去要和我过一辈子，难道这都是我的幻想吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925410216302321671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么会这样？我应该是上海户口的人，在上海上私立高中，父母长期海外工作。早上有妹妹爬在床边叫我起床吃他亲手做的早饭，出门有可爱的青梅竹马同级生等着我去上学。班里新来的大小姐转校生，是我的同桌的，在课上给我递小纸条，傲娇的巨茹风纪委员红着脸给我整理领带，保健系的美女老师会一脸坏笑的问"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925410137004810240",
+            "7_1925410155673657346"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1925410216302321671",
+        "created_at": "2025-05-22T04:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T05:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925410216302321671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fq56qyBFrM",
+              "end": 39,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1925410216302321671/video/1",
+              "media_key": "3_1925410137004810240",
+              "start": 16,
+              "url": "https://t.co/Fq56qyBFrM"
+            },
+            {
+              "display_url": "pic.x.com/Fq56qyBFrM",
+              "end": 39,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1925410216302321671/video/1",
+              "media_key": "7_1925410155673657346",
+              "start": 16,
+              "url": "https://t.co/Fq56qyBFrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925410216302321671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嬌生慣養的昆明人又叫死叫活的了 https://t.co/Fq56qyBFrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 2255,
+          "like_count": 9372,
+          "listed_count": 0,
+          "media_count": 567,
+          "tweet_count": 3308
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1862919081504161973",
+    "created_at": "2024-11-30T18:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T19:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862927716842188981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702221879434436608",
+          "start": 0,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862927716842188981",
+    "in_reply_to_user_id": "1702221879434436608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862919081504161973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zhajipai 网上可以买测房屋甲醛的，一般身体反应是滞后的，非常担心的话可以去测个血常规+肝功，但是直接测房屋甲醛比较快速方便一点，如果甲醛超标还是先不要住的好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1862919081504161973",
+        "created_at": "2024-11-30T18:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T19:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862927716842188981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702221879434436608",
+              "start": 0,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862927716842188981",
+        "in_reply_to_user_id": "1702221879434436608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862919081504161973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zhajipai 网上可以买测房屋甲醛的，一般身体反应是滞后的，非常担心的话可以去测个血常规+肝功，但是直接测房屋甲醛比较快速方便一点，如果甲醛超标还是先不要住的好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702221879434436608",
+        "conversation_id": "1862919081504161973",
+        "created_at": "2024-11-30T17:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T18:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862919081504161973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862919081504161973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不行了感觉我屋子里全是甲醛  吸甲醛太多会怎样啊 如果想去医院查该查什么东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1281,
+          "like_count": 6159,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 2097
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "物语小宝宝@Mikatsuki_nori                            永远怀念\n🕯️@mskcnmb8964🕯️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Mikatsuki_nori"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "mskcnmb8964"
+              }
+            ]
+          }
+        },
+        "id": "1702221879434436608",
+        "location": "距你0.6km",
+        "name": "像素炸鸡排5.0",
+        "pinned_tweet_id": "1860467537722671520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 63,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 157
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

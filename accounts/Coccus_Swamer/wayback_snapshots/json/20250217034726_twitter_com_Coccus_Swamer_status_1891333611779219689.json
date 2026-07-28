@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1891312937630859420",
+    "created_at": "2025-02-17T03:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T04:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891333611779219689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653650525198643200",
+          "start": 0,
+          "username": "1D_AL_LA4D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891333611779219689",
+    "in_reply_to_user_id": "1653650525198643200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891312937630859420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1D_AL_LA4D 😭我不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1891312937630859420",
+        "created_at": "2025-02-17T03:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T04:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891333611779219689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653650525198643200",
+              "start": 0,
+              "username": "1D_AL_LA4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891333611779219689",
+        "in_reply_to_user_id": "1653650525198643200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891312937630859420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1D_AL_LA4D 😭我不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653650525198643200",
+        "conversation_id": "1891312937630859420",
+        "created_at": "2025-02-17T02:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T03:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891312937630859420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coccus_swamer/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/coccus_swamer/status/1891096874322444328",
+              "start": 3,
+              "url": "https://t.co/Hcq0DNciag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891312937630859420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891096874322444328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地雷 https://t.co/Hcq0DNciag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1887214692319568005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1744,
+          "like_count": 7847,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 2786
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-03T06:39:51.000Z",
+        "description": "我的智力有问题",
+        "id": "1653650525198643200",
+        "name": "笨男孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886269398085959680/_2ccoUJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 169
+        },
+        "username": "1D_AL_LA4D",
+        "verified": false
+      }
+    ]
+  }
+}

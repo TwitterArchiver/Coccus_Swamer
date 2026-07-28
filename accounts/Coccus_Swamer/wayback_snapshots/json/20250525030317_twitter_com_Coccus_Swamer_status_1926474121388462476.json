@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926474091499757568",
+        "3_1926474092116336640",
+        "3_1926474091550187520",
+        "3_1926474092309311490"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1926474121388462476",
+    "created_at": "2025-05-25T03:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T04:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926474121388462476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HYOzqmmYIr",
+          "end": 93,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1926474121388462476/photo/1",
+          "media_key": "3_1926474091499757568",
+          "start": 70,
+          "url": "https://t.co/HYOzqmmYIr"
+        },
+        {
+          "display_url": "pic.x.com/HYOzqmmYIr",
+          "end": 93,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1926474121388462476/photo/1",
+          "media_key": "3_1926474092116336640",
+          "start": 70,
+          "url": "https://t.co/HYOzqmmYIr"
+        },
+        {
+          "display_url": "pic.x.com/HYOzqmmYIr",
+          "end": 93,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1926474121388462476/photo/1",
+          "media_key": "3_1926474091550187520",
+          "start": 70,
+          "url": "https://t.co/HYOzqmmYIr"
+        },
+        {
+          "display_url": "pic.x.com/HYOzqmmYIr",
+          "end": 93,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1926474121388462476/photo/1",
+          "media_key": "3_1926474092309311490",
+          "start": 70,
+          "url": "https://t.co/HYOzqmmYIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926474121388462476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自制 嗨~大家好~我是极游网的籽岷~今天给大家带来我自己做的极限生存原创视频~特地不加片头片尾合水印哦~第一次做做的不好，希望大家支持哦~ https://t.co/HYOzqmmYIr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926474091499757568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grw1-rTWIAA43Mn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1926474092116336640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grw1-tmWYAAJgE0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926474091550187520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grw1-rfXoAAoZdl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926474092309311490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grw1-uUW8AIfi-F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926474091499757568",
+            "3_1926474092116336640",
+            "3_1926474091550187520",
+            "3_1926474092309311490"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1926474121388462476",
+        "created_at": "2025-05-25T03:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T04:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926474121388462476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HYOzqmmYIr",
+              "end": 93,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1926474121388462476/photo/1",
+              "media_key": "3_1926474091499757568",
+              "start": 70,
+              "url": "https://t.co/HYOzqmmYIr"
+            },
+            {
+              "display_url": "pic.x.com/HYOzqmmYIr",
+              "end": 93,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1926474121388462476/photo/1",
+              "media_key": "3_1926474092116336640",
+              "start": 70,
+              "url": "https://t.co/HYOzqmmYIr"
+            },
+            {
+              "display_url": "pic.x.com/HYOzqmmYIr",
+              "end": 93,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1926474121388462476/photo/1",
+              "media_key": "3_1926474091550187520",
+              "start": 70,
+              "url": "https://t.co/HYOzqmmYIr"
+            },
+            {
+              "display_url": "pic.x.com/HYOzqmmYIr",
+              "end": 93,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1926474121388462476/photo/1",
+              "media_key": "3_1926474092309311490",
+              "start": 70,
+              "url": "https://t.co/HYOzqmmYIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926474121388462476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自制 嗨~大家好~我是极游网的籽岷~今天给大家带来我自己做的极限生存原创视频~特地不加片头片尾合水印哦~第一次做做的不好，希望大家支持哦~ https://t.co/HYOzqmmYIr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 2257,
+          "like_count": 9388,
+          "listed_count": 0,
+          "media_count": 572,
+          "tweet_count": 3313
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

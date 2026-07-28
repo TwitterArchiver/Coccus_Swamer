@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1855132046307610855",
+    "created_at": "2024-11-09T06:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T07:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855132219582693675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744320870800379904",
+          "start": 0,
+          "username": "386Nsg47079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855132219582693675",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855132046307610855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 😭😭😭🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1855132046307610855",
+        "created_at": "2024-11-09T06:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T07:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855132219582693675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855132219582693675",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855132046307610855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 😭😭😭🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744320870800379904",
+        "conversation_id": "1855132046307610855",
+        "created_at": "2024-11-09T06:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T07:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855132046307610855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855132046307610855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近收到了很多感谢，但我本意并不是想得到别人的感谢。而是我看这个司马脸一样冰冷的世界不满很久了。人作为社会性动物，天然是需要与同类相处的。但目前这个司马社会显然切割了人与人之间的连接。我生活在互联网上，没办法用线下的方式互动。我选择了共同的记忆与我的朋友们产生连接。也就是奶茶。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1854462143812514271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 1115,
+          "like_count": 5614,
+          "listed_count": 0,
+          "tweet_count": 1917
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "欢迎来到我的博客。这个家伙是个电子👻。会不定期更新incel日记和玉玉言论以及爱大家。",
+        "id": "1744320870800379904",
+        "name": "ToritORItorI-KIWI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830247251043827712/SOmFOOGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 27,
+          "like_count": 387,
+          "listed_count": 0,
+          "tweet_count": 303
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ]
+  }
+}

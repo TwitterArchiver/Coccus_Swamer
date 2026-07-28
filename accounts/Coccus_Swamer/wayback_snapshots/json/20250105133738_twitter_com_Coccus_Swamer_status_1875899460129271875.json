@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1875873823830294657",
+    "created_at": "2025-01-05T13:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T14:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875899460129271875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1770877337422454784",
+          "start": 0,
+          "username": "locho4070947654"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875899460129271875",
+    "in_reply_to_user_id": "1770877337422454784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875878194362098022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@locho4070947654 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1875873823830294657",
+        "created_at": "2025-01-05T13:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T14:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875899460129271875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1770877337422454784",
+              "start": 0,
+              "username": "locho4070947654"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875899460129271875",
+        "in_reply_to_user_id": "1770877337422454784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875878194362098022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@locho4070947654 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770877337422454784",
+        "conversation_id": "1875873823830294657",
+        "created_at": "2025-01-05T12:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T13:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875878194362098022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875878194362098022",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875873823830294657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 又犯病了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 1463,
+          "like_count": 6759,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 2353
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T18:17:26.000Z",
+        "description": "",
+        "id": "1770877337422454784",
+        "location": "重庆",
+        "name": "老巢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770877954127773696/PFe5dHPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 660,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 108
+        },
+        "username": "locho4070947654",
+        "verified": false
+      }
+    ]
+  }
+}

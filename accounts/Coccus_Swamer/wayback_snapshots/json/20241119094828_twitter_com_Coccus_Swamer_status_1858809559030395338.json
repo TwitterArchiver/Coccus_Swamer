@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1858525299820183552"
+      ],
+      "media_source_tweet_id": [
+        "1858525369437163749"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1858809559030395338",
+    "created_at": "2024-11-19T09:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T10:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858809559030395338"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "自残"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647583469407727616",
+          "start": 3,
+          "username": "Fan_yyin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vp7K0TQuvw",
+          "end": 41,
+          "expanded_url": "https://x.com/Fan_yyin/status/1858525369437163749/video/1",
+          "media_key": "7_1858525299820183552",
+          "start": 18,
+          "url": "https://t.co/vp7K0TQuvw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858809559030395338",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858525369437163749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fan_yyin: #自残 https://t.co/vp7K0TQuvw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19933,
+        "height": 1280,
+        "media_key": "7_1858525299820183552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1858525299820183552/pu/img/JLa4A1ATsoCcpUD4.jpg",
+        "public_metrics": {
+          "view_count": 378
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858525299820183552/pu/vid/avc1/320x568/dw8PlZQDsmkZ0bPA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858525299820183552/pu/vid/avc1/480x852/hsaDzKQSgoxGADBc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858525299820183552/pu/vid/avc1/720x1280/FhUleGedtJq3mlIx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1858525299820183552/pu/pl/fkDU2LSrUwM5BDW-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858525299820183552"
+          ],
+          "media_source_tweet_id": [
+            "1858525369437163749"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1858809559030395338",
+        "created_at": "2024-11-19T09:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T10:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858809559030395338"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "自残"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647583469407727616",
+              "start": 3,
+              "username": "Fan_yyin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vp7K0TQuvw",
+              "end": 41,
+              "expanded_url": "https://x.com/Fan_yyin/status/1858525369437163749/video/1",
+              "media_key": "7_1858525299820183552",
+              "start": 18,
+              "url": "https://t.co/vp7K0TQuvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858809559030395338",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858525369437163749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fan_yyin: #自残 https://t.co/vp7K0TQuvw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858525299820183552"
+          ]
+        },
+        "author_id": "1647583469407727616",
+        "conversation_id": "1858525369437163749",
+        "created_at": "2024-11-18T14:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T15:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858525369437163749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自残"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vp7K0TQuvw",
+              "end": 27,
+              "expanded_url": "https://x.com/Fan_yyin/status/1858525369437163749/video/1",
+              "media_key": "7_1858525299820183552",
+              "start": 4,
+              "url": "https://t.co/vp7K0TQuvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858525369437163749",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 826,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "#自残 https://t.co/vp7K0TQuvw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849107417721958731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1179,
+          "like_count": 5823,
+          "listed_count": 0,
+          "tweet_count": 1986
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T12:51:39.000Z",
+        "description": "07",
+        "id": "1647583469407727616",
+        "name": "Fan",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 9,
+          "like_count": 2,
+          "listed_count": 1,
+          "tweet_count": 77
+        },
+        "username": "Fan_yyin",
+        "verified": false
+      }
+    ]
+  }
+}

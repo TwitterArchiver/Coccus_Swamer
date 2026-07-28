@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1962755043414941702"
+      ],
+      "media_source_tweet_id": [
+        "1962755108904804443"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1962840439817482709",
+    "created_at": "2025-09-02T11:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T12:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962840439817482709"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "自残"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647583469407727616",
+          "start": 3,
+          "username": "Fan_yyin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ph7Aw0gdRL",
+          "end": 41,
+          "expanded_url": "https://x.com/Fan_yyin/status/1962755108904804443/video/1",
+          "media_key": "7_1962755043414941702",
+          "start": 18,
+          "url": "https://t.co/ph7Aw0gdRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962840439817482709",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962755108904804443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fan_yyin: #自残 https://t.co/ph7Aw0gdRL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962840439817482709].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962840439817482709",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962840439817482709"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23504,
+        "height": 1280,
+        "media_key": "7_1962755043414941702",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1962755043414941702/pu/img/zsEeyiXTZpn9N6Qu.jpg",
+        "public_metrics": {
+          "view_count": 267
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962755043414941702/pu/vid/avc1/320x568/8a4EKVrONnHn_3QM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962755043414941702/pu/vid/avc1/480x852/ntW0kp0z9nVtV7sU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962755043414941702/pu/vid/avc1/720x1280/fWyoA1eixN8imJLh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1962755043414941702/pu/pl/gLUqB1mKcwfwRvzD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1962755043414941702"
+          ]
+        },
+        "author_id": "1647583469407727616",
+        "conversation_id": "1962755108904804443",
+        "created_at": "2025-09-02T05:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962755108904804443"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自残"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ph7Aw0gdRL",
+              "end": 27,
+              "expanded_url": "https://x.com/Fan_yyin/status/1962755108904804443/video/1",
+              "media_key": "7_1962755043414941702",
+              "start": 4,
+              "url": "https://t.co/ph7Aw0gdRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962755108904804443",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 533,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "#自残 https://t.co/ph7Aw0gdRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 2534,
+          "like_count": 10062,
+          "listed_count": 1,
+          "media_count": 628,
+          "tweet_count": 3461
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-16T12:51:39.000Z",
+        "description": "07/无头餐券女生活录",
+        "id": "1647583469407727616",
+        "name": "Fan",
+        "pinned_tweet_id": "1945017076185198858",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 39,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 185
+        },
+        "username": "Fan_yyin",
+        "verified": false
+      }
+    ]
+  }
+}

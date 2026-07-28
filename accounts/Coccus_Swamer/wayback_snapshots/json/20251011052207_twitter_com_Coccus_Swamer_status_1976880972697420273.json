@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976880968339177472",
+        "3_1976880968251080704",
+        "3_1976880968351850496",
+        "3_1976880968288915456"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1976880972697420273",
+    "created_at": "2025-10-11T05:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T06:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976880972697420273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HCthVGU3Fh",
+          "end": 38,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1976880972697420273/photo/1",
+          "media_key": "3_1976880968339177472",
+          "start": 15,
+          "url": "https://t.co/HCthVGU3Fh"
+        },
+        {
+          "display_url": "pic.x.com/HCthVGU3Fh",
+          "end": 38,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1976880972697420273/photo/1",
+          "media_key": "3_1976880968251080704",
+          "start": 15,
+          "url": "https://t.co/HCthVGU3Fh"
+        },
+        {
+          "display_url": "pic.x.com/HCthVGU3Fh",
+          "end": 38,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1976880972697420273/photo/1",
+          "media_key": "3_1976880968351850496",
+          "start": 15,
+          "url": "https://t.co/HCthVGU3Fh"
+        },
+        {
+          "display_url": "pic.x.com/HCthVGU3Fh",
+          "end": 38,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1976880972697420273/photo/1",
+          "media_key": "3_1976880968288915456",
+          "start": 15,
+          "url": "https://t.co/HCthVGU3Fh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976880972697420273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "导师灵机一动，留我痛苦一生。 https://t.co/HCthVGU3Fh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976880968339177472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29KxEkWQAAyUlj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976880968251080704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29KxEPWAAArNyD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976880968351850496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29KxEnXoAA8tzf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1976880968288915456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29KxEYXUAA5xOS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976880968339177472",
+            "3_1976880968251080704",
+            "3_1976880968351850496",
+            "3_1976880968288915456"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1976880972697420273",
+        "created_at": "2025-10-11T05:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976880972697420273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCthVGU3Fh",
+              "end": 38,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1976880972697420273/photo/1",
+              "media_key": "3_1976880968339177472",
+              "start": 15,
+              "url": "https://t.co/HCthVGU3Fh"
+            },
+            {
+              "display_url": "pic.x.com/HCthVGU3Fh",
+              "end": 38,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1976880972697420273/photo/1",
+              "media_key": "3_1976880968251080704",
+              "start": 15,
+              "url": "https://t.co/HCthVGU3Fh"
+            },
+            {
+              "display_url": "pic.x.com/HCthVGU3Fh",
+              "end": 38,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1976880972697420273/photo/1",
+              "media_key": "3_1976880968351850496",
+              "start": 15,
+              "url": "https://t.co/HCthVGU3Fh"
+            },
+            {
+              "display_url": "pic.x.com/HCthVGU3Fh",
+              "end": 38,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1976880972697420273/photo/1",
+              "media_key": "3_1976880968288915456",
+              "start": 15,
+              "url": "https://t.co/HCthVGU3Fh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976880972697420273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "导师灵机一动，留我痛苦一生。 https://t.co/HCthVGU3Fh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1973745736216158259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 2549,
+          "like_count": 10012,
+          "listed_count": 0,
+          "media_count": 636,
+          "tweet_count": 3487
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

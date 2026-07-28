@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1847694630428823875",
+    "created_at": "2024-10-19T17:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T18:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847694630428823875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1703297947121901568",
+          "start": 3,
+          "username": "Xuehi_Phenyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847694630428823875",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847690969900265945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xuehi_Phenyl: 约次日00：00觉得自己活着没意义的念头大致消失\n次日00：15基本回到较为开心的状态（无任何躁狂倾向，后同）\n次日1：00遇到不开心的事情（被误扣款）打击，产生些许低落情绪\n次日1：10低落情绪消失，能较为乐观地看待问题\n\n至此推文为止，未…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1847694630428823875",
+        "created_at": "2024-10-19T17:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T18:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847694630428823875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1703297947121901568",
+              "start": 3,
+              "username": "Xuehi_Phenyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847694630428823875",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847690969900265945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xuehi_Phenyl: 约次日00：00觉得自己活着没意义的念头大致消失\n次日00：15基本回到较为开心的状态（无任何躁狂倾向，后同）\n次日1：00遇到不开心的事情（被误扣款）打击，产生些许低落情绪\n次日1：10低落情绪消失，能较为乐观地看待问题\n\n至此推文为止，未…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703297947121901568",
+        "conversation_id": "1847690969900265945",
+        "created_at": "2024-10-19T17:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T18:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847690969900265945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xuehi_Phenyl/s…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/Xuehi_Phenyl/status/1847668767511494675",
+              "start": 150,
+              "url": "https://t.co/Ulq7SfzMlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847690969900265945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847668767511494675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "约次日00：00觉得自己活着没意义的念头大致消失\n次日00：15基本回到较为开心的状态（无任何躁狂倾向，后同）\n次日1：00遇到不开心的事情（被误扣款）打击，产生些许低落情绪\n次日1：10低落情绪消失，能较为乐观地看待问题\n\n至此推文为止，未出现任何谵妄、幻觉、共济失调、烦躁等各方面的明显不良反应 https://t.co/Ulq7SfzMlN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1846605954022101394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842071635052134400/iXc2nXji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 982,
+          "like_count": 4976,
+          "listed_count": 0,
+          "tweet_count": 1702
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "据说长大了的傻孩子x｜持证20.11.11含糖MtF/持“证”ADHD&ASD/已约手术｜｜❤️麻麻@toukorina🥰｜｜女儿@SoutawashuuYuki @charge_rif｜｜老婆@诶我老婆呢x｜｜\n每个人都有幸与不幸，愿每个人被善待、善待自己｜｜里推@xue_zhi_2nd 存术前遗照，禁止涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "toukorina"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "SoutawashuuYuki"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "charge_rif"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "xue_zhi_2nd"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "⚠️距离您已不足1pm",
+        "name": "🏳️‍⚧️织不唧不是乳交酯是乳胶织🍄",
+        "pinned_tweet_id": "1836959560357269807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841829606376312832/re_4oKm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 513,
+          "like_count": 4966,
+          "listed_count": 2,
+          "tweet_count": 1848
+        },
+        "username": "Xuehi_Phenyl",
+        "verified": false
+      }
+    ]
+  }
+}

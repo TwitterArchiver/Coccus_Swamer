@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1903047403030319614",
+    "created_at": "2025-03-21T17:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T18:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903136429607358509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "sikkmywife"
+        },
+        {
+          "end": 20,
+          "id": "1653650525198643200",
+          "start": 12,
+          "username": "dmt_lad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903136429607358509",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903136202536169763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sikkmywife @dmt_lad 老婆可以🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1903047403030319614",
+        "created_at": "2025-03-21T17:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T18:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903136429607358509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "sikkmywife"
+            },
+            {
+              "end": 20,
+              "id": "1653650525198643200",
+              "start": 12,
+              "username": "dmt_lad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903136429607358509",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903136202536169763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sikkmywife @dmt_lad 老婆可以🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1903047403030319614",
+        "created_at": "2025-03-21T17:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T18:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903136202536169763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            },
+            {
+              "end": 23,
+              "id": "1653650525198643200",
+              "start": 15,
+              "username": "dmt_lad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903136202536169763",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903049710413488170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer @dmt_lad 那我可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1900165369517793788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 2028,
+          "like_count": 8467,
+          "listed_count": 0,
+          "media_count": 503,
+          "tweet_count": 3069
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "此处只有我所能找到的我的碎片。\nUnitarian Universalists/Fyrir frelsi, fyrir mig, fyrir @Coccus_Swamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Coccus_Swamer"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1900007584125612457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901734178980589568/Y6dEQq5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 318,
+          "like_count": 14653,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1433
+        },
+        "username": "sikkmywife",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T06:39:51.000Z",
+        "description": "PTSD",
+        "id": "1653650525198643200",
+        "name": "reve",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902810113586630656/-FEV_SAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 91,
+          "like_count": 1887,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 515
+        },
+        "username": "dmt_lad",
+        "verified": false
+      }
+    ]
+  }
+}

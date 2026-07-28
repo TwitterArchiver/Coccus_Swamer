@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1821045796621754530",
+    "created_at": "2024-08-07T04:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T05:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821045796621754530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "mp.weixin.qq.com/s/LwwTVhCb3qnv…",
+          "end": 34,
+          "expanded_url": "https://mp.weixin.qq.com/s/LwwTVhCb3qnvu8zrPX2-rQ",
+          "start": 11,
+          "unwound_url": "https://mp.weixin.qq.com/s/LwwTVhCb3qnvu8zrPX2-rQ",
+          "url": "https://t.co/JYGEbDjDHE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821045796621754530",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要转高危病房了。\n\nhttps://t.co/JYGEbDjDHE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1821045796621754530",
+        "created_at": "2024-08-07T04:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T05:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821045796621754530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/LwwTVhCb3qnv…",
+              "end": 34,
+              "expanded_url": "https://mp.weixin.qq.com/s/LwwTVhCb3qnvu8zrPX2-rQ",
+              "start": 11,
+              "unwound_url": "https://mp.weixin.qq.com/s/LwwTVhCb3qnvu8zrPX2-rQ",
+              "url": "https://t.co/JYGEbDjDHE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821045796621754530",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要转高危病房了。\n\nhttps://t.co/JYGEbDjDHE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n休学中\n激素治療中非二元性别\n血图/od/日常学习，互关慎重。",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1813715606069465466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813715743890157568/kJLcdlib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 725,
+          "like_count": 4147,
+          "listed_count": 0,
+          "tweet_count": 1321
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

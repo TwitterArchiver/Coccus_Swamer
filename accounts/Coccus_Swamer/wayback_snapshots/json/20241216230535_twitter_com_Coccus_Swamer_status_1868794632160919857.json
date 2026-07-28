@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1868794547071074306"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1868794632160919857",
+    "created_at": "2024-12-16T23:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T00:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868794632160919857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1597257668313260033",
+          "start": 12,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1rgSTU00V",
+          "end": 46,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1868794632160919857/video/1",
+          "media_key": "7_1868794547071074306",
+          "start": 23,
+          "url": "https://t.co/h1rgSTU00V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868794632160919857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "叫Mino起床第一视角\n@Minokakay https://t.co/h1rgSTU00V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72288,
+        "height": 1280,
+        "media_key": "7_1868794547071074306",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1868794547071074306/pu/img/WA6tENRcaUHVPCJJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868794547071074306/pu/vid/avc1/320x764/1JWIiY5Xl435fuVv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868794547071074306/pu/vid/avc1/536x1280/3PS62hkAJtZ_b9WG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1868794547071074306/pu/pl/E27csvdpFeeIDQ_S.m3u8?tag=12"
+          }
+        ],
+        "width": 536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1868794547071074306"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1868794632160919857",
+        "created_at": "2024-12-16T23:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T00:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868794632160919857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1597257668313260033",
+              "start": 12,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1rgSTU00V",
+              "end": 46,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1868794632160919857/video/1",
+              "media_key": "7_1868794547071074306",
+              "start": 23,
+              "url": "https://t.co/h1rgSTU00V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868794632160919857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫Mino起床第一视角\n@Minokakay https://t.co/h1rgSTU00V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重（低价精神药品购买私聊",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 1347,
+          "like_count": 6397,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 2199
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药找我超低價",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（日雌390！",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 708,
+          "like_count": 30455,
+          "listed_count": 6,
+          "media_count": 681,
+          "tweet_count": 13454
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

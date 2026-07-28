@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1900621837849292879",
+    "created_at": "2025-03-15T05:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T06:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900774805399630096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608413813648527360",
+          "start": 0,
+          "username": "Cano_3118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900774805399630096",
+    "in_reply_to_user_id": "1608413813648527360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900729337311359161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cano_3118 萌萌的，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1900621837849292879",
+        "created_at": "2025-03-15T05:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T06:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900774805399630096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608413813648527360",
+              "start": 0,
+              "username": "Cano_3118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900774805399630096",
+        "in_reply_to_user_id": "1608413813648527360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900729337311359161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cano_3118 萌萌的，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608413813648527360",
+        "conversation_id": "1900621837849292879",
+        "created_at": "2025-03-15T02:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T03:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900729337311359161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900729337311359161",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900621837849292879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 这个说明书写作风格和我好像哦🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1900165369517793788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 1945,
+          "like_count": 8190,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 2997
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-29T10:45:23.000Z",
+        "description": "谁用乌云换日星 谁用匕首换光明/小猫@abaablon /enby/不正常人类/潮酷骚孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "abaablon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "almswt.top",
+                "end": 23,
+                "expanded_url": "http://almswt.top",
+                "start": 0,
+                "url": "https://t.co/tHoF3q7r6k"
+              }
+            ]
+          }
+        },
+        "id": "1608413813648527360",
+        "location": "精液与诗句的十字路口",
+        "name": "卡诺酱",
+        "pinned_tweet_id": "1899718286788657354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896178424710139904/As9mJeZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 597,
+          "like_count": 16361,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 3124
+        },
+        "url": "https://t.co/tHoF3q7r6k",
+        "username": "Cano_3118",
+        "verified": false
+      }
+    ]
+  }
+}

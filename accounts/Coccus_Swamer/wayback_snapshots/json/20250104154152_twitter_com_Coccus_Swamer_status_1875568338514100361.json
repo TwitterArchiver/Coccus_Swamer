@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875005191902330880"
+      ],
+      "media_source_tweet_id": [
+        "1875006297218887879"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1875568338514100361",
+    "created_at": "2025-01-04T15:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T16:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875568338514100361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1765371379548069888",
+          "start": 3,
+          "username": "rokuzukeita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9fF0N8Qn4H",
+          "end": 61,
+          "expanded_url": "https://x.com/rokuzukeita/status/1875006297218887879/photo/1",
+          "media_key": "3_1875005191902330880",
+          "start": 38,
+          "url": "https://t.co/9fF0N8Qn4H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875568338514100361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 944
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875006297218887879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rokuzukeita: 改めまして本年もよろしくお願いいたします https://t.co/9fF0N8Qn4H"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1875568338514100361].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1875568338514100361",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1875568338514100361"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1875005191902330880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgVbSa9aAAAISXv.jpg",
+        "width": 552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875005191902330880"
+          ]
+        },
+        "author_id": "1765371379548069888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1875006297218887879",
+        "created_at": "2025-01-03T02:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T03:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875006297218887879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9fF0N8Qn4H",
+              "end": 44,
+              "expanded_url": "https://x.com/rokuzukeita/status/1875006297218887879/photo/1",
+              "media_key": "3_1875005191902330880",
+              "start": 21,
+              "url": "https://t.co/9fF0N8Qn4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875006297218887879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2193,
+          "impression_count": 155540,
+          "like_count": 9373,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 944
+        },
+        "reply_settings": "everyone",
+        "text": "改めまして本年もよろしくお願いいたします https://t.co/9fF0N8Qn4H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 1458,
+          "like_count": 6726,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 2336
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T13:38:35.000Z",
+        "description": "創作裏垢男子 スケベと暴力しかないので未成年だめです。なかよくしてください。\n高解像度は各支援サイトで公開してます。\nLinks▶https://t.co/xMyYXcxmp6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/rokuzukeita",
+                "end": 88,
+                "expanded_url": "https://potofu.me/rokuzukeita",
+                "start": 65,
+                "url": "https://t.co/xMyYXcxmp6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rokuzukeita.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://rokuzukeita.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/miaCmZOhDF"
+              }
+            ]
+          }
+        },
+        "id": "1765371379548069888",
+        "location": "お問い合わせはDMからお願いします",
+        "name": "六図恵太🔞創作男子",
+        "pinned_tweet_id": "1796177291984121904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765374156575752192/zBnqf3Q0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61310,
+          "following_count": 67,
+          "like_count": 5266,
+          "listed_count": 280,
+          "media_count": 120,
+          "tweet_count": 3029
+        },
+        "url": "https://t.co/miaCmZOhDF",
+        "username": "rokuzukeita",
+        "verified": false
+      }
+    ]
+  }
+}

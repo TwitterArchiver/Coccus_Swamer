@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874015767328624640"
+      ],
+      "media_source_tweet_id": [
+        "1874017677112738255"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1874020606599119085",
+    "created_at": "2024-12-31T09:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T10:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874020606599119085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1338363009169690624",
+          "start": 3,
+          "username": "pAsglqPi1sgQDl2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RmuNgx6ZaK",
+          "end": 58,
+          "expanded_url": "https://x.com/pAsglqPi1sgQDl2/status/1874017677112738255/photo/1",
+          "media_key": "3_1874015767328624640",
+          "start": 35,
+          "url": "https://t.co/RmuNgx6ZaK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874020606599119085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874017677112738255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pAsglqPi1sgQDl2: 煩脳撲滅リョナの鐘2024 https://t.co/RmuNgx6ZaK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1874020606599119085].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1874020606599119085",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1874020606599119085"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1874015767328624640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgHXaVMakAAguw7.jpg",
+        "width": 1453
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874015767328624640"
+          ]
+        },
+        "author_id": "1338363009169690624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1874017677112738255",
+        "created_at": "2024-12-31T09:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T10:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874017677112738255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmuNgx6ZaK",
+              "end": 37,
+              "expanded_url": "https://x.com/pAsglqPi1sgQDl2/status/1874017677112738255/photo/1",
+              "media_key": "3_1874015767328624640",
+              "start": 14,
+              "url": "https://t.co/RmuNgx6ZaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874017677112738255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 1725,
+          "like_count": 187,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "煩脳撲滅リョナの鐘2024 https://t.co/RmuNgx6ZaK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 1420,
+          "like_count": 6625,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 2300
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-14T06:00:38.000Z",
+        "description": "絵を描きます。9割9分R18Gです。\n18歳未満、もしくはグロ苦手な方は\nフォローご遠慮下さい。\n\nサブR-18(グロ無し): @Oriori937182\n予備: @fuyuzare153337\nskeb:\nhttps://t.co/ucZSEm1Xk3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "Oriori937182"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "fuyuzare153337"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/pAsglqPi1sgQDl2",
+                "end": 127,
+                "expanded_url": "http://skeb.jp/pAsglqPi1sgQDl2",
+                "start": 104,
+                "url": "https://t.co/ucZSEm1Xk3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/35070924",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/35070924",
+                "start": 0,
+                "url": "https://t.co/hI1yjh9oIq"
+              }
+            ]
+          }
+        },
+        "id": "1338363009169690624",
+        "name": "フユノクレ🔞",
+        "pinned_tweet_id": "1856630586217021470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666216226593583119/aEjJa9_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34103,
+          "following_count": 790,
+          "like_count": 5287,
+          "listed_count": 188,
+          "media_count": 266,
+          "tweet_count": 2823
+        },
+        "url": "https://t.co/hI1yjh9oIq",
+        "username": "pAsglqPi1sgQDl2",
+        "verified": false
+      }
+    ]
+  }
+}

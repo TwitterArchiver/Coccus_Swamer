@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069994169934946304"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2069994176750780650",
+    "created_at": "2026-06-25T04:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069994176750780650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yJTWROVFfx",
+          "end": 292,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2069994176750780650/photo/1",
+          "media_key": "3_2069994169934946304",
+          "start": 269,
+          "url": "https://t.co/yJTWROVFfx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069994176750780650",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Mist\nvor meiner Lateinklausur wollte ich nur kurz auf Twitter entspannen, klicke wahllos ein Profil an und was sehe ich? Überall nur Elite-Masterabschlüsse, PhDs oder Top-Auszeichnungen. Als jemand, der gerade ein Gap-Jahr einlegt und sich wie ein reiner 做题蛆 fühlt, 急了 https://t.co/yJTWROVFfx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069994169934946304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoYuvIaIAAlbNO.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069994169934946304"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2069994176750780650",
+        "created_at": "2026-06-25T04:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069994176750780650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJTWROVFfx",
+              "end": 292,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2069994176750780650/photo/1",
+              "media_key": "3_2069994169934946304",
+              "start": 269,
+              "url": "https://t.co/yJTWROVFfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069994176750780650",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Mist\nvor meiner Lateinklausur wollte ich nur kurz auf Twitter entspannen, klicke wahllos ein Profil an und was sehe ich? Überall nur Elite-Masterabschlüsse, PhDs oder Top-Auszeichnungen. Als jemand, der gerade ein Gap-Jahr einlegt und sich wie ein reiner 做题蛆 fühlt, 急了 https://t.co/yJTWROVFfx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关",
+        "id": "1552238688590958592",
+        "location": "锟斤拷锟斤拷锟斤拷锟斤拷",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1943417317855236106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 2528,
+          "like_count": 9763,
+          "listed_count": 0,
+          "media_count": 668,
+          "tweet_count": 3604
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

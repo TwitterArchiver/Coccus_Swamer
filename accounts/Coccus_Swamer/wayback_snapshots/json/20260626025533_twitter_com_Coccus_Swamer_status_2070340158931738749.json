@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070340150463549440"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070340158931738749",
+    "created_at": "2026-06-26T02:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070340158931738749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DbmlHhbZSg",
+          "end": 72,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2070340158931738749/photo/1",
+          "media_key": "3_2070340150463549440",
+          "start": 49,
+          "url": "https://t.co/DbmlHhbZSg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070340158931738749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去蜜雪冰城薄荷奶绿有股我小学时候门口奶茶店的薄荷饮料味，一口感觉回到了千禧年的某个被遗忘夏天😢 https://t.co/DbmlHhbZSg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070340150463549440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtTZdCb0AA-ndq.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070340150463549440"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070340158931738749",
+        "created_at": "2026-06-26T02:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070340158931738749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DbmlHhbZSg",
+              "end": 72,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2070340158931738749/photo/1",
+              "media_key": "3_2070340150463549440",
+              "start": 49,
+              "url": "https://t.co/DbmlHhbZSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070340158931738749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去蜜雪冰城薄荷奶绿有股我小学时候门口奶茶店的薄荷饮料味，一口感觉回到了千禧年的某个被遗忘夏天😢 https://t.co/DbmlHhbZSg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 2551,
+          "like_count": 9794,
+          "listed_count": 0,
+          "media_count": 670,
+          "tweet_count": 3611
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

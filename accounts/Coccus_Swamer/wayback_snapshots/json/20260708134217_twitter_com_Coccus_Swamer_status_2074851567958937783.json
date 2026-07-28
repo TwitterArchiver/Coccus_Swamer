@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074851558731423744"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2074851567958937783",
+    "created_at": "2026-07-08T13:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074851567958937783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vdN6oWC70e",
+          "end": 163,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2074851567958937783/photo/1",
+          "media_key": "3_2074851558731423744",
+          "start": 140,
+          "url": "https://t.co/vdN6oWC70e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074851567958937783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我爬上你的肩头，问你\n我究竟是哪方疾病？\n益母草，百合花，紫牵牛，\n像针一样插进大腿里，神经紧绷，\n剧痛传来，细密的汗珠流出：\n喵咪咪，喵咪咪——再来一次。\n如同刀插海绵一般插入血管，\n痉挛抖动，我想到了死亡与大地震，\n临时吊灯晃荡，天地无用，\n第一要务是举起手机拍照。\n\n不，\n再来一次，再来一次。\n是蚊子的口器扎入我的体内，交媾般的暧昧：\n小猫咬住我的指尖，刺扎扎的甜食\n你告诉我，这是治病的方法\n中医的疗法，精神分析的伟大，\n智慧的世界树，他们都会慢慢在你身上蔓延：\n瘙痒是对的，震颤是对的，\n模糊与疑惑也是对的——\n悬壶济世，祛病消灾\n\n但你说夜的星象是我一生的故事。\n你又在配置新的安慰剂吗？\n赠我延龄草，三色堇，紫罗兰\n回她什么：赤练蛇。[1]\n我爬上你的肩头，问你：\n我究竟是哪方疾病？\n\n（献给所有被压迫的性少数，2026年6月）\n\n[1]鲁迅《我的失恋·四之一》：“爱人赠我玫瑰花；回她什么：赤练蛇。从此翻脸不理我，不知何故兮——由她去罢。”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爬上你的肩头，问你\n我究竟是哪方疾病？\n益母草，百合花，紫牵牛，\n像针一样插进大腿里，神经紧绷，\n剧痛传来，细密的汗珠流出：\n喵咪咪，喵咪咪——再来一次。\n如同刀插海绵一般插入血管，\n痉挛抖动，我想到了死亡与大地震，\n临时吊灯晃荡，天地无用，\n第一要务是举起手机拍照。\n\n不， https://t.co/vdN6oWC70e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074851558731423744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtaf-faIAA8QrH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074851558731423744"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2074851567958937783",
+        "created_at": "2026-07-08T13:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074851567958937783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdN6oWC70e",
+              "end": 163,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2074851567958937783/photo/1",
+              "media_key": "3_2074851558731423744",
+              "start": 140,
+              "url": "https://t.co/vdN6oWC70e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074851567958937783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我爬上你的肩头，问你\n我究竟是哪方疾病？\n益母草，百合花，紫牵牛，\n像针一样插进大腿里，神经紧绷，\n剧痛传来，细密的汗珠流出：\n喵咪咪，喵咪咪——再来一次。\n如同刀插海绵一般插入血管，\n痉挛抖动，我想到了死亡与大地震，\n临时吊灯晃荡，天地无用，\n第一要务是举起手机拍照。\n\n不，\n再来一次，再来一次。\n是蚊子的口器扎入我的体内，交媾般的暧昧：\n小猫咬住我的指尖，刺扎扎的甜食\n你告诉我，这是治病的方法\n中医的疗法，精神分析的伟大，\n智慧的世界树，他们都会慢慢在你身上蔓延：\n瘙痒是对的，震颤是对的，\n模糊与疑惑也是对的——\n悬壶济世，祛病消灾\n\n但你说夜的星象是我一生的故事。\n你又在配置新的安慰剂吗？\n赠我延龄草，三色堇，紫罗兰\n回她什么：赤练蛇。[1]\n我爬上你的肩头，问你：\n我究竟是哪方疾病？\n\n（献给所有被压迫的性少数，2026年6月）\n\n[1]鲁迅《我的失恋·四之一》：“爱人赠我玫瑰花；回她什么：赤练蛇。从此翻脸不理我，不知何故兮——由她去罢。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爬上你的肩头，问你\n我究竟是哪方疾病？\n益母草，百合花，紫牵牛，\n像针一样插进大腿里，神经紧绷，\n剧痛传来，细密的汗珠流出：\n喵咪咪，喵咪咪——再来一次。\n如同刀插海绵一般插入血管，\n痉挛抖动，我想到了死亡与大地震，\n临时吊灯晃荡，天地无用，\n第一要务是举起手机拍照。\n\n不， https://t.co/vdN6oWC70e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 2663,
+          "like_count": 9898,
+          "listed_count": 0,
+          "media_count": 686,
+          "tweet_count": 3674
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

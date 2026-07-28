@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1882295297784881493",
+    "created_at": "2025-01-23T10:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T11:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882375106057703927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1809497565630722052",
+          "start": 0,
+          "username": "w1a2ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882375106057703927",
+    "in_reply_to_user_id": "1809497565630722052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882341239896617118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w1a2ng 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1882295297784881493",
+        "created_at": "2025-01-23T10:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T11:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882375106057703927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1809497565630722052",
+              "start": 0,
+              "username": "w1a2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882375106057703927",
+        "in_reply_to_user_id": "1809497565630722052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882341239896617118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w1a2ng 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809497565630722052",
+        "conversation_id": "1882295297784881493",
+        "created_at": "2025-01-23T08:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T09:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882341239896617118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882341239896617118",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882295297784881493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 说的很有道理哦。可以和你互fo嘛（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1881086755165917296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 1539,
+          "like_count": 7231,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 2540
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-06T08:00:34.000Z",
+        "description": "作者，感谢@xioshl8提供的背景。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xioshl8"
+              }
+            ]
+          }
+        },
+        "id": "1809497565630722052",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878600508866277376/KIKXf4NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 629,
+          "like_count": 27552,
+          "listed_count": 5,
+          "media_count": 54,
+          "tweet_count": 6770
+        },
+        "username": "w1a2ng",
+        "verified": true
+      }
+    ]
+  }
+}

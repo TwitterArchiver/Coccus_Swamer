@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881939892600819712"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1881939894639173657",
+    "created_at": "2025-01-22T05:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T06:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881939894639173657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HpWUVJLVdn",
+          "end": 154,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1881939894639173657/photo/1",
+          "media_key": "3_1881939892600819712",
+          "start": 131,
+          "url": "https://t.co/HpWUVJLVdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881939894639173657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚考到了：网址开头的“www”作为缩写如果真要念出来，无论英语“world wide web”，还是中文“万维网”，都比缩写更快。 ​​​\n\n如果你认识我比较早，你应该记得在很早的时候讲过一个日耳曼语、拉丁语借用和窄门的故事。三个“w”其实是六个元音“v”。 https://t.co/HpWUVJLVdn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 758,
+        "media_key": "3_1881939892600819712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh3-XIMb0AAURML.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881939892600819712"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1881939894639173657",
+        "created_at": "2025-01-22T05:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T06:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881939894639173657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HpWUVJLVdn",
+              "end": 154,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1881939894639173657/photo/1",
+              "media_key": "3_1881939892600819712",
+              "start": 131,
+              "url": "https://t.co/HpWUVJLVdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881939894639173657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚考到了：网址开头的“www”作为缩写如果真要念出来，无论英语“world wide web”，还是中文“万维网”，都比缩写更快。 ​​​\n\n如果你认识我比较早，你应该记得在很早的时候讲过一个日耳曼语、拉丁语借用和窄门的故事。三个“w”其实是六个元音“v”。 https://t.co/HpWUVJLVdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1881853916813627874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 1536,
+          "like_count": 7199,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 2517
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

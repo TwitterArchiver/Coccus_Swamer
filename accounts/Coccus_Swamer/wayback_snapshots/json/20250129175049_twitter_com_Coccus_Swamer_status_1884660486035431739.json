@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1884660486035431739",
+    "created_at": "2025-01-29T17:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T18:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884660486035431739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/medi_cosity/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/medi_cosity/status/1884381253706866810",
+          "start": 20,
+          "url": "https://t.co/ma4TFl86PT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884660486035431739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884381253706866810",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "白馬醫師搶救約翰的那天晚上belike https://t.co/ma4TFl86PT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1884660486035431739",
+        "created_at": "2025-01-29T17:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T18:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884660486035431739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/medi_cosity/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/medi_cosity/status/1884381253706866810",
+              "start": 20,
+              "url": "https://t.co/ma4TFl86PT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884660486035431739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884381253706866810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "白馬醫師搶救約翰的那天晚上belike https://t.co/ma4TFl86PT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884381212837568513"
+          ]
+        },
+        "author_id": "904351337923485697",
+        "conversation_id": "1884381253706866810",
+        "created_at": "2025-01-28T23:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T00:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884381253706866810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrXky5g0IZ",
+              "end": 44,
+              "expanded_url": "https://x.com/medi_cosity/status/1884381253706866810/video/1",
+              "media_key": "7_1884381212837568513",
+              "start": 21,
+              "url": "https://t.co/nrXky5g0IZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884381253706866810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 77358,
+          "like_count": 1452,
+          "quote_count": 15,
+          "reply_count": 13,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "A born gangster!❤️😂😂 https://t.co/nrXky5g0IZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1883274780335600052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 1593,
+          "like_count": 7406,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 2650
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-03T14:32:15.000Z",
+        "description": "We are people In Medicine Sharing Medical Information, News, Med Stories & Motivation.",
+        "id": "904351337923485697",
+        "location": "parody Account",
+        "name": "Medical Encyclopaedia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341634130585341952/5oqdAJjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468254,
+          "following_count": 13,
+          "like_count": 393,
+          "listed_count": 569,
+          "media_count": 946,
+          "tweet_count": 952
+        },
+        "username": "medi_cosity",
+        "verified": true
+      }
+    ]
+  }
+}

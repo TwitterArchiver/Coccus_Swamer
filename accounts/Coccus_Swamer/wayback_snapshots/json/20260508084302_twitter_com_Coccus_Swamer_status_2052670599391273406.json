@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2052657242781196604",
+    "created_at": "2026-05-08T08:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052670599391273406"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052670599391273406",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052657242781196604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "rsd大发作呵呵呵呵呵呵呵呵呵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2052657242781196604",
+        "created_at": "2026-05-08T08:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052670599391273406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052670599391273406",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052657242781196604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "rsd大发作呵呵呵呵呵呵呵呵呵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2052657242781196604",
+        "created_at": "2026-05-08T07:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052657242781196604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052657242781196604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Funabashi, Chiba, Japan",
+              "geo": {
+                "coordinates": [
+                  139.98333,
+                  35.69306
+                ],
+                "type": "Point"
+              },
+              "locality": "Funabashi",
+              "region": "Chiba"
+            }
+          ]
+        },
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語_Deutsch/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1943417317855236106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 2520,
+          "like_count": 9767,
+          "listed_count": 0,
+          "media_count": 660,
+          "tweet_count": 3572
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1805768036038725704",
+    "created_at": "2024-06-26T01:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T02:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805768036038725704"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1805768036038725704",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天都在被取关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1805768036038725704",
+        "created_at": "2024-06-26T01:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T02:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805768036038725704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805768036038725704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都在被取关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "早餐一種。\nMTX 休学学生 成分复杂，爱看血图，互关慎重。\n读书/药物/分享生活/日本語勉強中/Deutschlehrer/English also OK!",
+        "id": "1552238688590958592",
+        "name": "帝國粉色果醬配奶油麵包片",
+        "pinned_tweet_id": "1716744793404191029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725501871039909888/eBg1RNIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 558,
+          "like_count": 3326,
+          "listed_count": 0,
+          "tweet_count": 1062
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1875570542503457021",
+    "created_at": "2025-01-04T15:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T16:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875570542503457021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GLaDOS8964/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/GLaDOS8964/status/1875566034012533245",
+          "start": 4,
+          "url": "https://t.co/A0BwwsDbmP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875570542503457021",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875566034012533245",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想 https://t.co/A0BwwsDbmP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1875570542503457021",
+        "created_at": "2025-01-04T15:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T16:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875570542503457021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GLaDOS8964/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/GLaDOS8964/status/1875566034012533245",
+              "start": 4,
+              "url": "https://t.co/A0BwwsDbmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875570542503457021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875566034012533245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想 https://t.co/A0BwwsDbmP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748717733569875968",
+        "conversation_id": "1875566034012533245",
+        "created_at": "2025-01-04T15:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T16:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875566034012533245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875566034012533245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想被人亲手杀死，想想就要发情了，被亲手吊死或者放血或者开膛破肚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 1459,
+          "like_count": 6730,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 2338
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T14:43:03.000Z",
+        "description": "_",
+        "id": "1748717733569875968",
+        "location": "@mo6ji4",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "1874644043973718153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867950029501071360/VYPnQ5Ls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 907,
+          "like_count": 30489,
+          "listed_count": 2,
+          "media_count": 699,
+          "tweet_count": 17260
+        },
+        "username": "GLaDOS8964",
+        "verified": false
+      }
+    ]
+  }
+}

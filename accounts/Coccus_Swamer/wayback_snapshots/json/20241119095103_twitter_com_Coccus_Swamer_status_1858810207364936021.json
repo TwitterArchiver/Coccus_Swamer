@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1858560881204097534",
+    "created_at": "2024-11-19T09:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T10:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858810207364936021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858810207364936021",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858560881204097534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra 好棒哦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1858560881204097534].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1858560881204097534",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1858560881204097534"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1858560881204097534",
+        "created_at": "2024-11-19T09:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T10:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858810207364936021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858810207364936021",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858560881204097534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra 好棒哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849107417721958731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1180,
+          "like_count": 5827,
+          "listed_count": 0,
+          "tweet_count": 1987
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "無粋な蜻蛉の一つでいいから 溺れるほどに欲しい\n詮の無いことだって聞かせてもっと\n\n*注: 请不要当面问我的性别，问性别一律视为性骚扰; 实在好奇请自行探究/打听",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ProjectA1saku",
+                "end": 23,
+                "expanded_url": "https://t.me/ProjectA1saku",
+                "start": 0,
+                "url": "https://t.co/MYzhwjB35L"
+              }
+            ]
+          }
+        },
+        "id": "1746169774147776512",
+        "location": "Enceladus",
+        "name": "🩵龙腾科技打牌王🌘",
+        "pinned_tweet_id": "1858562607663509813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857219702990454784/7ZX44r6R_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 767,
+          "like_count": 37051,
+          "listed_count": 2,
+          "tweet_count": 31315
+        },
+        "url": "https://t.co/MYzhwjB35L",
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      }
+    ]
+  }
+}

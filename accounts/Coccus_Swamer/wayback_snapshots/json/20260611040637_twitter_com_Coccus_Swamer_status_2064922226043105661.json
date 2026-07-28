@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2064922226043105661",
+    "created_at": "2026-06-11T04:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064922226043105661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064922226043105661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一周多之前从起床就开始喝啤酒什么都不吃，最多还能吃点流体食物，但我现在发现有点戒不掉酒精的依赖了，现在依然是早上喝中午喝晚上喝随地大小喝好像真的有一个让能随时安稳地被牵走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2064922226043105661",
+        "created_at": "2026-06-11T04:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064922226043105661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064922226043105661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一周多之前从起床就开始喝啤酒什么都不吃，最多还能吃点流体食物，但我现在发现有点戒不掉酒精的依赖了，现在依然是早上喝中午喝晚上喝随地大小喝好像真的有一个让能随时安稳地被牵走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Funabashi, Chiba, Japan",
+              "geo": {
+                "coordinates": [
+                  139.98333,
+                  35.69306
+                ],
+                "type": "Point"
+              },
+              "locality": "Funabashi",
+              "region": "Chiba"
+            }
+          ]
+        },
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/od/ADHD-rsd/植物医学专业/诗歌/日本語_Deutsch/互关慎重",
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1943417317855236106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 2485,
+          "like_count": 9742,
+          "listed_count": 0,
+          "media_count": 667,
+          "tweet_count": 3591
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

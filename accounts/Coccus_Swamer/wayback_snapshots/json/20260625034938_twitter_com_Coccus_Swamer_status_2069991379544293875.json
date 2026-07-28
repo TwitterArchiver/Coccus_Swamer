@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2069705530067886325",
+    "created_at": "2026-06-25T03:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069991379544293875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727107763447410688",
+          "start": 0,
+          "username": "a1ter_ego_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069991379544293875",
+    "in_reply_to_user_id": "1727107763447410688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069705530067886325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1ter_ego_01 酥糊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2069705530067886325",
+        "created_at": "2026-06-25T03:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069991379544293875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727107763447410688",
+              "start": 0,
+              "username": "a1ter_ego_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069991379544293875",
+        "in_reply_to_user_id": "1727107763447410688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069705530067886325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1ter_ego_01 酥糊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727107763447410688",
+        "conversation_id": "2069705530067886325",
+        "created_at": "2026-06-24T08:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069705530067886325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069705530067886325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好酥糊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关",
+        "id": "1552238688590958592",
+        "location": "锟斤拷锟斤拷锟斤拷锟斤拷",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1943417317855236106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 2523,
+          "like_count": 9762,
+          "listed_count": 0,
+          "media_count": 667,
+          "tweet_count": 3603
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T23:33:17.000Z",
+        "description": "以下是你可能关心的刻板印象：｜网络巨人｜精神状态不稳定｜社交能力低下｜概率学博士｜直男｜高功能抑郁症｜",
+        "id": "1727107763447410688",
+        "location": "日本",
+        "name": "一个一直思考的人",
+        "pinned_tweet_id": "2059556188749246963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065830283702878208/UsYzR4T8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 24,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "a1ter_ego_01",
+        "verified": false
+      }
+    ]
+  }
+}

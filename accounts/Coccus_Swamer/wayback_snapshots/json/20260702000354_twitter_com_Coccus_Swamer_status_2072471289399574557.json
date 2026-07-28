@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072471266288959488",
+        "3_2072471267140325376",
+        "3_2072471266586771456",
+        "3_2072471267463331840"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072471289399574557",
+    "created_at": "2026-07-02T00:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072471289399574557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Di4UgSoqFN",
+          "end": 49,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2072471289399574557/photo/1",
+          "media_key": "3_2072471266288959488",
+          "start": 26,
+          "url": "https://t.co/Di4UgSoqFN"
+        },
+        {
+          "display_url": "pic.x.com/Di4UgSoqFN",
+          "end": 49,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2072471289399574557/photo/1",
+          "media_key": "3_2072471267140325376",
+          "start": 26,
+          "url": "https://t.co/Di4UgSoqFN"
+        },
+        {
+          "display_url": "pic.x.com/Di4UgSoqFN",
+          "end": 49,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2072471289399574557/photo/1",
+          "media_key": "3_2072471266586771456",
+          "start": 26,
+          "url": "https://t.co/Di4UgSoqFN"
+        },
+        {
+          "display_url": "pic.x.com/Di4UgSoqFN",
+          "end": 49,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2072471289399574557/photo/1",
+          "media_key": "3_2072471267463331840",
+          "start": 26,
+          "url": "https://t.co/Di4UgSoqFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072471289399574557",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "科考野采之力工TV\n乙酸乙酯泼我一手啊抹馒头上吃了 https://t.co/Di4UgSoqFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072471266288959488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLlouJbgAAA2pB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2072471267140325376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLloxUaUAADeCA.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072471266586771456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLlovQbwAAUn7h.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2072471267463331840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLloyhbAAAAUOa.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072471266288959488",
+            "3_2072471267140325376",
+            "3_2072471266586771456",
+            "3_2072471267463331840"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072471289399574557",
+        "created_at": "2026-07-02T00:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072471289399574557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Di4UgSoqFN",
+              "end": 49,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2072471289399574557/photo/1",
+              "media_key": "3_2072471266288959488",
+              "start": 26,
+              "url": "https://t.co/Di4UgSoqFN"
+            },
+            {
+              "display_url": "pic.x.com/Di4UgSoqFN",
+              "end": 49,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2072471289399574557/photo/1",
+              "media_key": "3_2072471267140325376",
+              "start": 26,
+              "url": "https://t.co/Di4UgSoqFN"
+            },
+            {
+              "display_url": "pic.x.com/Di4UgSoqFN",
+              "end": 49,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2072471289399574557/photo/1",
+              "media_key": "3_2072471266586771456",
+              "start": 26,
+              "url": "https://t.co/Di4UgSoqFN"
+            },
+            {
+              "display_url": "pic.x.com/Di4UgSoqFN",
+              "end": 49,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2072471289399574557/photo/1",
+              "media_key": "3_2072471267463331840",
+              "start": 26,
+              "url": "https://t.co/Di4UgSoqFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072471289399574557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "科考野采之力工TV\n乙酸乙酯泼我一手啊抹馒头上吃了 https://t.co/Di4UgSoqFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 2601,
+          "like_count": 9854,
+          "listed_count": 0,
+          "media_count": 680,
+          "tweet_count": 3644
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

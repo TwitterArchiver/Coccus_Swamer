@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979773273710665728"
+      ],
+      "media_source_tweet_id": [
+        "1979773297895284985"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980123085555810567",
+    "created_at": "2025-10-20T04:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T05:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980123085555810567"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "durg",
+          "probability": 0.6726,
+          "start": 32,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1840046947115380736",
+          "start": 3,
+          "username": "momo13388788781"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qTUQAsgsIK",
+          "end": 61,
+          "expanded_url": "https://x.com/momo13388788781/status/1979773297895284985/photo/1",
+          "media_key": "3_1979773273710665728",
+          "start": 38,
+          "url": "https://t.co/qTUQAsgsIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980123085555810567",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979773297895284985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momo13388788781: we fall in durg. https://t.co/qTUQAsgsIK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1979773273710665728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mRTZtWIAAkF-K.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979773273710665728"
+          ],
+          "media_source_tweet_id": [
+            "1979773297895284985"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980123085555810567",
+        "created_at": "2025-10-20T04:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980123085555810567"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "durg",
+              "probability": 0.6726,
+              "start": 32,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1840046947115380736",
+              "start": 3,
+              "username": "momo13388788781"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTUQAsgsIK",
+              "end": 61,
+              "expanded_url": "https://x.com/momo13388788781/status/1979773297895284985/photo/1",
+              "media_key": "3_1979773273710665728",
+              "start": 38,
+              "url": "https://t.co/qTUQAsgsIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980123085555810567",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979773297895284985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momo13388788781: we fall in durg. https://t.co/qTUQAsgsIK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979773273710665728"
+          ]
+        },
+        "author_id": "1840046947115380736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979773297895284985",
+        "created_at": "2025-10-19T04:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979773297895284985"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "durg",
+              "probability": 0.772,
+              "start": 11,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTUQAsgsIK",
+              "end": 40,
+              "expanded_url": "https://x.com/momo13388788781/status/1979773297895284985/photo/1",
+              "media_key": "3_1979773273710665728",
+              "start": 17,
+              "url": "https://t.co/qTUQAsgsIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979773297895284985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 179,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "we fall in durg. https://t.co/qTUQAsgsIK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1973745736216158259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 2568,
+          "like_count": 10030,
+          "listed_count": 0,
+          "media_count": 641,
+          "tweet_count": 3514
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T15:12:42.000Z",
+        "description": "‖shtwt爱好者 ，有严重的焦虑症和双相，伴有一会是定c-tpsd症状 ， 07生人 ，实际是无性别主义‖主要业务是画画，占卜不收费但是一般不给线上陌生人占‖⚠️请注意我不是mtf而是纯血女人，我只是假小子我没有跨性别倾向⚠️‖",
+        "id": "1840046947115380736",
+        "location": "理想终点",
+        "name": "🎀momo‖shtwt🔪🥩",
+        "pinned_tweet_id": "1974129174928654593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975634905951518720/1mTjkH9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 140,
+          "like_count": 8302,
+          "listed_count": 3,
+          "media_count": 570,
+          "tweet_count": 5025
+        },
+        "username": "momo13388788781",
+        "verified": false
+      }
+    ]
+  }
+}

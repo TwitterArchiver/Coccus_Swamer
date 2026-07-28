@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1860141552519286784"
+      ],
+      "media_source_tweet_id": [
+        "1860141576346882128"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1860233859910295949",
+    "created_at": "2024-11-23T08:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T09:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860233859910295949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845985217783402496",
+          "start": 3,
+          "username": "jy3152509243"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tz0dKEczaf",
+          "end": 46,
+          "expanded_url": "https://x.com/jy3152509243/status/1860141576346882128/video/1",
+          "media_key": "7_1860141552519286784",
+          "start": 23,
+          "url": "https://t.co/tz0dKEczaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860233859910295949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860141576346882128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jy3152509243: 果冻一样 https://t.co/tz0dKEczaf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1860233859910295949].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1860233859910295949",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1860233859910295949"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6725,
+        "height": 1280,
+        "media_key": "7_1860141552519286784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1860141552519286784/pu/img/4JtbeVWaSbZKZWEK.jpg",
+        "public_metrics": {
+          "view_count": 82
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860141552519286784/pu/vid/avc1/320x568/5YI-XPDX0i7L9Nxe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860141552519286784/pu/vid/avc1/480x852/Q2oLWbTrvXUASztN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860141552519286784/pu/vid/avc1/720x1280/lon__PUIQ9D0tDxY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1860141552519286784/pu/pl/bFI7cm_DA9p2BHaw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1860141552519286784"
+          ]
+        },
+        "author_id": "1845985217783402496",
+        "conversation_id": "1860141576346882128",
+        "created_at": "2024-11-23T02:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T03:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860141576346882128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tz0dKEczaf",
+              "end": 28,
+              "expanded_url": "https://x.com/jy3152509243/status/1860141576346882128/video/1",
+              "media_key": "7_1860141552519286784",
+              "start": 5,
+              "url": "https://t.co/tz0dKEczaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860141576346882128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "果冻一样 https://t.co/tz0dKEczaf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849107417721958731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 1222,
+          "like_count": 5940,
+          "listed_count": 0,
+          "tweet_count": 2012
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T00:29:20.000Z",
+        "description": "大号：@mio1738468 严重的精神病，可能会死在这个冬天/大号被限制会来小号哦/🚪：20纯绿陪聊（如果我有力气）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "mio1738468"
+              }
+            ]
+          }
+        },
+        "id": "1845985217783402496",
+        "name": "今予的小号",
+        "pinned_tweet_id": "1858856778710286726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848899420194299905/pMHV4kYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 153,
+          "like_count": 642,
+          "listed_count": 0,
+          "tweet_count": 406
+        },
+        "username": "jy3152509243",
+        "verified": false
+      }
+    ]
+  }
+}

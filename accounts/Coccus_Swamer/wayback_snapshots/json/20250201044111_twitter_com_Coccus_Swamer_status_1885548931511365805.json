@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1885324451103072258"
+      ],
+      "media_source_tweet_id": [
+        "1885324506274947082"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1885548931511365805",
+    "created_at": "2025-02-01T04:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T05:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885548931511365805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "19456033",
+          "start": 3,
+          "username": "mizuhasi_yukkie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z2bUfHEeJX",
+          "end": 116,
+          "expanded_url": "https://x.com/mizuhasi_yukkie/status/1885324506274947082/video/1",
+          "media_key": "7_1885324451103072258",
+          "start": 93,
+          "url": "https://t.co/Z2bUfHEeJX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885548931511365805",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 716
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885324506274947082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @mizuhasi_yukkie: 2025サードアイさん試作ステップ２\nアクチュエーターの調整とテストだよ\n\n可動域が増えてやっと目を”完全に閉じる”ことが出来るようになったよ https://t.co/Z2bUfHEeJX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23066,
+        "height": 1920,
+        "media_key": "7_1885324451103072258",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1885324451103072258/pu/img/n1x67p1lFEOSpiMV.jpg",
+        "public_metrics": {
+          "view_count": 35409
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885324451103072258/pu/vid/avc1/320x568/nt1dN91cTvVoxYfb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885324451103072258/pu/vid/avc1/480x852/gj8iFSnl9Wfcx4V6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885324451103072258/pu/vid/avc1/720x1280/KenerwTX5BplPZ6Y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1885324451103072258/pu/pl/2g0gYdzAmK-Rerff.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1885324451103072258"
+          ],
+          "media_source_tweet_id": [
+            "1885324506274947082"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1885548931511365805",
+        "created_at": "2025-02-01T04:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T05:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885548931511365805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "19456033",
+              "start": 3,
+              "username": "mizuhasi_yukkie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2bUfHEeJX",
+              "end": 116,
+              "expanded_url": "https://x.com/mizuhasi_yukkie/status/1885324506274947082/video/1",
+              "media_key": "7_1885324451103072258",
+              "start": 93,
+              "url": "https://t.co/Z2bUfHEeJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885548931511365805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 716
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885324506274947082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @mizuhasi_yukkie: 2025サードアイさん試作ステップ２\nアクチュエーターの調整とテストだよ\n\n可動域が増えてやっと目を”完全に閉じる”ことが出来るようになったよ https://t.co/Z2bUfHEeJX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1885324451103072258"
+          ]
+        },
+        "author_id": "19456033",
+        "conversation_id": "1885324506274947082",
+        "created_at": "2025-01-31T13:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T14:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885324506274947082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2bUfHEeJX",
+              "end": 95,
+              "expanded_url": "https://x.com/mizuhasi_yukkie/status/1885324506274947082/video/1",
+              "media_key": "7_1885324451103072258",
+              "start": 72,
+              "url": "https://t.co/Z2bUfHEeJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885324506274947082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 81687,
+          "like_count": 5264,
+          "quote_count": 42,
+          "reply_count": 0,
+          "retweet_count": 716
+        },
+        "reply_settings": "following",
+        "text": "2025サードアイさん試作ステップ２\nアクチュエーターの調整とテストだよ\n\n可動域が増えてやっと目を”完全に閉じる”ことが出来るようになったよ https://t.co/Z2bUfHEeJX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1882825174426566752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 1620,
+          "like_count": 7496,
+          "listed_count": 0,
+          "media_count": 432,
+          "tweet_count": 2683
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-24T18:05:47.000Z",
+        "description": "大体工作。アイコンやヘッダーは甘党さん（@amatou111） 知り合い以外は基本反応しません。何でもいいね・連続いいねはやめてね。つらい。 何かあったらBOOTHのメッセージにでも（基本返信しません）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "amatou111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuki-factory.main.jp",
+                "end": 23,
+                "expanded_url": "http://yuki-factory.main.jp",
+                "start": 0,
+                "url": "https://t.co/ENinhsz05A"
+              }
+            ]
+          }
+        },
+        "id": "19456033",
+        "location": "鍵盤の前とたまにタブレット",
+        "name": "水橋ゆっきー❄️",
+        "pinned_tweet_id": "1872955327022547026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834666130046435330/2yKZqqv-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20156,
+          "following_count": 477,
+          "like_count": 59115,
+          "listed_count": 157,
+          "media_count": 15500,
+          "tweet_count": 257215
+        },
+        "url": "https://t.co/ENinhsz05A",
+        "username": "mizuhasi_yukkie",
+        "verified": false
+      }
+    ]
+  }
+}

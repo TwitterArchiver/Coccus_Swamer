@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1852865049406435688",
+    "created_at": "2024-11-03T00:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T01:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852865049406435688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/crow_no996/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/crow_no996/status/1852647857372958765",
+          "start": 4,
+          "url": "https://t.co/904Ww4JvI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852865049406435688",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852647857372958765",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操啊 https://t.co/904Ww4JvI9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1852865049406435688",
+        "created_at": "2024-11-03T00:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T01:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852865049406435688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crow_no996/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/crow_no996/status/1852647857372958765",
+              "start": 4,
+              "url": "https://t.co/904Ww4JvI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852865049406435688",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852647857372958765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操啊 https://t.co/904Ww4JvI9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852647850255208448",
+            "3_1852647851836559360",
+            "3_1852647850796359680"
+          ]
+        },
+        "author_id": "1487024566975479810",
+        "conversation_id": "1852647857372958765",
+        "created_at": "2024-11-02T09:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T10:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852647857372958765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqyCyZkQZG",
+              "end": 25,
+              "expanded_url": "https://x.com/crow_no996/status/1852647857372958765/photo/1",
+              "media_key": "3_1852647850255208448",
+              "start": 2,
+              "url": "https://t.co/XqyCyZkQZG"
+            },
+            {
+              "display_url": "pic.x.com/XqyCyZkQZG",
+              "end": 25,
+              "expanded_url": "https://x.com/crow_no996/status/1852647857372958765/photo/1",
+              "media_key": "3_1852647851836559360",
+              "start": 2,
+              "url": "https://t.co/XqyCyZkQZG"
+            },
+            {
+              "display_url": "pic.x.com/XqyCyZkQZG",
+              "end": 25,
+              "expanded_url": "https://x.com/crow_no996/status/1852647857372958765/photo/1",
+              "media_key": "3_1852647850796359680",
+              "start": 2,
+              "url": "https://t.co/XqyCyZkQZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852647857372958765",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 83982,
+          "like_count": 1129,
+          "quote_count": 19,
+          "reply_count": 95,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/XqyCyZkQZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849769563073937699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849202179896381440/uFGet6-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 1074,
+          "like_count": 5429,
+          "listed_count": 0,
+          "tweet_count": 1862
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T11:27:54.000Z",
+        "description": "聊天看梗图看插画打游戏🎮\n来找乐子的都欢迎，戾气重的滚||\n眼熟的会fo||zyn怀柔战略筹备所/zyn套皮通报处（看见zyn套皮请告诉我）",
+        "id": "1487024566975479810",
+        "location": "交界地",
+        "name": "crow🐦‍⬛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852218230749999104/OuRyxnvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 448,
+          "like_count": 8417,
+          "listed_count": 11,
+          "tweet_count": 9433
+        },
+        "username": "crow_no996",
+        "verified": false
+      }
+    ]
+  }
+}

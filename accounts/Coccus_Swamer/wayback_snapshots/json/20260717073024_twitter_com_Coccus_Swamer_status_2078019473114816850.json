@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2078014221875646597",
+    "created_at": "2026-07-17T07:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078019473114816850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822167103673143296",
+          "start": 0,
+          "username": "zau743598828677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078019473114816850",
+    "in_reply_to_user_id": "1822167103673143296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078014221875646597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zau743598828677 想听"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078014218792755200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaW7BVaYAAeDxr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2078014221875646597",
+        "created_at": "2026-07-17T07:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078019473114816850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822167103673143296",
+              "start": 0,
+              "username": "zau743598828677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078019473114816850",
+        "in_reply_to_user_id": "1822167103673143296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078014221875646597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zau743598828677 想听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078014218792755200"
+          ]
+        },
+        "author_id": "1822167103673143296",
+        "conversation_id": "2078014221875646597",
+        "created_at": "2026-07-17T07:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078014221875646597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tAJ6mkBIe",
+              "end": 29,
+              "expanded_url": "https://x.com/zau743598828677/status/2078014221875646597/photo/1",
+              "media_key": "3_2078014218792755200",
+              "start": 6,
+              "url": "https://t.co/7tAJ6mkBIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078014221875646597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伪音练习中 https://t.co/7tAJ6mkBIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 2660,
+          "like_count": 9906,
+          "listed_count": 0,
+          "media_count": 696,
+          "tweet_count": 3690
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-10T07:04:52.000Z",
+        "description": "摄影爱好者📷，ins账号如下，⚠️负面警告⚠️，如果你给我点赞我会很开心，@GLaDOS8964 的转生，老号被人搞丢了，脾气极好，随时随地无聊中，欢迎来骚扰，🌈友好，0.5（是side），互fo欢迎（没有fo请私信骚扰）tg：https://t.co/DqaXKntrrj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "GLaDOS8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/GLaDOSlove",
+                "end": 137,
+                "expanded_url": "http://t.me/GLaDOSlove",
+                "start": 114,
+                "url": "https://t.co/DqaXKntrrj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gladoslove?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gladoslove?igsh=OXdrOGJ0dzViaGE1",
+                "start": 0,
+                "url": "https://t.co/at0RBxE0ea"
+              }
+            ]
+          }
+        },
+        "id": "1822167103673143296",
+        "location": "河南郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "2072525370226844084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 250,
+          "like_count": 1753,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1505
+        },
+        "url": "https://t.co/at0RBxE0ea",
+        "username": "zau743598828677",
+        "verified": false
+      }
+    ]
+  }
+}

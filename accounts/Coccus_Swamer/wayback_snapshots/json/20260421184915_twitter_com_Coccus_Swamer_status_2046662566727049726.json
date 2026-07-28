@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046662356953153537",
+        "3_2046662356953165824",
+        "3_2046662356961505280",
+        "3_2046662356961533952"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2046662566727049726",
+    "created_at": "2026-04-21T18:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046662566727049726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n5pltlpi2d",
+          "end": 80,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2046662566727049726/photo/1",
+          "media_key": "3_2046662356953153537",
+          "start": 57,
+          "url": "https://t.co/n5pltlpi2d"
+        },
+        {
+          "display_url": "pic.x.com/n5pltlpi2d",
+          "end": 80,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2046662566727049726/photo/1",
+          "media_key": "3_2046662356953165824",
+          "start": 57,
+          "url": "https://t.co/n5pltlpi2d"
+        },
+        {
+          "display_url": "pic.x.com/n5pltlpi2d",
+          "end": 80,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2046662566727049726/photo/1",
+          "media_key": "3_2046662356961505280",
+          "start": 57,
+          "url": "https://t.co/n5pltlpi2d"
+        },
+        {
+          "display_url": "pic.x.com/n5pltlpi2d",
+          "end": 80,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2046662566727049726/photo/1",
+          "media_key": "3_2046662356961533952",
+          "start": 57,
+          "url": "https://t.co/n5pltlpi2d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046662566727049726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "望是甚么？是娼妓：\n　　她对谁都蛊惑，将一切都献给；\n　　待你牺牲了极多的宝贝——\n　　你的青春——她就弃掉你。 https://t.co/n5pltlpi2d"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "泌尿肌锻炼",
+        "height": 2448,
+        "media_key": "3_2046662356953153537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGc0kelbQAErsbS.jpg",
+        "width": 3264
+      },
+      {
+        "height": 2191,
+        "media_key": "3_2046662356953165824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGc0kelbcAAVAIR.jpg",
+        "width": 2159
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2046662356961505280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGc0kenasAA_Ri4.jpg",
+        "width": 2992
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2046662356961533952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGc0kenbIAAZJqZ.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046662356953153537",
+            "3_2046662356953165824",
+            "3_2046662356961505280",
+            "3_2046662356961533952"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046662566727049726",
+        "created_at": "2026-04-21T18:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046662566727049726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5pltlpi2d",
+              "end": 80,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2046662566727049726/photo/1",
+              "media_key": "3_2046662356953153537",
+              "start": 57,
+              "url": "https://t.co/n5pltlpi2d"
+            },
+            {
+              "display_url": "pic.x.com/n5pltlpi2d",
+              "end": 80,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2046662566727049726/photo/1",
+              "media_key": "3_2046662356953165824",
+              "start": 57,
+              "url": "https://t.co/n5pltlpi2d"
+            },
+            {
+              "display_url": "pic.x.com/n5pltlpi2d",
+              "end": 80,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2046662566727049726/photo/1",
+              "media_key": "3_2046662356961505280",
+              "start": 57,
+              "url": "https://t.co/n5pltlpi2d"
+            },
+            {
+              "display_url": "pic.x.com/n5pltlpi2d",
+              "end": 80,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2046662566727049726/photo/1",
+              "media_key": "3_2046662356961533952",
+              "start": 57,
+              "url": "https://t.co/n5pltlpi2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046662566727049726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "望是甚么？是娼妓：\n　　她对谁都蛊惑，将一切都献给；\n　　待你牺牲了极多的宝贝——\n　　你的青春——她就弃掉你。 https://t.co/n5pltlpi2d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Funabashi, Chiba, Japan",
+              "geo": {
+                "coordinates": [
+                  139.98333,
+                  35.69306
+                ],
+                "type": "Point"
+              },
+              "locality": "Funabashi",
+              "region": "Chiba"
+            }
+          ]
+        },
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1973745736216158259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 2495,
+          "like_count": 9748,
+          "listed_count": 0,
+          "media_count": 660,
+          "tweet_count": 3559
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983219536129056768"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1983219540919038327",
+    "created_at": "2025-10-28T17:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T18:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983219540919038327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SUhwJ6HZA5",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1983219540919038327/photo/1",
+          "media_key": "3_1983219536129056768",
+          "start": 0,
+          "url": "https://t.co/SUhwJ6HZA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983219540919038327",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/SUhwJ6HZA5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983219540919038327].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983219540919038327",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983219540919038327"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1983219536129056768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XPqRqWYAAlk9K.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1973745736216158259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 2586,
+          "like_count": 10053,
+          "listed_count": 0,
+          "media_count": 644,
+          "tweet_count": 3531
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

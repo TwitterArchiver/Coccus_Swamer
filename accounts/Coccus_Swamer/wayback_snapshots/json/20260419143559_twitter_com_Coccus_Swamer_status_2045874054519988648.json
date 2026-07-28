@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045873723463675904"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2045874054519988648",
+    "created_at": "2026-04-19T14:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045874054519988648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5MPcyC7Yda",
+          "end": 42,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2045874054519988648/video/1",
+          "media_key": "13_2045873723463675904",
+          "start": 19,
+          "url": "https://t.co/5MPcyC7Yda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045874054519988648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享今日尿尿视频\n今日のおしっこ（） https://t.co/5MPcyC7Yda"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12600,
+        "height": 1080,
+        "media_key": "13_2045873723463675904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045873723463675904/img/ppNjY0nK8q6qerHo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045873723463675904/vid/avc1/480x270/ya6yGcHZISTmg0JJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045873723463675904/vid/avc1/640x360/Xzhnq5jG2u5fL3x-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045873723463675904/vid/avc1/1280x720/z7_VIxXcOoq2yKJn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045873723463675904/pl/y4YEc51JjovoEYR0.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045873723463675904"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2045874054519988648",
+        "created_at": "2026-04-19T14:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045874054519988648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MPcyC7Yda",
+              "end": 42,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2045874054519988648/video/1",
+              "media_key": "13_2045873723463675904",
+              "start": 19,
+              "url": "https://t.co/5MPcyC7Yda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045874054519988648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享今日尿尿视频\n今日のおしっこ（） https://t.co/5MPcyC7Yda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Funabashi, Chiba, Japan",
+              "geo": {
+                "coordinates": [
+                  139.98333,
+                  35.69306
+                ],
+                "type": "Point"
+              },
+              "locality": "Funabashi",
+              "region": "Chiba"
+            }
+          ]
+        },
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1973745736216158259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 2488,
+          "like_count": 9712,
+          "listed_count": 0,
+          "media_count": 658,
+          "tweet_count": 3549
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

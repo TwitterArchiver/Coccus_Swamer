@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1853084727206662144"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1853084743581204697",
+    "created_at": "2024-11-03T14:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T15:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853084743581204697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X5MeVrvTeL",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1853084743581204697/video/1",
+          "media_key": "7_1853084727206662144",
+          "start": 0,
+          "url": "https://t.co/X5MeVrvTeL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853084743581204697",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/X5MeVrvTeL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12000,
+        "height": 720,
+        "media_key": "7_1853084727206662144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1853084727206662144/pu/img/mWdb6GKEYoT-mzBW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1853084727206662144/pu/vid/avc1/276x270/_f3gga_zD4d0CCJs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1853084727206662144/pu/vid/avc1/370x360/JE7Bx7cYinNaA8Py.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1853084727206662144/pu/vid/avc1/740x720/bpZxCbNU3Ui78Y7l.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1853084727206662144/pu/pl/jCbinRLn5Xj_1Yyg.m3u8?tag=12"
+          }
+        ],
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1853084727206662144"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1853084743581204697",
+        "created_at": "2024-11-03T14:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T15:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853084743581204697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5MeVrvTeL",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1853084743581204697/video/1",
+              "media_key": "7_1853084727206662144",
+              "start": 0,
+              "url": "https://t.co/X5MeVrvTeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853084743581204697",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X5MeVrvTeL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849769563073937699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 1089,
+          "like_count": 5471,
+          "listed_count": 0,
+          "tweet_count": 1874
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

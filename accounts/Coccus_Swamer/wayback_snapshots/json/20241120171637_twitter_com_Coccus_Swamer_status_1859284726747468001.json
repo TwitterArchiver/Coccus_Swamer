@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1859272722767077611",
+    "created_at": "2024-11-20T17:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T18:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859284726747468001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1487767722544955400",
+          "start": 0,
+          "username": "Shadowneng47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859284726747468001",
+    "in_reply_to_user_id": "1487767722544955400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859272722767077611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shadowneng47 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1859272722767077611",
+        "created_at": "2024-11-20T17:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T18:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859284726747468001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1487767722544955400",
+              "start": 0,
+              "username": "Shadowneng47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859284726747468001",
+        "in_reply_to_user_id": "1487767722544955400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859272722767077611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shadowneng47 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859272713275371520"
+          ]
+        },
+        "author_id": "1487767722544955400",
+        "conversation_id": "1859272722767077611",
+        "created_at": "2024-11-20T16:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T17:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859272722767077611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBjnekfagf",
+              "end": 40,
+              "expanded_url": "https://x.com/Shadowneng47/status/1859272722767077611/photo/1",
+              "media_key": "3_1859272713275371520",
+              "start": 17,
+              "url": "https://t.co/bBjnekfagf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859272722767077611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友说喜欢我，我不割了，嘻嘻嘻。 https://t.co/bBjnekfagf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849107417721958731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1193,
+          "like_count": 5857,
+          "listed_count": 0,
+          "tweet_count": 1993
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T12:40:53.000Z",
+        "description": "我是桌子，彩色的楼梯，他们在走，迷你的存在着幻想的电子葬礼。",
+        "id": "1487767722544955400",
+        "location": "天国",
+        "name": "影子♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678754035157934081/ynv65Mld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 156,
+          "like_count": 9308,
+          "listed_count": 1,
+          "tweet_count": 1120
+        },
+        "username": "Shadowneng47",
+        "verified": false
+      }
+    ]
+  }
+}

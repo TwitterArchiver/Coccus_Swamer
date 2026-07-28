@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881086749830692864"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1881086755165917296",
+    "created_at": "2025-01-19T21:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T22:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881086755165917296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MYzt0LILHX",
+          "end": 68,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1881086755165917296/photo/1",
+          "media_key": "3_1881086749830692864",
+          "start": 45,
+          "url": "https://t.co/MYzt0LILHX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881086755165917296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "pea胶囊，安非他酮缓释，丙戊酸钠，原研米氮平，日雌现货，速私，不然我今天吃不起麦当当了 https://t.co/MYzt0LILHX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1881086755165917296].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1881086755165917296",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1881086755165917296"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881086749830692864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghr2brtaQAAkjtt.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1880238674421620978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 1530,
+          "like_count": 7144,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 2478
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2072616669256855645",
+    "created_at": "2026-07-02T10:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072629216391393623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822167103673143296",
+          "start": 0,
+          "username": "zau743598828677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072629216391393623",
+    "in_reply_to_user_id": "1822167103673143296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072616669256855645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zau743598828677 干嘛！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2072616669256855645",
+        "created_at": "2026-07-02T10:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072629216391393623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822167103673143296",
+              "start": 0,
+              "username": "zau743598828677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072629216391393623",
+        "in_reply_to_user_id": "1822167103673143296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072616669256855645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zau743598828677 干嘛！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822167103673143296",
+        "conversation_id": "2072616669256855645",
+        "created_at": "2026-07-02T09:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072616669256855645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Coccus_Swamer/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Coccus_Swamer/status/2072610431576006687",
+              "start": 10,
+              "url": "https://t.co/TAl5C21GtW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072616669256855645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072610431576006687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "布料磨的它奈子疼！ https://t.co/TAl5C21GtW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 2625,
+          "like_count": 9873,
+          "listed_count": 0,
+          "media_count": 682,
+          "tweet_count": 3655
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:04:52.000Z",
+        "description": "摄影爱好者，ins账号如下，@GLaDOS8964 的转生，老号被人搞丢了，脾气极好，随时随地无聊中，欢迎来骚扰，🌈友好，互fo欢迎（没有fo请私信骚扰）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "GLaDOS8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gladoslove?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gladoslove?igsh=OXdrOGJ0dzViaGE1",
+                "start": 0,
+                "url": "https://t.co/at0RBxE0ea"
+              }
+            ]
+          }
+        },
+        "id": "1822167103673143296",
+        "location": "河南郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "2072525370226844084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 195,
+          "like_count": 905,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/at0RBxE0ea",
+        "username": "zau743598828677",
+        "verified": false
+      }
+    ]
+  }
+}

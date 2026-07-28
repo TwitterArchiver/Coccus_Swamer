@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1853850266233385446",
+    "created_at": "2024-11-06T01:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T02:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853971463126290937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1776563758497955840",
+          "start": 0,
+          "username": "wngy170505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853971463126290937",
+    "in_reply_to_user_id": "1776563758497955840",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853878650678165717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy170505 🙀🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1853850266233385446",
+        "created_at": "2024-11-06T01:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T02:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853971463126290937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1776563758497955840",
+              "start": 0,
+              "username": "wngy170505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853971463126290937",
+        "in_reply_to_user_id": "1776563758497955840",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853878650678165717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy170505 🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776563758497955840",
+        "conversation_id": "1853850266233385446",
+        "created_at": "2024-11-05T19:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T20:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853878650678165717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853878650678165717",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853850266233385446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 我也不想上班，昨天晚上被 Boss Lady辞退了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1853086172538700157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 1103,
+          "like_count": 5516,
+          "listed_count": 0,
+          "tweet_count": 1898
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T10:53:38.000Z",
+        "description": "喜怒悲哀无常，平静，无欲无求，纯粹想弄死自己！",
+        "id": "1776563758497955840",
+        "location": "佛羅里達州邁阿密",
+        "name": "孤",
+        "pinned_tweet_id": "1828022245987352997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823386190378397696/Bclf3B5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 71,
+          "like_count": 1638,
+          "listed_count": 0,
+          "tweet_count": 627
+        },
+        "username": "wngy170505",
+        "verified": false
+      }
+    ]
+  }
+}

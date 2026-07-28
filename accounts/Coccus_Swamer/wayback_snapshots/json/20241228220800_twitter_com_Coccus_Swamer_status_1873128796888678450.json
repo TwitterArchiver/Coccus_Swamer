@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1872989359315808509",
+    "created_at": "2024-12-28T22:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T23:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873128796888678450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1580918798223147008",
+          "start": 0,
+          "username": "Kuristine_ver1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873128796888678450",
+    "in_reply_to_user_id": "1580918798223147008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872989359315808509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuristine_ver1 有什么特别的精神效果吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1872989359315808509",
+        "created_at": "2024-12-28T22:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T23:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873128796888678450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1580918798223147008",
+              "start": 0,
+              "username": "Kuristine_ver1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873128796888678450",
+        "in_reply_to_user_id": "1580918798223147008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872989359315808509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuristine_ver1 有什么特别的精神效果吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872989328311455744"
+          ]
+        },
+        "author_id": "1580918798223147008",
+        "conversation_id": "1872989359315808509",
+        "created_at": "2024-12-28T12:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T13:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872989359315808509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T34VwSmIco",
+              "end": 37,
+              "expanded_url": "https://x.com/Kuristine_ver1/status/1872989359315808509/photo/1",
+              "media_key": "3_1872989328311455744",
+              "start": 14,
+              "url": "https://t.co/T34VwSmIco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872989359315808509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试试莱博雷生\n第四代安眠药 https://t.co/T34VwSmIco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1366,
+          "like_count": 6551,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2278
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T13:49:53.000Z",
+        "description": "HRT1.24.2024/双相/ 07/ 社恐/ LGBTQ 🏳️‍🌈🏳️‍⚧️/ボカロ大好き/ INTP/ CS Major/ 江浙沪随机刷新/MtX 性别: Undefined/ 光谱左下 /负能生活推",
+        "id": "1580918798223147008",
+        "location": "上海市徐汇区宛平南路600号",
+        "name": "库莉丝汀 Kuristine🍥",
+        "pinned_tweet_id": "1828284838908174821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865434671838015488/akHPm8CX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 496,
+          "like_count": 3109,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 719
+        },
+        "username": "Kuristine_ver1",
+        "verified": false
+      }
+    ]
+  }
+}

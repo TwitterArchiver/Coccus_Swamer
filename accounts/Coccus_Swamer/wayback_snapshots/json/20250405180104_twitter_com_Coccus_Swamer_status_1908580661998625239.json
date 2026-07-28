@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1908553407016624128"
+      ],
+      "media_source_tweet_id": [
+        "1908553424724959494"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1908580661998625239",
+    "created_at": "2025-04-05T18:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T19:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908580661998625239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748353814854258688",
+          "start": 3,
+          "username": "schizovoid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/obrKGcPzjm",
+          "end": 79,
+          "expanded_url": "https://x.com/schizovoid/status/1908553424724959494/video/1",
+          "media_key": "7_1908553407016624128",
+          "start": 56,
+          "url": "https://t.co/obrKGcPzjm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908580661998625239",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908553424724959494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @schizovoid: &lt;3 letting intrusive thoughts win 🎀🩰 https://t.co/obrKGcPzjm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908580661998625239].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908580661998625239",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908580661998625239"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9891,
+        "height": 850,
+        "media_key": "7_1908553407016624128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1908553407016624128/pu/img/sgLEQzkCNZKgosFe.jpg",
+        "public_metrics": {
+          "view_count": 317
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908553407016624128/pu/vid/avc1/320x568/7Xj0Wx72-_PLgFOC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908553407016624128/pu/vid/avc1/478x850/SB-WiMtakK3anj03.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1908553407016624128/pu/pl/zZSlu1nQAIDMxtXE.m3u8?tag=12"
+          }
+        ],
+        "width": 478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1908553407016624128"
+          ]
+        },
+        "author_id": "1748353814854258688",
+        "conversation_id": "1908553424724959494",
+        "created_at": "2025-04-05T16:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T17:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908553424724959494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obrKGcPzjm",
+              "end": 63,
+              "expanded_url": "https://x.com/schizovoid/status/1908553424724959494/video/1",
+              "media_key": "7_1908553407016624128",
+              "start": 40,
+              "url": "https://t.co/obrKGcPzjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908553424724959494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 572,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;3 letting intrusive thoughts win 🎀🩰 https://t.co/obrKGcPzjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 2130,
+          "like_count": 8774,
+          "listed_count": 0,
+          "media_count": 528,
+          "tweet_count": 3166
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-19T14:37:34.000Z",
+        "description": "★ shtwt ★ goretwt ★ cnc ★\npriv:: @schizovoidz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "schizovoidz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/schizovoid",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/schizovoid",
+                "start": 0,
+                "url": "https://t.co/tLUkhJhv5p"
+              }
+            ]
+          }
+        },
+        "id": "1748353814854258688",
+        "location": "drugstwt",
+        "name": "Lord da heroína;;",
+        "pinned_tweet_id": "1765582337138414008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872870369113096192/OtmseQ4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3938,
+          "following_count": 119,
+          "like_count": 31284,
+          "listed_count": 14,
+          "media_count": 869,
+          "tweet_count": 7721
+        },
+        "url": "https://t.co/tLUkhJhv5p",
+        "username": "schizovoid",
+        "verified": false
+      }
+    ]
+  }
+}

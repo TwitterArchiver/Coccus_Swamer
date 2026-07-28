@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1888558119544062400",
+    "created_at": "2025-02-09T12:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T13:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888558563469206015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1837541836485021698",
+          "start": 0,
+          "username": "sh0r123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888558563469206015",
+    "in_reply_to_user_id": "1837541836485021698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888558119544062400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sh0r123 感谢返图🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1888558119544062400",
+        "created_at": "2025-02-09T12:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T13:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888558563469206015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1837541836485021698",
+              "start": 0,
+              "username": "sh0r123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888558563469206015",
+        "in_reply_to_user_id": "1837541836485021698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888558119544062400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh0r123 感谢返图🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888557881093677057"
+          ]
+        },
+        "author_id": "1837541836485021698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1888558119544062400",
+        "created_at": "2025-02-09T11:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T12:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888558119544062400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1552238688590958592",
+              "start": 3,
+              "username": "Coccus_Swamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hzaRYUVZv7",
+              "end": 62,
+              "expanded_url": "https://x.com/sh0r123/status/1888558119544062400/photo/1",
+              "media_key": "3_1888557881093677057",
+              "start": 39,
+              "url": "https://t.co/hzaRYUVZv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888558119544062400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "收到了@Coccus_Swamer 的pea！谢谢你ww发货很快，包装很用心 https://t.co/hzaRYUVZv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1887284246475383078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 1698,
+          "like_count": 7716,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 2750
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-21T17:18:16.000Z",
+        "description": "=沙丁鱼 爱着所有人",
+        "id": "1837541836485021698",
+        "name": "(＞人＜;)",
+        "pinned_tweet_id": "1850185757283287245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874465245491793920/Jei8S1vx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 277,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 371
+        },
+        "username": "sh0r123",
+        "verified": false
+      }
+    ]
+  }
+}

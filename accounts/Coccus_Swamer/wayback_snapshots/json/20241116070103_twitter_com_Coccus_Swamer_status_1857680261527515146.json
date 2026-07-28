@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857356365855096832"
+      ],
+      "media_source_tweet_id": [
+        "1857356375002927453"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1857680261527515146",
+    "created_at": "2024-11-16T07:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T08:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857680261527515146"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 14,
+          "tag": "ranfrencosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797566075007320064",
+          "start": 3,
+          "username": "high1cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LU06vWhxAk",
+          "end": 53,
+          "expanded_url": "https://x.com/high1cos/status/1857356375002927453/photo/1",
+          "media_key": "3_1857356365855096832",
+          "start": 30,
+          "url": "https://t.co/LU06vWhxAk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857680261527515146",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857356375002927453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @high1cos: #ranfrencosplay https://t.co/LU06vWhxAk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1857356365855096832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcanxigagAA91_4.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857356365855096832"
+          ],
+          "media_source_tweet_id": [
+            "1857356375002927453"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1857680261527515146",
+        "created_at": "2024-11-16T07:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T08:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857680261527515146"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 14,
+              "tag": "ranfrencosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797566075007320064",
+              "start": 3,
+              "username": "high1cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LU06vWhxAk",
+              "end": 53,
+              "expanded_url": "https://x.com/high1cos/status/1857356375002927453/photo/1",
+              "media_key": "3_1857356365855096832",
+              "start": 30,
+              "url": "https://t.co/LU06vWhxAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857680261527515146",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857356375002927453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @high1cos: #ranfrencosplay https://t.co/LU06vWhxAk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857356365855096832"
+          ]
+        },
+        "author_id": "1797566075007320064",
+        "conversation_id": "1857356375002927453",
+        "created_at": "2024-11-15T09:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T10:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857356375002927453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "ranfrencosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LU06vWhxAk",
+              "end": 39,
+              "expanded_url": "https://x.com/high1cos/status/1857356375002927453/photo/1",
+              "media_key": "3_1857356365855096832",
+              "start": 16,
+              "url": "https://t.co/LU06vWhxAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857356375002927453",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 16351,
+          "like_count": 1712,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "#ranfrencosplay https://t.co/LU06vWhxAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1854462143812514271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 1171,
+          "like_count": 5767,
+          "listed_count": 0,
+          "tweet_count": 1967
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T09:48:58.000Z",
+        "description": "コスとオタ活を楽しんでるレイヤー /日本語、中文、English🙆🏻‍♀️/DM🙆🏻/ﾏｼｭﾏﾛ・ﾘﾄﾘﾝ👇🏻 陰＆爺＆人外最高尊崇/捏造・ホラー寄り⚠︎︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/highguage",
+                "end": 23,
+                "expanded_url": "https://lit.link/highguage",
+                "start": 0,
+                "url": "https://t.co/EeXC3acdSK"
+              }
+            ]
+          }
+        },
+        "id": "1797566075007320064",
+        "location": "通知off",
+        "name": "廃ゲ衛侍",
+        "pinned_tweet_id": "1808612866423148814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827498828146360320/IrVMpqqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 11,
+          "like_count": 5650,
+          "listed_count": 4,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/EeXC3acdSK",
+        "username": "high1cos",
+        "verified": false
+      }
+    ]
+  }
+}

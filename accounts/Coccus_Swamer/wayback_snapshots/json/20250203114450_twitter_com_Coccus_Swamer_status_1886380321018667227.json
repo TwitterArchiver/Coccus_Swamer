@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1886380321018667227",
+    "created_at": "2025-02-03T11:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T12:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886380321018667227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Coccus_Swamer/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Coccus_Swamer/status/1886380081368756510",
+          "start": 16,
+          "url": "https://t.co/6qS88vazxF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886380321018667227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886380081368756510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "血液的作用是，為信仰付出代價。 https://t.co/6qS88vazxF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1886380321018667227",
+        "created_at": "2025-02-03T11:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T12:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886380321018667227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Coccus_Swamer/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Coccus_Swamer/status/1886380081368756510",
+              "start": 16,
+              "url": "https://t.co/6qS88vazxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886380321018667227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886380081368756510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "血液的作用是，為信仰付出代價。 https://t.co/6qS88vazxF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1886380081368756510",
+        "created_at": "2025-02-03T11:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T12:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886380081368756510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886380081368756510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "組織學與胚胎學終於結束了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1885764777039048935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1632,
+          "like_count": 7574,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 2715
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

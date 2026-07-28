@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862538644549992448"
+      ],
+      "media_source_tweet_id": [
+        "1862538649122021396"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1862746676467048697",
+    "created_at": "2024-11-30T06:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T07:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862746676467048697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1758479697879482368",
+          "start": 3,
+          "username": "maichongsheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CffVleEaam",
+          "end": 42,
+          "expanded_url": "https://x.com/maichongsheng/status/1862538649122021396/photo/1",
+          "media_key": "3_1862538644549992448",
+          "start": 19,
+          "url": "https://t.co/CffVleEaam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862746676467048697",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 370
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862538649122021396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maichongsheng: https://t.co/CffVleEaam"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1862746676467048697].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1862746676467048697",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1862746676467048697"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1862538644549992448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdkRB3DXAAAGg9w.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862538644549992448"
+          ]
+        },
+        "author_id": "1758479697879482368",
+        "conversation_id": "1862538649122021396",
+        "created_at": "2024-11-29T16:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T17:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862538649122021396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CffVleEaam",
+              "end": 23,
+              "expanded_url": "https://x.com/maichongsheng/status/1862538649122021396/photo/1",
+              "media_key": "3_1862538644549992448",
+              "start": 0,
+              "url": "https://t.co/CffVleEaam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862538649122021396",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 19021,
+          "like_count": 2713,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CffVleEaam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n激素治療中MTX/恋血慕残/od/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 1277,
+          "like_count": 6133,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2084
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T13:13:35.000Z",
+        "description": "Скоро с тобой буду я рядом\n@xiaomai___",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "xiaomai___"
+              }
+            ]
+          }
+        },
+        "id": "1758479697879482368",
+        "location": "被分尸成数干块后丢进大海",
+        "name": "小霾",
+        "pinned_tweet_id": "1852908423362629866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861140444576653315/uEU0qT4u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 146,
+          "like_count": 1091,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 407
+        },
+        "username": "maichongsheng",
+        "verified": false
+      }
+    ]
+  }
+}

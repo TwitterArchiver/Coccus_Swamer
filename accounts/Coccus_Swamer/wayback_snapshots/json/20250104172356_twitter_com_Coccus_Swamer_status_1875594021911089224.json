@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1875594021911089224",
+    "created_at": "2025-01-04T17:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T18:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875594021911089224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TheSoutaLynn/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/TheSoutaLynn/status/1874987027802038291",
+          "start": 9,
+          "url": "https://t.co/weZhnnA7Al"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875594021911089224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874987027802038291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "六等文官乞乞科夫 https://t.co/weZhnnA7Al"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1875594021911089224",
+        "created_at": "2025-01-04T17:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T18:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875594021911089224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TheSoutaLynn/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/TheSoutaLynn/status/1874987027802038291",
+              "start": 9,
+              "url": "https://t.co/weZhnnA7Al"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875594021911089224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874987027802038291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六等文官乞乞科夫 https://t.co/weZhnnA7Al"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683441735144439808",
+        "conversation_id": "1874987027802038291",
+        "created_at": "2025-01-03T01:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T02:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874987027802038291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874987027802038291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12589,
+          "like_count": 302,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“在开始约会之前 ，我应该说一下，我玩主奴”\n“你玩哪种类型的奴？”\n“农奴”\n“我操了”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 1460,
+          "like_count": 6743,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 2344
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥2024.4.20/持“证”ADHD/178cm57kg/A-Level🇭🇰/birth:2008.5./minority/Apex🎮手柄22赛季钻0.3辅瞄享受者/舞萌w3 神人/VOCALOID/Sis:@beijieyoufengle💙💜 “愿我们所有人都能到达理想的彼岸”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 114,
+                "username": "beijieyoufengle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "https://b23.tv/jzX4Sbm",
+        "name": "翎.1mmoRtaL🍥",
+        "pinned_tweet_id": "1841737663013118000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874807514019270656/oxLjbuBW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 1477,
+          "like_count": 72174,
+          "listed_count": 14,
+          "media_count": 2246,
+          "tweet_count": 17717
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "TheSoutaLynn",
+        "verified": false
+      }
+    ]
+  }
+}

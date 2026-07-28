@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954222825113276416",
+        "3_1954222819471945728",
+        "3_1954222820545728512",
+        "3_1954222825033621504"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1954222828737138943",
+    "created_at": "2025-08-09T16:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T17:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954222828737138943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UBfdsl5UUH",
+          "end": 28,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1954222828737138943/photo/1",
+          "media_key": "3_1954222825113276416",
+          "start": 5,
+          "url": "https://t.co/UBfdsl5UUH"
+        },
+        {
+          "display_url": "pic.x.com/UBfdsl5UUH",
+          "end": 28,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1954222828737138943/photo/1",
+          "media_key": "3_1954222819471945728",
+          "start": 5,
+          "url": "https://t.co/UBfdsl5UUH"
+        },
+        {
+          "display_url": "pic.x.com/UBfdsl5UUH",
+          "end": 28,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1954222828737138943/photo/1",
+          "media_key": "3_1954222820545728512",
+          "start": 5,
+          "url": "https://t.co/UBfdsl5UUH"
+        },
+        {
+          "display_url": "pic.x.com/UBfdsl5UUH",
+          "end": 28,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1954222828737138943/photo/1",
+          "media_key": "3_1954222825033621504",
+          "start": 5,
+          "url": "https://t.co/UBfdsl5UUH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954222828737138943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点像谁 https://t.co/UBfdsl5UUH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1491,
+        "media_key": "3_1954222825113276416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx7LTjbWUAA9vwO.jpg",
+        "width": 1439
+      },
+      {
+        "height": 1131,
+        "media_key": "3_1954222819471945728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx7LTOaWcAAiDog.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1278,
+        "media_key": "3_1954222820545728512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx7LTSaXEAAWS-C.jpg",
+        "width": 1435
+      },
+      {
+        "height": 1795,
+        "media_key": "3_1954222825033621504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx7LTjIW4AAlOhf.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954222825113276416",
+            "3_1954222819471945728",
+            "3_1954222820545728512",
+            "3_1954222825033621504"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1954222828737138943",
+        "created_at": "2025-08-09T16:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T17:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954222828737138943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBfdsl5UUH",
+              "end": 28,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1954222828737138943/photo/1",
+              "media_key": "3_1954222825113276416",
+              "start": 5,
+              "url": "https://t.co/UBfdsl5UUH"
+            },
+            {
+              "display_url": "pic.x.com/UBfdsl5UUH",
+              "end": 28,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1954222828737138943/photo/1",
+              "media_key": "3_1954222819471945728",
+              "start": 5,
+              "url": "https://t.co/UBfdsl5UUH"
+            },
+            {
+              "display_url": "pic.x.com/UBfdsl5UUH",
+              "end": 28,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1954222828737138943/photo/1",
+              "media_key": "3_1954222820545728512",
+              "start": 5,
+              "url": "https://t.co/UBfdsl5UUH"
+            },
+            {
+              "display_url": "pic.x.com/UBfdsl5UUH",
+              "end": 28,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1954222828737138943/photo/1",
+              "media_key": "3_1954222825033621504",
+              "start": 5,
+              "url": "https://t.co/UBfdsl5UUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954222828737138943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点像谁 https://t.co/UBfdsl5UUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 2509,
+          "like_count": 10145,
+          "listed_count": 0,
+          "media_count": 617,
+          "tweet_count": 3438
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

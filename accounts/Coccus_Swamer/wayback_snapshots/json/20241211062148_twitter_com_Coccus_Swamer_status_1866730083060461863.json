@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1866442071600775651",
+    "created_at": "2024-12-11T06:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T07:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866730083060461863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1808535836247609347",
+          "start": 0,
+          "username": "KMT198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866730083060461863",
+    "in_reply_to_user_id": "1808535836247609347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866442071600775651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KMT198964 日报人民"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1866442071600775651",
+        "created_at": "2024-12-11T06:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T07:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866730083060461863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1808535836247609347",
+              "start": 0,
+              "username": "KMT198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866730083060461863",
+        "in_reply_to_user_id": "1808535836247609347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866442071600775651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMT198964 日报人民"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1866442070006833152"
+          ]
+        },
+        "author_id": "1808535836247609347",
+        "conversation_id": "1866442071600775651",
+        "created_at": "2024-12-10T11:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T12:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866442071600775651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866442071600775651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1245,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我打算同友人建立一個報社以下是報社暱稱 推油們覺得哪一個更好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 1308,
+          "like_count": 6313,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 2153
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T16:18:45.000Z",
+        "description": "炸柜 健全逼，Now i am living in Chong'Qing welcome to meeting  but i am a longtime  live in HongKong！ Chinese/English /Japanese/ MTF/民國派🇹🇼/重度抑鬱 精神分裂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MiSaKaMiKoTo89…",
+                "end": 23,
+                "expanded_url": "http://t.me/MiSaKaMiKoTo8964",
+                "start": 0,
+                "url": "https://t.co/z1PTBbfj5q"
+              }
+            ]
+          }
+        },
+        "id": "1808535836247609347",
+        "location": "Tainan City, Taiwan",
+        "name": "御坂美琴🍥（努力學習）",
+        "pinned_tweet_id": "1866442071600775651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813777446837358592/Za4SEy3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 640,
+          "like_count": 2822,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/z1PTBbfj5q",
+        "username": "KMT198964",
+        "verified": false
+      }
+    ]
+  }
+}

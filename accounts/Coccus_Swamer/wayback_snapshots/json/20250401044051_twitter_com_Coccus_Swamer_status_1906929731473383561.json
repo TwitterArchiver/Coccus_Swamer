@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906929699663818752",
+        "3_1906929718928220160"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1906929731473383561",
+    "created_at": "2025-04-01T04:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T05:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906929731473383561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fswx8Dw1MH",
+          "end": 39,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1906929731473383561/photo/1",
+          "media_key": "3_1906929699663818752",
+          "start": 16,
+          "url": "https://t.co/fswx8Dw1MH"
+        },
+        {
+          "display_url": "pic.x.com/fswx8Dw1MH",
+          "end": 39,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1906929731473383561/photo/1",
+          "media_key": "3_1906929718928220160",
+          "start": 16,
+          "url": "https://t.co/fswx8Dw1MH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906929731473383561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜报：主播刚刚被公司开除学籍了 https://t.co/fswx8Dw1MH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1502,
+        "media_key": "3_1906929699663818752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnbGdWAasAAf93W.jpg",
+        "width": 1058
+      },
+      {
+        "height": 1468,
+        "media_key": "3_1906929718928220160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnbGedxaIAANos3.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906929699663818752",
+            "3_1906929718928220160"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1906929731473383561",
+        "created_at": "2025-04-01T04:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906929731473383561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fswx8Dw1MH",
+              "end": 39,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1906929731473383561/photo/1",
+              "media_key": "3_1906929699663818752",
+              "start": 16,
+              "url": "https://t.co/fswx8Dw1MH"
+            },
+            {
+              "display_url": "pic.x.com/fswx8Dw1MH",
+              "end": 39,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1906929731473383561/photo/1",
+              "media_key": "3_1906929718928220160",
+              "start": 16,
+              "url": "https://t.co/fswx8Dw1MH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906929731473383561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报：主播刚刚被公司开除学籍了 https://t.co/fswx8Dw1MH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1906384442639482930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 2111,
+          "like_count": 8661,
+          "listed_count": 0,
+          "media_count": 517,
+          "tweet_count": 3124
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

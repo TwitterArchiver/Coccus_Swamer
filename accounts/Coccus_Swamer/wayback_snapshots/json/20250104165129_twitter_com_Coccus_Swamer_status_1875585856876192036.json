@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1875584936205545874",
+    "created_at": "2025-01-04T16:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T17:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875585856876192036"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1875585856876192036",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875585754510037060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是毒虫，望周知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1875584936205545874",
+        "created_at": "2025-01-04T16:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T17:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875585856876192036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875585856876192036",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875585754510037060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是毒虫，望周知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1875584936205545874",
+        "created_at": "2025-01-04T16:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T17:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875585754510037060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/grok/share/U…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/UJRJkO048BT4Gm5EvBlMV9mqh",
+              "start": 0,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/grok/share/UJRJkO048BT4Gm5EvBlMV9mqh",
+              "url": "https://t.co/VIzT6943cq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875585754510037060",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875584936205545874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VIzT6943cq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 1460,
+          "like_count": 6739,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 2342
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

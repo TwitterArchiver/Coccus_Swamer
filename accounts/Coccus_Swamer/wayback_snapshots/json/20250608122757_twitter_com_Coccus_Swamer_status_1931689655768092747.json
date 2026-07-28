@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1931323390129803402",
+    "created_at": "2025-06-08T12:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T13:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931689655768092747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909859675530797056",
+          "start": 0,
+          "username": "suk1202xwast3d"
+        },
+        {
+          "end": 31,
+          "id": "1176077981099446272",
+          "start": 16,
+          "username": "Yesmynamehaer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931689655768092747",
+    "in_reply_to_user_id": "1909859675530797056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931382696355459265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suk1202xwast3d @Yesmynamehaer1 不喝不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1931323390129803402",
+        "created_at": "2025-06-08T12:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T13:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931689655768092747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909859675530797056",
+              "start": 0,
+              "username": "suk1202xwast3d"
+            },
+            {
+              "end": 31,
+              "id": "1176077981099446272",
+              "start": 16,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931689655768092747",
+        "in_reply_to_user_id": "1909859675530797056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931382696355459265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suk1202xwast3d @Yesmynamehaer1 不喝不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909859675530797056",
+        "conversation_id": "1931323390129803402",
+        "created_at": "2025-06-07T16:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931382696355459265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            },
+            {
+              "end": 30,
+              "id": "1552238688590958592",
+              "start": 16,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931382696355459265",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931323390129803402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 @Coccus_Swamer 又喝酒呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 2264,
+          "like_count": 9553,
+          "listed_count": 0,
+          "media_count": 574,
+          "tweet_count": 3330
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-09T06:43:41.000Z",
+        "description": "",
+        "id": "1909859675530797056",
+        "name": "SUKI -| 6.0🏳️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919626873979731970/hJoHIbkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 277,
+          "like_count": 2935,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 731
+        },
+        "username": "suk1202xwast3d",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "你好，我是白鳥/白鳥形人。\n个人药物使用/日常推，中立友善单位。\nFTX /@Dopppelaganger /Unitarian Universalists /Fyrir frelsi, fyrir mig, fyrir @Coccus_Swamer /本人可能的死亡动机请详询： @Hawthor20853776",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "Dopppelaganger"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "Coccus_Swamer"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "Hawthor20853776"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1929155582314881086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931325598825066497/3GFmpIUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 503,
+          "like_count": 22393,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 2350
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

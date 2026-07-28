@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886050442830036992"
+      ],
+      "media_source_tweet_id": [
+        "1886050649449885759"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1886072898190024719",
+    "created_at": "2025-02-02T15:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T16:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886072898190024719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1598872816560246784",
+          "start": 3,
+          "username": "akanei6no_Sora"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tFWlvakMkJ",
+          "end": 45,
+          "expanded_url": "https://x.com/akanei6no_Sora/status/1886050649449885759/photo/1",
+          "media_key": "3_1886050442830036992",
+          "start": 22,
+          "url": "https://t.co/tFWlvakMkJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886072898190024719",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886050649449885759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akanei6no_Sora: 餌 https://t.co/tFWlvakMkJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3278,
+        "media_key": "3_1886050442830036992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiyY4pFaQAAWXfq.jpg",
+        "width": 2376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886050442830036992"
+          ],
+          "media_source_tweet_id": [
+            "1886050649449885759"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1886072898190024719",
+        "created_at": "2025-02-02T15:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T16:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886072898190024719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1598872816560246784",
+              "start": 3,
+              "username": "akanei6no_Sora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFWlvakMkJ",
+              "end": 45,
+              "expanded_url": "https://x.com/akanei6no_Sora/status/1886050649449885759/photo/1",
+              "media_key": "3_1886050442830036992",
+              "start": 22,
+              "url": "https://t.co/tFWlvakMkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886072898190024719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886050649449885759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akanei6no_Sora: 餌 https://t.co/tFWlvakMkJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886050442830036992"
+          ]
+        },
+        "author_id": "1598872816560246784",
+        "conversation_id": "1886050649449885759",
+        "created_at": "2025-02-02T13:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886050649449885759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFWlvakMkJ",
+              "end": 25,
+              "expanded_url": "https://x.com/akanei6no_Sora/status/1886050649449885759/photo/1",
+              "media_key": "3_1886050442830036992",
+              "start": 2,
+              "url": "https://t.co/tFWlvakMkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886050649449885759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 7648,
+          "like_count": 696,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "餌 https://t.co/tFWlvakMkJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1885764777039048935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 1629,
+          "like_count": 7552,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 2701
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-03T02:53:13.000Z",
+        "description": "絶望感の漂う絵と黒髪が好き\nSkeb‣‣https://t.co/52Qf2eE4dM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@akanei6no_Sora",
+                "end": 43,
+                "expanded_url": "https://skeb.jp/@akanei6no_Sora",
+                "start": 20,
+                "url": "https://t.co/52Qf2eE4dM"
+              }
+            ]
+          }
+        },
+        "id": "1598872816560246784",
+        "name": "夜坂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855767533741285376/Z5apT6YX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46952,
+          "following_count": 39,
+          "like_count": 3875,
+          "listed_count": 90,
+          "media_count": 51,
+          "tweet_count": 4191
+        },
+        "username": "akanei6no_Sora",
+        "verified": true
+      }
+    ]
+  }
+}

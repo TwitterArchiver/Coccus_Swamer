@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1883197451433386046",
+    "created_at": "2025-01-25T16:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T17:53:38.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883196541982421386",
+      "1883197451433386046"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1883197451433386046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "说某种疫苗，一剂的防护有效率大约是50%，两剂的防护有效率大约是70%。\n\n对此，绝大多数人的理解是，一剂疫苗可以让他对50%的病原免疫, 两剂就能对70%的病原免疫，所以不管怎么样，只要注射了疫苗,就能产生有效的免疫。\n\n大错特错。\n\n这个“有效率”是个统计数据，它的真正含义是，一剂疫苗下去，可以给50%的人充分的免疫，不再感染病原，但还有50%的人没有免疫反应，就像没接种一样。两剂下去，免疫充分的人就增加到70%。\n\n总之，不论几剂疫苗,有效率之外那些人，都等于没打，而且在检测抗体之前，你也不知道自己是不是这个天赋异禀的倒霉鬼。\n\n然而，如果据此认为有效率之外那些人的感染风险和疫苗推广之前一样高，那也同样大错特错了——疫苗有效的那些 人会形成相当可靠的群体免疫，保护无效的人。\n\n比如天花疫苗也不是100%有效,但我们还是用它从地球上灭绝了这种病毒。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说某种疫苗，一剂的防护有效率大约是50%，两剂的防护有效率大约是70%。\n\n对此，绝大多数人的理解是，一剂疫苗可以让他对50%的病原免疫, 两剂就能对70%的病原免疫，所以不管怎么样，只要注射了疫苗,就能产生有效的免疫。\n\n大错特错。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1883196541982421386",
+        "created_at": "2025-01-25T16:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T17:53:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883196541982421386",
+          "1883197451433386046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883196541982421386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说某种疫苗，一剂的防护有效率大约是50%，两剂的防护有效率大约是70%。\n\n对此，绝大多数人的理解是，一剂疫苗可以让他对50%的病原免疫, 两剂就能对70%的病原免疫，所以不管怎么样，只要注射了疫苗,就能产生有效的免疫。\n\n大错特错。\n\n这个“有效率”是个统计数据，它的真正含义是，一 剂疫苗下去，可以给50%的人充分的免疫，不再感染病原，但还有50%的人没有免疫反应，就像没接种一样。两剂下去，免疫充分的人就增加到70%。\n\n总之，不论几剂疫苗,有效率之外那些人，都等于没打，而且在检测抗体之前，你也不知道自己是不是这个天赋异禀的倒霉鬼。\n\n然而，如果据此认为有效率之外那些人的感染风险和疫苗推广之前一样高，那也同样大错特错了——疫苗有效的那些 人会形成相当可靠的群体免疫，保护无效的人。\n\n比如天花疫苗也不是100%有效,但我们还是用它从地球上灭绝了这种病毒。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说某种疫苗，一剂的防护有效率大约是50%，两剂的防护有效率大约是70%。\n\n对此，绝大多数人的理解是，一剂疫苗可以让他对50%的病原免疫, 两剂就能对70%的病原免疫，所以不管怎么样，只要注射了疫苗,就能产生有效的免疫。\n\n大错特错。\n\n这个“有效率”是个统计数据，它的真正含义是，一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1883197451433386046",
+        "created_at": "2025-01-25T16:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T17:53:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883196541982421386",
+          "1883197451433386046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883197451433386046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说某种疫苗，一剂的防护有效率大约是50%，两剂的防护有效率大约是70%。\n\n对此，绝大多数人的理解是，一剂疫苗可以让他对50%的病原免疫, 两剂就能对70%的病原免疫，所以不管怎么样，只要注射了疫苗,就能产生有效的免疫。\n\n大错特错。\n\n这个“有效率”是个统计数据，它的真正含义是，一剂疫苗下去，可以给50%的人充分的免疫，不再感染病原，但还有50%的人没有免疫反应，就像没接种一样。两剂下去，免疫充分的人就增加到70%。\n\n总之，不论几剂疫苗,有效率之外那些人，都等于没打，而且在检测抗体之前，你也不知道自己是不是这个天赋异禀的倒霉鬼。\n\n然而，如果据此认为有效率之外那些人的感染风险和疫苗推广之前一样高，那也同样大错特错了——疫苗有效的那些 人会形成相当可靠的群体免疫，保护无效的人。\n\n比如天花疫苗也不是100%有效,但我们还是用它从地球上灭绝了这种病毒。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说某种疫苗，一剂的防护有效率大约是50%，两剂的防护有效率大约是70%。\n\n对此，绝大多数人的理解是，一剂疫苗可以让他对50%的病原免疫, 两剂就能对70%的病原免疫，所以不管怎么样，只要注射了疫苗,就能产生有效的免疫。\n\n大错特错。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1882825174426566752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 1546,
+          "like_count": 7260,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 2565
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1900194691699912990",
+    "created_at": "2025-03-13T14:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T15:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900194691699912990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Coccus_Swamer/…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/Coccus_Swamer/status/1900178598172180797",
+          "start": 143,
+          "url": "https://t.co/JOIguxDeAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900194691699912990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "确实雄性激素会削弱免疫功能，让男孩更容易死于疾病；还会让他们更逞能，容易作死。到最后，整个种群的性别比例仍然会大体平衡。即便有了现代文明，男孩夭折率大大降低，但女性预期寿命仍然长于男性预期寿命——但这只是幻想。在蛮荒或者混乱的地方，男性死亡率很高，导致女性占多数；在发达而和平的地方，男性能够活下来，但寿命比不上女性，最后也是女性占多数；然而同样是在某些地方，却是男性占了多数，显然，是有更多的女孩，“悄无声息地死掉”了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900178598172180797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实雄性激素会削弱免疫功能，让男孩更容易死于疾病；还会让他们更逞能，容易作死。到最后，整个种群的性别比例仍然会大体平衡。即便有了现代文明，男孩夭折率大大降低，但女性预期寿命仍然长于男性预期寿命——但这只是幻想。在蛮荒或者混乱的地方，男性死亡率很高，导致女性占多数；在发达而和平的地方… https://t.co/JOIguxDeAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_1900178594439323648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl7KXTNbYAAZKUm.jpg",
+        "width": 1310
+      },
+      {
+        "height": 1156,
+        "media_key": "3_1900178593843732481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl7KXQ_bYAETp9_.jpg",
+        "width": 1638
+      },
+      {
+        "height": 1156,
+        "media_key": "3_1900178592749019138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl7KXM6bYAIDvkc.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1900194691699912990",
+        "created_at": "2025-03-13T14:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T15:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900194691699912990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Coccus_Swamer/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Coccus_Swamer/status/1900178598172180797",
+              "start": 143,
+              "url": "https://t.co/JOIguxDeAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900194691699912990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "确实雄性激素会削弱免疫功能，让男孩更容易死于疾病；还会让他们更逞能，容易作死。到最后，整个种群的性别比例仍然会大体平衡。即便有了现代文明，男孩夭折率大大降低，但女性预期寿命仍然长于男性预期寿命——但这只是幻想。在蛮荒或者混乱的地方，男性死亡率很高，导致女性占多数；在发达而和平的地方，男性能够活下来，但寿命比不上女性，最后也是女性占多数；然而同样是在某些地方，却是男性占了多数，显然，是有更多的女孩，“悄无声息地死掉”了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900178598172180797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实雄性激素会削弱免疫功能，让男孩更容易死于疾病；还会让他们更逞能，容易作死。到最后，整个种群的性别比例仍然会大体平衡。即便有了现代文明，男孩夭折率大大降低，但女性预期寿命仍然长于男性预期寿命——但这只是幻想。在蛮荒或者混乱的地方，男性死亡率很高，导致女性占多数；在发达而和平的地方… https://t.co/JOIguxDeAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900178594439323648",
+            "3_1900178593843732481",
+            "3_1900178592749019138"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1900178598172180797",
+        "created_at": "2025-03-13T13:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T14:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900178598172180797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPwM7hMJUt",
+              "end": 163,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1900178598172180797/photo/1",
+              "media_key": "3_1900178594439323648",
+              "start": 140,
+              "url": "https://t.co/kPwM7hMJUt"
+            },
+            {
+              "display_url": "pic.x.com/kPwM7hMJUt",
+              "end": 163,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1900178598172180797/photo/1",
+              "media_key": "3_1900178593843732481",
+              "start": 140,
+              "url": "https://t.co/kPwM7hMJUt"
+            },
+            {
+              "display_url": "pic.x.com/kPwM7hMJUt",
+              "end": 163,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1900178598172180797/photo/1",
+              "media_key": "3_1900178592749019138",
+              "start": 140,
+              "url": "https://t.co/kPwM7hMJUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900178598172180797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "生物上来讲，生男生女的概率其实并不一样。严格来讲，自然状态的生育比例男女应该是105:100左右。\n\n这是因为女人比男人多了一条X染色体——这条X染色体上的基因剂量太大，“处理”不好就会致死，导致她们更容易在胚胎极早期夭折。\n\n女人的性染色体是XX，男人的是XY，这就麻烦了。\n\n基因的“剂量”是个体发育中至关重要的东西。\n相比Y染色体，X染色体拥有大约2000个独有的基因。女人多一条X染色体，就是2000个基因剂量加倍。而其它染色体并没有性别差异，这就导致了或者男性，或者女性，必有一方基因剂量失衡。\n要知道，哪怕人类最小的染色体，21号染色体，只要多出来一条，就会大概率流产，或者养出个“唐氏综合征”的弱智来。换成X染色体这么大的基因剂量失衡，那是必然死胎的。\n\n所以哺乳动物进化出了一种“X染色体失活”的平衡机制：\n雌性的体细胞中，会有随机的一条X染色体被封印掉，失去绝大部分的活性，这样就相当于只有一条X染色体，与男性一样了。\n这在胚胎只有区区几个细胞的时候就已经开始了，但有不到5％的女胚胎会封印失败，然后就“悄无声息地死掉”了，母体甚至不知道自己有过这个胚胎，结果就是女胎会比男胎少一些。\n另外，试管婴儿需要体外受精，这种封印也更容易出错，所以试管婴儿的男婴出生率也会格外高。\n\n但是人的事情，要比自然复杂得多了——那又是一个个残酷的血的故事。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "生物上来讲，生男生女的概率其实并不一样。严格来讲，自然状态的生育比例男女应该是105:100左右。\n\n这是因为女人比男人多了一条X染色体——这条X染色体上的基因剂量太大，“处理”不好就会致死，导致她们更容易在胚胎极早期夭折。\n\n女人的性染色体是XX，男人的是XY，这就麻烦了。… https://t.co/kPwM7hMJUt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1900165369517793788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1939,
+          "like_count": 8170,
+          "listed_count": 0,
+          "media_count": 489,
+          "tweet_count": 2983
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978350126604464128"
+      ],
+      "media_source_tweet_id": [
+        "1978350151203803291"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1978403108733506004",
+    "created_at": "2025-10-15T10:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T11:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978403108733506004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1879338554511495168",
+          "start": 3,
+          "username": "BAshirasu_1226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGYVEbYEjn",
+          "end": 66,
+          "expanded_url": "https://x.com/BAshirasu_1226/status/1978350151203803291/photo/1",
+          "media_key": "3_1978350126604464128",
+          "start": 43,
+          "url": "https://t.co/gGYVEbYEjn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978403108733506004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978350151203803291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BAshirasu_1226: 祝自己早日下地狱，被分尸，肢解，死得越惨越好 https://t.co/gGYVEbYEjn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1978403108733506004].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1978403108733506004",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978403108733506004"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2464,
+        "media_key": "3_1978350126604464128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3SC9VmbsAAdXUh.jpg",
+        "width": 3280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978350126604464128"
+          ]
+        },
+        "author_id": "1879338554511495168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1978350151203803291",
+        "created_at": "2025-10-15T06:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T07:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978350151203803291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGYVEbYEjn",
+              "end": 46,
+              "expanded_url": "https://x.com/BAshirasu_1226/status/1978350151203803291/photo/1",
+              "media_key": "3_1978350126604464128",
+              "start": 23,
+              "url": "https://t.co/gGYVEbYEjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978350151203803291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1598,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "祝自己早日下地狱，被分尸，肢解，死得越惨越好 https://t.co/gGYVEbYEjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1973745736216158259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 2548,
+          "like_count": 10028,
+          "listed_count": 0,
+          "media_count": 638,
+          "tweet_count": 3494
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "06年 Mtf or MtX |翻车顺男|家长不管党|175cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游入（底力恢复ing）|HRT2024.4.22|自切时间2025.6.10|闲散人员一只|永远爱@Takina_Jimato（其实是小梓和小特😋）|里推:@mai_HAYASE_chu|🚪:77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/wlKM5coAgb"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978350326135816192/4pxoKG7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13745,
+          "following_count": 360,
+          "like_count": 1348,
+          "listed_count": 16,
+          "media_count": 228,
+          "tweet_count": 1646
+        },
+        "url": "https://t.co/wlKM5coAgb",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}

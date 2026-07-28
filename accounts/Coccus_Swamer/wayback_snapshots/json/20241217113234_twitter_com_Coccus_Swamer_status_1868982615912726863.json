@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1868982615912726863",
+    "created_at": "2024-12-17T11:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T12:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868982615912726863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628411023249096706",
+          "start": 3,
+          "username": "misakiyg"
+        },
+        {
+          "end": 25,
+          "id": "246162698",
+          "start": 14,
+          "username": "EliteCadre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868982615912726863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868839750632980829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misakiyg: @EliteCadre 如果真的是这样就好了，我自愿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1868982615912726863",
+        "created_at": "2024-12-17T11:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T12:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868982615912726863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628411023249096706",
+              "start": 3,
+              "username": "misakiyg"
+            },
+            {
+              "end": 25,
+              "id": "246162698",
+              "start": 14,
+              "username": "EliteCadre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868982615912726863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868839750632980829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @misakiyg: @EliteCadre 如果真的是这样就好了，我自愿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628411023249096706",
+        "conversation_id": "1868609365269496174",
+        "created_at": "2024-12-17T02:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T03:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868839750632980829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "246162698",
+              "start": 0,
+              "username": "EliteCadre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868839750632980829",
+        "in_reply_to_user_id": "246162698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5262,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868609365269496174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EliteCadre 如果真的是这样就好了，我自愿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重（低价精神药品购买私聊",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1347,
+          "like_count": 6433,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 2216
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T15:07:07.000Z",
+        "description": "三崎的小号，三崎还是那个互联网小天使愿永远以帮助大家，买任何药都可以找我，也可以来和我玩，谢谢你们",
+        "id": "1628411023249096706",
+        "location": "Moon",
+        "name": "浅羽見崎（三崎小号",
+        "pinned_tweet_id": "1866750761537085807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865264977822781440/t8WvkdF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 402,
+          "like_count": 1708,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 292
+        },
+        "username": "misakiyg",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-02T07:57:16.000Z",
+        "description": "ENFPOH渐\nso/sp4w3-6w5-1w2\n胆汁质-多血质\nrlOEI\n守序善良\n社群左翼-民族布尔什维克/左翼民族主义\n泛百合控(真伪变里)  ACGN 和风 科幻 心理 伪娘控(既当也控)\n人类至上主义(警惕科技失控,捍卫人类物种存续)\n取向为其他男娘(优先无糖)\n#女装 #男の娘 #偽娘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 138,
+                "tag": "女装"
+              },
+              {
+                "end": 146,
+                "start": 142,
+                "tag": "男の娘"
+              },
+              {
+                "end": 150,
+                "start": 147,
+                "tag": "偽娘"
+              }
+            ]
+          }
+        },
+        "id": "246162698",
+        "location": "中国大陆北京/China(MainLand)Beijing",
+        "name": "神楽坂🌸実琴🇨🇳",
+        "pinned_tweet_id": "1724382267626401990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776664787067510785/SgYOY8qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 4948,
+          "like_count": 5048,
+          "listed_count": 38,
+          "media_count": 82,
+          "tweet_count": 616
+        },
+        "username": "EliteCadre",
+        "verified": false
+      }
+    ]
+  }
+}

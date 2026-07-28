@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070300306345480192"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2070300314713149666",
+    "created_at": "2026-06-26T00:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T01:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070300314713149666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MvZ09h05gN",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2070300314713149666/photo/1",
+          "media_key": "3_2070300306345480192",
+          "start": 0,
+          "url": "https://t.co/MvZ09h05gN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070300314713149666",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MvZ09h05gN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070300306345480192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsvKOIa0AAbg_7.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070300306345480192"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2070300314713149666",
+        "created_at": "2026-06-26T00:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070300314713149666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvZ09h05gN",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2070300314713149666/photo/1",
+              "media_key": "3_2070300306345480192",
+              "start": 0,
+              "url": "https://t.co/MvZ09h05gN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070300314713149666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MvZ09h05gN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 2534,
+          "like_count": 9777,
+          "listed_count": 0,
+          "media_count": 669,
+          "tweet_count": 3606
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

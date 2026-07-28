@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1924874775328899072"
+      ],
+      "media_source_tweet_id": [
+        "1924874821311070548"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1925025320035631395",
+    "created_at": "2025-05-21T03:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T04:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925025320035631395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1487517478964142080",
+          "start": 3,
+          "username": "Konatabutreal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cNU5V1gc2t",
+          "end": 42,
+          "expanded_url": "https://x.com/Konatabutreal/status/1924874821311070548/video/1",
+          "media_key": "7_1924874775328899072",
+          "start": 19,
+          "url": "https://t.co/cNU5V1gc2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925025320035631395",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924874821311070548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Konatabutreal: https://t.co/cNU5V1gc2t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14266,
+        "height": 720,
+        "media_key": "7_1924874775328899072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1924874775328899072/pu/img/tXZ-KiP-3A3Wk36n.jpg",
+        "public_metrics": {
+          "view_count": 763
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924874775328899072/pu/vid/avc1/320x320/SNhVSGxGW2a7Za6P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924874775328899072/pu/vid/avc1/540x540/5x91sdrWA10yTlnS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924874775328899072/pu/vid/avc1/720x720/3zgxwNbhc1qf8UkQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1924874775328899072/pu/pl/5BTTp_f5nnqXFSGd.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1924874775328899072"
+          ],
+          "media_source_tweet_id": [
+            "1924874821311070548"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925025320035631395",
+        "created_at": "2025-05-21T03:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T04:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925025320035631395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1487517478964142080",
+              "start": 3,
+              "username": "Konatabutreal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNU5V1gc2t",
+              "end": 42,
+              "expanded_url": "https://x.com/Konatabutreal/status/1924874821311070548/video/1",
+              "media_key": "7_1924874775328899072",
+              "start": 19,
+              "url": "https://t.co/cNU5V1gc2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925025320035631395",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924874821311070548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Konatabutreal: https://t.co/cNU5V1gc2t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1924874775328899072"
+          ]
+        },
+        "author_id": "1487517478964142080",
+        "conversation_id": "1924874821311070548",
+        "created_at": "2025-05-20T17:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T18:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924874821311070548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNU5V1gc2t",
+              "end": 23,
+              "expanded_url": "https://x.com/Konatabutreal/status/1924874821311070548/video/1",
+              "media_key": "7_1924874775328899072",
+              "start": 0,
+              "url": "https://t.co/cNU5V1gc2t"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "272596500e51c07a"
+        },
+        "id": "1924874821311070548",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 1512,
+          "like_count": 279,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cNU5V1gc2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 2251,
+          "like_count": 9344,
+          "listed_count": 0,
+          "media_count": 565,
+          "tweet_count": 3302
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-29T20:06:29.000Z",
+        "description": "im clearly obsessed with lucky star\n    \n                            huge konata poster",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "konatabutreal.straw.page",
+                "end": 23,
+                "expanded_url": "https://konatabutreal.straw.page",
+                "start": 0,
+                "url": "https://t.co/UPjkJmuRe1"
+              }
+            ]
+          }
+        },
+        "id": "1487517478964142080",
+        "location": "The Izumi Hosuehold",
+        "name": "KonataButReal",
+        "pinned_tweet_id": "1918392577780293944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893711788211904513/NWBbVMCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 126,
+          "like_count": 7547,
+          "listed_count": 4,
+          "media_count": 684,
+          "tweet_count": 2844
+        },
+        "url": "https://t.co/UPjkJmuRe1",
+        "username": "Konatabutreal",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885508083709075461"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1885508086779306244",
+    "created_at": "2025-02-01T01:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T02:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885508086779306244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Sbw1y2P4z",
+          "end": 38,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1885508086779306244/photo/1",
+          "media_key": "3_1885508083709075461",
+          "start": 15,
+          "url": "https://t.co/9Sbw1y2P4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885508086779306244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "此外+105mg咖啡因\n早安 https://t.co/9Sbw1y2P4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1885508083709075461",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiqrnL6bYAUdGSD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885508083709075461"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1885508086779306244",
+        "created_at": "2025-02-01T01:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T02:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885508086779306244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Sbw1y2P4z",
+              "end": 38,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1885508086779306244/photo/1",
+              "media_key": "3_1885508083709075461",
+              "start": 15,
+              "url": "https://t.co/9Sbw1y2P4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885508086779306244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此外+105mg咖啡因\n早安 https://t.co/9Sbw1y2P4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1882825174426566752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 1616,
+          "like_count": 7478,
+          "listed_count": 0,
+          "media_count": 432,
+          "tweet_count": 2678
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1867286756183486519",
+    "created_at": "2024-12-12T20:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T21:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867301534687801833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664988013406089217",
+          "start": 0,
+          "username": "iwanna2k1llpopo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867301534687801833",
+    "in_reply_to_user_id": "1664988013406089217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867286756183486519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwanna2k1llpopo 我在呢宝宝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867286756183486519].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867286756183486519",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867286756183486519"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1867286756183486519",
+        "created_at": "2024-12-12T20:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T21:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867301534687801833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664988013406089217",
+              "start": 0,
+              "username": "iwanna2k1llpopo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867301534687801833",
+        "in_reply_to_user_id": "1664988013406089217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867286756183486519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwanna2k1llpopo 我在呢宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1866942556237598971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 1328,
+          "like_count": 6364,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 2173
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T13:31:13.000Z",
+        "description": "enby🏳️‍⚧️｜🚩Ⓐ 🏴｜18⬆️｜shtwt🔪 /od💉",
+        "id": "1664988013406089217",
+        "name": "SUKI-3.0｜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847884901355491328/5UH9F2Y-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 571,
+          "like_count": 14552,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3935
+        },
+        "username": "iwanna2k1llpopo",
+        "verified": false
+      }
+    ]
+  }
+}

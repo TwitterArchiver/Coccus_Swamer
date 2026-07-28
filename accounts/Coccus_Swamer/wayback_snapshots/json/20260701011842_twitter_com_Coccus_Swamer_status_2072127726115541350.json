@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2072037000367251679",
+    "created_at": "2026-07-01T01:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072127726115541350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048051187946303490",
+          "start": 0,
+          "username": "YuHuaXie5211314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072127726115541350",
+    "in_reply_to_user_id": "2048051187946303490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072127159792242791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuHuaXie5211314 谢谢你眼熟我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2072037000367251679",
+        "created_at": "2026-07-01T01:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072127726115541350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048051187946303490",
+              "start": 0,
+              "username": "YuHuaXie5211314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072127726115541350",
+        "in_reply_to_user_id": "2048051187946303490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072127159792242791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuHuaXie5211314 谢谢你眼熟我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048051187946303490",
+        "conversation_id": "2072037000367251679",
+        "created_at": "2026-07-01T01:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072127159792242791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072127159792242791",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072037000367251679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 你好眼熟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 2597,
+          "like_count": 9848,
+          "listed_count": 0,
+          "media_count": 678,
+          "tweet_count": 3639
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T14:49:13.000Z",
+        "description": "需要买凝胶的话qq3675508183，提示会有风险了解详情之后加，QQ群1030745939，欢迎进来，https://t.co/RwFow0MM1y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+aKFMia07_VE0O…",
+                "end": 76,
+                "expanded_url": "https://t.me/+aKFMia07_VE0OTll",
+                "start": 53,
+                "url": "https://t.co/RwFow0MM1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aKFMia07_VE0O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aKFMia07_VE0OTll",
+                "start": 0,
+                "url": "https://t.co/RwFow0MM1y"
+              }
+            ]
+          }
+        },
+        "id": "2048051187946303490",
+        "name": "怀愚痴卖五倍雌二醇凝胶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057957588126535680/pFqcfVyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 27,
+          "like_count": 22,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/RwFow0MM1y",
+        "username": "YuHuaXie5211314",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077203362693476352"
+      ],
+      "media_source_tweet_id": [
+        "2077203377344200856"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2080575042602311927",
+    "created_at": "2026-07-24T08:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080575042602311927"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 15,
+          "tag": "goretwt"
+        },
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "subtwt"
+        },
+        {
+          "end": 43,
+          "start": 32,
+          "tag": "obslovetwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1647389426916421634",
+          "start": 3,
+          "username": "pppppukee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4ePIKX9cl",
+          "end": 67,
+          "expanded_url": "https://x.com/pppppukita/status/2077203377344200856/video/1",
+          "media_key": "13_2077203362693476352",
+          "start": 44,
+          "url": "https://t.co/C4ePIKX9cl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080575042602311927",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077203377344200856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pppppukee: #goretwt #subtwt #obslovetwt https://t.co/C4ePIKX9cl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 352,
+        "media_key": "13_2077203362693476352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077203362693476352/img/BRfp1eND0BzqqXG9.jpg",
+        "public_metrics": {
+          "view_count": 3539
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077203362693476352/vid/avc1/380x270/-G8k7d_ql03EJr-H.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077203362693476352/vid/avc1/496x352/Jn4jhPKY68PhXhiL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077203362693476352/pl/nMOAF4HQMCPsmQWm.m3u8"
+          }
+        ],
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077203362693476352"
+          ]
+        },
+        "author_id": "1647389426916421634",
+        "conversation_id": "2077203377344200856",
+        "created_at": "2026-07-15T01:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077203377344200856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "goretwt"
+            },
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "subtwt"
+            },
+            {
+              "end": 28,
+              "start": 17,
+              "tag": "obslovetwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4ePIKX9cl",
+              "end": 52,
+              "expanded_url": "https://x.com/pppppukita/status/2077203377344200856/video/1",
+              "media_key": "13_2077203362693476352",
+              "start": 29,
+              "url": "https://t.co/C4ePIKX9cl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077203377344200856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 6360,
+          "like_count": 349,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "#goretwt #subtwt #obslovetwt https://t.co/C4ePIKX9cl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077203362693476352"
+          ],
+          "media_source_tweet_id": [
+            "2077203377344200856"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2080575042602311927",
+        "created_at": "2026-07-24T08:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080575042602311927"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "goretwt"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "subtwt"
+            },
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "obslovetwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1647389426916421634",
+              "start": 3,
+              "username": "pppppukee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4ePIKX9cl",
+              "end": 67,
+              "expanded_url": "https://x.com/pppppukita/status/2077203377344200856/video/1",
+              "media_key": "13_2077203362693476352",
+              "start": 44,
+              "url": "https://t.co/C4ePIKX9cl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080575042602311927",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077203377344200856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pppppukee: #goretwt #subtwt #obslovetwt https://t.co/C4ePIKX9cl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 2694,
+          "like_count": 9984,
+          "listed_count": 0,
+          "media_count": 704,
+          "tweet_count": 3720
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-16T00:02:40.000Z",
+        "description": "⠀⣠⠤⣄⣀⡬⢤⡀\n⣾⠁⠀⠀⠁⠀⠀⢹⡆\n⠹⣆⠀⠀⠀⣀⣀⣼⢁⣀⣀⡀\n⠀⠘⢦⡀⣸⠉⠀⠈⠋⠀⠐⠹⡆\n⠀⠀⠀⠹⠾⣄⠀⠀⠀⢀⣀⣼⠃⣀⣀⠀⠀\n⠀⠀⠀⠀⠀⠙⢦⡀⢰⠋⠁⠉⠛⠉⠉⠹⡄\n⠀⠀⠀⠀⠀⠀⠈⠳⡼⡄⠀⠀⠀⠀⠀⣰⠇ \n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣆⠀⠀⢀⡴⠃⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣤⠞⠁ALL FAKE",
+        "id": "1647389426916421634",
+        "name": "hasserfüllt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079309827457662977/OMGujisM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 39,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "pppppukee",
+        "verified": false
+      }
+    ]
+  }
+}

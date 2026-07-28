@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1881847231005053237",
+    "created_at": "2025-01-28T10:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T11:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884188805026210099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820805905144819712",
+          "start": 0,
+          "username": "badanmunie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884188805026210099",
+    "in_reply_to_user_id": "1820805905144819712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884159061215830512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@badanmunie 私"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1881847231005053237",
+        "created_at": "2025-01-28T10:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T11:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884188805026210099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820805905144819712",
+              "start": 0,
+              "username": "badanmunie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884188805026210099",
+        "in_reply_to_user_id": "1820805905144819712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884159061215830512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badanmunie 私"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820805905144819712",
+        "conversation_id": "1881847231005053237",
+        "created_at": "2025-01-28T08:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T09:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884159061215830512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884159061215830512",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881847231005053237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 想要强致幻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1883274780335600052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 1547,
+          "like_count": 7361,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 2642
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-06T12:56:23.000Z",
+        "description": "男的过门",
+        "id": "1820805905144819712",
+        "location": "88好友位",
+        "name": "一丝潮红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883488904063688704/mw1Be_kp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 58,
+          "like_count": 907,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 239
+        },
+        "username": "badanmunie",
+        "verified": false
+      }
+    ]
+  }
+}

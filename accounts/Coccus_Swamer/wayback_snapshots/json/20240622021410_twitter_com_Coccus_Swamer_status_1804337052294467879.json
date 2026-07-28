@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1804337052294467879",
+    "created_at": "2024-06-22T02:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T03:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804337052294467879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1438924244327403521",
+          "start": 3,
+          "username": "adrien13809922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804337052294467879",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804261670933741971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adrien13809922: 各位宝宝们放心啦我没出事嘟！(＞人＜;)\n现在准备睡啦！多谢各位的关心和支持！\n之前的抽奖等我睡醒后开哈哈！！\n🥳转赞评这条的宝宝们付邮送2盒右美片剂，只要转发了就送！！！(^з^)-☆宝宝们自行私信我领取胶囊或片剂哈↖(^ω^)↗\n活动…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1804337052294467879",
+        "created_at": "2024-06-22T02:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T03:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804337052294467879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1438924244327403521",
+              "start": 3,
+              "username": "adrien13809922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804337052294467879",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804261670933741971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adrien13809922: 各位宝宝们放心啦我没出事嘟！(＞人＜;)\n现在准备睡啦！多谢各位的关心和支持！\n之前的抽奖等我睡醒后开哈哈！！\n🥳转赞评这条的宝宝们付邮送2盒右美片剂，只要转发了就送！！！(^з^)-☆宝宝们自行私信我领取胶囊或片剂哈↖(^ω^)↗\n活动…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804261659076382720"
+          ]
+        },
+        "author_id": "1438924244327403521",
+        "conversation_id": "1804261670933741971",
+        "created_at": "2024-06-21T21:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T22:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804261670933741971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ibdCMASjRr",
+              "end": 162,
+              "expanded_url": "https://twitter.com/adrien13809922/status/1804261670933741971/photo/1",
+              "media_key": "3_1804261659076382720",
+              "start": 139,
+              "url": "https://t.co/ibdCMASjRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804261670933741971",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1065,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "各位宝宝们放心啦我没出事嘟！(＞人＜;)\n现在准备睡啦！多谢各位的关心和支持！\n之前的抽奖等我睡醒后开哈哈！！\n🥳转赞评这条的宝宝们付邮送2盒右美片剂，只要转发了就送！！！(^з^)-☆宝宝们自行私信我领取胶囊或片剂哈↖(^ω^)↗\n活动截止时间为：我醒来发推的时候(´▽｀) https://t.co/ibdCMASjRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "早餐一種。\nMTX 休学学生 成分复杂，爱看血图，互关慎重。\n读书/药物/分享生活/日本語勉強中/Deutschlehrer/English also OK!",
+        "id": "1552238688590958592",
+        "name": "帝國粉色果醬配奶油麵包片",
+        "pinned_tweet_id": "1716744793404191029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725501871039909888/eBg1RNIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 543,
+          "like_count": 3301,
+          "listed_count": 0,
+          "tweet_count": 1050
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-17T17:54:29.000Z",
+        "description": "不走墙外 互相信任｜本店只有片剂宛横和水色右美胶囊了｜化学物质的奴隶^ ^ 没有除X外的任何联络渠道哦！⚠️⚠️｜在别的地方说是Adrien的都别信！！🖤🖤请认准这里的@adrien13809922 ☆*:.｡. o(≧▽≦)o .｡.:*☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "adrien13809922"
+              }
+            ]
+          }
+        },
+        "id": "1438924244327403521",
+        "name": "Adrien（右美代购）",
+        "pinned_tweet_id": "1804268867323334800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539672461511340032/WWVOPM3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 444,
+          "like_count": 477,
+          "listed_count": 0,
+          "tweet_count": 143
+        },
+        "username": "adrien13809922",
+        "verified": false
+      }
+    ]
+  }
+}

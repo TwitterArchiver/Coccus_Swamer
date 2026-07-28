@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1908716262806462464"
+      ],
+      "media_source_tweet_id": [
+        "1908716280955154664"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1908762658880577674",
+    "created_at": "2025-04-06T06:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T07:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908762658880577674"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "ranfren"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885006134047621124",
+          "start": 3,
+          "username": "XiaoLanBluE1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8xQl8zVIGp",
+          "end": 50,
+          "expanded_url": "https://x.com/XiaoLanBluE1/status/1908716280955154664/video/1",
+          "media_key": "7_1908716262806462464",
+          "start": 27,
+          "url": "https://t.co/8xQl8zVIGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908762658880577674",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908716280955154664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoLanBluE1: #ranfren https://t.co/8xQl8zVIGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7453,
+        "height": 996,
+        "media_key": "7_1908716262806462464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1908716262806462464/pu/img/DZx72triMgySJ1ss.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908716262806462464/pu/vid/avc1/320x442/3CQKE-uNowBYlHye.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908716262806462464/pu/vid/avc1/480x664/WpY98rwSmzXElFRC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908716262806462464/pu/vid/avc1/720x996/OaX3nN3sat1O9U-H.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1908716262806462464/pu/pl/QzyoHs98XrABMe4a.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1908716262806462464"
+          ],
+          "media_source_tweet_id": [
+            "1908716280955154664"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1908762658880577674",
+        "created_at": "2025-04-06T06:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T07:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908762658880577674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "ranfren"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885006134047621124",
+              "start": 3,
+              "username": "XiaoLanBluE1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xQl8zVIGp",
+              "end": 50,
+              "expanded_url": "https://x.com/XiaoLanBluE1/status/1908716280955154664/video/1",
+              "media_key": "7_1908716262806462464",
+              "start": 27,
+              "url": "https://t.co/8xQl8zVIGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908762658880577674",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908716280955154664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoLanBluE1: #ranfren https://t.co/8xQl8zVIGp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1908716262806462464"
+          ]
+        },
+        "author_id": "1885006134047621124",
+        "conversation_id": "1908716280955154664",
+        "created_at": "2025-04-06T02:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T03:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908716280955154664"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ranfren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xQl8zVIGp",
+              "end": 32,
+              "expanded_url": "https://x.com/XiaoLanBluE1/status/1908716280955154664/video/1",
+              "media_key": "7_1908716262806462464",
+              "start": 9,
+              "url": "https://t.co/8xQl8zVIGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908716280955154664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#ranfren https://t.co/8xQl8zVIGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 2140,
+          "like_count": 8791,
+          "listed_count": 0,
+          "media_count": 528,
+          "tweet_count": 3172
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-30T16:44:36.000Z",
+        "description": "Hello",
+        "id": "1885006134047621124",
+        "location": "中国",
+        "name": "BluEyee^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885009948758736896/g8WUX8mD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 9
+        },
+        "username": "XiaoLanBluE1",
+        "verified": false
+      }
+    ]
+  }
+}

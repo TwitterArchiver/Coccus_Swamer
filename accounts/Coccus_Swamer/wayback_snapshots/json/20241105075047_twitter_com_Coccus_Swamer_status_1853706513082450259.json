@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853466146269511680"
+      ],
+      "media_source_tweet_id": [
+        "1853466238087041353"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1853706513082450259",
+    "created_at": "2024-11-05T07:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T08:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853706513082450259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114696839733731330",
+          "start": 3,
+          "username": "qiqi33770"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kA7BMcsewv",
+          "end": 44,
+          "expanded_url": "https://x.com/qiqi33770/status/1853466238087041353/photo/1",
+          "media_key": "3_1853466146269511680",
+          "start": 21,
+          "url": "https://t.co/kA7BMcsewv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853706513082450259",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853466238087041353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiqi33770: 我是自残逼 https://t.co/kA7BMcsewv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1853706513082450259].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1853706513082450259",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1853706513082450259"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1853466146269511680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbjVo9ObQAAgmQS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853466146269511680"
+          ]
+        },
+        "author_id": "1114696839733731330",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1853466238087041353",
+        "created_at": "2024-11-04T15:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T16:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853466238087041353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kA7BMcsewv",
+              "end": 29,
+              "expanded_url": "https://x.com/qiqi33770/status/1853466238087041353/photo/1",
+              "media_key": "3_1853466146269511680",
+              "start": 6,
+              "url": "https://t.co/kA7BMcsewv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853466238087041353",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是自残逼 https://t.co/kA7BMcsewv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849769563073937699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 1093,
+          "like_count": 5498,
+          "listed_count": 0,
+          "tweet_count": 1891
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T01:10:11.000Z",
+        "description": "大学生一枚 //双相情感障碍//偶尔发疯//喜欢玩喜欢嗨////偶尔od//偶尔发布生活动态//不关注黄推//不要找我买药！我不卖药！//接陪聊服务！//可以找我互fo哦宝宝们 互fo的话可以私信我！",
+        "id": "1114696839733731330",
+        "location": "Hong Kong",
+        "name": "七七",
+        "pinned_tweet_id": "1852729171228917857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785517610379182080/imxzkR9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 865,
+          "like_count": 68,
+          "listed_count": 0,
+          "tweet_count": 181
+        },
+        "username": "qiqi33770",
+        "verified": true
+      }
+    ]
+  }
+}

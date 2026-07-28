@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1852700826671960332",
+    "created_at": "2024-11-02T13:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T14:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852701396606611589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1240202079789961217",
+          "start": 0,
+          "username": "rain_1587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852701396606611589",
+    "in_reply_to_user_id": "1240202079789961217",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852700826671960332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rain_1587 麻辣烫吃点啥都！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1852700826671960332",
+        "created_at": "2024-11-02T13:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T14:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852701396606611589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1240202079789961217",
+              "start": 0,
+              "username": "rain_1587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852701396606611589",
+        "in_reply_to_user_id": "1240202079789961217",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852700826671960332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_1587 麻辣烫吃点啥都！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240202079789961217",
+        "conversation_id": "1852700826671960332",
+        "created_at": "2024-11-02T13:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T14:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852700826671960332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852700826671960332",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和麻辣烫老板混熟之后就可以少说话了！因为知道我吃啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849769563073937699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849202179896381440/uFGet6-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1073,
+          "like_count": 5418,
+          "listed_count": 0,
+          "tweet_count": 1852
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T09:03:24.000Z",
+        "description": "🦊/🚗/全职猎人/nirvana",
+        "id": "1240202079789961217",
+        "location": "距你 114514 米",
+        "name": "🎃🦊🎃",
+        "pinned_tweet_id": "1732371525880402126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744229589696888832/MSOXRY_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 1516,
+          "like_count": 108712,
+          "listed_count": 3,
+          "tweet_count": 16251
+        },
+        "username": "rain_1587",
+        "verified": false
+      }
+    ]
+  }
+}

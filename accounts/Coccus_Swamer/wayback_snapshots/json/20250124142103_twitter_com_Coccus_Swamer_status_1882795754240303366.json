@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868906839032971266"
+      ],
+      "media_source_tweet_id": [
+        "1868906847107006575"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1882795754240303366",
+    "created_at": "2025-01-24T14:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T15:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882795754240303366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1552238688590958592",
+          "start": 3,
+          "username": "Coccus_Swamer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XcXn911hs9",
+          "end": 140,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1868906847107006575/photo/1",
+          "media_key": "3_1868906839032971266",
+          "start": 117,
+          "url": "https://t.co/XcXn911hs9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882795754240303366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868906847107006575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coccus_Swamer: 我这里卖的药是给人治病用的，单次开出来不会很多，我要看你的处方单或者自己有吃过这个药的任何证据，不然我不会卖。我卖药是给精神病们治病用的，不是给你们乱试药乱od用的，要精一精二的也别找我，不卖。 https://t.co/XcXn911hs9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_1868906839032971266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge-w3kLbwAIn-a4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868906839032971266"
+          ],
+          "media_source_tweet_id": [
+            "1868906847107006575"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1882795754240303366",
+        "created_at": "2025-01-24T14:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T15:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882795754240303366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1552238688590958592",
+              "start": 3,
+              "username": "Coccus_Swamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcXn911hs9",
+              "end": 140,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1868906847107006575/photo/1",
+              "media_key": "3_1868906839032971266",
+              "start": 117,
+              "url": "https://t.co/XcXn911hs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882795754240303366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868906847107006575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coccus_Swamer: 我这里卖的药是给人治病用的，单次开出来不会很多，我要看你的处方单或者自己有吃过这个药的任何证据，不然我不会卖。我卖药是给精神病们治病用的，不是给你们乱试药乱od用的，要精一精二的也别找我，不卖。 https://t.co/XcXn911hs9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868906839032971266"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1868906847107006575",
+        "created_at": "2024-12-17T06:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T07:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868906847107006575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcXn911hs9",
+              "end": 121,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1868906847107006575/photo/1",
+              "media_key": "3_1868906839032971266",
+              "start": 98,
+              "url": "https://t.co/XcXn911hs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868906847107006575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3608,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我这里卖的药是给人治病用的，单次开出来不会很多，我要看你的处方单或者自己有吃过这个药的任何证据，不然我不会卖。我卖药是给精神病们治病用的，不是给你们乱试药乱od用的，要精一精二的也别找我，不卖。 https://t.co/XcXn911hs9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1868906847107006575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 1543,
+          "like_count": 7239,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 2546
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

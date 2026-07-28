@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1904390604924325917",
+    "created_at": "2025-03-25T04:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T05:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904390604924325917"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1904390604924325917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有什么样的理由认为“亻”所指代的含义有“男性/阳性”的含义——不知道从何时起，“‘他’是只指代男性或性别不明的第三人称代词，而‘她’是只指代女性的第三人称代词”\n\n更有自作聪明者还要将“她”单独提出来做文章，用“他/她”，“他（她）”这样滑稽搞笑的用法，好像显得平等和中立以表示对性别的尊重，落实到纸面上的实际结果就是“我所指代的这个人它是另外的一个人，当然也可能不是一个人，而是一个女性。”\n\n*这里有很有意思的一点，叫“异形同源”：虽然“她”在南朝《玉篇》就出现了，直至被康熙字典收录，但是这个“她”却是“姐”的异形字，我们现在用的这个“她”是1920年刘半农建议的专指女性的代词，古代的“她”和我们现在使用的“她”完完全全是两个字，只是非常恰好的它们长得一模一样。\n\n诚然，这样的用法从西方语言中汲取过来的用法或有有利的地方，譬如可以暗指性别而不用多做文章，但时代更迭，若我们依然需要追求多元化与形式平等，这样的用法或许就不太合适了。\n\n中文之中既没有阳性阴性之分，鸡牛马羊都不见得有性别的取向，仅强调性别也不过有牝牡之别罢了，不知为何从欧洲学来这样怪异的用法：唯有彻底抛弃“她”，叫“亻”就是“人”，而不分“牝亻”和“牡亻”或许才算得上平等与尊重。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有什么样的理由认为“亻”所指代的含义有“男性/阳性”的含义——不知道从何时起，“‘他’是只指代男性或性别不明的第三人称代词，而‘她’是只指代女性的第三人称代词”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1904390604924325917",
+        "created_at": "2025-03-25T04:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T05:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904390604924325917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904390604924325917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有什么样的理由认为“亻”所指代的含义有“男性/阳性”的含义——不知道从何时起，“‘他’是只指代男性或性别不明的第三人称代词，而‘她’是只指代女性的第三人称代词”\n\n更有自作聪明者还要将“她”单独提出来做文章，用“他/她”，“他（她）”这样滑稽搞笑的用法，好像显得平等和中立以表示对性别的尊重，落实到纸面上的实际结果就是“我所指代的这个人它是另外的一个人，当然也可能不是一个人，而是一个女性。”\n\n*这里有很有意思的一点，叫“异形同源”：虽然“她”在南朝《玉篇》就出现了，直至被康熙字典收录，但是这个“她”却是“姐”的异形字，我们现在用的这个“她”是1920年刘半农建议的专指女性的代词，古代的“她”和我们现在使用的“她”完完全全是两个字，只是非常恰好的它们长得一模一样。\n\n诚然，这样的用法从西方语言中汲取过来的用法或有有利的地方，譬如可以暗指性别而不用多做文章，但时代更迭，若我们依然需要追求多元化与形式平等，这样的用法或许就不太合适了。\n\n中文之中既没有阳性阴性之分，鸡牛马羊都不见得有性别的取向，仅强调性别也不过有牝牡之别罢了，不知为何从欧洲学来这样怪异的用法：唯有彻底抛弃“她”，叫“亻”就是“人”，而不分“牝亻”和“牡亻”或许才算得上平等与尊重。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么样的理由认为“亻”所指代的含义有“男性/阳性”的含义——不知道从何时起，“‘他’是只指代男性或性别不明的第三人称代词，而‘她’是只指代女性的第三人称代词”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 2052,
+          "like_count": 8506,
+          "listed_count": 0,
+          "media_count": 507,
+          "tweet_count": 3081
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

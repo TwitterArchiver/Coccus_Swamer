@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874004721608085504",
+        "3_1874004721608097792"
+      ],
+      "media_source_tweet_id": [
+        "1874004728050561081",
+        "1874004728050561081"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1874014986596737218",
+    "created_at": "2024-12-31T08:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T09:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874014986596737218"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "ranfren"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1848688261612683264",
+          "start": 3,
+          "username": "waithearmeoutbr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UwrpdP7cCX",
+          "end": 53,
+          "expanded_url": "https://x.com/waithearmeoutbr/status/1874004728050561081/photo/1",
+          "media_key": "3_1874004721608085504",
+          "start": 30,
+          "url": "https://t.co/UwrpdP7cCX"
+        },
+        {
+          "display_url": "pic.x.com/UwrpdP7cCX",
+          "end": 53,
+          "expanded_url": "https://x.com/waithearmeoutbr/status/1874004728050561081/photo/1",
+          "media_key": "3_1874004721608097792",
+          "start": 30,
+          "url": "https://t.co/UwrpdP7cCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874014986596737218",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874004728050561081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @waithearmeoutbr: #ranfren https://t.co/UwrpdP7cCX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1874004721608085504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgHNXYra0AACntv.jpg",
+        "width": 800
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1874004721608097792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgHNXYrbAAA0D9G.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874004721608085504",
+            "3_1874004721608097792"
+          ],
+          "media_source_tweet_id": [
+            "1874004728050561081",
+            "1874004728050561081"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1874014986596737218",
+        "created_at": "2024-12-31T08:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T09:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874014986596737218"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "ranfren"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1848688261612683264",
+              "start": 3,
+              "username": "waithearmeoutbr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwrpdP7cCX",
+              "end": 53,
+              "expanded_url": "https://x.com/waithearmeoutbr/status/1874004728050561081/photo/1",
+              "media_key": "3_1874004721608085504",
+              "start": 30,
+              "url": "https://t.co/UwrpdP7cCX"
+            },
+            {
+              "display_url": "pic.x.com/UwrpdP7cCX",
+              "end": 53,
+              "expanded_url": "https://x.com/waithearmeoutbr/status/1874004728050561081/photo/1",
+              "media_key": "3_1874004721608097792",
+              "start": 30,
+              "url": "https://t.co/UwrpdP7cCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874014986596737218",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874004728050561081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @waithearmeoutbr: #ranfren https://t.co/UwrpdP7cCX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874004721608085504",
+            "3_1874004721608097792"
+          ]
+        },
+        "author_id": "1848688261612683264",
+        "conversation_id": "1874004728050561081",
+        "created_at": "2024-12-31T08:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T09:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874004728050561081"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ranfren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwrpdP7cCX",
+              "end": 32,
+              "expanded_url": "https://x.com/waithearmeoutbr/status/1874004728050561081/photo/1",
+              "media_key": "3_1874004721608085504",
+              "start": 9,
+              "url": "https://t.co/UwrpdP7cCX"
+            },
+            {
+              "display_url": "pic.x.com/UwrpdP7cCX",
+              "end": 32,
+              "expanded_url": "https://x.com/waithearmeoutbr/status/1874004728050561081/photo/1",
+              "media_key": "3_1874004721608097792",
+              "start": 9,
+              "url": "https://t.co/UwrpdP7cCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874004728050561081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 310,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "#ranfren https://t.co/UwrpdP7cCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 1415,
+          "like_count": 6621,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 2298
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T11:30:14.000Z",
+        "description": "💥Never EVER repost my art in other place💥 Несанкционированное использование моих фотографий запрещено.",
+        "id": "1848688261612683264",
+        "location": "20+",
+        "name": "JACK",
+        "pinned_tweet_id": "1870879963869774057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869814434908327936/3jgw2y6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 58,
+          "like_count": 745,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 447
+        },
+        "username": "waithearmeoutbr",
+        "verified": false
+      }
+    ]
+  }
+}

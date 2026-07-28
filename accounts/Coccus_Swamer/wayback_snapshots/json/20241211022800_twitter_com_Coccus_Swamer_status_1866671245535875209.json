@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1865704539279729131",
+    "created_at": "2024-12-11T02:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T03:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866671245535875209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "766170278",
+          "start": 0,
+          "username": "PAIN4EVER999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866671245535875209",
+    "in_reply_to_user_id": "766170278",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866044970865774656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PAIN4EVER999 草，"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1866044970865774656].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1866044970865774656",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1866044970865774656"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1865704539279729131",
+        "created_at": "2024-12-11T02:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T03:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866671245535875209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "766170278",
+              "start": 0,
+              "username": "PAIN4EVER999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866671245535875209",
+        "in_reply_to_user_id": "766170278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866044970865774656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PAIN4EVER999 草，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 1306,
+          "like_count": 6288,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 2149
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-18T18:28:33.000Z",
+        "description": "",
+        "id": "766170278",
+        "name": "DecmissU-",
+        "pinned_tweet_id": "1804251717887984016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861083732549189632/6H9cu6sb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 78,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 87
+        },
+        "username": "PAIN4EVER999",
+        "verified": false
+      }
+    ]
+  }
+}

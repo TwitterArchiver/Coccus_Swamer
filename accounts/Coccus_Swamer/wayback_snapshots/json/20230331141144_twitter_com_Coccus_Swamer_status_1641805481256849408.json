@@ -1,0 +1,241 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1641395045973766145"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1641805481256849408",
+    "created_at": "2023-03-31T14:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-31T14:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1641805481256849408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1304558646940954625",
+          "start": 3,
+          "username": "syu_raii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/FKk6OdqOrM",
+          "end": 48,
+          "expanded_url": "https://twitter.com/syu_raii/status/1641395050180677637/photo/1",
+          "media_key": "3_1641395045973766145",
+          "start": 25,
+          "url": "https://t.co/FKk6OdqOrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1641805481256849408",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 227
+    },
+    "referenced_tweets": [
+      {
+        "id": "1641395050180677637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syu_raii: 「これでいいかな？」 https://t.co/FKk6OdqOrM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_1641395045973766145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsdoGQtaMAE2PBm.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1641395045973766145"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1641805481256849408",
+        "created_at": "2023-03-31T14:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-31T14:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1641805481256849408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1304558646940954625",
+              "start": 3,
+              "username": "syu_raii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FKk6OdqOrM",
+              "end": 48,
+              "expanded_url": "https://twitter.com/syu_raii/status/1641395050180677637/photo/1",
+              "media_key": "3_1641395045973766145",
+              "start": 25,
+              "url": "https://t.co/FKk6OdqOrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1641805481256849408",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 227
+        },
+        "referenced_tweets": [
+          {
+            "id": "1641395050180677637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syu_raii: 「これでいいかな？」 https://t.co/FKk6OdqOrM"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1641395045973766145"
+          ]
+        },
+        "author_id": "1304558646940954625",
+        "conversation_id": "1641395050180677637",
+        "created_at": "2023-03-30T11:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-30T11:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1641395050180677637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FKk6OdqOrM",
+              "end": 34,
+              "expanded_url": "https://twitter.com/syu_raii/status/1641395050180677637/photo/1",
+              "media_key": "3_1641395045973766145",
+              "start": 11,
+              "url": "https://t.co/FKk6OdqOrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1641395050180677637",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 48154,
+          "like_count": 3626,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "「これでいいかな？」 https://t.co/FKk6OdqOrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "想交朋友。\n\n学生/无性别/精神分裂/血腥暴力紫餐/喜欢可爱的东西/日本語/汉语/English learning/低浮上\n\n记录生活，觉得无聊的话就算了吧。",
+        "id": "1552238688590958592",
+        "name": "Coccus Swamer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588005577422098432/d316dpUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 205,
+          "listed_count": 0,
+          "tweet_count": 291
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-11T23:13:26.000Z",
+        "description": "一次創作とその時好きなもの/FA→#萩淶のおむらいす/skeb→ https://t.co/Xz2fXv8vH6.完了27件.作業中8件",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 17,
+                "tag": "萩淶のおむらいす"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@syu_raii",
+                "end": 56,
+                "expanded_url": "https://skeb.jp/@syu_raii",
+                "start": 33,
+                "url": "https://t.co/Xz2fXv8vH6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/syurai",
+                "end": 23,
+                "expanded_url": "https://lit.link/syurai",
+                "start": 0,
+                "url": "https://t.co/bxkT38MTkY"
+              }
+            ]
+          }
+        },
+        "id": "1304558646940954625",
+        "location": "無断転載.無断使用.トレス等禁止",
+        "name": "萩淶",
+        "pinned_tweet_id": "1641395050180677637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637408697721970691/kfOn7_9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12380,
+          "following_count": 56,
+          "listed_count": 90,
+          "tweet_count": 7184
+        },
+        "url": "https://t.co/bxkT38MTkY",
+        "username": "syu_raii",
+        "verified": false
+      }
+    ]
+  }
+}

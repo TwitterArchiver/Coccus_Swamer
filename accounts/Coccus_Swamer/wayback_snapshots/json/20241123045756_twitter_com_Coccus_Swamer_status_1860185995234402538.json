@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1859949863469019136",
+        "7_1859949863477432320",
+        "7_1859949863473143808"
+      ],
+      "media_source_tweet_id": [
+        "1859949906032779586",
+        "1859949906032779586",
+        "1859949906032779586"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1860185995234402538",
+    "created_at": "2024-11-23T04:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T05:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860185995234402538"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "misa",
+          "probability": 0.7713,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453193123765518339",
+          "start": 3,
+          "username": "shelter_song"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/drlkL1f61o",
+          "end": 55,
+          "expanded_url": "https://x.com/shelter_song/status/1859949906032779586/video/1",
+          "media_key": "7_1859949863469019136",
+          "start": 32,
+          "url": "https://t.co/drlkL1f61o"
+        },
+        {
+          "display_url": "pic.x.com/drlkL1f61o",
+          "end": 55,
+          "expanded_url": "https://x.com/shelter_song/status/1859949906032779586/video/1",
+          "media_key": "7_1859949863477432320",
+          "start": 32,
+          "url": "https://t.co/drlkL1f61o"
+        },
+        {
+          "display_url": "pic.x.com/drlkL1f61o",
+          "end": 55,
+          "expanded_url": "https://x.com/shelter_song/status/1859949906032779586/video/1",
+          "media_key": "7_1859949863473143808",
+          "start": 32,
+          "url": "https://t.co/drlkL1f61o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860185995234402538",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3249
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859949906032779586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shelter_song: misa’s game ☆ https://t.co/drlkL1f61o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6033,
+        "height": 1280,
+        "media_key": "7_1859949863469019136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1859949863469019136/pu/img/eovX3lIt_odmfv59.jpg",
+        "public_metrics": {
+          "view_count": 87110
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863469019136/pu/vid/avc1/320x570/jhjg-Vf4WJjsvSEp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863469019136/pu/vid/avc1/480x854/Gmm-KeQ0prnGRUQ6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863469019136/pu/vid/avc1/718x1280/nkal9rWbDhOIDogq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863469019136/pu/pl/26W318vrSv6vNMkR.m3u8?tag=12"
+          }
+        ],
+        "width": 718
+      },
+      {
+        "duration_ms": 1700,
+        "height": 1280,
+        "media_key": "7_1859949863477432320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1859949863477432320/pu/img/Mui_NQMHHI_onREA.jpg",
+        "public_metrics": {
+          "view_count": 14714
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863477432320/pu/vid/avc1/320x568/t7Cl-6MYQIkO5q6u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863477432320/pu/vid/avc1/480x852/mr_-htQDj0QRSy1V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863477432320/pu/vid/avc1/720x1280/yowabekHxCgyyb21.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863477432320/pu/pl/zDVyF6qFSojtEZar.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 2125,
+        "height": 1280,
+        "media_key": "7_1859949863473143808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1859949863473143808/pu/img/dMQokQMlVTT1RnDg.jpg",
+        "public_metrics": {
+          "view_count": 7135
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863473143808/pu/vid/avc1/320x568/0zXochuqTBzzx_X5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863473143808/pu/vid/avc1/480x852/yz4v5kQgcKLAW6s-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863473143808/pu/vid/avc1/720x1280/lgR2iXD6UH5G-3ht.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1859949863473143808/pu/pl/2dsDdu0prTaewmFp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1859949863469019136",
+            "7_1859949863477432320",
+            "7_1859949863473143808"
+          ],
+          "media_source_tweet_id": [
+            "1859949906032779586",
+            "1859949906032779586",
+            "1859949906032779586"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1860185995234402538",
+        "created_at": "2024-11-23T04:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T05:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860185995234402538"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "misa",
+              "probability": 0.7713,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453193123765518339",
+              "start": 3,
+              "username": "shelter_song"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/drlkL1f61o",
+              "end": 55,
+              "expanded_url": "https://x.com/shelter_song/status/1859949906032779586/video/1",
+              "media_key": "7_1859949863469019136",
+              "start": 32,
+              "url": "https://t.co/drlkL1f61o"
+            },
+            {
+              "display_url": "pic.x.com/drlkL1f61o",
+              "end": 55,
+              "expanded_url": "https://x.com/shelter_song/status/1859949906032779586/video/1",
+              "media_key": "7_1859949863477432320",
+              "start": 32,
+              "url": "https://t.co/drlkL1f61o"
+            },
+            {
+              "display_url": "pic.x.com/drlkL1f61o",
+              "end": 55,
+              "expanded_url": "https://x.com/shelter_song/status/1859949906032779586/video/1",
+              "media_key": "7_1859949863473143808",
+              "start": 32,
+              "url": "https://t.co/drlkL1f61o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860185995234402538",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3249
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859949906032779586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shelter_song: misa’s game ☆ https://t.co/drlkL1f61o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1859949863469019136",
+            "7_1859949863477432320",
+            "7_1859949863473143808"
+          ]
+        },
+        "author_id": "1453193123765518339",
+        "conversation_id": "1859949906032779586",
+        "created_at": "2024-11-22T13:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T14:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859949906032779586"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "misa",
+              "probability": 0.768,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/drlkL1f61o",
+              "end": 37,
+              "expanded_url": "https://x.com/shelter_song/status/1859949906032779586/video/1",
+              "media_key": "7_1859949863469019136",
+              "start": 14,
+              "url": "https://t.co/drlkL1f61o"
+            },
+            {
+              "display_url": "pic.x.com/drlkL1f61o",
+              "end": 37,
+              "expanded_url": "https://x.com/shelter_song/status/1859949906032779586/video/1",
+              "media_key": "7_1859949863477432320",
+              "start": 14,
+              "url": "https://t.co/drlkL1f61o"
+            },
+            {
+              "display_url": "pic.x.com/drlkL1f61o",
+              "end": 37,
+              "expanded_url": "https://x.com/shelter_song/status/1859949906032779586/video/1",
+              "media_key": "7_1859949863473143808",
+              "start": 14,
+              "url": "https://t.co/drlkL1f61o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859949906032779586",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2905,
+          "impression_count": 276591,
+          "like_count": 19488,
+          "quote_count": 61,
+          "reply_count": 23,
+          "retweet_count": 3249
+        },
+        "reply_settings": "everyone",
+        "text": "misa’s game ☆ https://t.co/drlkL1f61o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849107417721958731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 1216,
+          "like_count": 5928,
+          "listed_count": 0,
+          "tweet_count": 2009
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T02:53:46.000Z",
+        "description": "☆*˚⁺ 賽博斯德哥爾摩症候群 ⁺˚* ☆ *･゜ﾟ･*:.｡..｡.:** ☆ ☆ ☆ IG: shelter_song",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ShelterSong",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ShelterSong",
+                "start": 0,
+                "url": "https://t.co/VMAmS6xqWC"
+              }
+            ]
+          }
+        },
+        "id": "1453193123765518339",
+        "name": "Shelter Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703804546600804352/vXEGvIFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18519,
+          "following_count": 238,
+          "like_count": 209,
+          "listed_count": 117,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/VMAmS6xqWC",
+        "username": "shelter_song",
+        "verified": false
+      }
+    ]
+  }
+}

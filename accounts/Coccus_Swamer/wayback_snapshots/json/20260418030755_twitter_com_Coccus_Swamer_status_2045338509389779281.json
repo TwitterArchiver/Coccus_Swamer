@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045299825470537728"
+      ],
+      "media_source_tweet_id": [
+        "2045299830273065103"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045338509389779281",
+    "created_at": "2026-04-18T03:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045338509389779281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1504268153425178626",
+          "start": 3,
+          "username": "NoteBo0ok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wvk25tXl8d",
+          "end": 38,
+          "expanded_url": "https://x.com/NoteBo0ok/status/2045299830273065103/photo/1",
+          "media_key": "3_2045299825470537728",
+          "start": 15,
+          "url": "https://t.co/wvk25tXl8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045338509389779281",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045299830273065103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NoteBo0ok: https://t.co/wvk25tXl8d"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045338509389779281].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045338509389779281",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045338509389779281"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_2045299825470537728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJdWtRXAAAzh8B.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045299825470537728"
+          ]
+        },
+        "author_id": "1504268153425178626",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045299830273065103",
+        "created_at": "2026-04-18T00:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045299830273065103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvk25tXl8d",
+              "end": 23,
+              "expanded_url": "https://x.com/NoteBo0ok/status/2045299830273065103/photo/1",
+              "media_key": "3_2045299825470537728",
+              "start": 0,
+              "url": "https://t.co/wvk25tXl8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045299830273065103",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 686,
+          "like_count": 154,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wvk25tXl8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Funabashi, Chiba, Japan",
+              "geo": {
+                "coordinates": [
+                  139.98333,
+                  35.69306
+                ],
+                "type": "Point"
+              },
+              "locality": "Funabashi",
+              "region": "Chiba"
+            }
+          ]
+        },
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1973745736216158259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 2481,
+          "like_count": 9695,
+          "listed_count": 0,
+          "media_count": 657,
+          "tweet_count": 3542
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T01:27:39.000Z",
+        "description": "♡︎ 🧸 Bulimia / TW: shedtwt,drugtwt,goretwt🧸 ♡ ︎ I’ll try following back !! 🤎",
+        "id": "1504268153425178626",
+        "location": "my wrist",
+        "name": "☆Nicole☆",
+        "pinned_tweet_id": "1684997467857727488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787947722172932096/BRAnUVeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4586,
+          "following_count": 2051,
+          "like_count": 57289,
+          "listed_count": 10,
+          "media_count": 695,
+          "tweet_count": 2812
+        },
+        "username": "NoteBo0ok",
+        "verified": false
+      }
+    ]
+  }
+}

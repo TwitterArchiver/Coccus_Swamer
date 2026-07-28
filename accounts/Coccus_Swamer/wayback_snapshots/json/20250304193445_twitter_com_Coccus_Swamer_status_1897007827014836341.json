@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1896818650319118786",
+    "created_at": "2025-03-04T19:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T20:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897007827014836341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1736964532520775680",
+          "start": 0,
+          "username": "pyiain"
+        },
+        {
+          "end": 22,
+          "id": "1757320080604741633",
+          "start": 8,
+          "username": "Hiyallcestmoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897007827014836341",
+    "in_reply_to_user_id": "1736964532520775680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896849302976397353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyiain @Hiyallcestmoi 注意米线！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1896818650319118786",
+        "created_at": "2025-03-04T19:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T20:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897007827014836341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1736964532520775680",
+              "start": 0,
+              "username": "pyiain"
+            },
+            {
+              "end": 22,
+              "id": "1757320080604741633",
+              "start": 8,
+              "username": "Hiyallcestmoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897007827014836341",
+        "in_reply_to_user_id": "1736964532520775680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896849302976397353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyiain @Hiyallcestmoi 注意米线！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736964532520775680",
+        "conversation_id": "1896818650319118786",
+        "created_at": "2025-03-04T09:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T10:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896849302976397353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757320080604741633",
+              "start": 0,
+              "username": "Hiyallcestmoi"
+            },
+            {
+              "end": 29,
+              "id": "1552238688590958592",
+              "start": 15,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896849302976397353",
+        "in_reply_to_user_id": "1757320080604741633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896819263392084175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiyallcestmoi @Coccus_Swamer 可惜草莓太贵了😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1886742501513683101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1912,
+          "like_count": 8213,
+          "listed_count": 0,
+          "media_count": 476,
+          "tweet_count": 2887
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T04:20:00.000Z",
+        "description": "",
+        "id": "1736964532520775680",
+        "location": "西木野真姬被窝",
+        "name": "藤和艾莉欧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873869340619268100/Zs4TALr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 300,
+          "like_count": 5183,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1454
+        },
+        "username": "pyiain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T08:25:47.000Z",
+        "description": "🌈彩虹友好 |🍹生活艺术 | 🇫🇷唯爱法国 | 🤮赤石分享 | 🔄重开预备 |♀低脂蝈釹 | 💩纯种废物 | 🍼幼稚巨婴 |❔持续虚无 | 🥃准健全逼 | 👻随地抛尸 | 🪷人淡如莲 | 💕或许是enby | 🫠养胃正在",
+        "id": "1757320080604741633",
+        "location": "\nℕ𝕠𝕥𝕙𝕚𝕟𝕘𝕧𝕚𝕝𝕝𝕖",
+        "name": "阿溪Kay(重生之在BeverlyHill RodeoDrive飙Pink Convertible）",
+        "pinned_tweet_id": "1861299295858917646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872205161319518208/JcEHx1T2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 376,
+          "like_count": 2163,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2503
+        },
+        "username": "Hiyallcestmoi",
+        "verified": false
+      }
+    ]
+  }
+}

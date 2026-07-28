@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1917138722937819284",
+    "created_at": "2025-04-29T08:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T09:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917138722937819284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Coccus_Swamer/…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Coccus_Swamer/status/1917120837599256918",
+          "start": 25,
+          "url": "https://t.co/MrpuD3ejNJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917138722937819284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917120837599256918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "云南离暹高越安这么近怎么就找不到个愿意收我眼球的 https://t.co/MrpuD3ejNJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1917138722937819284",
+        "created_at": "2025-04-29T08:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T09:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917138722937819284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Coccus_Swamer/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Coccus_Swamer/status/1917120837599256918",
+              "start": 25,
+              "url": "https://t.co/MrpuD3ejNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917138722937819284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917120837599256918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "云南离暹高越安这么近怎么就找不到个愿意收我眼球的 https://t.co/MrpuD3ejNJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1917120837599256918",
+        "created_at": "2025-04-29T07:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T08:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917120837599256918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917120837599256918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有可以卖眼球的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1915104988734562596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 2195,
+          "like_count": 8976,
+          "listed_count": 0,
+          "media_count": 539,
+          "tweet_count": 3225
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

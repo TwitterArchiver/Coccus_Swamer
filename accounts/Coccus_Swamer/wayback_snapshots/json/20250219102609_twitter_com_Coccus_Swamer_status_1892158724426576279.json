@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891884049297182720"
+      ],
+      "media_source_tweet_id": [
+        "1891884053021790354"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1892158724426576279",
+    "created_at": "2025-02-19T10:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T11:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892158724426576279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460305322929700864",
+          "start": 3,
+          "username": "k1ttysuicide"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jan6FaN53n",
+          "end": 41,
+          "expanded_url": "https://x.com/k1ttysuicide/status/1891884053021790354/photo/1",
+          "media_key": "3_1891884049297182720",
+          "start": 18,
+          "url": "https://t.co/jan6FaN53n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892158724426576279",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891884053021790354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k1ttysuicide: https://t.co/jan6FaN53n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 427,
+        "media_key": "3_1891884049297182720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkFShOqWEAA4Viz.jpg",
+        "width": 430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891884049297182720"
+          ],
+          "media_source_tweet_id": [
+            "1891884053021790354"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1892158724426576279",
+        "created_at": "2025-02-19T10:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T11:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892158724426576279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460305322929700864",
+              "start": 3,
+              "username": "k1ttysuicide"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jan6FaN53n",
+              "end": 41,
+              "expanded_url": "https://x.com/k1ttysuicide/status/1891884053021790354/photo/1",
+              "media_key": "3_1891884049297182720",
+              "start": 18,
+              "url": "https://t.co/jan6FaN53n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892158724426576279",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891884053021790354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k1ttysuicide: https://t.co/jan6FaN53n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891884049297182720"
+          ]
+        },
+        "author_id": "1460305322929700864",
+        "conversation_id": "1891884053021790354",
+        "created_at": "2025-02-18T16:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T17:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891884053021790354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jan6FaN53n",
+              "end": 23,
+              "expanded_url": "https://x.com/k1ttysuicide/status/1891884053021790354/photo/1",
+              "media_key": "3_1891884049297182720",
+              "start": 0,
+              "url": "https://t.co/jan6FaN53n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891884053021790354",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 26540,
+          "like_count": 2318,
+          "quote_count": 16,
+          "reply_count": 2,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jan6FaN53n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1886742501513683101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 1763,
+          "like_count": 7890,
+          "listed_count": 0,
+          "media_count": 460,
+          "tweet_count": 2800
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T17:55:12.000Z",
+        "description": "(҂°ロ°) !! ⭑° . 💉 any pronouns ||shtwt , gurotwt and alctwt !! (˶˃ ᵕ ˂˶) || ifb!",
+        "id": "1460305322929700864",
+        "name": "𝓀𝒾𝓉𝓉𝓎( ´ཀ` ) ୧ ‧₊˚ 🥩🦴 ⋅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881309404055629824/0q5DdlOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 781,
+          "like_count": 1197,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 453
+        },
+        "username": "k1ttysuicide",
+        "verified": false
+      }
+    ]
+  }
+}

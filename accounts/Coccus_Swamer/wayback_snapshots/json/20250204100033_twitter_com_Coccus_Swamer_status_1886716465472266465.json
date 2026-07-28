@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886716459285667840"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1886716465472266465",
+    "created_at": "2025-02-04T10:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T11:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886716465472266465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CiqWEoZ4YX",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1886716465472266465/photo/1",
+          "media_key": "3_1886716459285667840",
+          "start": 0,
+          "url": "https://t.co/CiqWEoZ4YX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886716465472266465",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/CiqWEoZ4YX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886716459285667840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi72n5ua4AAeePP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886716459285667840"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1886716465472266465",
+        "created_at": "2025-02-04T10:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T11:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886716465472266465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiqWEoZ4YX",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1886716465472266465/photo/1",
+              "media_key": "3_1886716459285667840",
+              "start": 0,
+              "url": "https://t.co/CiqWEoZ4YX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886716465472266465",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CiqWEoZ4YX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1885764777039048935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 1637,
+          "like_count": 7586,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 2723
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

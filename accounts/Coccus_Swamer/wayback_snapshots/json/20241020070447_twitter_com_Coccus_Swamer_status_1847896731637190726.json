@@ -1,0 +1,111 @@
+{
+  "data": {
+    "author_id": "1552238688590958592",
+    "conversation_id": "1847896731637190726",
+    "created_at": "2024-10-20T07:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T08:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847896731637190726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "-1",
+          "start": 3,
+          "username": "withRainyNight"
+        }
+      ]
+    },
+    "id": "1847896731637190726",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847714916901495281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @withRainyNight: 右美沙芬比我想象的要安全不少\n血清素综合征没那么容易在短短的药效中杀死一个人(不然怎么解释我没死\n我今早误食了1.2g右美，误食之后全程都在断片\n从7点断片到19点醒来\n周围多出了我放包里的耳机\n\n最逆天的是我断给别人打了一通电话,结果她…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1552238688590958592",
+        "conversation_id": "1847896731637190726",
+        "created_at": "2024-10-20T07:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T08:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847896731637190726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "-1",
+              "start": 3,
+              "username": "withRainyNight"
+            }
+          ]
+        },
+        "id": "1847896731637190726",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847714916901495281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @withRainyNight: 右美沙芬比我想象的要安全不少\n血清素综合征没那么容易在短短的药效中杀死一个人(不然怎么解释我没死\n我今早误食了1.2g右美，误食之后全程都在断片\n从7点断片到19点醒来\n周围多出了我放包里的耳机\n\n最逆天的是我断给别人打了一通电话,结果她…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 1296,
+          "like_count": 6245,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 2126
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931762641653178368"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1931762644693979358",
+    "created_at": "2025-06-08T17:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931762644693979358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JaI8Ap1DRS",
+          "end": 33,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1931762644693979358/photo/1",
+          "media_key": "3_1931762641653178368",
+          "start": 10,
+          "url": "https://t.co/JaI8Ap1DRS"
+        },
+        {
+          "display_url": "x.com/Yesmynamehaer1…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Yesmynamehaer1/status/1931731834867741109",
+          "start": 34,
+          "url": "https://t.co/CSR4nVEJhj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931762644693979358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931731834867741109",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吐完了开始当尸体。 https://t.co/JaI8Ap1DRS https://t.co/CSR4nVEJhj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1931762641653178368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7_4z4boAA3ITD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931731831747141632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7j3cCaYAA9UFD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931762641653178368"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1931762644693979358",
+        "created_at": "2025-06-08T17:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931762644693979358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaI8Ap1DRS",
+              "end": 33,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1931762644693979358/photo/1",
+              "media_key": "3_1931762641653178368",
+              "start": 10,
+              "url": "https://t.co/JaI8Ap1DRS"
+            },
+            {
+              "display_url": "x.com/Yesmynamehaer1…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Yesmynamehaer1/status/1931731834867741109",
+              "start": 34,
+              "url": "https://t.co/CSR4nVEJhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931762644693979358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931731834867741109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吐完了开始当尸体。 https://t.co/JaI8Ap1DRS https://t.co/CSR4nVEJhj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931731831747141632"
+          ]
+        },
+        "author_id": "1176077981099446272",
+        "conversation_id": "1931731834867741109",
+        "created_at": "2025-06-08T15:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931731834867741109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVaTZxIrTx",
+              "end": 41,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/1931731834867741109/photo/1",
+              "media_key": "3_1931731831747141632",
+              "start": 18,
+              "url": "https://t.co/xVaTZxIrTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931731834867741109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "9:35 普瑞巴林8t+巴氯芬3t https://t.co/xVaTZxIrTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 2266,
+          "like_count": 9565,
+          "listed_count": 0,
+          "media_count": 575,
+          "tweet_count": 3331
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "你好，我是白鳥/白鳥形人。\n个人药物使用/日常推，中立友善单位。\nFTX /@Dopppelaganger /Unitarian Universalists /Fyrir frelsi, fyrir mig, fyrir @Coccus_Swamer /本人可能的死亡动机请详询： @Hawthor20853776",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "Dopppelaganger"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "Coccus_Swamer"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "Hawthor20853776"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1929155582314881086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931325598825066497/3GFmpIUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 506,
+          "like_count": 22519,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 2362
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952438679135297536"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1952438682956542008",
+    "created_at": "2025-08-04T18:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T19:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952438682956542008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4SGt7y5s5V",
+          "end": 71,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1952438682956542008/photo/1",
+          "media_key": "3_1952438679135297536",
+          "start": 48,
+          "url": "https://t.co/4SGt7y5s5V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952438682956542008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偶齁哦哦哦哦哦哦谁发明的氯化铵+甘草做的甜味小零食太几把好吃了半夜认不出下去偷吃了好几颗才上来 https://t.co/4SGt7y5s5V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1952438679135297536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxh0oluXoAAv_JZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952438679135297536"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1952438682956542008",
+        "created_at": "2025-08-04T18:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T19:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952438682956542008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4SGt7y5s5V",
+              "end": 71,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1952438682956542008/photo/1",
+              "media_key": "3_1952438679135297536",
+              "start": 48,
+              "url": "https://t.co/4SGt7y5s5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952438682956542008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶齁哦哦哦哦哦哦谁发明的氯化铵+甘草做的甜味小零食太几把好吃了半夜认不出下去偷吃了好几颗才上来 https://t.co/4SGt7y5s5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 2482,
+          "like_count": 10090,
+          "listed_count": 0,
+          "media_count": 614,
+          "tweet_count": 3423
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

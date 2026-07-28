@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1905678676378935296"
+      ],
+      "media_source_tweet_id": [
+        "1905678691226845472"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1905963111460618470",
+    "created_at": "2025-03-29T12:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T13:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905963111460618470"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 15,
+          "tag": "selfharm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552521811492884481",
+          "start": 3,
+          "username": "GionEch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VFfQjkbcjO",
+          "end": 48,
+          "expanded_url": "https://x.com/GionEch/status/1905678691226845472/video/1",
+          "media_key": "13_1905678676378935296",
+          "start": 25,
+          "url": "https://t.co/VFfQjkbcjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905963111460618470",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905678691226845472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GionEch: 🩸\n#selfharm https://t.co/VFfQjkbcjO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2134,
+        "height": 960,
+        "media_key": "13_1905678676378935296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1905678676378935296/img/gIh1S_owhZup1SBR.jpg",
+        "public_metrics": {
+          "view_count": 3779
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905678676378935296/vid/avc1/320x426/Oru2t72XJfQmtyI3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905678676378935296/vid/avc1/480x640/GHXFRdMUjFb4NqkB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905678676378935296/vid/avc1/720x960/hOQSFZuNs40wScrt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1905678676378935296/pl/dmq3MDcriUihfLA8.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1905678676378935296"
+          ],
+          "media_source_tweet_id": [
+            "1905678691226845472"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1905963111460618470",
+        "created_at": "2025-03-29T12:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T13:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905963111460618470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "selfharm"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552521811492884481",
+              "start": 3,
+              "username": "GionEch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VFfQjkbcjO",
+              "end": 48,
+              "expanded_url": "https://x.com/GionEch/status/1905678691226845472/video/1",
+              "media_key": "13_1905678676378935296",
+              "start": 25,
+              "url": "https://t.co/VFfQjkbcjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905963111460618470",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905678691226845472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GionEch: 🩸\n#selfharm https://t.co/VFfQjkbcjO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1905678676378935296"
+          ]
+        },
+        "author_id": "1552521811492884481",
+        "conversation_id": "1905678691226845472",
+        "created_at": "2025-03-28T17:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T18:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905678691226845472"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 2,
+              "tag": "selfharm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VFfQjkbcjO",
+              "end": 35,
+              "expanded_url": "https://x.com/GionEch/status/1905678691226845472/video/1",
+              "media_key": "13_1905678676378935296",
+              "start": 12,
+              "url": "https://t.co/VFfQjkbcjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905678691226845472",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 8115,
+          "like_count": 1117,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "🩸\n#selfharm https://t.co/VFfQjkbcjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 2078,
+          "like_count": 8593,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 3096
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-28T05:10:56.000Z",
+        "description": "Vietnamese 🇻🇳 | selfharm-cat scratches 🩹",
+        "id": "1552521811492884481",
+        "location": "Việt Nam",
+        "name": "Niyahaha",
+        "pinned_tweet_id": "1869040168461852945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903294475029602304/m5GNNYav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 140,
+          "like_count": 5139,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1568
+        },
+        "username": "GionEch",
+        "verified": false
+      }
+    ]
+  }
+}

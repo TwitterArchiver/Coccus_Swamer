@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1857053823371501568"
+      ],
+      "media_source_tweet_id": [
+        "1857053861334180114"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1857125071179174051",
+    "created_at": "2024-11-14T18:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T19:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857125071179174051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1845557758835453952",
+          "start": 3,
+          "username": "Siori_0824"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ao6U3sX8En",
+          "end": 39,
+          "expanded_url": "https://x.com/Siori_0824/status/1857053861334180114/video/1",
+          "media_key": "7_1857053823371501568",
+          "start": 16,
+          "url": "https://t.co/ao6U3sX8En"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857125071179174051",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857053861334180114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Siori_0824: https://t.co/ao6U3sX8En"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857125071179174051].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857125071179174051",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857125071179174051"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6883,
+        "height": 866,
+        "media_key": "7_1857053823371501568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1857053823371501568/pu/img/7KSY2Dkd4LMnsSDL.jpg",
+        "public_metrics": {
+          "view_count": 144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857053823371501568/pu/vid/avc1/320x384/qVBTEqPOz2RoQreL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857053823371501568/pu/vid/avc1/480x576/yeGM-JmXrEnBMKBV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857053823371501568/pu/vid/avc1/720x866/m4oCCqQkSBzf3dGz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1857053823371501568/pu/pl/sQDrfmtYNnxMX828.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1857053823371501568"
+          ]
+        },
+        "author_id": "1845557758835453952",
+        "conversation_id": "1857053861334180114",
+        "created_at": "2024-11-14T13:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T14:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857053861334180114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ao6U3sX8En",
+              "end": 23,
+              "expanded_url": "https://x.com/Siori_0824/status/1857053861334180114/video/1",
+              "media_key": "7_1857053823371501568",
+              "start": 0,
+              "url": "https://t.co/ao6U3sX8En"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857053861334180114",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 348,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ao6U3sX8En"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1854462143812514271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 1166,
+          "like_count": 5743,
+          "listed_count": 0,
+          "tweet_count": 1957
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T20:10:45.000Z",
+        "description": "我死去的帐号@Siori_417",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Siori_417"
+              }
+            ]
+          }
+        },
+        "id": "1845557758835453952",
+        "name": "Siori",
+        "pinned_tweet_id": "1854606305358757961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845558143348273152/Pr4XYMcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 75,
+          "like_count": 107,
+          "listed_count": 0,
+          "tweet_count": 40
+        },
+        "username": "Siori_0824",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1874471509823287474",
+    "created_at": "2025-01-02T07:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T08:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874727196310581355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620674068184965121",
+          "start": 0,
+          "username": "trash_kevin_720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874727196310581355",
+    "in_reply_to_user_id": "1620674068184965121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874471509823287474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trash_kevin_720 咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1874471509823287474",
+        "created_at": "2025-01-02T07:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T08:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874727196310581355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620674068184965121",
+              "start": 0,
+              "username": "trash_kevin_720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874727196310581355",
+        "in_reply_to_user_id": "1620674068184965121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874471509823287474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trash_kevin_720 咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874471506883092480"
+          ]
+        },
+        "author_id": "1620674068184965121",
+        "conversation_id": "1874471509823287474",
+        "created_at": "2025-01-01T15:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T16:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874471509823287474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAUjyNrwhF",
+              "end": 91,
+              "expanded_url": "https://x.com/trash_kevin_720/status/1874471509823287474/photo/1",
+              "media_key": "3_1874471506883092480",
+              "start": 68,
+              "url": "https://t.co/XAUjyNrwhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874471509823287474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2106,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘了搞3000fo的福利，那就從今天開始直到1/7，每個跟隨者在留言區留言的我都會把ID抄在本子上，最後再發布出來，歡迎大家來喔uwu https://t.co/XAUjyNrwhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1449,
+          "like_count": 6693,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 2320
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T06:43:15.000Z",
+        "description": "［生活帳］ 09年 15y 男的 福瑞控 半個鐵路迷 L(G)BTQ🏳️‍🌈  ENTP 友跨 台灣人🇹🇼 不約 單身 歡迎擴列 聊天 可以叫我Kevin 藍天：https://t.co/8NARnjlYIz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kevin0…",
+                "end": 104,
+                "expanded_url": "https://bsky.app/profile/kevin0720.bsky.social",
+                "start": 81,
+                "url": "https://t.co/8NARnjlYIz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@trash_kevin_7…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@trash_kevin_720",
+                "start": 0,
+                "url": "https://t.co/uOfMTeImY5"
+              }
+            ]
+          }
+        },
+        "id": "1620674068184965121",
+        "location": "音徑",
+        "name": "文",
+        "pinned_tweet_id": "1868253057362034815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847168057825021952/N33wmg4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 4150,
+          "like_count": 184171,
+          "listed_count": 9,
+          "media_count": 1627,
+          "tweet_count": 21796
+        },
+        "url": "https://t.co/uOfMTeImY5",
+        "username": "trash_kevin_720",
+        "verified": false
+      }
+    ]
+  }
+}

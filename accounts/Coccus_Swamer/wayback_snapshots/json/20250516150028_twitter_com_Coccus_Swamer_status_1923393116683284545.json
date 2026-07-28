@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923280711949352963"
+      ],
+      "media_source_tweet_id": [
+        "1923280718320357404"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1923393116683284545",
+    "created_at": "2025-05-16T15:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T16:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923393116683284545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851288783016386560",
+          "start": 3,
+          "username": "Y_g_M77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y7sN1s9rcp",
+          "end": 134,
+          "expanded_url": "https://x.com/Y_g_M77/status/1923280718320357404/photo/1",
+          "media_key": "3_1923280711949352963",
+          "start": 111,
+          "url": "https://t.co/Y7sN1s9rcp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923393116683284545",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923280718320357404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y_g_M77: 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄\n\nny.\n\n𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 https://t.co/Y7sN1s9rcp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_1923280711949352963",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDdnhcaAAM1MUF.jpg",
+        "width": 2404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923280711949352963"
+          ],
+          "media_source_tweet_id": [
+            "1923280718320357404"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1923393116683284545",
+        "created_at": "2025-05-16T15:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T16:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923393116683284545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851288783016386560",
+              "start": 3,
+              "username": "Y_g_M77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7sN1s9rcp",
+              "end": 134,
+              "expanded_url": "https://x.com/Y_g_M77/status/1923280718320357404/photo/1",
+              "media_key": "3_1923280711949352963",
+              "start": 111,
+              "url": "https://t.co/Y7sN1s9rcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923393116683284545",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923280718320357404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y_g_M77: 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄\n\nny.\n\n𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 https://t.co/Y7sN1s9rcp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923280711949352963"
+          ]
+        },
+        "author_id": "1851288783016386560",
+        "conversation_id": "1923280718320357404",
+        "created_at": "2025-05-16T07:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T08:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923280718320357404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7sN1s9rcp",
+              "end": 121,
+              "expanded_url": "https://x.com/Y_g_M77/status/1923280718320357404/photo/1",
+              "media_key": "3_1923280711949352963",
+              "start": 98,
+              "url": "https://t.co/Y7sN1s9rcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923280718320357404",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1877,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄\n\nny.\n\n𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 𓐄 https://t.co/Y7sN1s9rcp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 2247,
+          "like_count": 9277,
+          "listed_count": 0,
+          "media_count": 559,
+          "tweet_count": 3290
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T15:43:46.000Z",
+        "description": "ｲｪｯﾁ‼️(こま語録より引用) /🔕 h.(@zego444)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "zego444"
+              }
+            ]
+          }
+        },
+        "id": "1851288783016386560",
+        "location": "マグロのレアカツ",
+        "name": "たゃまる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896993521631977472/5B3tIYXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 40,
+          "like_count": 687,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 480
+        },
+        "username": "Y_g_M77",
+        "verified": false
+      }
+    ]
+  }
+}

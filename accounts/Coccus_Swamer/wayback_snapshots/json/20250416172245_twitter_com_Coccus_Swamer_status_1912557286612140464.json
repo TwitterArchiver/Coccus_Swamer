@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1912557286612140464",
+    "created_at": "2025-04-16T17:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T18:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912557286612140464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jiankui_He/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Jiankui_He/status/1912049232984653961",
+          "start": 23,
+          "url": "https://t.co/g7Ug86hfrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912557286612140464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912049232984653961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hjk先生对猫娘问题与研究工作做出重要指示： https://t.co/g7Ug86hfrX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1912557286612140464",
+        "created_at": "2025-04-16T17:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T18:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912557286612140464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jiankui_He/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Jiankui_He/status/1912049232984653961",
+              "start": 23,
+              "url": "https://t.co/g7Ug86hfrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912557286612140464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912049232984653961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hjk先生对猫娘问题与研究工作做出重要指示： https://t.co/g7Ug86hfrX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567847595162091522",
+        "conversation_id": "1912049232984653961",
+        "created_at": "2025-04-15T07:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T08:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912049232984653961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912049232984653961",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 594,
+          "impression_count": 533837,
+          "like_count": 14460,
+          "quote_count": 341,
+          "reply_count": 293,
+          "retweet_count": 1651
+        },
+        "reply_settings": "everyone",
+        "text": "Meow &gt;:)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 2190,
+          "like_count": 8875,
+          "listed_count": 0,
+          "media_count": 531,
+          "tweet_count": 3192
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-08T12:09:56.000Z",
+        "description": "Gene Editing Pioneer.\nPh.D, Rice University, Texas.\n3 years in prison.",
+        "id": "1567847595162091522",
+        "location": "Beijing, China",
+        "name": "Jiankui He",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832081770487115776/UCUf8wdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116207,
+          "following_count": 2,
+          "like_count": 79,
+          "listed_count": 247,
+          "media_count": 171,
+          "tweet_count": 343
+        },
+        "username": "Jiankui_He",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1862093278515965952"
+      ],
+      "media_source_tweet_id": [
+        "1862093322728485228"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1862245690048749755",
+    "created_at": "2024-11-28T21:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T22:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862245690048749755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1661419755864211456",
+          "start": 3,
+          "username": "xueli333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SMopwrwsCI",
+          "end": 48,
+          "expanded_url": "https://x.com/xueli333/status/1862093322728485228/video/1",
+          "media_key": "7_1862093278515965952",
+          "start": 25,
+          "url": "https://t.co/SMopwrwsCI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862245690048749755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862093322728485228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xueli333: 没有成绩单只有病历单 https://t.co/SMopwrwsCI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15400,
+        "height": 1280,
+        "media_key": "7_1862093278515965952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1862093278515965952/pu/img/ScGqGOzOfC_MUbms.jpg",
+        "public_metrics": {
+          "view_count": 22960
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862093278515965952/pu/vid/avc1/320x568/8TDYzRTxqljOfsWp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862093278515965952/pu/vid/avc1/480x852/Bo1o4w34PPFD_FIX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862093278515965952/pu/vid/avc1/720x1280/DgfoBQbK1aO2L6my.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1862093278515965952/pu/pl/Gwzuebj-PBPedjSw.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1862093278515965952"
+          ],
+          "media_source_tweet_id": [
+            "1862093322728485228"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1862245690048749755",
+        "created_at": "2024-11-28T21:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T22:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862245690048749755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1661419755864211456",
+              "start": 3,
+              "username": "xueli333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMopwrwsCI",
+              "end": 48,
+              "expanded_url": "https://x.com/xueli333/status/1862093322728485228/video/1",
+              "media_key": "7_1862093278515965952",
+              "start": 25,
+              "url": "https://t.co/SMopwrwsCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862245690048749755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862093322728485228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xueli333: 没有成绩单只有病历单 https://t.co/SMopwrwsCI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1862093278515965952"
+          ]
+        },
+        "author_id": "1661419755864211456",
+        "conversation_id": "1862093322728485228",
+        "created_at": "2024-11-28T11:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T12:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862093322728485228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMopwrwsCI",
+              "end": 34,
+              "expanded_url": "https://x.com/xueli333/status/1862093322728485228/video/1",
+              "media_key": "7_1862093278515965952",
+              "start": 11,
+              "url": "https://t.co/SMopwrwsCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862093322728485228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 24866,
+          "like_count": 498,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "没有成绩单只有病历单 https://t.co/SMopwrwsCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n激素治療中MTX/恋血慕残/od/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 1261,
+          "like_count": 6106,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 2073
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:11:53.000Z",
+        "description": "🚪188/288口令红包 自用vpn⬇️推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=H3qMc8ZQ",
+                "start": 0,
+                "url": "https://t.co/ubha7bGHJu"
+              }
+            ]
+          }
+        },
+        "id": "1661419755864211456",
+        "location": "猫窝",
+        "name": "雪球",
+        "pinned_tweet_id": "1690884054919630848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842263530592227328/pzR45jia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11763,
+          "following_count": 208,
+          "like_count": 327,
+          "listed_count": 13,
+          "media_count": 51,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/ubha7bGHJu",
+        "username": "xueli333",
+        "verified": false
+      }
+    ]
+  }
+}

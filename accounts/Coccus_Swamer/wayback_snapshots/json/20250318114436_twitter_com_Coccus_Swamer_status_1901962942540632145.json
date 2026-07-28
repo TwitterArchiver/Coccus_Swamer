@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1901664310528745849",
+    "created_at": "2025-03-18T11:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T12:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901962942540632145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608989725528059904",
+          "start": 0,
+          "username": "kirameow233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901962942540632145",
+    "in_reply_to_user_id": "1608989725528059904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901956900347937001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirameow233 😭谢谢你，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1901664310528745849",
+        "created_at": "2025-03-18T11:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T12:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901962942540632145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608989725528059904",
+              "start": 0,
+              "username": "kirameow233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901962942540632145",
+        "in_reply_to_user_id": "1608989725528059904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901956900347937001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirameow233 😭谢谢你，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608989725528059904",
+        "conversation_id": "1901664310528745849",
+        "created_at": "2025-03-18T11:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T12:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901956900347937001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901956900347937001",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901664310528745849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 抱抱…辛苦了的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1900165369517793788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 1958,
+          "like_count": 8315,
+          "listed_count": 0,
+          "media_count": 499,
+          "tweet_count": 3050
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-31T00:54:01.000Z",
+        "description": "INFP-T/友🏳️‍🌈🏳️‍⚧️/互联网重度依赖/对音乐感兴趣，学习乐理中(^^♪/打算买电钢琴/超重度拖延症/每天都很空洞/从不鉴证\n希望大家都能和睦相处",
+        "id": "1608989725528059904",
+        "location": "Kumamoto-ken, Japan",
+        "name": "Amia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866098863825989632/yulpGtap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 250,
+          "like_count": 22512,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 471
+        },
+        "username": "kirameow233",
+        "verified": false
+      }
+    ]
+  }
+}

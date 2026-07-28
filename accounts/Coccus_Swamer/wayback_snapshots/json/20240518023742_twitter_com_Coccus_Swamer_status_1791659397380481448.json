@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1791659397380481448",
+    "created_at": "2024-05-18T02:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T03:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791659397380481448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "934364440052449281",
+          "start": 3,
+          "username": "fukurou_basic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791659397380481448",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790993324750614845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fukurou_basic: 好奇怪，平时满嘴的坚决不碰赌毒，但一到云南吃菌子的季节，就有好多人说自己也想看小人。\n\n所以lsd和dmt是毒品，但古巴光盖伞和见手青和毒蝇伞和牵牛花和曼陀罗就不是，对吗？\n\n自己觉得可笑吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1791659397380481448",
+        "created_at": "2024-05-18T02:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T03:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791659397380481448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "934364440052449281",
+              "start": 3,
+              "username": "fukurou_basic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791659397380481448",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790993324750614845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fukurou_basic: 好奇怪，平时满嘴的坚决不碰赌毒，但一到云南吃菌子的季节，就有好多人说自己也想看小人。\n\n所以lsd和dmt是毒品，但古巴光盖伞和见手青和毒蝇伞和牵牛花和曼陀罗就不是，对吗？\n\n自己觉得可笑吗？"
+      },
+      {
+        "attachments": {},
+        "author_id": "934364440052449281",
+        "conversation_id": "1790993324750614845",
+        "created_at": "2024-05-16T06:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T07:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790993324750614845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790993324750614845",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪，平时满嘴的坚决不碰赌毒，但一到云南吃菌子的季节，就有好多人说自己也想看小人。\n\n所以lsd和dmt是毒品，但古巴光盖伞和见手青和毒蝇伞和牵牛花和曼陀罗就不是，对吗？\n\n自己觉得可笑吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "早餐一種。\n含糖MTX 休学学生 成分复杂，爱看血图，互关慎重。\n读书/药物/分享生活/日本語勉強中/Deutschlehrer/English also OK!",
+        "id": "1552238688590958592",
+        "name": "帝國粉色果醬配奶油麵包片",
+        "pinned_tweet_id": "1716744793404191029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725501871039909888/eBg1RNIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 508,
+          "like_count": 3150,
+          "listed_count": 0,
+          "tweet_count": 1026
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-25T10:13:36.000Z",
+        "description": "❗️NSFW❗️| 美西 | 性别女·取向男(?) | 168·55kg | 焦虑症患者间歇性疯批警告⚠️ | 电波系 | sub·sp | 老二次元·音游·电子音乐·地下锐舞文化",
+        "id": "934364440052449281",
+        "name": "不苦労",
+        "pinned_tweet_id": "1788112378120589491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781917414730735616/Co2n9c4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 31,
+          "like_count": 108,
+          "listed_count": 0,
+          "tweet_count": 193
+        },
+        "username": "fukurou_basic",
+        "verified": false
+      }
+    ]
+  }
+}

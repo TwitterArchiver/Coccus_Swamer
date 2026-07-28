@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1908761307173838923",
+    "created_at": "2025-04-06T05:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T06:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908761307173838923"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1908761307173838923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "自大火车飞过之后，海子就变成了十个海子和两个一半海子，中间是一条被压平的，又细又干的肉片，上半个不再写诗而是养病，下半个跑去草原不知所踪。\n肠子终于成为了缰绳，这具躯体不再是牢笼了，我的兄弟 尽情挥舞绳子吧，生命不再是你的监狱。我们是大火车之人，我们代表绝对的傲慢，死亡是我们嘲讽柔软之心的手段。\n至今我们仍未知道他变成了几截，也许是三，也许是二，那代表不同的态度，或许三更好。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自大火车飞过之后，海子就变成了十个海子和两个一半海子，中间是一条被压平的，又细又干的肉片，上半个不再写诗而是养病，下半个跑去草原不知所踪。\n肠子终于成为了缰绳，这具躯体不再是牢笼了，我的兄弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1908761307173838923",
+        "created_at": "2025-04-06T05:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908761307173838923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908761307173838923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "自大火车飞过之后，海子就变成了十个海子和两个一半海子，中间是一条被压平的，又细又干的肉片，上半个不再写诗而是养病，下半个跑去草原不知所踪。\n肠子终于成为了缰绳，这具躯体不再是牢笼了，我的兄弟 尽情挥舞绳子吧，生命不再是你的监狱。我们是大火车之人，我们代表绝对的傲慢，死亡是我们嘲讽柔软之心的手段。\n至今我们仍未知道他变成了几截，也许是三，也许是二，那代表不同的态度，或许三更好。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自大火车飞过之后，海子就变成了十个海子和两个一半海子，中间是一条被压平的，又细又干的肉片，上半个不再写诗而是养病，下半个跑去草原不知所踪。\n肠子终于成为了缰绳，这具躯体不再是牢笼了，我的兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 2135,
+          "like_count": 8786,
+          "listed_count": 0,
+          "media_count": 528,
+          "tweet_count": 3170
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

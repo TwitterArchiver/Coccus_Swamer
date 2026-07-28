@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886491000056766467"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1886491001973604560",
+    "created_at": "2025-02-03T19:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T20:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886491001973604560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xrMjbO4M9J",
+          "end": 170,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1886491001973604560/photo/1",
+          "media_key": "3_1886491000056766467",
+          "start": 147,
+          "url": "https://t.co/xrMjbO4M9J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886491001973604560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "茄科植物毫不逊色于同科植物地轻易地合成莨菪烷衍生物，古柯科的古豆碱Hygrine和假托品Pseudotropine，茄科的托品酮Tropinone——一个在哪都很好用的莨菪烷类生物碱。\n\n之所以称之为“轻易地合成”，是因为1915年的诺贝尔化学奖得主魏尔施泰特（Richard Martin Willstätter）第一次以环庚酮为原料合成托品酮的时候，每一步产量都不低，但步骤很多，导致最终产率只有0.75%。但这标志着经典有机合成的顶峰，和人类历史上的第一次多部全合成的诞生。\n\n20世纪的Robinson创造的简单托品酮的合成法产率高达17%，最高可以达到90%。成为有机合成的经典方法，其中的曼尼希反应（Mannich）更是受到出题人的青睐，多次出现在高考模拟题和高中化学竞赛之中。\n\n*曼尼希反应在1912年才被提出，魏尔施泰特的合成法是1901年提出的，所以他没有想到这种方法。\n\n而托品酮又是硫酸阿托品合成的中间产物——这又是让生物化学出题人兴奋的东西了，这样我们只揭开了茄科植物的冰山一角。\n\n后记：\n\n*一种简单的有机合成方法：同时托品酮在碱存在下与碳酸二甲酯（DMC）反应生成2-甲氧羰基托品酮，然后使产物在雷尼镍Raney Nickel存在下加氢生成甲基芽子碱，最后将甲基芽子碱与苯甲酰氯在吡啶存在下发生酯化反应，就可以得到可卡因。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "茄科植物毫不逊色于同科植物地轻易地合成莨菪烷衍生物，古柯科的古豆碱Hygrine和假托品Pseudotropine，茄科的托品酮Tropinone——一个在哪都很好用的莨菪烷类生物碱。\n\n之所以称之为“轻易地合成”，是因为1915年的诺贝尔化学奖得主魏尔施泰特（Richard Martin… https://t.co/xrMjbO4M9J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 279,
+        "media_key": "3_1886491000056766467",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi4pkcpa4AM_X65.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886491000056766467"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1886491001973604560",
+        "created_at": "2025-02-03T19:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T20:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886491001973604560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrMjbO4M9J",
+              "end": 170,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1886491001973604560/photo/1",
+              "media_key": "3_1886491000056766467",
+              "start": 147,
+              "url": "https://t.co/xrMjbO4M9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886491001973604560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "茄科植物毫不逊色于同科植物地轻易地合成莨菪烷衍生物，古柯科的古豆碱Hygrine和假托品Pseudotropine，茄科的托品酮Tropinone——一个在哪都很好用的莨菪烷类生物碱。\n\n之所以称之为“轻易地合成”，是因为1915年的诺贝尔化学奖得主魏尔施泰特（Richard Martin Willstätter）第一次以环庚酮为原料合成托品酮的时候，每一步产量都不低，但步骤很多，导致最终产率只有0.75%。但这标志着经典有机合成的顶峰，和人类历史上的第一次多部全合成的诞生。\n\n20世纪的Robinson创造的简单托品酮的合成法产率高达17%，最高可以达到90%。成为有机合成的经典方法，其中的曼尼希反应（Mannich）更是受到出题人的青睐，多次出现在高考模拟题和高中化学竞赛之中。\n\n*曼尼希反应在1912年才被提出，魏尔施泰特的合成法是1901年提出的，所以他没有想到这种方法。\n\n而托品酮又是硫酸阿托品合成的中间产物——这又是让生物化学出题人兴奋的东西了，这样我们只揭开了茄科植物的冰山一角。\n\n后记：\n\n*一种简单的有机合成方法：同时托品酮在碱存在下与碳酸二甲酯（DMC）反应生成2-甲氧羰基托品酮，然后使产物在雷尼镍Raney Nickel存在下加氢生成甲基芽子碱，最后将甲基芽子碱与苯甲酰氯在吡啶存在下发生酯化反应，就可以得到可卡因。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "茄科植物毫不逊色于同科植物地轻易地合成莨菪烷衍生物，古柯科的古豆碱Hygrine和假托品Pseudotropine，茄科的托品酮Tropinone——一个在哪都很好用的莨菪烷类生物碱。\n\n之所以称之为“轻易地合成”，是因为1915年的诺贝尔化学奖得主魏尔施泰特（Richard Martin… https://t.co/xrMjbO4M9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1885764777039048935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1636,
+          "like_count": 7580,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 2718
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

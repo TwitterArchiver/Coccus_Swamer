@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1897815826792955994",
+    "created_at": "2025-03-07T01:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T02:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897815826792955994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Coccus_Swamer/…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/Coccus_Swamer/status/1897807514147881110",
+          "start": 95,
+          "url": "https://t.co/CEqUnrlilo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897815826792955994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897807514147881110",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個托莫西汀是草莓咖啡味的，有需要的找我預定，醫用劑量是7ml-10ml按需求調整，溶液吸收率比膠囊高，低配擇思達，暫時沒有現貨，有需要的我登記一下到時候統一出價，好像拼多多那些平台都沒有 https://t.co/CEqUnrlilo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897807505306402821",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlZd3v3bwAUiPDZ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1897815826792955994",
+        "created_at": "2025-03-07T01:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T02:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897815826792955994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Coccus_Swamer/…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/Coccus_Swamer/status/1897807514147881110",
+              "start": 95,
+              "url": "https://t.co/CEqUnrlilo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897815826792955994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897807514147881110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個托莫西汀是草莓咖啡味的，有需要的找我預定，醫用劑量是7ml-10ml按需求調整，溶液吸收率比膠囊高，低配擇思達，暫時沒有現貨，有需要的我登記一下到時候統一出價，好像拼多多那些平台都沒有 https://t.co/CEqUnrlilo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897807505306402821"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1897807514147881110",
+        "created_at": "2025-03-07T00:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T01:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897807514147881110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SjhEKdLL7I",
+              "end": 38,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1897807514147881110/photo/1",
+              "media_key": "3_1897807505306402821",
+              "start": 15,
+              "url": "https://t.co/SjhEKdLL7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897807514147881110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "預備上新 國產托莫西汀口服液 https://t.co/SjhEKdLL7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1886742501513683101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 1912,
+          "like_count": 8228,
+          "listed_count": 0,
+          "media_count": 478,
+          "tweet_count": 2891
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1824221025900413207",
+    "created_at": "2024-08-15T23:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T00:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824221025900413207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lznnnnn245019/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lznnnnn245019/status/1824155350607839675",
+          "start": 5,
+          "url": "https://t.co/qEus45Y5JS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824221025900413207",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824155350607839675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美，，， https://t.co/qEus45Y5JS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1824155350607839675].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1824155350607839675",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824155350607839675"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1824221025900413207",
+        "created_at": "2024-08-15T23:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T00:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824221025900413207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lznnnnn245019/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lznnnnn245019/status/1824155350607839675",
+              "start": 5,
+              "url": "https://t.co/qEus45Y5JS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824221025900413207",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824155350607839675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美，，， https://t.co/qEus45Y5JS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n休学中\n激素治療中非二元性别\n血图/od/日常学习，互关慎重。",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1813715606069465466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813715743890157568/kJLcdlib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 737,
+          "like_count": 4177,
+          "listed_count": 0,
+          "tweet_count": 1331
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

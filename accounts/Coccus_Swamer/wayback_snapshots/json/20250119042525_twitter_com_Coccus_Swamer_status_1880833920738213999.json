@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1880832792029954366",
+    "created_at": "2025-01-19T04:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T05:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880833920738213999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1598639824118124544",
+          "start": 0,
+          "username": "ShiroiTree_idol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880833920738213999",
+    "in_reply_to_user_id": "1598639824118124544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880833180837818418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroiTree_idol 不营业没有流量呀，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1880832792029954366",
+        "created_at": "2025-01-19T04:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T05:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880833920738213999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1598639824118124544",
+              "start": 0,
+              "username": "ShiroiTree_idol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880833920738213999",
+        "in_reply_to_user_id": "1598639824118124544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880833180837818418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroiTree_idol 不营业没有流量呀，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598639824118124544",
+        "conversation_id": "1880832792029954366",
+        "created_at": "2025-01-19T04:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T05:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880833180837818418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880833180837818418",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880832792029954366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 店主亲自营业是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1880238674421620978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 1531,
+          "like_count": 7130,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 2467
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T11:27:10.000Z",
+        "description": "似乎是复活了。垃圾桶：@ShiroiTree 会发各种R18G内容，没有裸照，不用看了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "ShiroiTree"
+              }
+            ]
+          }
+        },
+        "id": "1598639824118124544",
+        "location": "世界树",
+        "name": "フリーレン",
+        "pinned_tweet_id": "1835995375142154616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772226181120819200/3--rSoW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3044,
+          "following_count": 611,
+          "like_count": 18682,
+          "listed_count": 6,
+          "media_count": 420,
+          "tweet_count": 9546
+        },
+        "username": "ShiroiTree_idol",
+        "verified": false
+      }
+    ]
+  }
+}

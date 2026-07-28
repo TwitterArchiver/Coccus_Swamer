@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2072137423149261128",
+    "created_at": "2026-07-02T00:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072471465719697434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766407744536420352",
+          "start": 0,
+          "username": "ScarsTowel616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072471465719697434",
+    "in_reply_to_user_id": "1766407744536420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072137423149261128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarsTowel616 搞什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072137412348907520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMG1_3TakAANfs9.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2072137423149261128",
+        "created_at": "2026-07-02T00:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072471465719697434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766407744536420352",
+              "start": 0,
+              "username": "ScarsTowel616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072471465719697434",
+        "in_reply_to_user_id": "1766407744536420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072137423149261128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarsTowel616 搞什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072137412348907520"
+          ]
+        },
+        "author_id": "1766407744536420352",
+        "conversation_id": "2072137423149261128",
+        "created_at": "2026-07-01T01:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072137423149261128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPS0S0j8v0",
+              "end": 88,
+              "expanded_url": "https://x.com/ScarsTowel616/status/2072137423149261128/photo/1",
+              "media_key": "3_2072137412348907520",
+              "start": 65,
+              "url": "https://t.co/UPS0S0j8v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072137423149261128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 33641,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我就说为什么突然那么好把我房间门锁装回来了，还说什么不用在拿椅子卡着了\n还好我长了个心眼\n一觉睡醒房门被半开着被椅子卡着\n无敌了 https://t.co/UPS0S0j8v0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 2601,
+          "like_count": 9855,
+          "listed_count": 0,
+          "media_count": 680,
+          "tweet_count": 3645
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T10:16:47.000Z",
+        "description": "一只笨蛋疯子|紫残|戒o…？|MTF/X🏳️‍⚧️|炸柜（家暴党，大概）|无证含糖|出厂日期:2009.06.16|HRT:2026.3.6|断糖:2026.6.29|发一些负能碎碎念…|同类互fo喵|宝宝：@Satori065 主人（不是）:@YuChenawa 姐姐：@kuaizichopstick",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Satori065"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "kuaizichopstick"
+              }
+            ]
+          }
+        },
+        "id": "1766407744536420352",
+        "location": "site 02",
+        "name": "毛巾sama🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2067950659979415711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 567,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 865
+        },
+        "url": "",
+        "username": "ScarsTowel616",
+        "verified": false
+      }
+    ]
+  }
+}

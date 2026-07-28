@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1887283666541551962",
+    "created_at": "2025-02-05T23:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T00:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887283666541551962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Coccus_Swamer/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Coccus_Swamer/status/1884665074578841961",
+          "start": 11,
+          "url": "https://t.co/W5bpBsfD40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887283666541551962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最终的结果出来了：\n商家背刺了我们，在我们需要的时候恶意抬升铝碳酸镁的价格。我们不得不中断和它的合作，之后我们在护胃填充成分上出现了分歧，怀认为小苏打就可以解决，但我看来小苏打不过是强而有力地中和胃酸，它反而可能影响药物其他成分在胃里的吸收率与不可知的电解质紊乱。最后我们决定用硫糖铝替代铝碳酸镁的护胃作用，并考虑到镁离子和铝离子的摄入量，分别抬高了酸枣仁提取物的含量和苏糖酸镁的用量，降低了硫糖铝和洋甘菊提取物的含量，一颗助眠胶囊的硫糖铝含量为25mg以确保在相对有效的同时不产生新的副作用，而洋甘菊提取物调整为了100mg，是为减弱肠胃刺激。\n在这些之外，我们决定将褪黑素，gaba与西番莲提取物的含量提高以确保胶囊主要功能的有效性。\n这一套下来的安全性评估要重新开始，轻略讲几句安全剂量的问题：\n1.我们将每粒胶囊的褪黑素gaba和酸枣仁提取物翻倍使用，并增加了一定量的镁补剂以保证睡眠质量。同时降低了铝离子含量以确保长期使用时的安全与舒适性。\n2.抗焦虑可以直接从我这里买L-茶氨酸。\n3.我要修改说明书的几点\n（1）助眠胶囊应先做过敏测试后再服用。\n（2）助眠胶囊应在睡前服用，按自己所需，推荐是从一颗开始，一日内胶囊不得超过三颗，八周内不得连续使用此产品，以避免产生依赖，和垂体问题。\n（3）因为单颗胶囊的成本增加了，故助眠胶囊现在推出了二三月的单月试用装可以一次配齐一个月所需要的睡眠质量和入睡能力。\n感谢之前在我这里订购助眠胶囊的客户，让我们也有机会继续改造我们的产品。现在工厂出品还没排到档期，所以请不要紧张做不出来的问题。\n感谢我们的衣食父母。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884665074578841961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最终的结果出来了：… https://t.co/W5bpBsfD40"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1887283666541551962",
+        "created_at": "2025-02-05T23:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T00:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887283666541551962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Coccus_Swamer/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Coccus_Swamer/status/1884665074578841961",
+              "start": 11,
+              "url": "https://t.co/W5bpBsfD40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887283666541551962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最终的结果出来了：\n商家背刺了我们，在我们需要的时候恶意抬升铝碳酸镁的价格。我们不得不中断和它的合作，之后我们在护胃填充成分上出现了分歧，怀认为小苏打就可以解决，但我看来小苏打不过是强而有力地中和胃酸，它反而可能影响药物其他成分在胃里的吸收率与不可知的电解质紊乱。最后我们决定用硫糖铝替代铝碳酸镁的护胃作用，并考虑到镁离子和铝离子的摄入量，分别抬高了酸枣仁提取物的含量和苏糖酸镁的用量，降低了硫糖铝和洋甘菊提取物的含量，一颗助眠胶囊的硫糖铝含量为25mg以确保在相对有效的同时不产生新的副作用，而洋甘菊提取物调整为了100mg，是为减弱肠胃刺激。\n在这些之外，我们决定将褪黑素，gaba与西番莲提取物的含量提高以确保胶囊主要功能的有效性。\n这一套下来的安全性评估要重新开始，轻略讲几句安全剂量的问题：\n1.我们将每粒胶囊的褪黑素gaba和酸枣仁提取物翻倍使用，并增加了一定量的镁补剂以保证睡眠质量。同时降低了铝离子含量以确保长期使用时的安全与舒适性。\n2.抗焦虑可以直接从我这里买L-茶氨酸。\n3.我要修改说明书的几点\n（1）助眠胶囊应先做过敏测试后再服用。\n（2）助眠胶囊应在睡前服用，按自己所需，推荐是从一颗开始，一日内胶囊不得超过三颗，八周内不得连续使用此产品，以避免产生依赖，和垂体问题。\n（3）因为单颗胶囊的成本增加了，故助眠胶囊现在推出了二三月的单月试用装可以一次配齐一个月所需要的睡眠质量和入睡能力。\n感谢之前在我这里订购助眠胶囊的客户，让我们也有机会继续改造我们的产品。现在工厂出品还没排到档期，所以请不要紧张做不出来的问题。\n感谢我们的衣食父母。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884665074578841961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最终的结果出来了：… https://t.co/W5bpBsfD40"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884664316705857536"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1884665074578841961",
+        "created_at": "2025-01-29T18:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T19:06:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884664319260135516",
+          "1884665074578841961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/irfhF1DTHc",
+              "end": 149,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1884665074578841961/photo/1",
+              "media_key": "3_1884664316705857536",
+              "start": 126,
+              "url": "https://t.co/irfhF1DTHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884665074578841961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "？三种有效成分卖这个价格？？\n不过这个有一个可以借鉴的服用方案是：睡前半小时溶到水里喝——这可能需要我的药剂进行改进甚至调味。\n\n*我的意思并不是有效成分越多越好。\n\n我的助眠胶囊有效成分更多同时也更便宜，原料都来自合法权威渠道可以出示相关凭证的。\n已经有朋友从说明书中理解了一些可以展示的成分：褪黑素（1/9）,西番莲提取物，洋甘菊提取物，L-茶氨酸，L-苏糖酸镁，gaba和辅料铝碳酸镁，淀粉糊精除此之外的成分因为之前还在调配没有定下来，但确实没有什么可藏着掖着的：\n\n酸枣仁碱K，山矾碱，酸枣仁皂苷，斛皮素，茴香酮挥发油，R-奎宁酸，红松内酯和各植物提取物的黄酮类物质，用于提高吸收率的胡椒碱。\n\n做这个胶囊的目的最开始本来就不是为了卖的，而是纯粹给自己bzd滥用做替代和补剂，但是调出来实在是太多了所以顺便卖一点。年后十一号我去成都找mino了，之后可能所有产品全部停售，恢复时间未知。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1246,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？三种有效成分卖这个价格？？\n不过这个有一个可以借鉴的服用方案是：睡前半小时溶到水里喝——这可能需要我的药剂进行改进甚至调味。\n\n*我的意思并不是有效成分越多越好。\n\n我的助眠胶囊有效成分更多同时也更便宜，原料都来自合法权威渠道可以出示相关凭证的。… https://t.co/irfhF1DTHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1885764777039048935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1676,
+          "like_count": 7672,
+          "listed_count": 0,
+          "media_count": 445,
+          "tweet_count": 2743
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

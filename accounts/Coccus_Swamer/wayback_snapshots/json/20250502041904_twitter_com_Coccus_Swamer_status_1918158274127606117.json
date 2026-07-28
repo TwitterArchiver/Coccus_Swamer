@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1918158274127606117",
+    "created_at": "2025-05-02T04:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T05:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918158274127606117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1917988927409143812",
+          "start": 3,
+          "username": "OverSpeed_Wiki2"
+        },
+        {
+          "end": 39,
+          "id": "1804587925805596672",
+          "start": 24,
+          "username": "OverSpeed_Wiki"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Message in a private group or channel. This link will only work if you are a",
+          "display_url": "t.me/c/2682883221/4",
+          "end": 91,
+          "expanded_url": "https://t.me/c/2682883221/4",
+          "start": 68,
+          "status": 200,
+          "title": "Telegram",
+          "unwound_url": "https://t.me/c/2682883221/4",
+          "url": "https://t.co/aTtElzL3Xp"
+        },
+        {
+          "description": "Yet Another OverDose 百科 是又一个 OD 百科。 本百科的宗旨是搜集、提供药物相关知识和案例，减少过量用药的危害，改善用药者的个体生活和社会功能。",
+          "display_url": "overdose.work",
+          "end": 117,
+          "expanded_url": "http://overdose.work",
+          "start": 94,
+          "status": 200,
+          "title": "欢迎来到 Yet Another OverDose 百科",
+          "unwound_url": "https://overdose.work/",
+          "url": "https://t.co/7LuqZDvkOA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918158274127606117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917992596653392180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OverSpeed_Wiki2: 原账号@OverSpeed_Wiki 因技术原因无法再登录\n原OsWiki数据存档（可下载）：https://t.co/aTtElzL3Xp\n另有https://t.co/7LuqZDvkOA网站导入了部分原OsWiki数据，但该网站并…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1918158274127606117",
+        "created_at": "2025-05-02T04:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T05:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918158274127606117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1917988927409143812",
+              "start": 3,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 39,
+              "id": "1804587925805596672",
+              "start": 24,
+              "username": "OverSpeed_Wiki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Message in a private group or channel. This link will only work if you are a",
+              "display_url": "t.me/c/2682883221/4",
+              "end": 91,
+              "expanded_url": "https://t.me/c/2682883221/4",
+              "start": 68,
+              "status": 200,
+              "title": "Telegram",
+              "unwound_url": "https://t.me/c/2682883221/4",
+              "url": "https://t.co/aTtElzL3Xp"
+            },
+            {
+              "description": "Yet Another OverDose 百科 是又一个 OD 百科。 本百科的宗旨是搜集、提供药物相关知识和案例，减少过量用药的危害，改善用药者的个体生活和社会功能。",
+              "display_url": "overdose.work",
+              "end": 117,
+              "expanded_url": "http://overdose.work",
+              "start": 94,
+              "status": 200,
+              "title": "欢迎来到 Yet Another OverDose 百科",
+              "unwound_url": "https://overdose.work/",
+              "url": "https://t.co/7LuqZDvkOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918158274127606117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917992596653392180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OverSpeed_Wiki2: 原账号@OverSpeed_Wiki 因技术原因无法再登录\n原OsWiki数据存档（可下载）：https://t.co/aTtElzL3Xp\n另有https://t.co/7LuqZDvkOA网站导入了部分原OsWiki数据，但该网站并…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1917992596653392180",
+        "created_at": "2025-05-01T17:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T18:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917992596653392180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1804587925805596672",
+              "start": 3,
+              "username": "OverSpeed_Wiki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Message in a private group or channel. This link will only work if you are a",
+              "display_url": "t.me/c/2682883221/4",
+              "end": 70,
+              "expanded_url": "https://t.me/c/2682883221/4",
+              "start": 47,
+              "status": 200,
+              "title": "Telegram",
+              "unwound_url": "https://t.me/c/2682883221/4",
+              "url": "https://t.co/aTtElzL3Xp"
+            },
+            {
+              "description": "Yet Another OverDose 百科 是又一个 OD 百科。 本百科的宗旨是搜集、提供药物相关知识和案例，减少过量用药的危害，改善用药者的个体生活和社会功能。",
+              "display_url": "overdose.work",
+              "end": 96,
+              "expanded_url": "http://overdose.work",
+              "start": 73,
+              "status": 200,
+              "title": "欢迎来到 Yet Another OverDose 百科",
+              "unwound_url": "https://overdose.work/",
+              "url": "https://t.co/7LuqZDvkOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917992596653392180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1172,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "原账号@OverSpeed_Wiki 因技术原因无法再登录\n原OsWiki数据存档（可下载）：https://t.co/aTtElzL3Xp\n另有https://t.co/7LuqZDvkOA网站导入了部分原OsWiki数据，但该网站并非原OsWiki编辑人员运营，也从未与我们合作过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 2204,
+          "like_count": 8997,
+          "listed_count": 0,
+          "media_count": 540,
+          "tweet_count": 3235
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "原账号@OverSpeed_wiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "OverSpeed_wiki"
+              }
+            ]
+          }
+        },
+        "id": "1917988927409143812",
+        "name": "OverSpeed_Wiki（2.0）",
+        "pinned_tweet_id": "1917992596653392180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917989340153880576/2tmSXWVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 71,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1903403105963872404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3501,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 199,
+          "tweet_count": 2693
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

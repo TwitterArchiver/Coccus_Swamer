@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1905621733404803074"
+      ],
+      "media_source_tweet_id": [
+        "1905621919673806878"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1905906563979604470",
+    "created_at": "2025-03-29T08:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T09:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905906563979604470"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "足立レイ",
+          "probability": 0.7606,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1724623113735094272",
+          "start": 3,
+          "username": "meme_ivi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "好きな漫画の曲です童話の無彩色が絡まり同化して断崖で円を描くただ外骨格様の胞衣網溶けだしあふれ肺が見える火を放ってさらって散々霊験阿弥陀の中弾いて白く染まっている透明００７８凪いで思い出して溶けだして食んだ油槽で駆動した雷鳴がつんざいて遠くまでバグった放物線を描いて手を離さないで解読不可能のような螺旋の階たどる異...",
+          "display_url": "youtu.be/ufN0fVgg2cM",
+          "end": 49,
+          "expanded_url": "https://youtu.be/ufN0fVgg2cM",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/1905621922798600201/o4lwvtL2?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1905621922798600201/o4lwvtL2?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 26,
+          "status": 200,
+          "title": "ゴウナ／足立レイ",
+          "unwound_url": "https://www.youtube.com/watch?v=ufN0fVgg2cM&feature=youtu.be",
+          "url": "https://t.co/5kuOwrgkbp"
+        },
+        {
+          "description": "く",
+          "display_url": "nicovideo.jp/watch/sm448180…",
+          "end": 75,
+          "expanded_url": "https://www.nicovideo.jp/watch/sm44818056",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1905621920982466561/vn8rUAuN?format=png&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1905621920982466561/vn8rUAuN?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 52,
+          "status": 200,
+          "title": "ゴウナ／足立レイ",
+          "unwound_url": "https://www.nicovideo.jp/watch/sm44818056",
+          "url": "https://t.co/2DtAKr0T2b"
+        },
+        {
+          "display_url": "pic.x.com/TU2Y0xtONr",
+          "end": 99,
+          "expanded_url": "https://x.com/meme_ivi/status/1905621919673806878/video/1",
+          "media_key": "7_1905621733404803074",
+          "start": 76,
+          "url": "https://t.co/TU2Y0xtONr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905906563979604470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905621919673806878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meme_ivi: ゴウナ／足立レイ\n\ny　https://t.co/5kuOwrgkbp\nn　https://t.co/2DtAKr0T2b https://t.co/TU2Y0xtONr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28833,
+        "height": 480,
+        "media_key": "7_1905621733404803074",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1905621733404803074/pu/img/8YjkMpCnB1SQQIAV.jpg",
+        "public_metrics": {
+          "view_count": 1447
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905621733404803074/pu/vid/avc1/360x270/67H7uBZlpqlRm7Mh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905621733404803074/pu/vid/avc1/480x360/p6hk2BBwJw98Lkik.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905621733404803074/pu/vid/avc1/640x480/i_ZEuOBN858L6-Ex.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1905621733404803074/pu/pl/CZYPY2clYzJw2eLZ.m3u8?tag=12&v=ce1"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1905621733404803074"
+          ],
+          "media_source_tweet_id": [
+            "1905621919673806878"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1905906563979604470",
+        "created_at": "2025-03-29T08:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T09:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905906563979604470"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "足立レイ",
+              "probability": 0.7606,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1724623113735094272",
+              "start": 3,
+              "username": "meme_ivi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "好きな漫画の曲です童話の無彩色が絡まり同化して断崖で円を描くただ外骨格様の胞衣網溶けだしあふれ肺が見える火を放ってさらって散々霊験阿弥陀の中弾いて白く染まっている透明００７８凪いで思い出して溶けだして食んだ油槽で駆動した雷鳴がつんざいて遠くまでバグった放物線を描いて手を離さないで解読不可能のような螺旋の階たどる異...",
+              "display_url": "youtu.be/ufN0fVgg2cM",
+              "end": 49,
+              "expanded_url": "https://youtu.be/ufN0fVgg2cM",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/1905621922798600201/o4lwvtL2?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1905621922798600201/o4lwvtL2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "ゴウナ／足立レイ",
+              "unwound_url": "https://www.youtube.com/watch?v=ufN0fVgg2cM&feature=youtu.be",
+              "url": "https://t.co/5kuOwrgkbp"
+            },
+            {
+              "description": "く",
+              "display_url": "nicovideo.jp/watch/sm448180…",
+              "end": 75,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm44818056",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1905621920982466561/vn8rUAuN?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1905621920982466561/vn8rUAuN?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "ゴウナ／足立レイ",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm44818056",
+              "url": "https://t.co/2DtAKr0T2b"
+            },
+            {
+              "display_url": "pic.x.com/TU2Y0xtONr",
+              "end": 99,
+              "expanded_url": "https://x.com/meme_ivi/status/1905621919673806878/video/1",
+              "media_key": "7_1905621733404803074",
+              "start": 76,
+              "url": "https://t.co/TU2Y0xtONr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905906563979604470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905621919673806878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meme_ivi: ゴウナ／足立レイ\n\ny　https://t.co/5kuOwrgkbp\nn　https://t.co/2DtAKr0T2b https://t.co/TU2Y0xtONr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1905621733404803074"
+          ]
+        },
+        "author_id": "1724623113735094272",
+        "conversation_id": "1905621919673806878",
+        "created_at": "2025-03-28T14:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T15:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905621919673806878"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "足立レイ",
+              "probability": 0.7175,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "好きな漫画の曲です童話の無彩色が絡まり同化して断崖で円を描くただ外骨格様の胞衣網溶けだしあふれ肺が見える火を放ってさらって散々霊験阿弥陀の中弾いて白く染まっている透明００７８凪いで思い出して溶けだして食んだ油槽で駆動した雷鳴がつんざいて遠くまでバグった放物線を描いて手を離さないで解読不可能のような螺旋の階たどる異...",
+              "display_url": "youtu.be/ufN0fVgg2cM",
+              "end": 35,
+              "expanded_url": "https://youtu.be/ufN0fVgg2cM",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/1905621922798600201/o4lwvtL2?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1905621922798600201/o4lwvtL2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "ゴウナ／足立レイ",
+              "unwound_url": "https://www.youtube.com/watch?v=ufN0fVgg2cM&feature=youtu.be",
+              "url": "https://t.co/5kuOwrgkbp"
+            },
+            {
+              "description": "く",
+              "display_url": "nicovideo.jp/watch/sm448180…",
+              "end": 61,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm44818056",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1905621920982466561/vn8rUAuN?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1905621920982466561/vn8rUAuN?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "ゴウナ／足立レイ",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm44818056",
+              "url": "https://t.co/2DtAKr0T2b"
+            },
+            {
+              "display_url": "pic.x.com/TU2Y0xtONr",
+              "end": 85,
+              "expanded_url": "https://x.com/meme_ivi/status/1905621919673806878/video/1",
+              "media_key": "7_1905621733404803074",
+              "start": 62,
+              "url": "https://t.co/TU2Y0xtONr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905621919673806878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 5881,
+          "like_count": 231,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "ゴウナ／足立レイ\n\ny　https://t.co/5kuOwrgkbp\nn　https://t.co/2DtAKr0T2b https://t.co/TU2Y0xtONr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 2072,
+          "like_count": 8580,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 3094
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T02:59:57.000Z",
+        "description": "youtube→https://t.co/kGI0ywVmQ3\nniconico→https://t.co/a0DzaYWjPE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@meme_ivi",
+                "end": 31,
+                "expanded_url": "https://www.youtube.com/@meme_ivi",
+                "start": 8,
+                "url": "https://t.co/kGI0ywVmQ3"
+              },
+              {
+                "display_url": "nicovideo.jp/user/131897567",
+                "end": 64,
+                "expanded_url": "https://www.nicovideo.jp/user/131897567",
+                "start": 41,
+                "url": "https://t.co/a0DzaYWjPE"
+              }
+            ]
+          }
+        },
+        "id": "1724623113735094272",
+        "name": "駆動快",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889316259973750784/7_O-Jn5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 8,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "username": "meme_ivi",
+        "verified": false
+      }
+    ]
+  }
+}

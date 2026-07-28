@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1873147554332094477",
+    "created_at": "2024-12-28T23:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T00:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873147554332094477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DavariT72/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/DavariT72/status/1873041398217495015",
+          "start": 141,
+          "url": "https://t.co/ww44Xvtns2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873147554332094477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873041398217495015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主要是呋喃香豆素会抑制cyp3a4影响药物代谢要么药物浓度偏高要么偏低容易导致危险。值得指出的是，呋喃香豆素是一类结构骨架是香豆素与呋喃的稠合的化合物，在这个骨架上可以加各种侧链，所以其是一个很大的化合物家族，南美只需要理解这个骨架是如何合成的，我们就能知道什么植物是不能吃的了。 https://t.co/ww44Xvtns2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1873147554332094477",
+        "created_at": "2024-12-28T23:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T00:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873147554332094477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DavariT72/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/DavariT72/status/1873041398217495015",
+              "start": 141,
+              "url": "https://t.co/ww44Xvtns2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873147554332094477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873041398217495015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要是呋喃香豆素会抑制cyp3a4影响药物代谢要么药物浓度偏高要么偏低容易导致危险。值得指出的是，呋喃香豆素是一类结构骨架是香豆素与呋喃的稠合的化合物，在这个骨架上可以加各种侧链，所以其是一个很大的化合物家族，南美只需要理解这个骨架是如何合成的，我们就能知道什么植物是不能吃的了。 https://t.co/ww44Xvtns2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873041394664980480"
+          ]
+        },
+        "author_id": "1451422182614069251",
+        "conversation_id": "1873041398217495015",
+        "created_at": "2024-12-28T16:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T17:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873041398217495015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiXFsOg4nK",
+              "end": 89,
+              "expanded_url": "https://x.com/DavariT72/status/1873041398217495015/photo/1",
+              "media_key": "3_1873041394664980480",
+              "start": 66,
+              "url": "https://t.co/uiXFsOg4nK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873041398217495015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 653,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃精神药品之后还能吃柑橘类吗？听说不能吃葡萄柚还是啥会导致不代谢（我完全不懂，道听途说来的）\n我有脆皮金桔，可以吃吗\n谢谢大家评论 https://t.co/uiXFsOg4nK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1366,
+          "like_count": 6551,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2279
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T05:36:37.000Z",
+        "description": "欢迎来到我的主页，可爱的肥橘猫(178，MTF抖m，k6k8，植物科普\n含糖天残党/已嘎蛋HRT起始日(2022/5/24)。欢迎同类贴贴(´｡✪ω✪｡，有时会难过崩溃，可能会重开。身体状况差，不在线请见谅，爱吃水果!热爱植物\n成分（40%可爱+20%焦虑+30%烟花和水果+2%雌二醇+8%抑郁",
+        "id": "1451422182614069251",
+        "location": "Peñamellera Baja, Españ",
+        "name": "水果甜野猫~😋🥑🐱",
+        "pinned_tweet_id": "1574387867362545664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40751,
+          "following_count": 1600,
+          "like_count": 68791,
+          "listed_count": 44,
+          "media_count": 3311,
+          "tweet_count": 46268
+        },
+        "username": "DavariT72",
+        "verified": false
+      }
+    ]
+  }
+}

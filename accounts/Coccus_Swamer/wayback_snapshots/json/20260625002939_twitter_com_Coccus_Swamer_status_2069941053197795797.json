@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2069605645612118103",
+    "created_at": "2026-06-25T00:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T01:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069941053197795797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069941053197795797",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069605645612118103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 天呐这简直就是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069605632681054208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLi3W5EaEAAVCrE.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069605632852860928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLi3W5tXoAATL6B.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2069605645612118103",
+        "created_at": "2026-06-25T00:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069941053197795797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069941053197795797",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069605645612118103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 天呐这简直就是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069605632681054208",
+            "3_2069605632852860928"
+          ]
+        },
+        "author_id": "1560129932524544000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069605645612118103",
+        "created_at": "2026-06-24T02:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069605645612118103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fMIGs178c",
+              "end": 57,
+              "expanded_url": "https://x.com/xijiu_/status/2069605645612118103/photo/1",
+              "media_key": "3_2069605632681054208",
+              "start": 34,
+              "url": "https://t.co/1fMIGs178c"
+            },
+            {
+              "display_url": "pic.x.com/1fMIGs178c",
+              "end": 57,
+              "expanded_url": "https://x.com/xijiu_/status/2069605645612118103/photo/1",
+              "media_key": "3_2069605632852860928",
+              "start": 34,
+              "url": "https://t.co/1fMIGs178c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069605645612118103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1737,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛啊？\n我工作社交没分号啊\n我学校工作连个收到都回不了了是吧 https://t.co/1fMIGs178c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关",
+        "id": "1552238688590958592",
+        "location": "锟斤拷锟斤拷锟斤拷锟斤拷",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1943417317855236106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 2504,
+          "like_count": 9754,
+          "listed_count": 0,
+          "media_count": 667,
+          "tweet_count": 3600
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "location": "被有机实验室炸飞的电化学实验室",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3652,
+          "following_count": 857,
+          "like_count": 203287,
+          "listed_count": 3,
+          "media_count": 686,
+          "tweet_count": 9645
+        },
+        "url": "",
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1819994183626858497"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1819994186864898091",
+    "created_at": "2024-08-04T07:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T08:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1819994186864898091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4XfgLDosnn",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Coccus_Swamer/status/1819994186864898091/photo/1",
+          "media_key": "3_1819994183626858497",
+          "start": 19,
+          "url": "https://t.co/4XfgLDosnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819994186864898091",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "医生开的药搓了两颗精分鸡尾酒，试试看 https://t.co/4XfgLDosnn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1819994183626858497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUHrEThbIAEJfgk.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819994183626858497"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1819994186864898091",
+        "created_at": "2024-08-04T07:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T08:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819994186864898091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4XfgLDosnn",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Coccus_Swamer/status/1819994186864898091/photo/1",
+              "media_key": "3_1819994183626858497",
+              "start": 19,
+              "url": "https://t.co/4XfgLDosnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819994186864898091",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生开的药搓了两颗精分鸡尾酒，试试看 https://t.co/4XfgLDosnn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n休学中\n激素治療中非二元性别\n血图/od/日常学习，互关慎重。",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1813715606069465466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813715743890157568/kJLcdlib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 725,
+          "like_count": 4151,
+          "listed_count": 0,
+          "tweet_count": 1319
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

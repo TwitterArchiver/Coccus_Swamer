@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1900486628503937140",
+    "created_at": "2025-03-14T23:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T00:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900692196577472560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829813692042551296",
+          "start": 0,
+          "username": "tomxc499"
+        },
+        {
+          "end": 24,
+          "id": "1828062670580543488",
+          "start": 10,
+          "username": "CallHtheXtime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900692196577472560",
+    "in_reply_to_user_id": "1829813692042551296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900548038927790468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomxc499 @CallHtheXtime 可乐鸭也行🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1900486628503937140",
+        "created_at": "2025-03-14T23:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T00:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900692196577472560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829813692042551296",
+              "start": 0,
+              "username": "tomxc499"
+            },
+            {
+              "end": 24,
+              "id": "1828062670580543488",
+              "start": 10,
+              "username": "CallHtheXtime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900692196577472560",
+        "in_reply_to_user_id": "1829813692042551296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900548038927790468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomxc499 @CallHtheXtime 可乐鸭也行🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829813692042551296",
+        "conversation_id": "1900486628503937140",
+        "created_at": "2025-03-14T14:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T15:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900548038927790468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828062670580543488",
+              "start": 0,
+              "username": "CallHtheXtime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900548038927790468",
+        "in_reply_to_user_id": "1828062670580543488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 688,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900486628503937140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CallHtheXtime 有啤酒没？我正好有只鸭子搞啤酒鸭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1900165369517793788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1944,
+          "like_count": 8192,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 2996
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T09:29:55.000Z",
+        "description": "来位牧师把我复活下",
+        "id": "1829813692042551296",
+        "name": "七月流火",
+        "pinned_tweet_id": "1899099218221859113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899099192129437696/2LhirJWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 727,
+          "like_count": 18073,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 1944
+        },
+        "username": "tomxc499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T13:31:28.000Z",
+        "description": "半文艺半抽象半生活账号/请礼貌/不稳定精神病患者别跟我计较/骂人秒b/多面不粘锅/高强度冲浪/私信秒回互fo私信就行/没事发发梗图发发疯/爱正常人类",
+        "id": "1828062670580543488",
+        "location": "熊本县",
+        "name": "风情主播喵梦Nyamuchi💙💜🖤",
+        "pinned_tweet_id": "1898222605204963660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900403837292195840/fwhiZF2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 265,
+          "like_count": 2926,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 4377
+        },
+        "username": "CallHtheXtime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1904170039458009088"
+      ],
+      "media_source_tweet_id": [
+        "1904170276251656298"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1904481212766544147",
+    "created_at": "2025-03-25T10:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T11:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904481212766544147"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Takou",
+          "probability": 0.7652,
+          "start": 30,
+          "type": "Other"
+        },
+        {
+          "end": 51,
+          "normalized_text": "Boyish Kanojo",
+          "probability": 0.7518,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471640417519030275",
+          "start": 3,
+          "username": "TopGyaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n5kFmH42ot",
+          "end": 77,
+          "expanded_url": "https://x.com/TopGyaru/status/1904170276251656298/video/1",
+          "media_key": "7_1904170039458009088",
+          "start": 54,
+          "url": "https://t.co/n5kFmH42ot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904481212766544147",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3013
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904170276251656298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TopGyaru: You should read Takou no Boyish Kanojo! https://t.co/n5kFmH42ot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27794,
+        "height": 720,
+        "media_key": "7_1904170039458009088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1904170039458009088/pu/img/OtKP0oDfOkIrhAcY.jpg",
+        "public_metrics": {
+          "view_count": 758569
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904170039458009088/pu/vid/avc1/480x270/cFhPyHCEgyLuEOuh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904170039458009088/pu/vid/avc1/640x360/E2i9RqZNumdUeyR4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904170039458009088/pu/vid/avc1/1280x720/hBxi1A9s26lnIVeS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1904170039458009088/pu/pl/-l9-ibePB9vFNVVk.m3u8?tag=12&v=7f7"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904170039458009088"
+          ],
+          "media_source_tweet_id": [
+            "1904170276251656298"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1904481212766544147",
+        "created_at": "2025-03-25T10:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T11:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904481212766544147"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Takou",
+              "probability": 0.7652,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "Boyish Kanojo",
+              "probability": 0.7518,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471640417519030275",
+              "start": 3,
+              "username": "TopGyaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5kFmH42ot",
+              "end": 77,
+              "expanded_url": "https://x.com/TopGyaru/status/1904170276251656298/video/1",
+              "media_key": "7_1904170039458009088",
+              "start": 54,
+              "url": "https://t.co/n5kFmH42ot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904481212766544147",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3013
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904170276251656298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TopGyaru: You should read Takou no Boyish Kanojo! https://t.co/n5kFmH42ot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904170039458009088"
+          ]
+        },
+        "author_id": "1471640417519030275",
+        "conversation_id": "1904170276251656298",
+        "created_at": "2025-03-24T13:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T14:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904170276251656298"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Takou",
+              "probability": 0.7269,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "Boyish Kanojo",
+              "probability": 0.6434,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5kFmH42ot",
+              "end": 63,
+              "expanded_url": "https://x.com/TopGyaru/status/1904170276251656298/video/1",
+              "media_key": "7_1904170039458009088",
+              "start": 40,
+              "url": "https://t.co/n5kFmH42ot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904170276251656298",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19983,
+          "impression_count": 1264309,
+          "like_count": 46800,
+          "quote_count": 188,
+          "reply_count": 75,
+          "retweet_count": 3013
+        },
+        "reply_settings": "everyone",
+        "text": "You should read Takou no Boyish Kanojo! https://t.co/n5kFmH42ot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 2052,
+          "like_count": 8511,
+          "listed_count": 0,
+          "media_count": 507,
+          "tweet_count": 3084
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "location": " She/Her",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1892952150281539702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229868,
+          "following_count": 1291,
+          "like_count": 127918,
+          "listed_count": 384,
+          "media_count": 7223,
+          "tweet_count": 21780
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true
+      }
+    ]
+  }
+}

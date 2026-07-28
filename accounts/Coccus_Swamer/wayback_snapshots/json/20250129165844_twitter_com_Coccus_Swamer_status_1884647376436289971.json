@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1883313595255320576",
+        "7_1883313875124424704",
+        "7_1883313948843540480",
+        "7_1883314016820613120"
+      ],
+      "media_source_tweet_id": [
+        "1883424637486350479",
+        "1883424637486350479",
+        "1883424637486350479",
+        "1883424637486350479"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1884647376436289971",
+    "created_at": "2025-01-29T16:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T17:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884647376436289971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1500334656339996673",
+          "start": 3,
+          "username": "iit8eat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x63nCb5f6F",
+          "end": 50,
+          "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+          "media_key": "7_1883313595255320576",
+          "start": 27,
+          "url": "https://t.co/x63nCb5f6F"
+        },
+        {
+          "display_url": "pic.x.com/x63nCb5f6F",
+          "end": 50,
+          "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+          "media_key": "7_1883313875124424704",
+          "start": 27,
+          "url": "https://t.co/x63nCb5f6F"
+        },
+        {
+          "display_url": "pic.x.com/x63nCb5f6F",
+          "end": 50,
+          "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+          "media_key": "7_1883313948843540480",
+          "start": 27,
+          "url": "https://t.co/x63nCb5f6F"
+        },
+        {
+          "display_url": "pic.x.com/x63nCb5f6F",
+          "end": 50,
+          "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+          "media_key": "7_1883314016820613120",
+          "start": 27,
+          "url": "https://t.co/x63nCb5f6F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884647376436289971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 531
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883424637486350479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iit8eat: 最近上げたRemixまとめ https://t.co/x63nCb5f6F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30733,
+        "height": 1080,
+        "media_key": "7_1883313595255320576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883313595255320576/pu/img/cOF3u-fNgcSK6WpI.jpg",
+        "public_metrics": {
+          "view_count": 28490
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883313595255320576/pu/vid/avc1/480x270/ijuBQITqPITbWTtM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883313595255320576/pu/vid/avc1/640x360/p1L5I8QDdbYmZuhG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883313595255320576/pu/vid/avc1/1280x720/GIj9ljSjKYXvAXzr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883313595255320576/pu/pl/2Ws3-yteyzHJGX57.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 25500,
+        "height": 1080,
+        "media_key": "7_1883313875124424704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883313875124424704/pu/img/ouw1tQ2F0SJmeGq5.jpg",
+        "public_metrics": {
+          "view_count": 6008
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883313875124424704/pu/vid/avc1/480x270/mTgqiZHq0rHQ3FbQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883313875124424704/pu/vid/avc1/640x360/LFFtScApvLzWHc2s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883313875124424704/pu/vid/avc1/1280x720/ZM8PrsUO30GD9zfi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883313875124424704/pu/pl/JDzD2YIx1FJPIxWw.m3u8?tag=12&v=ec3"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 21566,
+        "height": 1080,
+        "media_key": "7_1883313948843540480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883313948843540480/pu/img/QQDjgjlDN8IIQglD.jpg",
+        "public_metrics": {
+          "view_count": 5106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883313948843540480/pu/vid/avc1/480x270/ZKkKrmRx8-rHjAUs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883313948843540480/pu/vid/avc1/640x360/WKTn3e0CCO65UFgc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883313948843540480/pu/vid/avc1/1280x720/jCAOt7-hM-3rCitm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883313948843540480/pu/pl/1hpf5OBTLZ47faUJ.m3u8?tag=12&v=dcf"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 42533,
+        "height": 1080,
+        "media_key": "7_1883314016820613120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883314016820613120/pu/img/p9aIhMGR9j46dYdl.jpg",
+        "public_metrics": {
+          "view_count": 4395
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883314016820613120/pu/vid/avc1/480x270/-pcsqqYTilom7Lny.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883314016820613120/pu/vid/avc1/640x360/UXE-To9-jgMcKiU9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883314016820613120/pu/vid/avc1/1280x720/pzxgC9_g3o50CoSK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883314016820613120/pu/pl/dhPlzKyw9yPPwm3F.m3u8?tag=12&v=f54"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883313595255320576",
+            "7_1883313875124424704",
+            "7_1883313948843540480",
+            "7_1883314016820613120"
+          ],
+          "media_source_tweet_id": [
+            "1883424637486350479",
+            "1883424637486350479",
+            "1883424637486350479",
+            "1883424637486350479"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884647376436289971",
+        "created_at": "2025-01-29T16:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T17:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884647376436289971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1500334656339996673",
+              "start": 3,
+              "username": "iit8eat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x63nCb5f6F",
+              "end": 50,
+              "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+              "media_key": "7_1883313595255320576",
+              "start": 27,
+              "url": "https://t.co/x63nCb5f6F"
+            },
+            {
+              "display_url": "pic.x.com/x63nCb5f6F",
+              "end": 50,
+              "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+              "media_key": "7_1883313875124424704",
+              "start": 27,
+              "url": "https://t.co/x63nCb5f6F"
+            },
+            {
+              "display_url": "pic.x.com/x63nCb5f6F",
+              "end": 50,
+              "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+              "media_key": "7_1883313948843540480",
+              "start": 27,
+              "url": "https://t.co/x63nCb5f6F"
+            },
+            {
+              "display_url": "pic.x.com/x63nCb5f6F",
+              "end": 50,
+              "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+              "media_key": "7_1883314016820613120",
+              "start": 27,
+              "url": "https://t.co/x63nCb5f6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884647376436289971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 531
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883424637486350479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iit8eat: 最近上げたRemixまとめ https://t.co/x63nCb5f6F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883313595255320576",
+            "7_1883313875124424704",
+            "7_1883313948843540480",
+            "7_1883314016820613120"
+          ]
+        },
+        "author_id": "1500334656339996673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883424637486350479",
+        "created_at": "2025-01-26T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883424637486350479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x63nCb5f6F",
+              "end": 37,
+              "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+              "media_key": "7_1883313595255320576",
+              "start": 14,
+              "url": "https://t.co/x63nCb5f6F"
+            },
+            {
+              "display_url": "pic.x.com/x63nCb5f6F",
+              "end": 37,
+              "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+              "media_key": "7_1883313875124424704",
+              "start": 14,
+              "url": "https://t.co/x63nCb5f6F"
+            },
+            {
+              "display_url": "pic.x.com/x63nCb5f6F",
+              "end": 37,
+              "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+              "media_key": "7_1883313948843540480",
+              "start": 14,
+              "url": "https://t.co/x63nCb5f6F"
+            },
+            {
+              "display_url": "pic.x.com/x63nCb5f6F",
+              "end": 37,
+              "expanded_url": "https://x.com/iit8eat/status/1883424637486350479/video/1",
+              "media_key": "7_1883314016820613120",
+              "start": 14,
+              "url": "https://t.co/x63nCb5f6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883424637486350479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 862,
+          "impression_count": 83042,
+          "like_count": 3533,
+          "quote_count": 39,
+          "reply_count": 5,
+          "retweet_count": 531
+        },
+        "reply_settings": "everyone",
+        "text": "最近上げたRemixまとめ https://t.co/x63nCb5f6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1883274780335600052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 1581,
+          "like_count": 7385,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 2648
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-06T04:58:41.000Z",
+        "description": "vocaloid p.｜16歳｜fa：#とすらいーつ｜sub：@e2_sub｜Y：https://t.co/jHM8wOPqrL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "とすらいーつ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 31,
+                "username": "e2_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@iit8eat",
+                "end": 64,
+                "expanded_url": "http://m.youtube.com/@iit8eat",
+                "start": 41,
+                "url": "https://t.co/jHM8wOPqrL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/iit8eat",
+                "end": 23,
+                "expanded_url": "https://lit.link/iit8eat",
+                "start": 0,
+                "url": "https://t.co/c6mUwGsdIy"
+              }
+            ]
+          }
+        },
+        "id": "1500334656339996673",
+        "location": "ご連絡はDMへ",
+        "name": "いーつ",
+        "pinned_tweet_id": "1849037462099870010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840175590965661696/vlVkvB23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3096,
+          "following_count": 464,
+          "like_count": 14503,
+          "listed_count": 44,
+          "media_count": 772,
+          "tweet_count": 7035
+        },
+        "url": "https://t.co/c6mUwGsdIy",
+        "username": "iit8eat",
+        "verified": false
+      }
+    ]
+  }
+}

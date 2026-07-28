@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1922420381224169634",
+    "created_at": "2025-05-13T22:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T23:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922420381224169634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lalahjAWA/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/lalahjAWA/status/1921953131744694341",
+          "start": 6,
+          "url": "https://t.co/3orw5kNPnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922420381224169634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921953131744694341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主人，，， https://t.co/3orw5kNPnV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_1921953124819800064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwmLx_WEAAkaLo.jpg",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1922420381224169634",
+        "created_at": "2025-05-13T22:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T23:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922420381224169634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lalahjAWA/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/lalahjAWA/status/1921953131744694341",
+              "start": 6,
+              "url": "https://t.co/3orw5kNPnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922420381224169634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921953131744694341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主人，，， https://t.co/3orw5kNPnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921953124819800064"
+          ]
+        },
+        "author_id": "1688533089038028800",
+        "conversation_id": "1921953131744694341",
+        "created_at": "2025-05-12T15:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T16:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921953131744694341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dmdt3nkyXC",
+              "end": 23,
+              "expanded_url": "https://x.com/lalahjAWA/status/1921953131744694341/photo/1",
+              "media_key": "3_1921953124819800064",
+              "start": 0,
+              "url": "https://t.co/Dmdt3nkyXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921953131744694341",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 188968,
+          "like_count": 4035,
+          "quote_count": 16,
+          "reply_count": 50,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Dmdt3nkyXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 2227,
+          "like_count": 9218,
+          "listed_count": 0,
+          "media_count": 558,
+          "tweet_count": 3282
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-07T12:50:50.000Z",
+        "description": "— — —. . . . . . .— — — —",
+        "id": "1688533089038028800",
+        "location": "0.001KM",
+        "name": "炎炎uwu🔜云兽聚",
+        "pinned_tweet_id": "1921608579213045955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907113632271646721/4s5dPJ-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5801,
+          "following_count": 820,
+          "like_count": 36703,
+          "listed_count": 8,
+          "media_count": 449,
+          "tweet_count": 3758
+        },
+        "username": "lalahjAWA",
+        "verified": false
+      }
+    ]
+  }
+}

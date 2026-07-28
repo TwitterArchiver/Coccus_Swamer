@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2079754828608311801",
+    "created_at": "2026-07-22T02:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079754828608311801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1869190522759438336",
+          "start": 3,
+          "username": "worldneedsme33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079754828608311801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079712629380321719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @worldneedsme33: 我讨厌大学。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2079754828608311801",
+        "created_at": "2026-07-22T02:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079754828608311801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1869190522759438336",
+              "start": 3,
+              "username": "worldneedsme33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079754828608311801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079712629380321719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @worldneedsme33: 我讨厌大学。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869190522759438336",
+        "conversation_id": "2079712629380321719",
+        "created_at": "2026-07-21T23:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079712629380321719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079712629380321719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌大学。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 2685,
+          "like_count": 9946,
+          "listed_count": 0,
+          "media_count": 703,
+          "tweet_count": 3713
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T01:18:56.000Z",
+        "description": "人随春意泰( *｀ω´)/你是我心底的一小片潮湿/@gospel333333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "gospel333333"
+              }
+            ]
+          }
+        },
+        "id": "1869190522759438336",
+        "location": "福音国福音省福音市福音区",
+        "name": "福音（操你血血妈）",
+        "pinned_tweet_id": "2048140733765628094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886083398332223488/HLuUTrs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 253,
+          "like_count": 5459,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 6539
+        },
+        "url": "",
+        "username": "worldneedsme33",
+        "verified": false
+      }
+    ]
+  }
+}

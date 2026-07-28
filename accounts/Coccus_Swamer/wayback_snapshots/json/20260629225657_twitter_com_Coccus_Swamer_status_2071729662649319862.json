@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071729650712408064"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071729662649319862",
+    "created_at": "2026-06-29T22:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T23:46:23.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071727003762557077",
+      "2071729662649319862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3UKo8kdLvz",
+          "end": 168,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2071729662649319862/photo/1",
+          "media_key": "3_2071729650712408064",
+          "start": 145,
+          "url": "https://t.co/3UKo8kdLvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071729662649319862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发割手被msk警告封了12h。\n\n只要想起一生中后悔的事\n梅花便落了下来\n比如看她游泳到河的另一岸\n比如登上一株松木梯子\n危险的事固然美丽\n不如看她骑马归来\n面颊温暖\n羞惭。低下头，回答着皇帝\n一面镜子永远等候她\n让她坐到镜中常坐的地方\n望着窗外，只要想起一生中后悔的事\n梅花便落满了南山 https://t.co/3UKo8kdLvz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071729650712408064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBDJA1bcAADEa1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071726994258333696"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071727003762557077",
+        "created_at": "2026-06-29T22:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T23:46:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071727003762557077",
+          "2071729662649319862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKa0g3bMP8",
+              "end": 168,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2071727003762557077/photo/1",
+              "media_key": "3_2071726994258333696",
+              "start": 145,
+              "url": "https://t.co/BKa0g3bMP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071727003762557077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发割手被msk警告封了12h。\n\n只要想起一生中后悔的事\n梅花便落了下来\n比如看她游泳到河的另一岸\n比如登上一株松木梯子\n危险的事固然美丽\n不如看她骑马归来\n面颊温暖\n羞惭。低下头，回答着皇帝\n一面镜子永远等候她\n让她坐到镜中常坐的地方\n望着窗外，只要想起一生中后悔的事\n梅花便落满了南山 https://t.co/BKa0g3bMP8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071729650712408064"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071729662649319862",
+        "created_at": "2026-06-29T22:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T23:46:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071727003762557077",
+          "2071729662649319862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UKo8kdLvz",
+              "end": 168,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2071729662649319862/photo/1",
+              "media_key": "3_2071729650712408064",
+              "start": 145,
+              "url": "https://t.co/3UKo8kdLvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071729662649319862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发割手被msk警告封了12h。\n\n只要想起一生中后悔的事\n梅花便落了下来\n比如看她游泳到河的另一岸\n比如登上一株松木梯子\n危险的事固然美丽\n不如看她骑马归来\n面颊温暖\n羞惭。低下头，回答着皇帝\n一面镜子永远等候她\n让她坐到镜中常坐的地方\n望着窗外，只要想起一生中后悔的事\n梅花便落满了南山 https://t.co/3UKo8kdLvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 2588,
+          "like_count": 9830,
+          "listed_count": 0,
+          "media_count": 675,
+          "tweet_count": 3624
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

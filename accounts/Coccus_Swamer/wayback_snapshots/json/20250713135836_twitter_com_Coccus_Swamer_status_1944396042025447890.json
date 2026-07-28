@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944396038275518465"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1944396042025447890",
+    "created_at": "2025-07-13T13:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944396042025447890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n316RRQgZy",
+          "end": 124,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1944396042025447890/photo/1",
+          "media_key": "3_1944396038275518465",
+          "start": 101,
+          "url": "https://t.co/n316RRQgZy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944396042025447890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 28,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【公益短信】海上有警情，请拨 95110。落实海警法，保护你我他。维护海上治安，打击走私偷渡，受理海上救助，保护海洋生态环境，管理海洋渔业和资源开发，95110 与您携手共创青岛平安海域【青岛海警局】 https://t.co/n316RRQgZy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944396038275518465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvvh5RwW0AEPE_D.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944396038275518465"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1944396042025447890",
+        "created_at": "2025-07-13T13:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944396042025447890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n316RRQgZy",
+              "end": 124,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1944396042025447890/photo/1",
+              "media_key": "3_1944396038275518465",
+              "start": 101,
+              "url": "https://t.co/n316RRQgZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944396042025447890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【公益短信】海上有警情，请拨 95110。落实海警法，保护你我他。维护海上治安，打击走私偷渡，受理海上救助，保护海洋生态环境，管理海洋渔业和资源开发，95110 与您携手共创青岛平安海域【青岛海警局】 https://t.co/n316RRQgZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 2316,
+          "like_count": 9898,
+          "listed_count": 0,
+          "media_count": 600,
+          "tweet_count": 3398
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

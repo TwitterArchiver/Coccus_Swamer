@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1868210889608007786",
+    "created_at": "2024-12-15T08:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T09:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868210889608007786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818697430248181760",
+          "start": 3,
+          "username": "YumekaAyumi"
+        },
+        {
+          "end": 30,
+          "id": "1808604308163940352",
+          "start": 17,
+          "username": "cici20120712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868210889608007786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867853580583211134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YumekaAyumi: @cici20120712 一想到男的可以奸女尸，女的却因为男尸硬不了而不能奸男尸，我就觉得男女无论如何都无法平权.jpg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1868210889608007786",
+        "created_at": "2024-12-15T08:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T09:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868210889608007786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818697430248181760",
+              "start": 3,
+              "username": "YumekaAyumi"
+            },
+            {
+              "end": 30,
+              "id": "1808604308163940352",
+              "start": 17,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868210889608007786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867853580583211134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YumekaAyumi: @cici20120712 一想到男的可以奸女尸，女的却因为男尸硬不了而不能奸男尸，我就觉得男女无论如何都无法平权.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818697430248181760",
+        "conversation_id": "1867823152606388280",
+        "created_at": "2024-12-14T08:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T09:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867853580583211134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808604308163940352",
+              "start": 0,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867853580583211134",
+        "in_reply_to_user_id": "1808604308163940352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11563,
+          "like_count": 357,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867823152606388280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cici20120712 一想到男的可以奸女尸，女的却因为男尸硬不了而不能奸男尸，我就觉得男女无论如何都无法平权.jpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重（低价精神药品购买私聊",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 1344,
+          "like_count": 6412,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 2194
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T17:17:55.000Z",
+        "description": "视奸我的自觉把头打掉👁️👁️",
+        "id": "1818697430248181760",
+        "location": "三高",
+        "name": "愛島在做梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819696012434509824/stCbPrUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 423,
+          "like_count": 4015,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1564
+        },
+        "username": "YumekaAyumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "绝赞复活赛中\n门槛68支付宝口令哦",
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "1860652405198602253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33668,
+          "following_count": 40,
+          "like_count": 112,
+          "listed_count": 71,
+          "media_count": 244,
+          "tweet_count": 335
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

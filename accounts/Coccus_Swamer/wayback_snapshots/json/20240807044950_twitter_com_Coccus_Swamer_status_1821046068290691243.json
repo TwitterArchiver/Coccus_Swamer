@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1821046068290691243",
+    "created_at": "2024-08-07T04:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T05:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821046068290691243"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1821046068290691243",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天在医院偷偷割手，吃了好多药，五羟色胺综合征犯了，护士听都没听说过，找值班医生才解决。\n\n给我开了两片阿普唑仑，心情好很多，但还是在挨骂。我的包被医生全部翻了，说我再自伤就送我去封闭病房。\n\n今天下午癫痫大发作，肌阵挛性癫痫和共济失调\n\n主治医师下的诊断是双向情感障碍，换了米安色林——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1821046068290691243",
+        "created_at": "2024-08-07T04:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T05:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821046068290691243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821046068290691243",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在医院偷偷割手，吃了好多药，五羟色胺综合征犯了，护士听都没听说过，找值班医生才解决。\n\n给我开了两片阿普唑仑，心情好很多，但还是在挨骂。我的包被医生全部翻了，说我再自伤就送我去封闭病房。\n\n今天下午癫痫大发作，肌阵挛性癫痫和共济失调\n\n主治医师下的诊断是双向情感障碍，换了米安色林——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n休学中\n激素治療中非二元性别\n血图/od/日常学习，互关慎重。",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1813715606069465466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813715743890157568/kJLcdlib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 725,
+          "like_count": 4148,
+          "listed_count": 0,
+          "tweet_count": 1322
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

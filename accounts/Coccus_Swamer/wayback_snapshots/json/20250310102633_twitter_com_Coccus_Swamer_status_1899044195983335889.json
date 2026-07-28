@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1899040633173704977",
+    "created_at": "2025-03-10T10:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T11:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899044195983335889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1668633085137784837",
+          "start": 0,
+          "username": "1r41oo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899044195983335889",
+    "in_reply_to_user_id": "1668633085137784837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899041304169906262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1r41oo6 👮🏻‍♀️：啥？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1899040633173704977",
+        "created_at": "2025-03-10T10:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T11:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899044195983335889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668633085137784837",
+              "start": 0,
+              "username": "1r41oo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899044195983335889",
+        "in_reply_to_user_id": "1668633085137784837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899041304169906262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1r41oo6 👮🏻‍♀️：啥？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668633085137784837",
+        "conversation_id": "1899040633173704977",
+        "created_at": "2025-03-10T10:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T11:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899041304169906262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899041304169906262",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899040633173704977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 我想做dmt……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899040633173704977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1916,
+          "like_count": 8081,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 2943
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T14:55:21.000Z",
+        "description": "🍒edtwt🫐 坐标慕尼黑/长春 🚪66",
+        "id": "1668633085137784837",
+        "name": "cometary1435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698566116618964992/mmE-yPGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 583,
+          "like_count": 1153,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 113
+        },
+        "username": "1r41oo6",
+        "verified": false
+      }
+    ]
+  }
+}

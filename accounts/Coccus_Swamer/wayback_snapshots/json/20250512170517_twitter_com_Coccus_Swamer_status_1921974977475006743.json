@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1921923056982700310",
+    "created_at": "2025-05-12T17:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T18:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921974977475006743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "Yuutsuoriko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921974977475006743",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921932839777361934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuutsuoriko 会像我现在这样无聊到在床上发呆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1921923056982700310",
+        "created_at": "2025-05-12T17:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T18:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921974977475006743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "Yuutsuoriko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921974977475006743",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921932839777361934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuutsuoriko 会像我现在这样无聊到在床上发呆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908086926391033856",
+        "conversation_id": "1921923056982700310",
+        "created_at": "2025-05-12T14:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T15:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921932839777361934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921932839777361934",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921923056982700310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 全认识还有救吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1920904431182200861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 2232,
+          "like_count": 9198,
+          "listed_count": 0,
+          "media_count": 553,
+          "tweet_count": 3276
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "我是见习魔女织莉子，希望能给大家带来安慰和快乐，平时学点心理学和精神分析。如何面对死亡与分别？@RuiyiRay Telegram: https://t.co/IwFQUu4BYN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "RuiyiRay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+2cARZ7y6_rRhO…",
+                "end": 90,
+                "expanded_url": "https://t.me/+2cARZ7y6_rRhODJl",
+                "start": 67,
+                "url": "https://t.co/IwFQUu4BYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Yuutsuoriko",
+                "end": 23,
+                "expanded_url": "https://t.me/Yuutsuoriko",
+                "start": 0,
+                "url": "https://t.co/93ytjay9dG"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Central Region, Singapore",
+        "name": "织莉子Nekoriko🍥",
+        "pinned_tweet_id": "1921973679090516222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921960292944371712/r9YPtIoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 816,
+          "like_count": 7220,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/93ytjay9dG",
+        "username": "Yuutsuoriko",
+        "verified": false
+      }
+    ]
+  }
+}

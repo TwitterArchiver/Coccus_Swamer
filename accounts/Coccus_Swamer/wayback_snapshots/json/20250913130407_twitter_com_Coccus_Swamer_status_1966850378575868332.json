@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1966838233037500584",
+    "created_at": "2025-09-13T13:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T14:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966850378575868332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "Yesmynamehaer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966850378575868332",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966838233037500584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yesmynamehaer1 这样弄你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966838189437689856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uc6ZwbIAAOLZs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966838190813458432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uc6e4bsAAeZbr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966838215446589442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uc76pbcAIgk9X.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966838190163234816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uc6cdaEAABoAO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1966838233037500584",
+        "created_at": "2025-09-13T13:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966850378575868332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966850378575868332",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966838233037500584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 这样弄你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966838189437689856",
+            "3_1966838190813458432",
+            "3_1966838215446589442",
+            "3_1966838190163234816"
+          ]
+        },
+        "author_id": "1176077981099446272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1966838233037500584",
+        "created_at": "2025-09-13T12:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T13:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966838233037500584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1552238688590958592",
+              "start": 19,
+              "username": "Coccus_Swamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ApNPXWxkQl",
+              "end": 57,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/1966838233037500584/photo/1",
+              "media_key": "3_1966838189437689856",
+              "start": 34,
+              "url": "https://t.co/ApNPXWxkQl"
+            },
+            {
+              "display_url": "pic.x.com/ApNPXWxkQl",
+              "end": 57,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/1966838233037500584/photo/1",
+              "media_key": "3_1966838190813458432",
+              "start": 34,
+              "url": "https://t.co/ApNPXWxkQl"
+            },
+            {
+              "display_url": "pic.x.com/ApNPXWxkQl",
+              "end": 57,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/1966838233037500584/photo/1",
+              "media_key": "3_1966838215446589442",
+              "start": 34,
+              "url": "https://t.co/ApNPXWxkQl"
+            },
+            {
+              "display_url": "pic.x.com/ApNPXWxkQl",
+              "end": 57,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/1966838233037500584/photo/1",
+              "media_key": "3_1966838190163234816",
+              "start": 34,
+              "url": "https://t.co/ApNPXWxkQl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966838233037500584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摄于WINDOWS  98 南京\n和 @Coccus_Swamer https://t.co/ApNPXWxkQl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 2547,
+          "like_count": 10100,
+          "listed_count": 1,
+          "media_count": 631,
+          "tweet_count": 3470
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "白鳥/白鳥形人。\n中立友善单位，幻想生物与死去的人。\n学习，药物，酒，音乐，文学，小政府，游牧与内在差异，自由主义——\n「Liberty/Freedom/Power」。\nFTX /Unitarian Universalists。\n@Coccus_Swamer /@Hawthor20853776 。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "Coccus_Swamer"
+              },
+              {
+                "end": 147,
+                "start": 131,
+                "username": "Hawthor20853776"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1929155582314881086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966343942905147395/Jj-l4fUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 665,
+          "like_count": 29032,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 3051
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

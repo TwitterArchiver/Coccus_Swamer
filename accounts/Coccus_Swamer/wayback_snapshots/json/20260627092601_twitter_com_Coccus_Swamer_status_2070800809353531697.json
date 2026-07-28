@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070800801925320704"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2070800809353531697",
+    "created_at": "2026-06-27T09:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070800809353531697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/82eJRPaWja",
+          "end": 77,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2070800809353531697/photo/1",
+          "media_key": "3_2070800801925320704",
+          "start": 54,
+          "url": "https://t.co/82eJRPaWja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070800809353531697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次到苏州总是给我一种干干净净清清爽爽的感觉，，树，河流，桥，现代化的居民楼只是从配色上就感觉很新很干净。 https://t.co/82eJRPaWja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070800801925320704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz2W5daUAAuabz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070800801925320704"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2070800809353531697",
+        "created_at": "2026-06-27T09:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070800809353531697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/82eJRPaWja",
+              "end": 77,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2070800809353531697/photo/1",
+              "media_key": "3_2070800801925320704",
+              "start": 54,
+              "url": "https://t.co/82eJRPaWja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070800809353531697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次到苏州总是给我一种干干净净清清爽爽的感觉，，树，河流，桥，现代化的居民楼只是从配色上就感觉很新很干净。 https://t.co/82eJRPaWja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 2563,
+          "like_count": 9813,
+          "listed_count": 0,
+          "media_count": 672,
+          "tweet_count": 3615
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

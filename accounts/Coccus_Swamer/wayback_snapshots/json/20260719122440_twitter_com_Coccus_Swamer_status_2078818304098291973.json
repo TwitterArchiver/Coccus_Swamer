@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078722290293121025",
+        "3_2078722290217594880",
+        "3_2078722290297208832",
+        "3_2078722290301452288"
+      ],
+      "media_source_tweet_id": [
+        "2078722306629931046",
+        "2078722306629931046",
+        "2078722306629931046",
+        "2078722306629931046"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2078818304098291973",
+    "created_at": "2026-07-19T12:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078818304098291973"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 15,
+          "tag": "3連休はフォロワーさんが増えるらしい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1510030638610493442",
+          "start": 3,
+          "username": "jinbaRTA2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H0oQlhvSua",
+          "end": 63,
+          "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+          "media_key": "3_2078722290293121025",
+          "start": 40,
+          "url": "https://t.co/H0oQlhvSua"
+        },
+        {
+          "display_url": "pic.x.com/H0oQlhvSua",
+          "end": 63,
+          "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+          "media_key": "3_2078722290217594880",
+          "start": 40,
+          "url": "https://t.co/H0oQlhvSua"
+        },
+        {
+          "display_url": "pic.x.com/H0oQlhvSua",
+          "end": 63,
+          "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+          "media_key": "3_2078722290297208832",
+          "start": 40,
+          "url": "https://t.co/H0oQlhvSua"
+        },
+        {
+          "display_url": "pic.x.com/H0oQlhvSua",
+          "end": 63,
+          "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+          "media_key": "3_2078722290301452288",
+          "start": 40,
+          "url": "https://t.co/H0oQlhvSua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078818304098291973",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078722306629931046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinbaRTA2: #3連休はフォロワーさんが増えるらしい\n夏だーー https://t.co/H0oQlhvSua"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078722290293121025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNka6NOboAESrdl.jpg",
+        "width": 1444
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078722290217594880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNka6M8bMAAhaqO.jpg",
+        "width": 1444
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078722290297208832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNka6NPaAAAjWTQ.jpg",
+        "width": 1443
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078722290301452288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNka6NQawAAeUeN.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078722290293121025",
+            "3_2078722290217594880",
+            "3_2078722290297208832",
+            "3_2078722290301452288"
+          ]
+        },
+        "author_id": "1510030638610493442",
+        "conversation_id": "2078722306629931046",
+        "created_at": "2026-07-19T06:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078722306629931046"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "3連休はフォロワーさんが増えるらしい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0oQlhvSua",
+              "end": 48,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+              "media_key": "3_2078722290293121025",
+              "start": 25,
+              "url": "https://t.co/H0oQlhvSua"
+            },
+            {
+              "display_url": "pic.x.com/H0oQlhvSua",
+              "end": 48,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+              "media_key": "3_2078722290217594880",
+              "start": 25,
+              "url": "https://t.co/H0oQlhvSua"
+            },
+            {
+              "display_url": "pic.x.com/H0oQlhvSua",
+              "end": 48,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+              "media_key": "3_2078722290297208832",
+              "start": 25,
+              "url": "https://t.co/H0oQlhvSua"
+            },
+            {
+              "display_url": "pic.x.com/H0oQlhvSua",
+              "end": 48,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+              "media_key": "3_2078722290301452288",
+              "start": 25,
+              "url": "https://t.co/H0oQlhvSua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078722306629931046",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 330,
+          "impression_count": 40180,
+          "like_count": 1616,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "#3連休はフォロワーさんが増えるらしい\n夏だーー https://t.co/H0oQlhvSua"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078722290293121025",
+            "3_2078722290217594880",
+            "3_2078722290297208832",
+            "3_2078722290301452288"
+          ],
+          "media_source_tweet_id": [
+            "2078722306629931046",
+            "2078722306629931046",
+            "2078722306629931046",
+            "2078722306629931046"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2078818304098291973",
+        "created_at": "2026-07-19T12:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078818304098291973"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 15,
+              "tag": "3連休はフォロワーさんが増えるらしい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1510030638610493442",
+              "start": 3,
+              "username": "jinbaRTA2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0oQlhvSua",
+              "end": 63,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+              "media_key": "3_2078722290293121025",
+              "start": 40,
+              "url": "https://t.co/H0oQlhvSua"
+            },
+            {
+              "display_url": "pic.x.com/H0oQlhvSua",
+              "end": 63,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+              "media_key": "3_2078722290217594880",
+              "start": 40,
+              "url": "https://t.co/H0oQlhvSua"
+            },
+            {
+              "display_url": "pic.x.com/H0oQlhvSua",
+              "end": 63,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+              "media_key": "3_2078722290297208832",
+              "start": 40,
+              "url": "https://t.co/H0oQlhvSua"
+            },
+            {
+              "display_url": "pic.x.com/H0oQlhvSua",
+              "end": 63,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2078722306629931046/photo/1",
+              "media_key": "3_2078722290301452288",
+              "start": 40,
+              "url": "https://t.co/H0oQlhvSua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078818304098291973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078722306629931046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinbaRTA2: #3連休はフォロワーさんが増えるらしい\n夏だーー https://t.co/H0oQlhvSua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 2673,
+          "like_count": 9937,
+          "listed_count": 0,
+          "media_count": 701,
+          "tweet_count": 3705
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-01T23:05:48.000Z",
+        "description": "@jinba123456の分身。アイコン→ @faoru_ofuton。ショタお嬢様です。お絵描きはカルマ。AI❌自作発言❌\nスケブ始めました👉 https://t.co/h2mqeE86h2 / お仕事依頼先👉tetuo8988@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "jinba123456"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "username": "faoru_ofuton"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@jinbaRTA2",
+                "end": 96,
+                "expanded_url": "https://skeb.jp/@jinbaRTA2",
+                "start": 73,
+                "url": "https://t.co/h2mqeE86h2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/92380601",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/92380601",
+                "start": 0,
+                "url": "https://t.co/sOEN2Bi07L"
+              }
+            ]
+          }
+        },
+        "id": "1510030638610493442",
+        "location": "闇空間",
+        "name": "じんばちゃん",
+        "pinned_tweet_id": "2052946911687213137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010254495398461440/XHR9Z2q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16452,
+          "following_count": 713,
+          "like_count": 55574,
+          "listed_count": 61,
+          "media_count": 991,
+          "tweet_count": 20481
+        },
+        "url": "https://t.co/sOEN2Bi07L",
+        "username": "jinbaRTA2",
+        "verified": false
+      }
+    ]
+  }
+}

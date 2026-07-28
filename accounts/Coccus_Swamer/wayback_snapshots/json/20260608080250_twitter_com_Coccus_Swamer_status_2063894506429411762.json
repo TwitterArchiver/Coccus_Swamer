@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063894380747067392"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2063894506429411762",
+    "created_at": "2026-06-08T08:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063894506429411762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MjqHvjIt3D",
+          "end": 81,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2063894506429411762/photo/1",
+          "media_key": "3_2063894380747067392",
+          "start": 58,
+          "url": "https://t.co/MjqHvjIt3D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063894506429411762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日月江河是客观存在的自然物，它们没有痛觉，不在乎被遮蔽；真正有痛觉、真正在乎的，是被乌云遮蔽、被洪水淹没的普通人。 https://t.co/MjqHvjIt3D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2063894380747067392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRtARpakAAHJbe.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063894380747067392"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2063894506429411762",
+        "created_at": "2026-06-08T08:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063894506429411762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjqHvjIt3D",
+              "end": 81,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2063894506429411762/photo/1",
+              "media_key": "3_2063894380747067392",
+              "start": 58,
+              "url": "https://t.co/MjqHvjIt3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063894506429411762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日月江河是客观存在的自然物，它们没有痛觉，不在乎被遮蔽；真正有痛觉、真正在乎的，是被乌云遮蔽、被洪水淹没的普通人。 https://t.co/MjqHvjIt3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Funabashi, Chiba, Japan",
+              "geo": {
+                "coordinates": [
+                  139.98333,
+                  35.69306
+                ],
+                "type": "Point"
+              },
+              "locality": "Funabashi",
+              "region": "Chiba"
+            }
+          ]
+        },
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/od/ADHD-rsd/植物医学专业/诗歌/日本語_Deutsch/互关慎重",
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1943417317855236106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 2491,
+          "like_count": 9739,
+          "listed_count": 0,
+          "media_count": 666,
+          "tweet_count": 3582
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

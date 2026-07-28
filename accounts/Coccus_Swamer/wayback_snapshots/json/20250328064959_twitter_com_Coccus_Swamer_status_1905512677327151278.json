@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1905512654380433408",
+        "3_1905512657601658880"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1905512677327151278",
+    "created_at": "2025-03-28T06:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T07:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905512677327151278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t0zIAbe2ig",
+          "end": 27,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1905512677327151278/video/1",
+          "media_key": "7_1905512654380433408",
+          "start": 4,
+          "url": "https://t.co/t0zIAbe2ig"
+        },
+        {
+          "display_url": "pic.x.com/t0zIAbe2ig",
+          "end": 27,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1905512677327151278/video/1",
+          "media_key": "3_1905512657601658880",
+          "start": 4,
+          "url": "https://t.co/t0zIAbe2ig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905512677327151278",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地震力 https://t.co/t0zIAbe2ig"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8120,
+        "height": 576,
+        "media_key": "7_1905512654380433408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1905512654380433408/pu/img/iA1qlwoTSGs1P_WR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905512654380433408/pu/vid/avc1/600x270/UyzWc740x8M3gxb0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905512654380433408/pu/vid/avc1/800x360/rDwOTqJA6a-SNdH1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905512654380433408/pu/vid/avc1/1280x576/vUt5YNQW26JNxA24.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1905512654380433408/pu/pl/UYuKSdRtTnOPK6oc.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1905512657601658880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnG9qo9bgAAdhDw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1905512654380433408",
+            "3_1905512657601658880"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1905512677327151278",
+        "created_at": "2025-03-28T06:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T07:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905512677327151278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0zIAbe2ig",
+              "end": 27,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1905512677327151278/video/1",
+              "media_key": "7_1905512654380433408",
+              "start": 4,
+              "url": "https://t.co/t0zIAbe2ig"
+            },
+            {
+              "display_url": "pic.x.com/t0zIAbe2ig",
+              "end": 27,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1905512677327151278/video/1",
+              "media_key": "3_1905512657601658880",
+              "start": 4,
+              "url": "https://t.co/t0zIAbe2ig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905512677327151278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地震力 https://t.co/t0zIAbe2ig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 2056,
+          "like_count": 8556,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 3091
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

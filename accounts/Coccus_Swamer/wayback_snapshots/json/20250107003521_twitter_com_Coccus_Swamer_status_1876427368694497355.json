@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1876399179062468727",
+    "created_at": "2025-01-07T00:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T01:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876427368694497355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "sikkmywife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876427368694497355",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876402266342924541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sikkmywife 🥺🥺豪，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1876399179062468727",
+        "created_at": "2025-01-07T00:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T01:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876427368694497355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "sikkmywife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876427368694497355",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876402266342924541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sikkmywife 🥺🥺豪，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1876399179062468727",
+        "created_at": "2025-01-06T22:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T23:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876402266342924541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876402266342924541",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876399179062468727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 下次别下手这么狠了哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 1467,
+          "like_count": 6779,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 2366
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "做一阵自由的风\nftx ADHD/ASDer",
+        "id": "1176077981099446272",
+        "location": "Hinode-machi, Tokyo",
+        "name": "白鳥与白鳥在1789",
+        "pinned_tweet_id": "1874491312956936640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874458747562754048/v5rPE5Fe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 442,
+          "like_count": 7444,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 599
+        },
+        "username": "sikkmywife",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1888842830296354816"
+      ],
+      "media_source_tweet_id": [
+        "1888842858591084867"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1889177410622701987",
+    "created_at": "2025-02-11T04:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T05:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889177410622701987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1400921726104571914",
+          "start": 3,
+          "username": "gorgeousdeath06"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XnGj8A4fHZ",
+          "end": 63,
+          "expanded_url": "https://x.com/gorgeousdeath06/status/1888842858591084867/video/1",
+          "media_key": "7_1888842830296354816",
+          "start": 40,
+          "url": "https://t.co/XnGj8A4fHZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889177410622701987",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888842858591084867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gorgeousdeath06: (ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ) https://t.co/XnGj8A4fHZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13733,
+        "height": 960,
+        "media_key": "7_1888842830296354816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1888842830296354816/pu/img/EynO9621xLXzb0Su.jpg",
+        "public_metrics": {
+          "view_count": 6889
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1888842830296354816/pu/vid/avc1/320x426/G_ycFWONTHTx2SkT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1888842830296354816/pu/vid/avc1/480x640/HauT-PKR5_MAKYZ-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1888842830296354816/pu/vid/avc1/720x960/Fo6uoe2Tw7-IR-9q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1888842830296354816/pu/pl/1eqAC10MKxDyp__n.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1888842830296354816"
+          ],
+          "media_source_tweet_id": [
+            "1888842858591084867"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1889177410622701987",
+        "created_at": "2025-02-11T04:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T05:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889177410622701987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1400921726104571914",
+              "start": 3,
+              "username": "gorgeousdeath06"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnGj8A4fHZ",
+              "end": 63,
+              "expanded_url": "https://x.com/gorgeousdeath06/status/1888842858591084867/video/1",
+              "media_key": "7_1888842830296354816",
+              "start": 40,
+              "url": "https://t.co/XnGj8A4fHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889177410622701987",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888842858591084867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gorgeousdeath06: (ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ) https://t.co/XnGj8A4fHZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1888842830296354816"
+          ]
+        },
+        "author_id": "1400921726104571914",
+        "conversation_id": "1888842858591084867",
+        "created_at": "2025-02-10T06:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T07:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888842858591084867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnGj8A4fHZ",
+              "end": 42,
+              "expanded_url": "https://x.com/gorgeousdeath06/status/1888842858591084867/video/1",
+              "media_key": "7_1888842830296354816",
+              "start": 19,
+              "url": "https://t.co/XnGj8A4fHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888842858591084867",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 17004,
+          "like_count": 1772,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "(ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ) https://t.co/XnGj8A4fHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1887214692319568005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 1712,
+          "like_count": 7735,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 2758
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-04T21:05:49.000Z",
+        "description": "我是生气的小红鸟〔5.0重生版〕之前账号被盗了，4.0被封号了 希望可以找回之前的大家\n这里是个发疯的小号／持续吐黑水 大量阴暗发言‖自残行为 负能注意⚠️",
+        "id": "1400921726104571914",
+        "name": "〔5.0重生版〕就这样华丽的在垃圾桶里死去吧",
+        "pinned_tweet_id": "1884538895171498054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884537515455180801/twFAKlI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 197,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 52
+        },
+        "username": "gorgeousdeath06",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1806334917862924466",
+    "created_at": "2024-06-27T15:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T16:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806346200452681829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "SaharaMayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806346200452681829",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806334917862924466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaharaMayi 抽抽我的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1806334917862924466",
+        "created_at": "2024-06-27T15:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T16:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806346200452681829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "SaharaMayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806346200452681829",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806334917862924466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaharaMayi 抽抽我的！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806331549245431809"
+          ]
+        },
+        "author_id": "1429405137198452736",
+        "conversation_id": "1806334917862924466",
+        "created_at": "2024-06-27T14:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T15:19:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806331562428182665",
+          "1806334917862924466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lcJV7F33XH",
+              "end": 78,
+              "expanded_url": "https://twitter.com/SaharaMayi/status/1806334917862924466/photo/1",
+              "media_key": "3_1806331549245431809",
+              "start": 55,
+              "url": "https://t.co/lcJV7F33XH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806334917862924466",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖：\n5700公版显存完美无拆无修\n条件：\n点赞加关注评论\n必須同時點讚關注和評論，否則不算\n10天后开奖 https://t.co/lcJV7F33XH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "早餐一種。\nMTX 休学学生 成分复杂，爱看血图，互关慎重。\n读书/药物/分享生活/日本語勉強中/Deutschlehrer/English also OK!",
+        "id": "1552238688590958592",
+        "name": "帝國粉色果醬配奶油麵包片",
+        "pinned_tweet_id": "1716744793404191029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725501871039909888/eBg1RNIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 572,
+          "like_count": 3344,
+          "listed_count": 0,
+          "tweet_count": 1072
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "正體中文/English/Japanese｜📑TsukiProject",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "systemspace.top",
+                "end": 23,
+                "expanded_url": "http://systemspace.top",
+                "start": 0,
+                "url": "https://t.co/7YzqYMCTHH"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "SystemSpace",
+        "name": "佐原真依#二代目💉",
+        "pinned_tweet_id": "1804913830679674901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800166615193104384/ogmmHTVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6808,
+          "following_count": 426,
+          "like_count": 119912,
+          "listed_count": 34,
+          "tweet_count": 21705
+        },
+        "url": "https://t.co/7YzqYMCTHH",
+        "username": "SaharaMayi",
+        "verified": true
+      }
+    ]
+  }
+}

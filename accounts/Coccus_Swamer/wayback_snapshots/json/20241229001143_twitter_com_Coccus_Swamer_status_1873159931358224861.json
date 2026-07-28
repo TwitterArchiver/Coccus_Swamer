@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872674904782536704"
+      ],
+      "media_source_tweet_id": [
+        "1872674912349155375"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1873159931358224861",
+    "created_at": "2024-12-29T00:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T01:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873159931358224861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1686948940321857536",
+          "start": 3,
+          "username": "mizuki_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3crOiGENvp",
+          "end": 39,
+          "expanded_url": "https://x.com/mizuki_bot/status/1872674912349155375/photo/1",
+          "media_key": "3_1872674904782536704",
+          "start": 16,
+          "url": "https://t.co/3crOiGENvp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873159931358224861",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872674912349155375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuki_bot: https://t.co/3crOiGENvp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_1872674904782536704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf0T529aAAA8XI7.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872674904782536704"
+          ],
+          "media_source_tweet_id": [
+            "1872674912349155375"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1873159931358224861",
+        "created_at": "2024-12-29T00:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T01:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873159931358224861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1686948940321857536",
+              "start": 3,
+              "username": "mizuki_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3crOiGENvp",
+              "end": 39,
+              "expanded_url": "https://x.com/mizuki_bot/status/1872674912349155375/photo/1",
+              "media_key": "3_1872674904782536704",
+              "start": 16,
+              "url": "https://t.co/3crOiGENvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873159931358224861",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872674912349155375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuki_bot: https://t.co/3crOiGENvp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872674904782536704"
+          ]
+        },
+        "author_id": "1686948940321857536",
+        "conversation_id": "1872674912349155375",
+        "created_at": "2024-12-27T16:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T17:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872674912349155375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3crOiGENvp",
+              "end": 23,
+              "expanded_url": "https://x.com/mizuki_bot/status/1872674912349155375/photo/1",
+              "media_key": "3_1872674904782536704",
+              "start": 0,
+              "url": "https://t.co/3crOiGENvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872674912349155375",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10352,
+          "like_count": 237,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3crOiGENvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1365,
+          "like_count": 6555,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2281
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T03:57:58.000Z",
+        "description": "大未來國第一任內閣總理大臣兼網軍省大臣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/character/unit…",
+                "end": 23,
+                "expanded_url": "https://pjsekai.sega.jp/character/unite05/mizuki/index.html?year=now",
+                "start": 0,
+                "url": "https://t.co/ybzhggtFaQ"
+              }
+            ]
+          }
+        },
+        "id": "1686948940321857536",
+        "location": "大ミク国——ミクフアンス",
+        "name": "北琉 叙輪奈 🇪🇪",
+        "pinned_tweet_id": "1853094828525109727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869795090119700480/bt1GDxT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1001,
+          "like_count": 14201,
+          "listed_count": 2,
+          "media_count": 562,
+          "tweet_count": 7043
+        },
+        "url": "https://t.co/ybzhggtFaQ",
+        "username": "mizuki_bot",
+        "verified": false
+      }
+    ]
+  }
+}

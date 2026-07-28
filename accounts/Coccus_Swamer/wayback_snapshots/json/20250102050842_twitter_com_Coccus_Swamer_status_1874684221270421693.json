@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1874680053382217989",
+    "created_at": "2025-01-02T05:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T06:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874684221270421693"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1874684221270421693",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874680053382217989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呜呜呜真的一项一项给我看血检报告，类目了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1874680053382217989",
+        "created_at": "2025-01-02T05:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T06:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874684221270421693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874684221270421693",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874680053382217989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜呜真的一项一项给我看血检报告，类目了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874680047031984128"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1874680053382217989",
+        "created_at": "2025-01-02T04:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T05:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874680053382217989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QgaddoM1o",
+              "end": 63,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1874680053382217989/photo/1",
+              "media_key": "3_1874680047031984128",
+              "start": 40,
+              "url": "https://t.co/1QgaddoM1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874680053382217989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个医生好贴心，，问我为什么这么白是不是贫血，手伸出来我看看，今天吃饭没有😭😭 https://t.co/1QgaddoM1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 1446,
+          "like_count": 6683,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 2320
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

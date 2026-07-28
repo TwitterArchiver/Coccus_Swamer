@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923290727368232960"
+      ],
+      "media_source_tweet_id": [
+        "1923290730992153008"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1923391964789064109",
+    "created_at": "2025-05-16T14:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T15:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923391964789064109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1714810307443314688",
+          "start": 3,
+          "username": "DigitalD1sgust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ydpH2U7ry7",
+          "end": 43,
+          "expanded_url": "https://x.com/DigitalD1sgust/status/1923290730992153008/photo/1",
+          "media_key": "3_1923290727368232960",
+          "start": 20,
+          "url": "https://t.co/ydpH2U7ry7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923391964789064109",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923290730992153008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DigitalD1sgust: https://t.co/ydpH2U7ry7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_1923290727368232960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDmufyWEAAckA5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923290727368232960"
+          ],
+          "media_source_tweet_id": [
+            "1923290730992153008"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1923391964789064109",
+        "created_at": "2025-05-16T14:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T15:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923391964789064109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1714810307443314688",
+              "start": 3,
+              "username": "DigitalD1sgust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ydpH2U7ry7",
+              "end": 43,
+              "expanded_url": "https://x.com/DigitalD1sgust/status/1923290730992153008/photo/1",
+              "media_key": "3_1923290727368232960",
+              "start": 20,
+              "url": "https://t.co/ydpH2U7ry7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923391964789064109",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923290730992153008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DigitalD1sgust: https://t.co/ydpH2U7ry7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923290727368232960"
+          ]
+        },
+        "author_id": "1714810307443314688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1923290730992153008",
+        "created_at": "2025-05-16T08:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T09:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923290730992153008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ydpH2U7ry7",
+              "end": 23,
+              "expanded_url": "https://x.com/DigitalD1sgust/status/1923290730992153008/photo/1",
+              "media_key": "3_1923290727368232960",
+              "start": 0,
+              "url": "https://t.co/ydpH2U7ry7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923290730992153008",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1965,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ydpH2U7ry7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 2237,
+          "like_count": 9263,
+          "listed_count": 0,
+          "media_count": 559,
+          "tweet_count": 3288
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-19T01:07:04.000Z",
+        "description": "22-MDNI𖤐Artist!!! I collect dolls/toys. 🕷️🌿🪱🫀🐌 infp-t 2w3🦭https://t.co/AsikbWNDS8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/Digitald1sgust",
+                "end": 81,
+                "expanded_url": "http://Instagram.com/Digitald1sgust",
+                "start": 58,
+                "url": "https://t.co/AsikbWNDS8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/uurgothgf",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/uurgothgf",
+                "start": 0,
+                "url": "https://t.co/WvGkYaRCE1"
+              }
+            ]
+          }
+        },
+        "id": "1714810307443314688",
+        "location": "Hell",
+        "name": "⚸🜏𖤐 Lilith 𖤐🜏⚸",
+        "pinned_tweet_id": "1916978961042559460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922473043382632448/eQLHesQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7160,
+          "following_count": 538,
+          "like_count": 34893,
+          "listed_count": 10,
+          "media_count": 5133,
+          "tweet_count": 24513
+        },
+        "url": "https://t.co/WvGkYaRCE1",
+        "username": "DigitalD1sgust",
+        "verified": false
+      }
+    ]
+  }
+}

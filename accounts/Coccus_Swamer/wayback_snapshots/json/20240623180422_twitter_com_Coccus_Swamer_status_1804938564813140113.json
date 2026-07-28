@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1804938564813140113",
+    "created_at": "2024-06-23T18:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T19:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1804938564813140113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yvvxinn400/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yvvxinn400/status/1804866580515623305",
+          "start": 4,
+          "url": "https://t.co/c70kvaUHmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804938564813140113",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804866580515623305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起 https://t.co/c70kvaUHmn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1804938564813140113",
+        "created_at": "2024-06-23T18:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T19:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804938564813140113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yvvxinn400/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yvvxinn400/status/1804866580515623305",
+              "start": 4,
+              "url": "https://t.co/c70kvaUHmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804938564813140113",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804866580515623305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起 https://t.co/c70kvaUHmn"
+      },
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1804866580515623305",
+        "created_at": "2024-06-23T13:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T14:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804866580515623305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804866580515623305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3177,
+          "like_count": 82,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "长得丑你这辈子就完了!\n长得丑你这辈子就完了!\n长得丑你这辈子就完了!\n长得丑你这辈子就完了!\n长得丑你这辈子就完了!\n长得丑你这辈子就完了!\n长得丑你这辈子就完了!\n长得丑你这辈子就完了!\n长得丑你这辈子就完了!\n长得丑你这辈子就完了!\n长得丑你这辈子就完了!\n长得丑你这辈子就完了!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "早餐一種。\nMTX 休学学生 成分复杂，爱看血图，互关慎重。\n读书/药物/分享生活/日本語勉強中/Deutschlehrer/English also OK!",
+        "id": "1552238688590958592",
+        "name": "帝國粉色果醬配奶油麵包片",
+        "pinned_tweet_id": "1716744793404191029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725501871039909888/eBg1RNIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 553,
+          "like_count": 3317,
+          "listed_count": 0,
+          "tweet_count": 1057
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4557,
+          "following_count": 139,
+          "like_count": 7440,
+          "listed_count": 13,
+          "tweet_count": 7509
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

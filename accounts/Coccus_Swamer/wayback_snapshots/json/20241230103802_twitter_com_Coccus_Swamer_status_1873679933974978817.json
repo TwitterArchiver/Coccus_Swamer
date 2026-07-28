@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1873674768945393665"
+      ],
+      "media_source_tweet_id": [
+        "1873676778520326227"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1873679933974978817",
+    "created_at": "2024-12-30T10:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T11:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873679933974978817"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ネイトくん",
+          "probability": 0.8681,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1765371379548069888",
+          "start": 3,
+          "username": "rokuzukeita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GXglxkTtl9",
+          "end": 78,
+          "expanded_url": "https://x.com/rokuzukeita/status/1873676778520326227/video/1",
+          "media_key": "7_1873674768945393665",
+          "start": 55,
+          "url": "https://t.co/GXglxkTtl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873679933974978817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873676778520326227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rokuzukeita: ネイトくんは年末年始も休まずご奉仕…\n⚠️音流れますので気をつけてください https://t.co/GXglxkTtl9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1873679933974978817].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1873679933974978817",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873679933974978817"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24149,
+        "height": 800,
+        "media_key": "7_1873674768945393665",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1873674768945393665/pu/img/aF6dwPSVYV6G7PSC.jpg",
+        "public_metrics": {
+          "view_count": 204
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873674768945393665/pu/vid/avc1/320x478/vGNtzPYkQ57QoqPo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873674768945393665/pu/vid/avc1/534x800/h_fnzo6mL5HT9NGa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1873674768945393665/pu/pl/pYHy0LOLjwepAlDf.m3u8?tag=12"
+          }
+        ],
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1873674768945393665"
+          ]
+        },
+        "author_id": "1765371379548069888",
+        "conversation_id": "1873676778520326227",
+        "created_at": "2024-12-30T10:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T11:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873676778520326227"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ネイトくん",
+              "probability": 0.8812,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GXglxkTtl9",
+              "end": 61,
+              "expanded_url": "https://x.com/rokuzukeita/status/1873676778520326227/video/1",
+              "media_key": "7_1873674768945393665",
+              "start": 38,
+              "url": "https://t.co/GXglxkTtl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873676778520326227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 1452,
+          "like_count": 146,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "ネイトくんは年末年始も休まずご奉仕…\n⚠️音流れますので気をつけてください https://t.co/GXglxkTtl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 1371,
+          "like_count": 6571,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2285
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T13:38:35.000Z",
+        "description": "創作裏垢男子 スケベと暴力しかないので未成年だめです。なかよくしてください。\n高解像度は各支援サイトで公開してます。\nLinks▶https://t.co/xMyYXcxmp6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/rokuzukeita",
+                "end": 88,
+                "expanded_url": "https://potofu.me/rokuzukeita",
+                "start": 65,
+                "url": "https://t.co/xMyYXcxmp6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rokuzukeita.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://rokuzukeita.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/miaCmZOhDF"
+              }
+            ]
+          }
+        },
+        "id": "1765371379548069888",
+        "location": "お問い合わせはDMからお願いします",
+        "name": "六図恵太🔞創作男子",
+        "pinned_tweet_id": "1796177291984121904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765374156575752192/zBnqf3Q0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58934,
+          "following_count": 66,
+          "like_count": 5103,
+          "listed_count": 271,
+          "media_count": 117,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/miaCmZOhDF",
+        "username": "rokuzukeita",
+        "verified": false
+      }
+    ]
+  }
+}

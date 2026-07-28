@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2073259365360894257",
+    "created_at": "2026-07-04T04:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073259365360894257"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073259365360894257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "从不知道什么时候开始，因为生活还是学习没有关注一季新番，此后便再没有看过任何番剧了，错过一次游戏的活动，之后也再没有点开过那部游戏，后来，缺了一两节课，少做了一两次作业，那节课就再也没去上过，作业也没交，考试也没有考，好像一切都不连续去做的话自己就会开始逃跑，逃避那个不完美的状态，然后就变成了现在这样，可能连爱好都没有了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从不知道什么时候开始，因为生活还是学习没有关注一季新番，此后便再没有看过任何番剧了，错过一次游戏的活动，之后也再没有点开过那部游戏，后来，缺了一两节课，少做了一两次作业，那节课就再也没去上过，作业也没交，考试也没有考，好像一切都不连续去做的话自己就会开始逃跑，逃避那个不完美的状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2073259365360894257",
+        "created_at": "2026-07-04T04:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073259365360894257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073259365360894257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从不知道什么时候开始，因为生活还是学习没有关注一季新番，此后便再没有看过任何番剧了，错过一次游戏的活动，之后也再没有点开过那部游戏，后来，缺了一两节课，少做了一两次作业，那节课就再也没去上过，作业也没交，考试也没有考，好像一切都不连续去做的话自己就会开始逃跑，逃避那个不完美的状态，然后就变成了现在这样，可能连爱好都没有了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从不知道什么时候开始，因为生活还是学习没有关注一季新番，此后便再没有看过任何番剧了，错过一次游戏的活动，之后也再没有点开过那部游戏，后来，缺了一两节课，少做了一两次作业，那节课就再也没去上过，作业也没交，考试也没有考，好像一切都不连续去做的话自己就会开始逃跑，逃避那个不完美的状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 2659,
+          "like_count": 9886,
+          "listed_count": 0,
+          "media_count": 682,
+          "tweet_count": 3661
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

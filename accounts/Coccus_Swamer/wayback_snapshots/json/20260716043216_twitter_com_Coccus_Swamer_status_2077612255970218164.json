@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2077612219756642304"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2077612255970218164",
+    "created_at": "2026-07-16T04:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077612255970218164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1JkgXMlP2m",
+          "end": 164,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2077612255970218164/video/1",
+          "media_key": "7_2077612219756642304",
+          "start": 141,
+          "url": "https://t.co/1JkgXMlP2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077612255970218164",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "那個農學博士上遺傳學太恐怖了上完一節課一天我都在想我回不回突然得什麼病我們必須拋棄一些可憐的同胞為我們的宏大生命體開闢出路基因是在退化的，人類已經吧基因的說明書丟幹淨我不知道为什么我睡也睡不着醒也醒不过来了哎呀我太害怕了然后他就吧他比我电脑年纪大的我忘说我要学植物反正很小一一部分基因会被弄丢反正很小一一部分基因会被弄丢我不是贵族的子弟吵架也好分类就是让人吵架吗我怕我吐我在我床头还放了个袋子"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那個農學博士上遺傳學太恐怖了上完一節課一天我都在想我回不回突然得什麼病我們必須拋棄一些可憐的同胞為我們的宏大生命體開闢出路基因是在退化的，人類已經吧基因的說明書丟幹淨我不知道为什么我睡也睡不着醒也醒不过来了哎呀我太害怕了然后他就吧他比我电脑年纪大的我忘说我要学植物反正很小一一部分 https://t.co/1JkgXMlP2m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16120,
+        "height": 1280,
+        "media_key": "7_2077612219756642304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2077612219756642304/pu/img/n8oi3b855-ELw9ie.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077612219756642304/pu/vid/avc1/320x710/IX8RU-XoZIutPcCU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077612219756642304/pu/vid/avc1/480x1066/SEwNvFGo4pcTDIxx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077612219756642304/pu/vid/avc1/576x1280/ggpBCsSBasGdTCFg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2077612219756642304/pu/pl/ns6WUB0RYFBa3aCk.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2077612219756642304"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2077612255970218164",
+        "created_at": "2026-07-16T04:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077612255970218164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JkgXMlP2m",
+              "end": 164,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2077612255970218164/video/1",
+              "media_key": "7_2077612219756642304",
+              "start": 141,
+              "url": "https://t.co/1JkgXMlP2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077612255970218164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "那個農學博士上遺傳學太恐怖了上完一節課一天我都在想我回不回突然得什麼病我們必須拋棄一些可憐的同胞為我們的宏大生命體開闢出路基因是在退化的，人類已經吧基因的說明書丟幹淨我不知道为什么我睡也睡不着醒也醒不过来了哎呀我太害怕了然后他就吧他比我电脑年纪大的我忘说我要学植物反正很小一一部分基因会被弄丢反正很小一一部分基因会被弄丢我不是贵族的子弟吵架也好分类就是让人吵架吗我怕我吐我在我床头还放了个袋子"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那個農學博士上遺傳學太恐怖了上完一節課一天我都在想我回不回突然得什麼病我們必須拋棄一些可憐的同胞為我們的宏大生命體開闢出路基因是在退化的，人類已經吧基因的說明書丟幹淨我不知道为什么我睡也睡不着醒也醒不过来了哎呀我太害怕了然后他就吧他比我电脑年纪大的我忘说我要学植物反正很小一一部分 https://t.co/1JkgXMlP2m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 2658,
+          "like_count": 9904,
+          "listed_count": 0,
+          "media_count": 695,
+          "tweet_count": 3687
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

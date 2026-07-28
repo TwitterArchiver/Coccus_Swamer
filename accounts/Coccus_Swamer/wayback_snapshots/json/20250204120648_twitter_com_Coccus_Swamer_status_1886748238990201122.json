@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1886742501513683101",
+    "created_at": "2025-02-04T12:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T13:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886748238990201122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653650525198643200",
+          "start": 0,
+          "username": "1D_AL_LA4D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886748238990201122",
+    "in_reply_to_user_id": "1653650525198643200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886746787509363046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1D_AL_LA4D 褪色了不就是绿毛了😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1886742501513683101",
+        "created_at": "2025-02-04T12:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T13:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886748238990201122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653650525198643200",
+              "start": 0,
+              "username": "1D_AL_LA4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886748238990201122",
+        "in_reply_to_user_id": "1653650525198643200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886746787509363046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1D_AL_LA4D 褪色了不就是绿毛了😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653650525198643200",
+        "conversation_id": "1886742501513683101",
+        "created_at": "2025-02-04T12:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T13:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886746787509363046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886746787509363046",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886742501513683101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 绿毛了？绿毛了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1885764777039048935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 1641,
+          "like_count": 7595,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 2727
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-03T06:39:51.000Z",
+        "description": "我的智力有问题",
+        "id": "1653650525198643200",
+        "name": "笨男孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886269398085959680/_2ccoUJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 36,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 165
+        },
+        "username": "1D_AL_LA4D",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857089496585547776"
+      ],
+      "media_source_tweet_id": [
+        "1857089507570430030"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1857126119700656418",
+    "created_at": "2024-11-14T18:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T19:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857126119700656418"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487358083743764480",
+          "start": 3,
+          "username": "_odxi_y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oju4QPs3oq",
+          "end": 43,
+          "expanded_url": "https://x.com/_odxi_y/status/1857089507570430030/photo/1",
+          "media_key": "3_1857089496585547776",
+          "start": 20,
+          "url": "https://t.co/oju4QPs3oq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857126119700656418",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857089507570430030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_odxi_y: #shtwt https://t.co/oju4QPs3oq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857126119700656418].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857126119700656418",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857126119700656418"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1474,
+        "media_key": "3_1857089496585547776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcW1DtAXMAAezhJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857089496585547776"
+          ]
+        },
+        "author_id": "1487358083743764480",
+        "conversation_id": "1857089507570430030",
+        "created_at": "2024-11-14T15:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T16:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857089507570430030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oju4QPs3oq",
+              "end": 30,
+              "expanded_url": "https://x.com/_odxi_y/status/1857089507570430030/photo/1",
+              "media_key": "3_1857089496585547776",
+              "start": 7,
+              "url": "https://t.co/oju4QPs3oq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857089507570430030",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 351,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt https://t.co/oju4QPs3oq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1854462143812514271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 1167,
+          "like_count": 5748,
+          "listed_count": 0,
+          "tweet_count": 1960
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T09:33:04.000Z",
+        "description": "tw sh ed ‼️ ⚠️ 生きてて辛いねー サブ* @_ydx_yy @Xdei_X0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "_ydx_yy"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "Xdei_X0"
+              }
+            ]
+          }
+        },
+        "id": "1487358083743764480",
+        "location": "デブブスダルい女の子",
+        "name": "デイ",
+        "pinned_tweet_id": "1857089507570430030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786130367012900864/3xGCJrFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 69,
+          "like_count": 8848,
+          "listed_count": 6,
+          "tweet_count": 2028
+        },
+        "username": "_odxi_y",
+        "verified": false
+      }
+    ]
+  }
+}

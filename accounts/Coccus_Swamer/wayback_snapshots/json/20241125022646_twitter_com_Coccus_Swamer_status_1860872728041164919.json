@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1860798202213179392"
+      ],
+      "media_source_tweet_id": [
+        "1860798223658684572"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1860872728041164919",
+    "created_at": "2024-11-25T02:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T03:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860872728041164919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1702221879434436608",
+          "start": 3,
+          "username": "8964zhajipai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y5XWRP0F2v",
+          "end": 51,
+          "expanded_url": "https://x.com/8964zhajipai/status/1860798223658684572/video/1",
+          "media_key": "7_1860798202213179392",
+          "start": 28,
+          "url": "https://t.co/y5XWRP0F2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860872728041164919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860798223658684572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964zhajipai: 无奖精彩里面是什么 https://t.co/y5XWRP0F2v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11284,
+        "height": 1280,
+        "media_key": "7_1860798202213179392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1860798202213179392/pu/img/-3MoheufsH1FR1Bh.jpg",
+        "public_metrics": {
+          "view_count": 91
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860798202213179392/pu/vid/avc1/320x568/9sLieMiQF8X5cmyt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860798202213179392/pu/vid/avc1/480x852/cTNOBtZrw67YRwKS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860798202213179392/pu/vid/avc1/720x1280/xioESBFpBafUgVCA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1860798202213179392/pu/pl/3R1Eujv7HLHk8kur.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1860798202213179392"
+          ],
+          "media_source_tweet_id": [
+            "1860798223658684572"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1860872728041164919",
+        "created_at": "2024-11-25T02:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T03:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860872728041164919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702221879434436608",
+              "start": 3,
+              "username": "8964zhajipai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5XWRP0F2v",
+              "end": 51,
+              "expanded_url": "https://x.com/8964zhajipai/status/1860798223658684572/video/1",
+              "media_key": "7_1860798202213179392",
+              "start": 28,
+              "url": "https://t.co/y5XWRP0F2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860872728041164919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860798223658684572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964zhajipai: 无奖精彩里面是什么 https://t.co/y5XWRP0F2v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1860798202213179392"
+          ]
+        },
+        "author_id": "1702221879434436608",
+        "conversation_id": "1860798223658684572",
+        "created_at": "2024-11-24T21:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T22:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860798223658684572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5XWRP0F2v",
+              "end": 33,
+              "expanded_url": "https://x.com/8964zhajipai/status/1860798223658684572/video/1",
+              "media_key": "7_1860798202213179392",
+              "start": 10,
+              "url": "https://t.co/y5XWRP0F2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860798223658684572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "无奖精彩里面是什么 https://t.co/y5XWRP0F2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849107417721958731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 1234,
+          "like_count": 6014,
+          "listed_count": 0,
+          "tweet_count": 2036
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "永远怀念\n🕯️@mskcnmb8964🕯️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "mskcnmb8964"
+              }
+            ]
+          }
+        },
+        "id": "1702221879434436608",
+        "location": "距你0.6km",
+        "name": "像素炸鸡排5.0",
+        "pinned_tweet_id": "1860467537722671520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 53,
+          "like_count": 83,
+          "listed_count": 0,
+          "tweet_count": 133
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

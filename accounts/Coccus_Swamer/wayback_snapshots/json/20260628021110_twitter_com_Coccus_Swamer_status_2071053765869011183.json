@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071053762660335616",
+        "3_2071053755072876544",
+        "3_2071053756792455168",
+        "3_2071053758088589312"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071053765869011183",
+    "created_at": "2026-06-28T02:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T03:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071053765869011183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KJ2Grcw1zm",
+          "end": 125,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2071053765869011183/photo/1",
+          "media_key": "3_2071053762660335616",
+          "start": 102,
+          "url": "https://t.co/KJ2Grcw1zm"
+        },
+        {
+          "display_url": "pic.x.com/KJ2Grcw1zm",
+          "end": 125,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2071053765869011183/photo/1",
+          "media_key": "3_2071053755072876544",
+          "start": 102,
+          "url": "https://t.co/KJ2Grcw1zm"
+        },
+        {
+          "display_url": "pic.x.com/KJ2Grcw1zm",
+          "end": 125,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2071053765869011183/photo/1",
+          "media_key": "3_2071053756792455168",
+          "start": 102,
+          "url": "https://t.co/KJ2Grcw1zm"
+        },
+        {
+          "display_url": "pic.x.com/KJ2Grcw1zm",
+          "end": 125,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2071053765869011183/photo/1",
+          "media_key": "3_2071053758088589312",
+          "start": 102,
+          "url": "https://t.co/KJ2Grcw1zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071053765869011183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢苏州，喜欢薄荷水，喜欢能让我一直睡觉一直逃避的时光。\n今天群友提了一嘴才发觉自己一直没看过杀破狼，可能是小时候一直觉得这个电影名字挺土的就没看，现在回头去看又经常因为吴京那张脸绷不住，不过确实挺帅的 https://t.co/KJ2Grcw1zm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071053762660335616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3cbJobAAAUH-e.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071053755072876544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3catXbkAA5bjX.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071053756792455168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3cazxaQAAIA7n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071053758088589312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3ca4mbsAAjlcz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071053762660335616",
+            "3_2071053755072876544",
+            "3_2071053756792455168",
+            "3_2071053758088589312"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071053765869011183",
+        "created_at": "2026-06-28T02:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071053765869011183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJ2Grcw1zm",
+              "end": 125,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2071053765869011183/photo/1",
+              "media_key": "3_2071053762660335616",
+              "start": 102,
+              "url": "https://t.co/KJ2Grcw1zm"
+            },
+            {
+              "display_url": "pic.x.com/KJ2Grcw1zm",
+              "end": 125,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2071053765869011183/photo/1",
+              "media_key": "3_2071053755072876544",
+              "start": 102,
+              "url": "https://t.co/KJ2Grcw1zm"
+            },
+            {
+              "display_url": "pic.x.com/KJ2Grcw1zm",
+              "end": 125,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2071053765869011183/photo/1",
+              "media_key": "3_2071053756792455168",
+              "start": 102,
+              "url": "https://t.co/KJ2Grcw1zm"
+            },
+            {
+              "display_url": "pic.x.com/KJ2Grcw1zm",
+              "end": 125,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2071053765869011183/photo/1",
+              "media_key": "3_2071053758088589312",
+              "start": 102,
+              "url": "https://t.co/KJ2Grcw1zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071053765869011183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢苏州，喜欢薄荷水，喜欢能让我一直睡觉一直逃避的时光。\n今天群友提了一嘴才发觉自己一直没看过杀破狼，可能是小时候一直觉得这个电影名字挺土的就没看，现在回头去看又经常因为吴京那张脸绷不住，不过确实挺帅的 https://t.co/KJ2Grcw1zm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 2581,
+          "like_count": 9821,
+          "listed_count": 0,
+          "media_count": 672,
+          "tweet_count": 3619
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

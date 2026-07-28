@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1876115493192618251",
+    "created_at": "2025-01-06T15:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T16:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876286021169786932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870442976377503744",
+          "start": 0,
+          "username": "misakixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876286021169786932",
+    "in_reply_to_user_id": "1870442976377503744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876252076361359610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakixyg 没事宝宝我九月回南京"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1876115493192618251",
+        "created_at": "2025-01-06T15:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876286021169786932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870442976377503744",
+              "start": 0,
+              "username": "misakixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876286021169786932",
+        "in_reply_to_user_id": "1870442976377503744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876252076361359610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakixyg 没事宝宝我九月回南京"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870442976377503744",
+        "conversation_id": "1876115493192618251",
+        "created_at": "2025-01-06T12:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T13:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876252076361359610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876252076361359610",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876239546041639200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 昆明呜呜呜，好远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 1465,
+          "like_count": 6771,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2365
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:15:41.000Z",
+        "description": "三崎在极度奔溃中创建的第三个账号，大半夜把自己笑活",
+        "id": "1870442976377503744",
+        "name": "三崎三世（接援交版",
+        "pinned_tweet_id": "1872886111066046714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870443138906820608/DmxNC6ds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 290,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 417
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ]
+  }
+}

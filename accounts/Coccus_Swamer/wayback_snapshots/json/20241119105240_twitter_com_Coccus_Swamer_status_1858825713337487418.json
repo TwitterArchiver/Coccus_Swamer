@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1858283191909666816",
+        "7_1858283191909728256"
+      ],
+      "media_source_tweet_id": [
+        "1858283325145883108",
+        "1858283325145883108"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1858825713337487418",
+    "created_at": "2024-11-19T10:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T11:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858825713337487418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762478947621638144",
+          "start": 3,
+          "username": "Kambronya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AnFMLiaDmD",
+          "end": 38,
+          "expanded_url": "https://x.com/Kambronya/status/1858283325145883108/video/1",
+          "media_key": "7_1858283191909666816",
+          "start": 15,
+          "url": "https://t.co/AnFMLiaDmD"
+        },
+        {
+          "display_url": "pic.x.com/AnFMLiaDmD",
+          "end": 38,
+          "expanded_url": "https://x.com/Kambronya/status/1858283325145883108/video/1",
+          "media_key": "7_1858283191909728256",
+          "start": 15,
+          "url": "https://t.co/AnFMLiaDmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858825713337487418",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858283325145883108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kambronya: https://t.co/AnFMLiaDmD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1858825713337487418].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1858825713337487418",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1858825713337487418"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46746,
+        "height": 1280,
+        "media_key": "7_1858283191909666816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1858283191909666816/pu/img/zsVBavqD8airhJes.jpg",
+        "public_metrics": {
+          "view_count": 392
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858283191909666816/pu/vid/avc1/320x568/gwEWxDQBV6Vh3DiC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858283191909666816/pu/vid/avc1/480x852/PHOPhhpkjBaDrevu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858283191909666816/pu/vid/avc1/720x1280/YcEt94EnYCcB6eGW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1858283191909666816/pu/pl/0zM38q7r40icey9C.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 23756,
+        "height": 1280,
+        "media_key": "7_1858283191909728256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1858283191909728256/pu/img/t-8Y4wETMNXkWskJ.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858283191909728256/pu/vid/avc1/320x568/0-xlNU4yDT3brjlW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858283191909728256/pu/vid/avc1/480x852/IfLTdBFdufxJES9w.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858283191909728256/pu/vid/avc1/720x1280/ThQLGPU7M9qEYeY3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1858283191909728256/pu/pl/IBmhHHv0T65Nrzwu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858283191909666816",
+            "7_1858283191909728256"
+          ]
+        },
+        "author_id": "1762478947621638144",
+        "conversation_id": "1858283325145883108",
+        "created_at": "2024-11-17T22:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T23:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858283325145883108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnFMLiaDmD",
+              "end": 23,
+              "expanded_url": "https://x.com/Kambronya/status/1858283325145883108/video/1",
+              "media_key": "7_1858283191909666816",
+              "start": 0,
+              "url": "https://t.co/AnFMLiaDmD"
+            },
+            {
+              "display_url": "pic.x.com/AnFMLiaDmD",
+              "end": 23,
+              "expanded_url": "https://x.com/Kambronya/status/1858283325145883108/video/1",
+              "media_key": "7_1858283191909728256",
+              "start": 0,
+              "url": "https://t.co/AnFMLiaDmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858283325145883108",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1262,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AnFMLiaDmD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849107417721958731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 1185,
+          "like_count": 5822,
+          "listed_count": 0,
+          "tweet_count": 1988
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T14:05:32.000Z",
+        "description": "总有一些东西，要用消失来证明它的珍贵。🍥@bronya_rip",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "bronya_rip"
+              }
+            ]
+          }
+        },
+        "id": "1762478947621638144",
+        "name": "Bronya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831870320929861634/jz2zFNmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 59,
+          "like_count": 2412,
+          "listed_count": 0,
+          "tweet_count": 1387
+        },
+        "username": "Kambronya",
+        "verified": false
+      }
+    ]
+  }
+}

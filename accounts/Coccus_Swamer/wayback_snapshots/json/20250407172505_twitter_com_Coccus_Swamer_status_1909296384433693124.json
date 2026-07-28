@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1909296384433693124",
+    "created_at": "2025-04-07T17:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T18:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909296384433693124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883133817508274176",
+          "start": 3,
+          "username": "lanzhiqi07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909296384433693124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908702344688394732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanzhiqi07: 大家看到猎奇的东西能给我发一下吗，我就是为了猎奇的东西上推的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1909296384433693124",
+        "created_at": "2025-04-07T17:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T18:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909296384433693124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883133817508274176",
+              "start": 3,
+              "username": "lanzhiqi07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909296384433693124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908702344688394732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lanzhiqi07: 大家看到猎奇的东西能给我发一下吗，我就是为了猎奇的东西上推的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883133817508274176",
+        "conversation_id": "1908702344688394732",
+        "created_at": "2025-04-06T02:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T03:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908702344688394732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908702344688394732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 286723,
+          "like_count": 1240,
+          "quote_count": 1,
+          "reply_count": 111,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "大家看到猎奇的东西能给我发一下吗，我就是为了猎奇的东西上推的🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 2168,
+          "like_count": 8827,
+          "listed_count": 0,
+          "media_count": 530,
+          "tweet_count": 3185
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T12:44:32.000Z",
+        "description": "不是小狗，现实内向又敏感，如果你不开心，请和我说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lanzhiqi1291",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lanzhiqi1291",
+                "start": 0,
+                "url": "https://t.co/h7EngLPhgA"
+              }
+            ]
+          }
+        },
+        "id": "1883133817508274176",
+        "location": "東京",
+        "name": "129",
+        "pinned_tweet_id": "1908539484549111925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906956310224240640/GmsfNnGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 223,
+          "like_count": 4024,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1374
+        },
+        "url": "https://t.co/h7EngLPhgA",
+        "username": "lanzhiqi07",
+        "verified": false
+      }
+    ]
+  }
+}

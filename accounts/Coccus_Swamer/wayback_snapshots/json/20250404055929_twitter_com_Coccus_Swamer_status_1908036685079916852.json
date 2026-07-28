@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908036675667980288",
+        "3_1908036682051674112",
+        "3_1908036679769927682"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1908036685079916852",
+    "created_at": "2025-04-04T05:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T06:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908036685079916852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nXTOx4IWMf",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1908036685079916852/photo/1",
+          "media_key": "3_1908036675667980288",
+          "start": 0,
+          "url": "https://t.co/nXTOx4IWMf"
+        },
+        {
+          "display_url": "pic.x.com/nXTOx4IWMf",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1908036685079916852/photo/1",
+          "media_key": "3_1908036682051674112",
+          "start": 0,
+          "url": "https://t.co/nXTOx4IWMf"
+        },
+        {
+          "display_url": "pic.x.com/nXTOx4IWMf",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1908036685079916852/photo/1",
+          "media_key": "3_1908036679769927682",
+          "start": 0,
+          "url": "https://t.co/nXTOx4IWMf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908036685079916852",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/nXTOx4IWMf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1908036675667980288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnq1P0-bcAA46DP.jpg",
+        "width": 1024
+      },
+      {
+        "height": 495,
+        "media_key": "3_1908036682051674112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnq1QMwa4AAmxPt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908036679769927682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnq1QEQaMAIJ0Zl.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908036675667980288",
+            "3_1908036682051674112",
+            "3_1908036679769927682"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1908036685079916852",
+        "created_at": "2025-04-04T05:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T06:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908036685079916852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXTOx4IWMf",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1908036685079916852/photo/1",
+              "media_key": "3_1908036675667980288",
+              "start": 0,
+              "url": "https://t.co/nXTOx4IWMf"
+            },
+            {
+              "display_url": "pic.x.com/nXTOx4IWMf",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1908036685079916852/photo/1",
+              "media_key": "3_1908036682051674112",
+              "start": 0,
+              "url": "https://t.co/nXTOx4IWMf"
+            },
+            {
+              "display_url": "pic.x.com/nXTOx4IWMf",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1908036685079916852/photo/1",
+              "media_key": "3_1908036679769927682",
+              "start": 0,
+              "url": "https://t.co/nXTOx4IWMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908036685079916852",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nXTOx4IWMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 2116,
+          "like_count": 8718,
+          "listed_count": 0,
+          "media_count": 525,
+          "tweet_count": 3157
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

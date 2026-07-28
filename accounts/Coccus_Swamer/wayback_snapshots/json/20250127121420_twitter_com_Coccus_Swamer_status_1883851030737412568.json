@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1883851030737412568",
+    "created_at": "2025-01-27T12:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T13:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883851030737412568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1596489618429562882",
+          "start": 3,
+          "username": "plzjustluvmeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883851030737412568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883209702991110571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plzjustluvmeqwq: 农村地雷妹难道真的不配网恋吗？\n0度的天，我在自建水泥房里艰难地穿上一条lizlisa，隔壁的猪鸡鸭一直叫，甚至有一头牛在水泥路上拉了一坨新鲜的，我的bubbles厚底鞋还不小心踩到了。我在石头上踢蹭，居然还把厚底鞋踢破了。这么辛苦也罢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1883851030737412568",
+        "created_at": "2025-01-27T12:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T13:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883851030737412568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1596489618429562882",
+              "start": 3,
+              "username": "plzjustluvmeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883851030737412568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883209702991110571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plzjustluvmeqwq: 农村地雷妹难道真的不配网恋吗？\n0度的天，我在自建水泥房里艰难地穿上一条lizlisa，隔壁的猪鸡鸭一直叫，甚至有一头牛在水泥路上拉了一坨新鲜的，我的bubbles厚底鞋还不小心踩到了。我在石头上踢蹭，居然还把厚底鞋踢破了。这么辛苦也罢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596489618429562882",
+        "conversation_id": "1883209702991110571",
+        "created_at": "2025-01-25T17:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T18:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883209702991110571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883209702991110571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 95675,
+          "like_count": 1048,
+          "quote_count": 2,
+          "reply_count": 71,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "农村地雷妹难道真的不配网恋吗？\n0度的天，我在自建水泥房里艰难地穿上一条lizlisa，隔壁的猪鸡鸭一直叫，甚至有一头牛在水泥路上拉了一坨新鲜的，我的bubbles厚底鞋还不小心踩到了。我在石头上踢蹭，居然还把厚底鞋踢破了。这么辛苦也罢，就为了能躲在安静的农田里和你连麦od割手，山风吹的呼呼响也没"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1883274780335600052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 1547,
+          "like_count": 7353,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 2622
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-26T13:03:22.000Z",
+        "description": "我是纱奈 这里是我的碎碎念｜清水推｜不混任何圈｜喜欢唱歌偶尔画画｜中文/English 🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "on.soundcloud.com/PfLhC",
+                "end": 23,
+                "expanded_url": "https://on.soundcloud.com/PfLhC",
+                "start": 0,
+                "url": "https://t.co/E7iOTLMJj5"
+              }
+            ]
+          }
+        },
+        "id": "1596489618429562882",
+        "location": "my soundcloud👇🏻",
+        "name": "劣等感",
+        "pinned_tweet_id": "1870080741184507963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882789318051397632/PZUYdrE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 166,
+          "like_count": 5974,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 2296
+        },
+        "url": "https://t.co/E7iOTLMJj5",
+        "username": "plzjustluvmeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

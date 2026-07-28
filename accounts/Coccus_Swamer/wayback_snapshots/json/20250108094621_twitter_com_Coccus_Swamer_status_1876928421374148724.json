@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876922967885852672"
+      ],
+      "media_source_tweet_id": [
+        "1876923051427639349"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1876928421374148724",
+    "created_at": "2025-01-08T09:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T10:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876928421374148724"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Effects",
+          "probability": 0.5667,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1559571307066363904",
+          "start": 3,
+          "username": "dreaming909"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKpfljYH5T",
+          "end": 63,
+          "expanded_url": "https://x.com/dreaming909/status/1876923051427639349/photo/1",
+          "media_key": "3_1876922967885852672",
+          "start": 40,
+          "url": "https://t.co/GKpfljYH5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876928421374148724",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876923051427639349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dreaming909: Special Effects Makeup https://t.co/GKpfljYH5T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876922967885852672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwrfrObsAA1Ot_.jpg",
+        "width": 1633
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876922967885852672"
+          ],
+          "media_source_tweet_id": [
+            "1876923051427639349"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1876928421374148724",
+        "created_at": "2025-01-08T09:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T10:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876928421374148724"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Effects",
+              "probability": 0.5667,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1559571307066363904",
+              "start": 3,
+              "username": "dreaming909"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKpfljYH5T",
+              "end": 63,
+              "expanded_url": "https://x.com/dreaming909/status/1876923051427639349/photo/1",
+              "media_key": "3_1876922967885852672",
+              "start": 40,
+              "url": "https://t.co/GKpfljYH5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876928421374148724",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876923051427639349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dreaming909: Special Effects Makeup https://t.co/GKpfljYH5T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876922967885852672"
+          ]
+        },
+        "author_id": "1559571307066363904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1876923051427639349",
+        "created_at": "2025-01-08T09:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T10:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876923051427639349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKpfljYH5T",
+              "end": 46,
+              "expanded_url": "https://x.com/dreaming909/status/1876923051427639349/photo/1",
+              "media_key": "3_1876922967885852672",
+              "start": 23,
+              "url": "https://t.co/GKpfljYH5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876923051427639349",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Special Effects Makeup https://t.co/GKpfljYH5T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 1471,
+          "like_count": 6806,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 2373
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T16:03:01.000Z",
+        "description": "@Remipills，我以后会用这个号发雪图",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Remipills"
+              }
+            ]
+          }
+        },
+        "id": "1559571307066363904",
+        "name": "❄️",
+        "pinned_tweet_id": "1860267380850721229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665962787120775173/nwF9kLP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 69,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 20
+        },
+        "username": "dreaming909",
+        "verified": false
+      }
+    ]
+  }
+}

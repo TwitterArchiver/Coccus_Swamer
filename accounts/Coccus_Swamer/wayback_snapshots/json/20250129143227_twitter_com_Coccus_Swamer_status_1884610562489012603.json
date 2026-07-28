@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1884610562489012603",
+    "created_at": "2025-01-29T14:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T15:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884610562489012603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hood8964/statu…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/hood8964/status/1884604298962874788",
+          "start": 151,
+          "url": "https://t.co/zHxcOivV9s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884610562489012603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "传统植物分类学有很多不自然的地方，自分子生物学发展至今植物分类一直在变，并不是大家果实叶片根茎相似就可以被分到一个family里面的。\n很多传统类仅依靠花序和果序的近似就归入了同科同属，但其实很多东西在分子生物学上来讲很不近缘。\n比如传统定义的藁本属就是个大杂烩，2019年的一项研究（Zhou J et al., 2019）表明，它竟然包括了6组关系很远的植物。所以现在藁本（连同川芎）转入山芎属（Conioselinum），学名变为Conioselinum anthriscoides（由于藁本已经不在“藁本属”Ligusticum，为了避免名不副实，后者的中文名也改为“北藁本属”）。但2019年的那项研究暗示，这种处理可能仍然不妥，藁本可能最终需要自成一属（目前还没有属名可用，需要新发表）。\n\n一种植物如何分类、如何命名，也许在一些人看来，是个无聊的问题。大家都会对这种学名和中文名变来变去的状况感到不满。但它往往要比很多植物学研究要重要得多：远系植物在果实形态上的趋同，花序的趋同演化究竟对应了一种什么更优势的生存方式？它们搞清楚，显然可以完善我们对被子植物演化的认知。\n\n回到最开始原帖的那个问题上，我看过太多太多的植物科普，不论是贴文，书刊，杂志还是简报，我只是突然感慨大部分的东西讲得实在是过浅薄以至于大家都觉得植物学研究就是把植物分门别类，然后这个可以入药，那个不能入药，这个能吃，那个不能吃仅此而已。愿意好好讲好一个故事的人太少太少了，让我觉得很失望。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884604298962874788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "传统植物分类学有很多不自然的地方，自分子生物学发展至今植物分类一直在变，并不是大家果实叶片根茎相似就可以被分到一个family里面的。\n很多传统类仅依靠花序和果序的近似就归入了同科同属，但其实很多东西在分子生物学上来讲很不近缘。\n比如传统定义的藁本属就是个大杂烩，2019年的一项研究（Zhou J… https://t.co/zHxcOivV9s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1884610562489012603",
+        "created_at": "2025-01-29T14:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T15:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884610562489012603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hood8964/statu…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/hood8964/status/1884604298962874788",
+              "start": 151,
+              "url": "https://t.co/zHxcOivV9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884610562489012603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "传统植物分类学有很多不自然的地方，自分子生物学发展至今植物分类一直在变，并不是大家果实叶片根茎相似就可以被分到一个family里面的。\n很多传统类仅依靠花序和果序的近似就归入了同科同属，但其实很多东西在分子生物学上来讲很不近缘。\n比如传统定义的藁本属就是个大杂烩，2019年的一项研究（Zhou J et al., 2019）表明，它竟然包括了6组关系很远的植物。所以现在藁本（连同川芎）转入山芎属（Conioselinum），学名变为Conioselinum anthriscoides（由于藁本已经不在“藁本属”Ligusticum，为了避免名不副实，后者的中文名也改为“北藁本属”）。但2019年的那项研究暗示，这种处理可能仍然不妥，藁本可能最终需要自成一属（目前还没有属名可用，需要新发表）。\n\n一种植物如何分类、如何命名，也许在一些人看来，是个无聊的问题。大家都会对这种学名和中文名变来变去的状况感到不满。但它往往要比很多植物学研究要重要得多：远系植物在果实形态上的趋同，花序的趋同演化究竟对应了一种什么更优势的生存方式？它们搞清楚，显然可以完善我们对被子植物演化的认知。\n\n回到最开始原帖的那个问题上，我看过太多太多的植物科普，不论是贴文，书刊，杂志还是简报，我只是突然感慨大部分的东西讲得实在是过浅薄以至于大家都觉得植物学研究就是把植物分门别类，然后这个可以入药，那个不能入药，这个能吃，那个不能吃仅此而已。愿意好好讲好一个故事的人太少太少了，让我觉得很失望。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884604298962874788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "传统植物分类学有很多不自然的地方，自分子生物学发展至今植物分类一直在变，并不是大家果实叶片根茎相似就可以被分到一个family里面的。\n很多传统类仅依靠花序和果序的近似就归入了同科同属，但其实很多东西在分子生物学上来讲很不近缘。\n比如传统定义的藁本属就是个大杂烩，2019年的一项研究（Zhou J… https://t.co/zHxcOivV9s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055457756610560",
+        "conversation_id": "1884600124032344304",
+        "created_at": "2025-01-29T14:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T15:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884604298962874788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884604298962874788",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884603779426947425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 😗我也是觉得很神奇，榕树是桑科植物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1883274780335600052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 1562,
+          "like_count": 7383,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 2646
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "点赞是已读，秒赞就是开了铃铛。私信开放ing.，不好意思可以发到https://t.co/sBMnS4hIP6\n@VNationVendet @MOLeren198964  @catej_ikuna @EarloFidonisi @blackXD233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "VNationVendet"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "MOLeren198964"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "catej_ikuna"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "EarloFidonisi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "blackXD233"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hood8964",
+                "end": 55,
+                "expanded_url": "https://ngl.link/hood8964",
+                "start": 32,
+                "url": "https://t.co/sBMnS4hIP6"
+              }
+            ]
+          }
+        },
+        "id": "1840055457756610560",
+        "location": "深圳湾底",
+        "name": "红移中，勿扰（世界生成.ing",
+        "pinned_tweet_id": "1884178870699712896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884171594530230272/3YX674V6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 962,
+          "like_count": 27860,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 6922
+        },
+        "username": "hood8964",
+        "verified": false
+      }
+    ]
+  }
+}

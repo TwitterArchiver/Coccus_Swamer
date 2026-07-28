@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1853436986465619968"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1853437018707210441",
+    "created_at": "2024-11-04T13:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T14:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853437018707210441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k9kI97Ai9h",
+          "end": 38,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1853437018707210441/video/1",
+          "media_key": "7_1853436986465619968",
+          "start": 15,
+          "url": "https://t.co/k9kI97Ai9h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853437018707210441",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天上班被学校赶出来就老实了 https://t.co/k9kI97Ai9h"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1853437018707210441].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1853437018707210441",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1853437018707210441"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6080,
+        "height": 1280,
+        "media_key": "7_1853436986465619968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1853436986465619968/pu/img/1CKmjKwAKw12hgEC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1853436986465619968/pu/vid/avc1/320x710/fiGpnL4Ce6686J9j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1853436986465619968/pu/vid/avc1/480x1066/mWk76YgJNDpl9vry.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1853436986465619968/pu/vid/avc1/576x1280/QQ75nxEnWmPT074u.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1853436986465619968/pu/pl/SG6cI9zazDB5kOP7.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849769563073937699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 1093,
+          "like_count": 5485,
+          "listed_count": 0,
+          "tweet_count": 1881
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

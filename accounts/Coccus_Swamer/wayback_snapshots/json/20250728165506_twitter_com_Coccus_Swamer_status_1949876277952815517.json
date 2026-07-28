@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1949801487238078723",
+    "created_at": "2025-07-28T16:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T17:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949876277952815517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503516796493590530",
+          "start": 0,
+          "username": "orangefish_stew"
+        },
+        {
+          "end": 33,
+          "id": "1741993395910811648",
+          "start": 17,
+          "username": "AnIncandescence"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949876277952815517",
+    "in_reply_to_user_id": "1503516796493590530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949870598550864211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangefish_stew @AnIncandescence 爱手艺我小号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1949801487238078723",
+        "created_at": "2025-07-28T16:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T17:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949876277952815517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503516796493590530",
+              "start": 0,
+              "username": "orangefish_stew"
+            },
+            {
+              "end": 33,
+              "id": "1741993395910811648",
+              "start": 17,
+              "username": "AnIncandescence"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949876277952815517",
+        "in_reply_to_user_id": "1503516796493590530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949870598550864211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangefish_stew @AnIncandescence 爱手艺我小号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503516796493590530",
+        "conversation_id": "1949801487238078723",
+        "created_at": "2025-07-28T16:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T17:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949870598550864211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            },
+            {
+              "end": 31,
+              "id": "1741993395910811648",
+              "start": 15,
+              "username": "AnIncandescence"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949870598550864211",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949870430099050867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer @AnIncandescence 爱手艺上大号说话😠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 2450,
+          "like_count": 10065,
+          "listed_count": 0,
+          "media_count": 610,
+          "tweet_count": 3416
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "16在校高中牲｜INFP｜代词随意｜🏳️‍🌈🏳️‍⚧️喜欢男的｜成分复杂｜其实是个khn🤓👆",
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "1900189739627798575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 1449,
+          "like_count": 14528,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 3766
+        },
+        "username": "orangefish_stew",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescence",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence",
+                "start": 0,
+                "url": "https://t.co/MuEKSg4tIS"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 206,
+          "like_count": 9499,
+          "listed_count": 1,
+          "media_count": 688,
+          "tweet_count": 3424
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ]
+  }
+}

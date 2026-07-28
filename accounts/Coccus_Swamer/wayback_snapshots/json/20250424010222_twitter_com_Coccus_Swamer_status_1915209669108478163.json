@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1914877569234579836",
+    "created_at": "2025-04-24T01:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T02:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915209669108478163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "sikkmywife"
+        },
+        {
+          "end": 22,
+          "id": "1886621948081520640",
+          "start": 12,
+          "username": "ceg163287"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915209669108478163",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915119688192758085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sikkmywife @ceg163287 很难说这个会有什么舒适的体验，感觉容易进入谵妄状态，要备着氯硝西泮才能稍微放松点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1914877569234579836",
+        "created_at": "2025-04-24T01:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T02:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915209669108478163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "sikkmywife"
+            },
+            {
+              "end": 22,
+              "id": "1886621948081520640",
+              "start": 12,
+              "username": "ceg163287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915209669108478163",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915119688192758085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sikkmywife @ceg163287 很难说这个会有什么舒适的体验，感觉容易进入谵妄状态，要备着氯硝西泮才能稍微放松点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1914877569234579836",
+        "created_at": "2025-04-23T19:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T20:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915119688192758085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1886621948081520640",
+              "start": 0,
+              "username": "ceg163287"
+            },
+            {
+              "end": 25,
+              "id": "1552238688590958592",
+              "start": 11,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915119688192758085",
+        "in_reply_to_user_id": "1886621948081520640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915119496336916487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceg163287 @Coccus_Swamer 🥺🥺🥺谢谢您！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1915104988734562596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 2197,
+          "like_count": 8921,
+          "listed_count": 0,
+          "media_count": 534,
+          "tweet_count": 3207
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "你好，我是白鳥。\n此处只有我所能找到的我的碎片。\nFTX/@Dopppelaganger /Unitarian Universalists/Fyrir frelsi, fyrir mig, fyrir @Coccus_Swamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "Dopppelaganger"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Coccus_Swamer"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1914957098028335440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910479994218049536/jNBlKnK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 424,
+          "like_count": 17374,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1780
+        },
+        "username": "sikkmywife",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T03:45:13.000Z",
+        "description": "（川@ceg1632（二代目",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "ceg1632"
+              }
+            ]
+          }
+        },
+        "id": "1886621948081520640",
+        "name": "川",
+        "pinned_tweet_id": "1899761023936000239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888282023711940609/6iqC6HE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 252,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 135
+        },
+        "username": "ceg163287",
+        "verified": false
+      }
+    ]
+  }
+}

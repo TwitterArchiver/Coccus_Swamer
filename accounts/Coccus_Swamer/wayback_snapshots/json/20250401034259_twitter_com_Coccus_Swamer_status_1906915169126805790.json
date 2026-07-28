@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906346044600041472"
+      ],
+      "media_source_tweet_id": [
+        "1906346052804096399"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1906915169126805790",
+    "created_at": "2025-04-01T03:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T04:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906915169126805790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1337457311506341888",
+          "start": 3,
+          "username": "sksksrkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BsDkyzZvdc",
+          "end": 37,
+          "expanded_url": "https://x.com/sksksrkk/status/1906346052804096399/photo/1",
+          "media_key": "3_1906346044600041472",
+          "start": 14,
+          "url": "https://t.co/BsDkyzZvdc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906915169126805790",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2812
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906346052804096399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sksksrkk: https://t.co/BsDkyzZvdc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906915169126805790].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906915169126805790",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906915169126805790"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_1906346044600041472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnSzoJdbQAAQkMF.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906346044600041472"
+          ]
+        },
+        "author_id": "1337457311506341888",
+        "conversation_id": "1906346052804096399",
+        "created_at": "2025-03-30T14:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T15:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906346052804096399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BsDkyzZvdc",
+              "end": 23,
+              "expanded_url": "https://x.com/sksksrkk/status/1906346052804096399/photo/1",
+              "media_key": "3_1906346044600041472",
+              "start": 0,
+              "url": "https://t.co/BsDkyzZvdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906346052804096399",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1553,
+          "impression_count": 173296,
+          "like_count": 15614,
+          "quote_count": 67,
+          "reply_count": 19,
+          "retweet_count": 2812
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BsDkyzZvdc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1906384442639482930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 2111,
+          "like_count": 8657,
+          "listed_count": 0,
+          "media_count": 516,
+          "tweet_count": 3121
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-11T18:00:55.000Z",
+        "description": "for teh lulz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/sksksrkk",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/sksksrkk",
+                "start": 0,
+                "url": "https://t.co/x622IWpfht"
+              }
+            ]
+          }
+        },
+        "id": "1337457311506341888",
+        "name": "리얼뇌",
+        "pinned_tweet_id": "1827267707852746859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906751919101714432/6GSQ-BfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3451,
+          "following_count": 265,
+          "like_count": 3555,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 2079
+        },
+        "url": "https://t.co/x622IWpfht",
+        "username": "sksksrkk",
+        "verified": false
+      }
+    ]
+  }
+}

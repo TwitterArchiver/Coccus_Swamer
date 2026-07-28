@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892176976540053504"
+      ],
+      "media_source_tweet_id": [
+        "1892176987994673648"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1892443800163012672",
+    "created_at": "2025-02-20T05:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T06:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892443800163012672"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883344327419809792",
+          "start": 3,
+          "username": "xiox453241"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1sWx0ATXkS",
+          "end": 74,
+          "expanded_url": "https://x.com/xiox453241/status/1892176987994673648/photo/1",
+          "media_key": "3_1892176976540053504",
+          "start": 51,
+          "url": "https://t.co/1sWx0ATXkS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892443800163012672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892176987994673648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiox453241: #男娘 一个月就给我200零花钱，到时候我就为了几千块钱跑别人床上去 https://t.co/1sWx0ATXkS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1892176976540053504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkJc71rXsAA5GWE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892176976540053504"
+          ],
+          "media_source_tweet_id": [
+            "1892176987994673648"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1892443800163012672",
+        "created_at": "2025-02-20T05:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T06:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892443800163012672"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883344327419809792",
+              "start": 3,
+              "username": "xiox453241"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1sWx0ATXkS",
+              "end": 74,
+              "expanded_url": "https://x.com/xiox453241/status/1892176987994673648/photo/1",
+              "media_key": "3_1892176976540053504",
+              "start": 51,
+              "url": "https://t.co/1sWx0ATXkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892443800163012672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892176987994673648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiox453241: #男娘 一个月就给我200零花钱，到时候我就为了几千块钱跑别人床上去 https://t.co/1sWx0ATXkS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892176976540053504"
+          ]
+        },
+        "author_id": "1883344327419809792",
+        "conversation_id": "1892176987994673648",
+        "created_at": "2025-02-19T11:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T12:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892176987994673648"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1sWx0ATXkS",
+              "end": 58,
+              "expanded_url": "https://x.com/xiox453241/status/1892176987994673648/photo/1",
+              "media_key": "3_1892176976540053504",
+              "start": 35,
+              "url": "https://t.co/1sWx0ATXkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892176987994673648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 26706,
+          "like_count": 159,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 一个月就给我200零花钱，到时候我就为了几千块钱跑别人床上去 https://t.co/1sWx0ATXkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1886742501513683101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1780,
+          "like_count": 7924,
+          "listed_count": 0,
+          "media_count": 463,
+          "tweet_count": 2808
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T02:41:21.000Z",
+        "description": "杂鱼～杂鱼～略略略(づ ●─● )づ",
+        "id": "1883344327419809792",
+        "name": "小熙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883369214255509504/QkesDff9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 50,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 35
+        },
+        "username": "xiox453241",
+        "verified": false
+      }
+    ]
+  }
+}

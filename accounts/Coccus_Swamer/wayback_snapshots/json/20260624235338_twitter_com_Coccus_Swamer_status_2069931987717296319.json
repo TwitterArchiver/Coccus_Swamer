@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2069491862545785159",
+    "created_at": "2026-06-24T23:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T00:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069931987717296319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1658881840349061120",
+          "start": 0,
+          "username": "CJing3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069931987717296319",
+    "in_reply_to_user_id": "1658881840349061120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069491862545785159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CJing3_ 牛逼啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2069491862545785159",
+        "created_at": "2026-06-24T23:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069931987717296319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1658881840349061120",
+              "start": 0,
+              "username": "CJing3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069931987717296319",
+        "in_reply_to_user_id": "1658881840349061120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069491862545785159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CJing3_ 牛逼啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658881840349061120",
+        "conversation_id": "2069491862545785159",
+        "created_at": "2026-06-23T18:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069491862545785159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069491862545785159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10609,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "OK呀，也是考上川美了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关",
+        "id": "1552238688590958592",
+        "location": "锟斤拷锟斤拷锟斤拷锟斤拷",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1943417317855236106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 2497,
+          "like_count": 9746,
+          "listed_count": 0,
+          "media_count": 667,
+          "tweet_count": 3597
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "@Cjing4_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Cjing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫 orca",
+        "name": "楚鯨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003866770214658049/ySQGbvN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10526,
+          "following_count": 198,
+          "like_count": 10913,
+          "listed_count": 18,
+          "media_count": 97,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

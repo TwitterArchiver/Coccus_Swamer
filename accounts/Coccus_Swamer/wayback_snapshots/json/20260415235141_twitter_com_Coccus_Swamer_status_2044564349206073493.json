@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044562891182116864",
+        "3_2044562891127590914",
+        "3_2044563557598302208",
+        "3_2044563531438407680"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2044564349206073493",
+    "created_at": "2026-04-15T23:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T00:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044564349206073493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1176077981099446272",
+          "start": 2,
+          "username": "Yesmynamehaer1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7vwj3wQvR",
+          "end": 112,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2044564349206073493/photo/1",
+          "media_key": "3_2044562891182116864",
+          "start": 89,
+          "url": "https://t.co/N7vwj3wQvR"
+        },
+        {
+          "display_url": "pic.x.com/N7vwj3wQvR",
+          "end": 112,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2044564349206073493/photo/1",
+          "media_key": "3_2044562891127590914",
+          "start": 89,
+          "url": "https://t.co/N7vwj3wQvR"
+        },
+        {
+          "display_url": "pic.x.com/N7vwj3wQvR",
+          "end": 112,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2044564349206073493/photo/1",
+          "media_key": "3_2044563557598302208",
+          "start": 89,
+          "url": "https://t.co/N7vwj3wQvR"
+        },
+        {
+          "display_url": "pic.x.com/N7vwj3wQvR",
+          "end": 112,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2044564349206073493/photo/1",
+          "media_key": "3_2044563531438407680",
+          "start": 89,
+          "url": "https://t.co/N7vwj3wQvR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044564349206073493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢@Yesmynamehaer1 主人大老远从上海陪我看病，，，现在腿断了一样没有白鸟在只能在医院爬着走了，，\n\n好想把双腿锯掉，，真的好痛，，，要是能变成真的小狗就好了，， https://t.co/N7vwj3wQvR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2044562891182116864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-_HfHbEAA-52_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2044562891127590914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-_He6bEAIhc_K.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2044563557598302208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-_uRtbEAANYoC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 608,
+        "media_key": "3_2044563531438407680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-_swQawAA20H8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044562891182116864",
+            "3_2044562891127590914",
+            "3_2044563557598302208",
+            "3_2044563531438407680"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2044564349206073493",
+        "created_at": "2026-04-15T23:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044564349206073493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1176077981099446272",
+              "start": 2,
+              "username": "Yesmynamehaer1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7vwj3wQvR",
+              "end": 112,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2044564349206073493/photo/1",
+              "media_key": "3_2044562891182116864",
+              "start": 89,
+              "url": "https://t.co/N7vwj3wQvR"
+            },
+            {
+              "display_url": "pic.x.com/N7vwj3wQvR",
+              "end": 112,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2044564349206073493/photo/1",
+              "media_key": "3_2044562891127590914",
+              "start": 89,
+              "url": "https://t.co/N7vwj3wQvR"
+            },
+            {
+              "display_url": "pic.x.com/N7vwj3wQvR",
+              "end": 112,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2044564349206073493/photo/1",
+              "media_key": "3_2044563557598302208",
+              "start": 89,
+              "url": "https://t.co/N7vwj3wQvR"
+            },
+            {
+              "display_url": "pic.x.com/N7vwj3wQvR",
+              "end": 112,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2044564349206073493/photo/1",
+              "media_key": "3_2044563531438407680",
+              "start": 89,
+              "url": "https://t.co/N7vwj3wQvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044564349206073493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢@Yesmynamehaer1 主人大老远从上海陪我看病，，，现在腿断了一样没有白鸟在只能在医院爬着走了，，\n\n好想把双腿锯掉，，真的好痛，，，要是能变成真的小狗就好了，， https://t.co/N7vwj3wQvR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1973745736216158259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 2473,
+          "like_count": 9640,
+          "listed_count": 0,
+          "media_count": 655,
+          "tweet_count": 3536
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "我想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "y.music.163.com/m/user?id=1349…",
+                "end": 23,
+                "expanded_url": "https://y.music.163.com/m/user?id=1349815486",
+                "start": 0,
+                "url": "https://t.co/or4sXmhPOG"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "白鳥形人",
+        "name": "Hereditarystupidity #鬼宿三",
+        "pinned_tweet_id": "2003319411953082841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039233305284091904/hdxfbjXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 776,
+          "like_count": 31628,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 2923
+        },
+        "url": "https://t.co/or4sXmhPOG",
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

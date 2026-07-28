@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1875584936205545874",
+    "created_at": "2025-01-04T16:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T17:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875584936205545874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "@Coccus_Swamer 是个自称“小浆狗”的家伙，大学从日语系转到了德语系，还计划去日本访学，目标是能听懂日常用语。 他还透露自己有ADHD，生活中充满了各种小烦恼和小确幸，比如电脑半夜尖叫和对草莓的渴望。 总的来说，他对生活充满了戏谑和自嘲的态度，相信换个环境能让生活更舒适。[](https://x.com/Coccus_Swamer/status/1720881545089815004)[](https://x.com/Coccus_Swamer/status/1720880455879438835)[](https://x.com/Coccus_Swamer/status/1720432921306407414)[](https://x.com/Coccus_Swamer/status/1721567956797358569) 最近在X上，Coccus_Swamer一直在求人吸一口，抱怨没人帮写讣告，还分享了蚊子除湿的科学知识。[](https://x.com/Coccus_Swamer/status/1874736592285466639)[](https://x.com/Coccus_Swamer/status/1875171569477230739)[](https://x.com/Coccus_Swamer/status/1875392341424664969) > 2025目标 1.学着抽烟 2.尝尝酒精的味道 3.说一次脏话 4.玩很晚再回家（大概十点这个样子） -@Coccus_Swamer [](https://x.com/Coccus_Swamer/status/1874462552840909305)",
+          "display_url": "x.com/i/grok/share/o…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/oZ4q5cUYCaTV07J3hpSrGIqy1",
+          "start": 0,
+          "status": 200,
+          "title": "@Coccus_Swamer",
+          "unwound_url": "https://x.com/i/grok/share/oZ4q5cUYCaTV07J3hpSrGIqy1",
+          "url": "https://t.co/Iu9lPw2mLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875584936205545874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Iu9lPw2mLt\n吓晕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1875584936205545874",
+        "created_at": "2025-01-04T16:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T17:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875584936205545874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "@Coccus_Swamer 是个自称“小浆狗”的家伙，大学从日语系转到了德语系，还计划去日本访学，目标是能听懂日常用语。 他还透露自己有ADHD，生活中充满了各种小烦恼和小确幸，比如电脑半夜尖叫和对草莓的渴望。 总的来说，他对生活充满了戏谑和自嘲的态度，相信换个环境能让生活更舒适。[](https://x.com/Coccus_Swamer/status/1720881545089815004)[](https://x.com/Coccus_Swamer/status/1720880455879438835)[](https://x.com/Coccus_Swamer/status/1720432921306407414)[](https://x.com/Coccus_Swamer/status/1721567956797358569) 最近在X上，Coccus_Swamer一直在求人吸一口，抱怨没人帮写讣告，还分享了蚊子除湿的科学知识。[](https://x.com/Coccus_Swamer/status/1874736592285466639)[](https://x.com/Coccus_Swamer/status/1875171569477230739)[](https://x.com/Coccus_Swamer/status/1875392341424664969) > 2025目标 1.学着抽烟 2.尝尝酒精的味道 3.说一次脏话 4.玩很晚再回家（大概十点这个样子） -@Coccus_Swamer [](https://x.com/Coccus_Swamer/status/1874462552840909305)",
+              "display_url": "x.com/i/grok/share/o…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/oZ4q5cUYCaTV07J3hpSrGIqy1",
+              "start": 0,
+              "status": 200,
+              "title": "@Coccus_Swamer",
+              "unwound_url": "https://x.com/i/grok/share/oZ4q5cUYCaTV07J3hpSrGIqy1",
+              "url": "https://t.co/Iu9lPw2mLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875584936205545874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Iu9lPw2mLt\n吓晕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 1460,
+          "like_count": 6739,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 2340
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

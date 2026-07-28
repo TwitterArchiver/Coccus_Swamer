@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1788014011113754862",
+    "created_at": "2024-05-09T14:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T15:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788573629342736478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1695437890086731776",
+          "start": 0,
+          "username": "ontx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788573629342736478",
+    "in_reply_to_user_id": "1695437890086731776",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788014011113754862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ontx_ 満足"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1788014011113754862",
+        "created_at": "2024-05-09T14:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T15:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788573629342736478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1695437890086731776",
+              "start": 0,
+              "username": "ontx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788573629342736478",
+        "in_reply_to_user_id": "1695437890086731776",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788014011113754862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ontx_ 満足"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1788013984639332352"
+          ]
+        },
+        "author_id": "1695437890086731776",
+        "conversation_id": "1788014011113754862",
+        "created_at": "2024-05-08T01:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T02:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788014011113754862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0SqFz7rmnH",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ontx_/status/1788014011113754862/video/1",
+              "media_key": "7_1788013984639332352",
+              "start": 7,
+              "url": "https://t.co/0SqFz7rmnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788014011113754862",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 11855,
+          "like_count": 1180,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "ぱっくり満足 https://t.co/0SqFz7rmnH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "早餐一種。",
+        "id": "1552238688590958592",
+        "name": "帝國粉色果醬配奶油麵包片",
+        "pinned_tweet_id": "1716744793404191029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725501871039909888/eBg1RNIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 489,
+          "like_count": 3119,
+          "listed_count": 0,
+          "tweet_count": 1002
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T14:08:03.000Z",
+        "description": "傷といっしょになめくじらいふ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3BFDY962D353A?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/s7nRL18D2W"
+              }
+            ]
+          }
+        },
+        "id": "1695437890086731776",
+        "location": "あいこん塵ちゃん",
+        "name": "あも",
+        "pinned_tweet_id": "1783252734441099521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753249751448072192/KVauVg-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10428,
+          "following_count": 78,
+          "like_count": 40209,
+          "listed_count": 29,
+          "tweet_count": 5553
+        },
+        "url": "https://t.co/s7nRL18D2W",
+        "username": "ontx_",
+        "verified": false
+      }
+    ]
+  }
+}

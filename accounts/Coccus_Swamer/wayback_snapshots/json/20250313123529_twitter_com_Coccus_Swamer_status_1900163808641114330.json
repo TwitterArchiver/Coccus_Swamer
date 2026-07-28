@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1900163808641114330",
+    "created_at": "2025-03-13T12:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T13:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900163808641114330"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900163808641114330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新的第三批isrib实验室会在本月内产出，有需求的小伙伴可以找我预定，不需要提前付款，等有现货了再统一收款发货。\n目前定价300mg312元，购买过第一批第二批的朋友八折（240）包邮。\n预计产出时间为3月25日前。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1900163808641114330",
+        "created_at": "2025-03-13T12:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T13:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900163808641114330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900163808641114330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的第三批isrib实验室会在本月内产出，有需求的小伙伴可以找我预定，不需要提前付款，等有现货了再统一收款发货。\n目前定价300mg312元，购买过第一批第二批的朋友八折（240）包邮。\n预计产出时间为3月25日前。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899915782404137225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1934,
+          "like_count": 8160,
+          "listed_count": 0,
+          "media_count": 488,
+          "tweet_count": 2980
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1949801487238078723",
+    "created_at": "2025-07-29T16:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T17:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950235113968775185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1741660022046638080",
+          "start": 0,
+          "username": "BaI4006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950235113968775185",
+    "in_reply_to_user_id": "1741660022046638080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950054916862726397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaI4006 击败接肢葛瑞克后，在其王座房间外的白灵旁拾取，随后在赐福「傍湖断崖」交给海妲。‌‌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1949801487238078723",
+        "created_at": "2025-07-29T16:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T17:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950235113968775185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1741660022046638080",
+              "start": 0,
+              "username": "BaI4006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950235113968775185",
+        "in_reply_to_user_id": "1741660022046638080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950054916862726397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaI4006 击败接肢葛瑞克后，在其王座房间外的白灵旁拾取，随后在赐福「傍湖断崖」交给海妲。‌‌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741660022046638080",
+        "conversation_id": "1949801487238078723",
+        "created_at": "2025-07-29T04:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T05:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950054916862726397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950054916862726397",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949801487238078723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 你从哪搞的夏波莉莉的葡萄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 2452,
+          "like_count": 10075,
+          "listed_count": 0,
+          "media_count": 610,
+          "tweet_count": 3420
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-01T03:18:14.000Z",
+        "description": "叔本华、海明威、魔幻小说，我时常发表对三者的拙见",
+        "id": "1741660022046638080",
+        "location": "古关忧的古书馆3号书架后的小沙发",
+        "name": "Ba1",
+        "pinned_tweet_id": "1892134839324721578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946876772265472000/lCL_15zz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 218,
+          "like_count": 27134,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 5916
+        },
+        "username": "BaI4006",
+        "verified": false
+      }
+    ]
+  }
+}

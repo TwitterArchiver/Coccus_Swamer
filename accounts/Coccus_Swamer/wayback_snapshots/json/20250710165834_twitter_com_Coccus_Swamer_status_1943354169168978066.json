@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1943316138244608002"
+      ],
+      "media_source_tweet_id": [
+        "1943316197275041953"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1943354169168978066",
+    "created_at": "2025-07-10T16:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T17:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943354169168978066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1115809099482980353",
+          "start": 3,
+          "username": "DKR_World"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IW9EN1cmG5",
+          "end": 56,
+          "expanded_url": "https://x.com/DKR_World/status/1943316197275041953/video/1",
+          "media_key": "13_1943316138244608002",
+          "start": 33,
+          "url": "https://t.co/IW9EN1cmG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943354169168978066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943316197275041953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DKR_World: 更多的感官刺激來填補心跳的間隙—— https://t.co/IW9EN1cmG5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1943354169168978066].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1943354169168978066",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1943354169168978066"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3000,
+        "height": 1280,
+        "media_key": "13_1943316138244608002",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943316138244608002/img/Hqijb12IdoTVWH7e.jpg",
+        "public_metrics": {
+          "view_count": 87
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943316138244608002/vid/avc1/320x568/qNHfaNjjVoPwfGPw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943316138244608002/vid/avc1/480x852/QSv49mh6SJziA8ge.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943316138244608002/vid/avc1/720x1280/-AuMnFVMbWx7MPLT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943316138244608002/pl/RgsyivyWXDJaO7TF.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943316138244608002"
+          ]
+        },
+        "author_id": "1115809099482980353",
+        "conversation_id": "1943316197275041953",
+        "created_at": "2025-07-10T14:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T15:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943316197275041953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IW9EN1cmG5",
+              "end": 41,
+              "expanded_url": "https://x.com/DKR_World/status/1943316197275041953/video/1",
+              "media_key": "13_1943316138244608002",
+              "start": 18,
+              "url": "https://t.co/IW9EN1cmG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943316197275041953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 265,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "更多的感官刺激來填補心跳的間隙—— https://t.co/IW9EN1cmG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 2307,
+          "like_count": 9854,
+          "listed_count": 0,
+          "media_count": 594,
+          "tweet_count": 3387
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "二律背反的執行日期。",
+        "id": "1115809099482980353",
+        "location": "無",
+        "name": "「二律背反実行日」",
+        "pinned_tweet_id": "1941766553953038555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942373133937455104/uF2ltAUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 508,
+          "like_count": 18617,
+          "listed_count": 7,
+          "media_count": 273,
+          "tweet_count": 3689
+        },
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

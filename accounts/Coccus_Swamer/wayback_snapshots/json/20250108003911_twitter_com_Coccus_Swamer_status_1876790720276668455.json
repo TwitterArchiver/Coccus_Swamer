@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1876647765763338556",
+    "created_at": "2025-01-08T00:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T01:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876790720276668455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748717733569875968",
+          "start": 0,
+          "username": "GLaDOS8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876790720276668455",
+    "in_reply_to_user_id": "1748717733569875968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876647765763338556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GLaDOS8964 好一个天道酬勤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1876647765763338556",
+        "created_at": "2025-01-08T00:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T01:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876790720276668455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748717733569875968",
+              "start": 0,
+              "username": "GLaDOS8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876790720276668455",
+        "in_reply_to_user_id": "1748717733569875968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876647765763338556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GLaDOS8964 好一个天道酬勤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876647747912183808"
+          ]
+        },
+        "author_id": "1748717733569875968",
+        "conversation_id": "1876647765763338556",
+        "created_at": "2025-01-07T15:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876647765763338556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TvQ3fYYKxT",
+              "end": 23,
+              "expanded_url": "https://x.com/GLaDOS8964/status/1876647765763338556/photo/1",
+              "media_key": "3_1876647747912183808",
+              "start": 0,
+              "url": "https://t.co/TvQ3fYYKxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876647765763338556",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 639,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TvQ3fYYKxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 1468,
+          "like_count": 6790,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 2370
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T14:43:03.000Z",
+        "description": "_",
+        "id": "1748717733569875968",
+        "location": "@mo6ji4",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "1876647765763338556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867950029501071360/VYPnQ5Ls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 909,
+          "like_count": 30634,
+          "listed_count": 2,
+          "media_count": 702,
+          "tweet_count": 17452
+        },
+        "username": "GLaDOS8964",
+        "verified": false
+      }
+    ]
+  }
+}

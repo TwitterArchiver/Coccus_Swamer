@@ -1,0 +1,258 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1787405975357641085",
+    "created_at": "2024-05-06T14:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-06T15:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1787483566051676415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1669413308091498497",
+          "start": 0,
+          "username": "HiLSDcom"
+        },
+        {
+          "end": 25,
+          "id": "1529382104538050560",
+          "start": 10,
+          "username": "Choumodujiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1787483566051676415",
+    "in_reply_to_user_id": "1669413308091498497",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787405975357641085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiLSDcom @Choumodujiang_ 😭😭泪目了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1787405975357641085",
+        "created_at": "2024-05-06T14:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-06T15:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1787483566051676415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1669413308091498497",
+              "start": 0,
+              "username": "HiLSDcom"
+            },
+            {
+              "end": 25,
+              "id": "1529382104538050560",
+              "start": 10,
+              "username": "Choumodujiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787483566051676415",
+        "in_reply_to_user_id": "1669413308091498497",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787405975357641085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiLSDcom @Choumodujiang_ 😭😭泪目了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1669413308091498497",
+        "conversation_id": "1787405975357641085",
+        "created_at": "2024-05-06T08:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-06T09:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1787405975357641085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529382104538050560",
+              "start": 0,
+              "username": "Choumodujiang_"
+            },
+            {
+              "end": 31,
+              "id": "1552238688590958592",
+              "start": 17,
+              "username": "Coccus_Swamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hilsdcom/statu…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/hilsdcom/status/1786927285469352358",
+              "start": 73,
+              "url": "https://t.co/WL2aKMXSil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787405975357641085",
+        "in_reply_to_user_id": "1529382104538050560",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1786927285469352358",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Choumodujiang_ \n@Coccus_Swamer \n恭喜你们中奖，HiLSD请你吃麦当劳😉\n第一次抽奖，不是很专业，下次用程序抽😘 https://t.co/WL2aKMXSil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "早餐一種。",
+        "id": "1552238688590958592",
+        "name": "帝國粉色果醬配奶油麵包片",
+        "pinned_tweet_id": "1716744793404191029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725501871039909888/eBg1RNIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 485,
+          "like_count": 3101,
+          "listed_count": 0,
+          "tweet_count": 988
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T18:35:31.000Z",
+        "description": "https://t.co/qOxM8xNSdS的中文频道。不支持通过X私信。 HiLSD是基于荷兰的化学品供应商，向全球提供最高质量的合法研究化学品。Say Hi to LSD! 😉 Email: info@HiLSD.com Telegram: https://t.co/tmCHUVShIa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "HiLSD.com",
+                "end": 23,
+                "expanded_url": "http://HiLSD.com",
+                "start": 0,
+                "url": "https://t.co/qOxM8xNSdS"
+              },
+              {
+                "display_url": "t.me/HiLSD_com",
+                "end": 147,
+                "expanded_url": "http://t.me/HiLSD_com",
+                "start": 124,
+                "url": "https://t.co/tmCHUVShIa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "HiLSD.com",
+                "end": 23,
+                "expanded_url": "http://HiLSD.com",
+                "start": 0,
+                "url": "https://t.co/qOxM8xNSdS"
+              }
+            ]
+          }
+        },
+        "id": "1669413308091498497",
+        "location": "Amsterdam",
+        "name": "HiLSD.com 中文",
+        "pinned_tweet_id": "1786037467512201256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670333313163362304/4AyA3c5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 345,
+          "like_count": 153,
+          "listed_count": 3,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/qOxM8xNSdS",
+        "username": "HiLSDcom",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T08:41:36.000Z",
+        "description": "记得我的好，或者记住我就好",
+        "id": "1529382104538050560",
+        "location": "干你亲爹",
+        "name": "卢管卢到爆",
+        "pinned_tweet_id": "1758464496312750570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755984297188790273/-jriNp3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 476,
+          "like_count": 5371,
+          "listed_count": 1,
+          "tweet_count": 3543
+        },
+        "username": "Choumodujiang_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1824372470595412441",
+    "created_at": "2024-08-16T13:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T14:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824432041800466623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824432041800466623",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824372470595412441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki 可以拉莫三嗪+阿普唑仑+劳拉，带上思诺思看运气吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1824372470595412441",
+        "created_at": "2024-08-16T13:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T14:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824432041800466623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824432041800466623",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824372470595412441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki 可以拉莫三嗪+阿普唑仑+劳拉，带上思诺思看运气吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "1824372470595412441",
+        "created_at": "2024-08-16T09:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T10:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824372470595412441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824372470595412441",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已知本地神经内科可以点菜阿普唑仑\n主编想尝试同时点菜思诺思、安非他酮、拉莫三嗪\n但是这三个药似乎找不到任何联系呢\n思诺思：短效安眠\n安非他酮：戒烟/抗抑郁/ADHD二线\n拉莫三嗪：抗癫痫/抗神经痛（？）\n所以这样点菜真的可以吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n休学中\n激素治療中非二元性别\n血图/od/日常学习，互关慎重。",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1813715606069465466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813715743890157568/kJLcdlib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 745,
+          "like_count": 4179,
+          "listed_count": 0,
+          "tweet_count": 1333
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki/about/",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/about/",
+                "start": 0,
+                "url": "https://t.co/tnegj5Lbot"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "白云山右美沙芬制药厂",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1810253570194976859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806463087572393984/YX1f9713_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 400,
+          "like_count": 4593,
+          "listed_count": 0,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/tnegj5Lbot",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

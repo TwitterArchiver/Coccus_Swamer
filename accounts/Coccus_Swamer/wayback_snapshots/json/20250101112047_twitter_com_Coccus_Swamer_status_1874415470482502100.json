@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1874415447879319553"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1874415470482502100",
+    "created_at": "2025-01-01T11:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T12:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874415470482502100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A2rdLWK5K0",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1874415470482502100/video/1",
+          "media_key": "7_1874415447879319553",
+          "start": 0,
+          "url": "https://t.co/A2rdLWK5K0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874415470482502100",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/A2rdLWK5K0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19340,
+        "height": 854,
+        "media_key": "7_1874415447879319553",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1874415447879319553/pu/img/ejqzNHkQBbFmmIUh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874415447879319553/pu/vid/avc1/320x568/o2UEGQnra8z4ntkE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874415447879319553/pu/vid/avc1/480x854/L79jJ5qpMRYrxhzT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1874415447879319553/pu/pl/t_sqGczoN1j_7odZ.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1874415447879319553"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1874415470482502100",
+        "created_at": "2025-01-01T11:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T12:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874415470482502100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A2rdLWK5K0",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1874415470482502100/video/1",
+              "media_key": "7_1874415447879319553",
+              "start": 0,
+              "url": "https://t.co/A2rdLWK5K0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874415470482502100",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A2rdLWK5K0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/od/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 1420,
+          "like_count": 6644,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 2310
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

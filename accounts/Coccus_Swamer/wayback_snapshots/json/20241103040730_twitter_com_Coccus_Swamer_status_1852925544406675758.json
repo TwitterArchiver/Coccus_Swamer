@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1852925544406675758",
+    "created_at": "2024-11-03T04:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T05:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852925544406675758"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1852925544406675758",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哥你别回头 是我 我是弟弟 哥你为什么用那种眼神看着我 还骂我是bt 哥我们都是男孩子 互相帮助很正常呀 再说了我不就是对着你的照片鲁班吗 那有啥的 我当然知道你是我亲哥啊 可是哥哥生下来就是给弟弟当妻子的呀哥 哥你跟我嫂子离婚好不好 这样我就能和哥一辈子在一起了 哥你这一巴掌扇的我好爽啊 你再"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1852925544406675758",
+        "created_at": "2024-11-03T04:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T05:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852925544406675758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852925544406675758",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥你别回头 是我 我是弟弟 哥你为什么用那种眼神看着我 还骂我是bt 哥我们都是男孩子 互相帮助很正常呀 再说了我不就是对着你的照片鲁班吗 那有啥的 我当然知道你是我亲哥啊 可是哥哥生下来就是给弟弟当妻子的呀哥 哥你跟我嫂子离婚好不好 这样我就能和哥一辈子在一起了 哥你这一巴掌扇的我好爽啊 你再"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849769563073937699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849202179896381440/uFGet6-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 1089,
+          "like_count": 5457,
+          "listed_count": 0,
+          "tweet_count": 1868
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

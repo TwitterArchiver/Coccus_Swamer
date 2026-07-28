@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943417313782366208"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1943417317855236106",
+    "created_at": "2025-07-10T21:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T22:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943417317855236106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjmqW5rWqP",
+          "end": 169,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1943417317855236106/photo/1",
+          "media_key": "3_1943417313782366208",
+          "start": 146,
+          "url": "https://t.co/KjmqW5rWqP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943417317855236106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "热射病\n眼泪就这样夺眶而出了，\n像拥挤的地铁二号线 不懂得先下后上的电梯\n前赴后继地投入热的风暴\n蒸发，是泪的死亡。\n夸父走向河流的那一刻，也像我这样痛恨太阳吗？\n其实太阳和人群，是两份辐射，两份爱。\n你不语，就像被砌在墙里的风，\n解放\n是痛的热交换，是划过刀尖的血\n血球沿着山脊滚滚而下，\n我只能像条在湿润空气中溺死的鲨……在床上\n腮\n张 合\n张 合\n合 合\n合 合\n哈哈。\n凝固，是血的死亡。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "热射病\n眼泪就这样夺眶而出了，\n像拥挤的地铁二号线 不懂得先下后上的电梯\n前赴后继地投入热的风暴\n蒸发，是泪的死亡。\n夸父走向河流的那一刻，也像我这样痛恨太阳吗？\n其实太阳和人群，是两份辐射，两份爱。\n你不语，就像被砌在墙里的风，\n解放\n是痛的热交换，是划过刀尖的血\n血球沿着山脊滚滚而下， https://t.co/KjmqW5rWqP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1943417313782366208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvhnwA5XgAAwDrw.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943417313782366208"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1943417317855236106",
+        "created_at": "2025-07-10T21:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T22:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943417317855236106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjmqW5rWqP",
+              "end": 169,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1943417317855236106/photo/1",
+              "media_key": "3_1943417313782366208",
+              "start": 146,
+              "url": "https://t.co/KjmqW5rWqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943417317855236106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "热射病\n眼泪就这样夺眶而出了，\n像拥挤的地铁二号线 不懂得先下后上的电梯\n前赴后继地投入热的风暴\n蒸发，是泪的死亡。\n夸父走向河流的那一刻，也像我这样痛恨太阳吗？\n其实太阳和人群，是两份辐射，两份爱。\n你不语，就像被砌在墙里的风，\n解放\n是痛的热交换，是划过刀尖的血\n血球沿着山脊滚滚而下，\n我只能像条在湿润空气中溺死的鲨……在床上\n腮\n张 合\n张 合\n合 合\n合 合\n哈哈。\n凝固，是血的死亡。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热射病\n眼泪就这样夺眶而出了，\n像拥挤的地铁二号线 不懂得先下后上的电梯\n前赴后继地投入热的风暴\n蒸发，是泪的死亡。\n夸父走向河流的那一刻，也像我这样痛恨太阳吗？\n其实太阳和人群，是两份辐射，两份爱。\n你不语，就像被砌在墙里的风，\n解放\n是痛的热交换，是划过刀尖的血\n血球沿着山脊滚滚而下， https://t.co/KjmqW5rWqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 2309,
+          "like_count": 9863,
+          "listed_count": 0,
+          "media_count": 597,
+          "tweet_count": 3391
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

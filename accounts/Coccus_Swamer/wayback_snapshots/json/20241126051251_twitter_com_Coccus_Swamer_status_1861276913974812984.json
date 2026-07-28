@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1861276820722900992",
+        "3_1861276822547374081"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1861276913974812984",
+    "created_at": "2024-11-26T05:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T06:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861276913974812984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1598639824118124544",
+          "start": 0,
+          "username": "ShiroiTree_idol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kTHy84ajQR",
+          "end": 40,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1861276913974812984/video/1",
+          "media_key": "7_1861276820722900992",
+          "start": 17,
+          "url": "https://t.co/kTHy84ajQR"
+        },
+        {
+          "display_url": "pic.x.com/kTHy84ajQR",
+          "end": 40,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1861276913974812984/video/1",
+          "media_key": "3_1861276822547374081",
+          "start": 17,
+          "url": "https://t.co/kTHy84ajQR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861276913974812984",
+    "in_reply_to_user_id": "1598639824118124544",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@ShiroiTree_idol https://t.co/kTHy84ajQR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1861276913974812984].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1861276913974812984",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1861276913974812984"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139944,
+        "height": 720,
+        "media_key": "7_1861276820722900992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1861276820722900992/pu/img/fxHxMn96BpGbxwnx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861276820722900992/pu/vid/avc1/480x270/AOqubqaE4nm1rqdu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861276820722900992/pu/vid/avc1/640x360/Ff_C2I_ERS03zEXQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861276820722900992/pu/vid/avc1/1280x720/_fElrxRqYKr3ZIQC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1861276820722900992/pu/pl/sx6_ElXSxC3wZP2h.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1861276822547374081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdSVaJyaoAEgIwY.jpg",
+        "width": 1537
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是焦糖蘋果貓貓！\n\nu･ω･u\n\n激素治療中非二元跨性别MTX\n多血图/od/日常学习/互关慎重\n日本語/Deutsch/Suomalainen/English",
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片",
+        "pinned_tweet_id": "1849107417721958731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853034954202218496/UE05m4mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1235,
+          "like_count": 6026,
+          "listed_count": 0,
+          "tweet_count": 2046
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T11:27:10.000Z",
+        "description": "似乎是复活了。垃圾桶：@ShiroiTree 会发各种R18G内容，没有裸照，不用看了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "ShiroiTree"
+              }
+            ]
+          }
+        },
+        "id": "1598639824118124544",
+        "location": "世界树",
+        "name": "阿乌拉的🐶",
+        "pinned_tweet_id": "1835995375142154616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772226181120819200/3--rSoW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 581,
+          "like_count": 18018,
+          "listed_count": 5,
+          "tweet_count": 8851
+        },
+        "username": "ShiroiTree_idol",
+        "verified": false
+      }
+    ]
+  }
+}

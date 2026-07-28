@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868939014377816066"
+      ],
+      "media_source_tweet_id": [
+        "1868939017028509865"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1868948601180959183",
+    "created_at": "2024-12-17T09:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T10:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868948601180959183"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "彩虹糖"
+        },
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "mtf"
+        },
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "跨性別"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "hrt"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "凝膠"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808535836247609347",
+          "start": 3,
+          "username": "KMT198964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cCRyTQOrkk",
+          "end": 121,
+          "expanded_url": "https://x.com/KMT198964/status/1868939017028509865/photo/1",
+          "media_key": "3_1868939014377816066",
+          "start": 98,
+          "url": "https://t.co/cCRyTQOrkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868948601180959183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868939017028509865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KMT198964: 經過協商現在凝膠價格為50/支 包郵（100mg含有含215mg雌二醇）\n批發15支起售每45/支\n所有均為三倍濃度\n#彩虹糖 #mtf #跨性別 #hrt #凝膠 https://t.co/cCRyTQOrkk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1868948601180959183].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1868948601180959183",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868948601180959183"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868939014377816066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge_OIarbwAInZNU.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868939014377816066"
+          ]
+        },
+        "author_id": "1808535836247609347",
+        "conversation_id": "1868939017028509865",
+        "created_at": "2024-12-17T08:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T09:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868939017028509865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "彩虹糖"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "mtf"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "跨性別"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "hrt"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "凝膠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCRyTQOrkk",
+              "end": 106,
+              "expanded_url": "https://x.com/KMT198964/status/1868939017028509865/photo/1",
+              "media_key": "3_1868939014377816066",
+              "start": 83,
+              "url": "https://t.co/cCRyTQOrkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868939017028509865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "經過協商現在凝膠價格為50/支 包郵（100mg含有含215mg雌二醇）\n批發15支起售每45/支\n所有均為三倍濃度\n#彩虹糖 #mtf #跨性別 #hrt #凝膠 https://t.co/cCRyTQOrkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重（低价精神药品购买私聊",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1862086258614546580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 1346,
+          "like_count": 6427,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 2211
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T16:18:45.000Z",
+        "description": "炸柜 健全逼，Now i am living in Chong'Qing welcome to meeting  but i am a longtime  live in HongKong！ Chinese/English /Japanese/ MTF/民國派🇹🇼/重度抑鬱 精神分裂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MiSaKaMiKoTo89…",
+                "end": 23,
+                "expanded_url": "http://t.me/MiSaKaMiKoTo8964",
+                "start": 0,
+                "url": "https://t.co/z1PTBbfj5q"
+              }
+            ]
+          }
+        },
+        "id": "1808535836247609347",
+        "location": "Tainan City, Taiwan",
+        "name": "御坂美琴🍥（售賣凝膠）",
+        "pinned_tweet_id": "1868896065531072991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813777446837358592/Za4SEy3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 682,
+          "like_count": 3104,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/z1PTBbfj5q",
+        "username": "KMT198964",
+        "verified": false
+      }
+    ]
+  }
+}

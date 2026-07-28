@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889907812874199043"
+      ],
+      "media_source_tweet_id": [
+        "1889907832021196921"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1890453913138016319",
+    "created_at": "2025-02-14T17:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T18:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890453913138016319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880521330904428548",
+          "start": 3,
+          "username": "bw_y92"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ADyc6UOuwq",
+          "end": 41,
+          "expanded_url": "https://x.com/bw_y92/status/1889907832021196921/photo/1",
+          "media_key": "3_1889907812874199043",
+          "start": 18,
+          "url": "https://t.co/ADyc6UOuwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890453913138016319",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889907832021196921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bw_y92: 死ぬ3秒前 https://t.co/ADyc6UOuwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889907812874199043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjpNJISaIAMsABP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889907812874199043"
+          ],
+          "media_source_tweet_id": [
+            "1889907832021196921"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1890453913138016319",
+        "created_at": "2025-02-14T17:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T18:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890453913138016319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880521330904428548",
+              "start": 3,
+              "username": "bw_y92"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADyc6UOuwq",
+              "end": 41,
+              "expanded_url": "https://x.com/bw_y92/status/1889907832021196921/photo/1",
+              "media_key": "3_1889907812874199043",
+              "start": 18,
+              "url": "https://t.co/ADyc6UOuwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890453913138016319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889907832021196921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bw_y92: 死ぬ3秒前 https://t.co/ADyc6UOuwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889907812874199043"
+          ]
+        },
+        "author_id": "1880521330904428548",
+        "conversation_id": "1889907832021196921",
+        "created_at": "2025-02-13T05:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T06:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889907832021196921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADyc6UOuwq",
+              "end": 29,
+              "expanded_url": "https://x.com/bw_y92/status/1889907832021196921/photo/1",
+              "media_key": "3_1889907812874199043",
+              "start": 6,
+              "url": "https://t.co/ADyc6UOuwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889907832021196921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 236525,
+          "like_count": 4819,
+          "quote_count": 25,
+          "reply_count": 17,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "死ぬ3秒前 https://t.co/ADyc6UOuwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1887214692319568005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 1727,
+          "like_count": 7776,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 2769
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T07:43:52.000Z",
+        "description": "@z_vs9c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "z_vs9c"
+              }
+            ]
+          }
+        },
+        "id": "1880521330904428548",
+        "location": "みたんちわわ",
+        "name": "処女厨Lv13",
+        "pinned_tweet_id": "1887901028177281296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880941207100239872/AX2hV3bY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 53,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 308
+        },
+        "username": "bw_y92",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1930873641585221817",
+    "created_at": "2025-06-06T06:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T07:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930873641585221817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1930873641585221817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我不哭了。我的腦海裡有無數件哭和不哭的原因，它們像循環的蠕蟲，產卵，死亡，爬行，移動，在小的死的循環活到大的死的循環，我約摸十二年沒有見過盤狀的鐘錶，但只是看一眼，來來回回的連續，長的快的短的慢的軸就會開始如倉鼠輪一樣跑動，我就在裡面，蠕動，產卵，死亡，連接，腐爛，進食，排洩，洗澡，讀書，理髮，和十二年前沒有一點點區別，只是因為有一天我期盼下雨的時候，天晴了十二天。\n我不哭了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不哭了。我的腦海裡有無數件哭和不哭的原因，它們像循環的蠕蟲，產卵，死亡，爬行，移動，在小的死的循環活到大的死的循環，我約摸十二年沒有見過盤狀的鐘錶，但只是看一眼，來來回回的連續，長的快的短的慢的軸就會開始如倉鼠輪一樣跑動，我就在裡面，蠕動，產卵，死亡，連接，腐爛，進食，排洩，洗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1930873641585221817",
+        "created_at": "2025-06-06T06:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T07:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930873641585221817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930873641585221817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我不哭了。我的腦海裡有無數件哭和不哭的原因，它們像循環的蠕蟲，產卵，死亡，爬行，移動，在小的死的循環活到大的死的循環，我約摸十二年沒有見過盤狀的鐘錶，但只是看一眼，來來回回的連續，長的快的短的慢的軸就會開始如倉鼠輪一樣跑動，我就在裡面，蠕動，產卵，死亡，連接，腐爛，進食，排洩，洗澡，讀書，理髮，和十二年前沒有一點點區別，只是因為有一天我期盼下雨的時候，天晴了十二天。\n我不哭了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不哭了。我的腦海裡有無數件哭和不哭的原因，它們像循環的蠕蟲，產卵，死亡，爬行，移動，在小的死的循環活到大的死的循環，我約摸十二年沒有見過盤狀的鐘錶，但只是看一眼，來來回回的連續，長的快的短的慢的軸就會開始如倉鼠輪一樣跑動，我就在裡面，蠕動，產卵，死亡，連接，腐爛，進食，排洩，洗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1922021478058295402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 2266,
+          "like_count": 9520,
+          "listed_count": 0,
+          "media_count": 573,
+          "tweet_count": 3322
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

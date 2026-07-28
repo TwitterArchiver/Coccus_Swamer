@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1907776942432202868",
+    "created_at": "2025-04-03T13:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T14:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907790188769874236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1812463896378408960",
+          "start": 0,
+          "username": "81986w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907790188769874236",
+    "in_reply_to_user_id": "1812463896378408960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907787066915840021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@81986w 菲利普汞灯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1907776942432202868",
+        "created_at": "2025-04-03T13:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T14:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907790188769874236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1812463896378408960",
+              "start": 0,
+              "username": "81986w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907790188769874236",
+        "in_reply_to_user_id": "1812463896378408960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907787066915840021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@81986w 菲利普汞灯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812463896378408960",
+        "conversation_id": "1907776942432202868",
+        "created_at": "2025-04-03T13:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T14:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907787066915840021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907787066915840021",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907776942432202868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 这是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 2115,
+          "like_count": 8708,
+          "listed_count": 0,
+          "media_count": 524,
+          "tweet_count": 3152
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T12:27:35.000Z",
+        "description": "云缅大壳 吃了还想吃\n美墨大冰 吸了还想吸",
+        "id": "1812463896378408960",
+        "name": "美墨云缅破解刘博士 云缅大壳：纯度 100%",
+        "pinned_tweet_id": "1899682574961901584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899285603188871168/HcqvOD51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 121,
+          "like_count": 1372,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 1834
+        },
+        "username": "81986w",
+        "verified": false
+      }
+    ]
+  }
+}

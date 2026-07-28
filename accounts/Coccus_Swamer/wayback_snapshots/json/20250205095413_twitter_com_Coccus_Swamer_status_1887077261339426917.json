@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1886404474379653120"
+      ],
+      "media_source_tweet_id": [
+        "1886404565098234191"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1887077261339426917",
+    "created_at": "2025-02-05T09:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T10:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887077261339426917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408028409599467521",
+          "start": 3,
+          "username": "AngelSuicide999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kSAira0ROe",
+          "end": 50,
+          "expanded_url": "https://x.com/AngelSuicide999/status/1886404565098234191/video/1",
+          "media_key": "7_1886404474379653120",
+          "start": 27,
+          "url": "https://t.co/kSAira0ROe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887077261339426917",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886404565098234191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSuicide999: happy https://t.co/kSAira0ROe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10054,
+        "height": 1080,
+        "media_key": "7_1886404474379653120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1886404474379653120/pu/img/cGfLpwV-1cPcHGkT.jpg",
+        "public_metrics": {
+          "view_count": 4160
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1886404474379653120/pu/vid/avc1/320x320/XBNf_FI3m8nTdf6i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1886404474379653120/pu/vid/avc1/540x540/weu60_7Wbmp2_eOv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1886404474379653120/pu/vid/avc1/720x720/VyETHIhZByjYeHiN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1886404474379653120/pu/pl/4KoWWmkAV3TR6LoC.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1886404474379653120"
+          ],
+          "media_source_tweet_id": [
+            "1886404565098234191"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1887077261339426917",
+        "created_at": "2025-02-05T09:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T10:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887077261339426917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408028409599467521",
+              "start": 3,
+              "username": "AngelSuicide999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSAira0ROe",
+              "end": 50,
+              "expanded_url": "https://x.com/AngelSuicide999/status/1886404565098234191/video/1",
+              "media_key": "7_1886404474379653120",
+              "start": 27,
+              "url": "https://t.co/kSAira0ROe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887077261339426917",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886404565098234191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelSuicide999: happy https://t.co/kSAira0ROe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1886404474379653120"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "1886404565098234191",
+        "created_at": "2025-02-03T13:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T14:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886404565098234191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSAira0ROe",
+              "end": 29,
+              "expanded_url": "https://x.com/AngelSuicide999/status/1886404565098234191/video/1",
+              "media_key": "7_1886404474379653120",
+              "start": 6,
+              "url": "https://t.co/kSAira0ROe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886404565098234191",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 11424,
+          "like_count": 1173,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "happy https://t.co/kSAira0ROe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1885764777039048935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 1671,
+          "like_count": 7646,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 2733
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "",
+        "id": "1408028409599467521",
+        "name": "Suicide",
+        "pinned_tweet_id": "1838825322214756752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823539824881754113/Qk8grnX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14902,
+          "following_count": 1,
+          "like_count": 85762,
+          "listed_count": 85,
+          "media_count": 559,
+          "tweet_count": 2911
+        },
+        "username": "AngelSuicide999",
+        "verified": false
+      }
+    ]
+  }
+}

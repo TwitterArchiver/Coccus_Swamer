@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888221284896845824",
+        "3_1888221256266424320"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1888221290156503454",
+    "created_at": "2025-02-08T13:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T14:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888221290156503454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zb9SY6K2Mf",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1888221290156503454/photo/1",
+          "media_key": "3_1888221284896845824",
+          "start": 0,
+          "url": "https://t.co/zb9SY6K2Mf"
+        },
+        {
+          "display_url": "pic.x.com/zb9SY6K2Mf",
+          "end": 23,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1888221290156503454/photo/1",
+          "media_key": "3_1888221256266424320",
+          "start": 0,
+          "url": "https://t.co/zb9SY6K2Mf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888221290156503454",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/zb9SY6K2Mf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1888221284896845824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjRPQR-bsAAFdQK.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1074,
+        "media_key": "3_1888221256266424320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjRPOnUaIAALB3X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888221284896845824",
+            "3_1888221256266424320"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1888221290156503454",
+        "created_at": "2025-02-08T13:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T14:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888221290156503454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zb9SY6K2Mf",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1888221290156503454/photo/1",
+              "media_key": "3_1888221284896845824",
+              "start": 0,
+              "url": "https://t.co/zb9SY6K2Mf"
+            },
+            {
+              "display_url": "pic.x.com/zb9SY6K2Mf",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1888221290156503454/photo/1",
+              "media_key": "3_1888221256266424320",
+              "start": 0,
+              "url": "https://t.co/zb9SY6K2Mf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888221290156503454",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zb9SY6K2Mf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1887284246475383078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 1693,
+          "like_count": 7694,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 2747
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "1905967064940212402",
+    "created_at": "2025-03-29T12:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T13:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905967064940212402"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905967064940212402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "乙醇脱氢酶的底物有很多，不止是乙醇，还有视黄醇，甲醇，异丙醇，乙二醇和二甘醇，但对乙醇的Km值最小，因此在同等条件下乙醇脱氢酶优先与乙醇结合产生乙醛。\n\n甲醇，乙二醇和二甘醇本身是无毒的，但一旦与肝细胞中的乙醛脱氢酶结合，甲醇脱氢为甲醛，乙二醇脱氢为乙醇醛，二甘醇脱氢为2-羟基乙氧基乙醛则是个顶个的剧毒。\n\n所以有一种摄入少量甲醛，乙二醇和二甘醇的解毒方法是及时饮用少量优质白酒，使它们有足够的时间从肾脏排出体外。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乙醇脱氢酶的底物有很多，不止是乙醇，还有视黄醇，甲醇，异丙醇，乙二醇和二甘醇，但对乙醇的Km值最小，因此在同等条件下乙醇脱氢酶优先与乙醇结合产生乙醛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "1905967064940212402",
+        "created_at": "2025-03-29T12:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T13:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905967064940212402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905967064940212402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "乙醇脱氢酶的底物有很多，不止是乙醇，还有视黄醇，甲醇，异丙醇，乙二醇和二甘醇，但对乙醇的Km值最小，因此在同等条件下乙醇脱氢酶优先与乙醇结合产生乙醛。\n\n甲醇，乙二醇和二甘醇本身是无毒的，但一旦与肝细胞中的乙醛脱氢酶结合，甲醇脱氢为甲醛，乙二醇脱氢为乙醇醛，二甘醇脱氢为2-羟基乙氧基乙醛则是个顶个的剧毒。\n\n所以有一种摄入少量甲醛，乙二醇和二甘醇的解毒方法是及时饮用少量优质白酒，使它们有足够的时间从肾脏排出体外。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乙醇脱氢酶的底物有很多，不止是乙醇，还有视黄醇，甲醇，异丙醇，乙二醇和二甘醇，但对乙醇的Km值最小，因此在同等条件下乙醇脱氢酶优先与乙醇结合产生乙醛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 2081,
+          "like_count": 8594,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 3097
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

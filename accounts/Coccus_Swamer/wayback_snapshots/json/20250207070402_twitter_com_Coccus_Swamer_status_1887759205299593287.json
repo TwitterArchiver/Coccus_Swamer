@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887578653627965440"
+      ],
+      "media_source_tweet_id": [
+        "1887578948042908069"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "1887759205299593287",
+    "created_at": "2025-02-07T07:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T08:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887759205299593287"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Konata",
+          "probability": 0.492,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1752100407524884480",
+          "start": 3,
+          "username": "Kagana_Helsuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6QfREjZvEs",
+          "end": 68,
+          "expanded_url": "https://x.com/Kagana_Helsuki/status/1887578948042908069/photo/1",
+          "media_key": "3_1887578653627965440",
+          "start": 45,
+          "url": "https://t.co/6QfREjZvEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887759205299593287",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 486
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887578948042908069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kagana_Helsuki: Konata's best cuts &lt;3 https://t.co/6QfREjZvEs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1887578653627965440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjIGyN8a4AAJLdK.jpg",
+        "width": 3608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887578653627965440"
+          ],
+          "media_source_tweet_id": [
+            "1887578948042908069"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1887759205299593287",
+        "created_at": "2025-02-07T07:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T08:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887759205299593287"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Konata",
+              "probability": 0.492,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1752100407524884480",
+              "start": 3,
+              "username": "Kagana_Helsuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6QfREjZvEs",
+              "end": 68,
+              "expanded_url": "https://x.com/Kagana_Helsuki/status/1887578948042908069/photo/1",
+              "media_key": "3_1887578653627965440",
+              "start": 45,
+              "url": "https://t.co/6QfREjZvEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887759205299593287",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 486
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887578948042908069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kagana_Helsuki: Konata's best cuts &lt;3 https://t.co/6QfREjZvEs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887578653627965440"
+          ]
+        },
+        "author_id": "1752100407524884480",
+        "conversation_id": "1887578948042908069",
+        "created_at": "2025-02-06T19:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T20:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887578948042908069"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Konata",
+              "probability": 0.4984,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6QfREjZvEs",
+              "end": 48,
+              "expanded_url": "https://x.com/Kagana_Helsuki/status/1887578948042908069/photo/1",
+              "media_key": "3_1887578653627965440",
+              "start": 25,
+              "url": "https://t.co/6QfREjZvEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887578948042908069",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 776,
+          "impression_count": 52294,
+          "like_count": 4442,
+          "quote_count": 14,
+          "reply_count": 37,
+          "retweet_count": 486
+        },
+        "reply_settings": "everyone",
+        "text": "Konata's best cuts &lt;3 https://t.co/6QfREjZvEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1887284246475383078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 1681,
+          "like_count": 7678,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 2747
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-29T22:44:31.000Z",
+        "description": "internet artist\n\nMy anime list https://t.co/wfdOjw4s8V\n\nMy favorite anime is Kill la kill",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "myanimelist.net/animelist/Kaga…",
+                "end": 54,
+                "expanded_url": "https://myanimelist.net/animelist/KaganaSUKI",
+                "start": 31,
+                "url": "https://t.co/wfdOjw4s8V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/shorts/1Lm0J4C…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/shorts/1Lm0J4CW1UI",
+                "start": 0,
+                "url": "https://t.co/pQccz6nUNG"
+              }
+            ]
+          }
+        },
+        "id": "1752100407524884480",
+        "location": "kindergarten",
+        "name": "kagana",
+        "pinned_tweet_id": "1776984308051591198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803378551653277697/LnkKEgWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8713,
+          "following_count": 70,
+          "like_count": 1178,
+          "listed_count": 29,
+          "media_count": 34,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/pQccz6nUNG",
+        "username": "Kagana_Helsuki",
+        "verified": false
+      }
+    ]
+  }
+}

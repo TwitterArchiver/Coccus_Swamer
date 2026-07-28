@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2064007186557305225",
+    "created_at": "2026-06-08T15:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064007186557305225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1914771936351031296",
+          "start": 3,
+          "username": "lines4vanny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064007186557305225",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063854896164516108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lines4vanny: Ps me voy a matar así q equis, face reveal, mutis, les deseo que salgan de esta mierda de adicción, no acaben como yo, Bai…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34264,
+        "height": 720,
+        "media_key": "7_2063854778115858434",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063854778115858434/pu/img/0ij-JSQ4Wk06B4e0.jpg",
+        "public_metrics": {
+          "view_count": 306145
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063854778115858434/pu/vid/avc1/480x270/xbhlGRkYyVkOkmTl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063854778115858434/pu/vid/avc1/640x360/hAeTAPNm3mV00rCi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063854778115858434/pu/vid/avc1/1280x720/9nn_tVU4tIQJTjFd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063854778115858434/pu/pl/ZhbsKC09p9C0Yl1u.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2064007186557305225",
+        "created_at": "2026-06-08T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064007186557305225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1914771936351031296",
+              "start": 3,
+              "username": "lines4vanny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064007186557305225",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063854896164516108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lines4vanny: Ps me voy a matar así q equis, face reveal, mutis, les deseo que salgan de esta mierda de adicción, no acaben como yo, Bai…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063854778115858434"
+          ]
+        },
+        "author_id": "1914771936351031296",
+        "conversation_id": "2063854896164516108",
+        "created_at": "2026-06-08T05:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063854896164516108"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 136,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 154,
+              "start": 145,
+              "tag": "drugstwt"
+            },
+            {
+              "end": 162,
+              "start": 155,
+              "tag": "subtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDWjkfcdNY",
+              "end": 186,
+              "expanded_url": "https://x.com/lines4vanny/status/2063854896164516108/video/1",
+              "media_key": "7_2063854778115858434",
+              "start": 163,
+              "url": "https://t.co/yDWjkfcdNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063854896164516108",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 889,
+          "impression_count": 545749,
+          "like_count": 2759,
+          "quote_count": 31,
+          "reply_count": 203,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "Ps me voy a matar así q equis, face reveal, mutis, les deseo que salgan de esta mierda de adicción, no acaben como yo, Bai, los tqm. 😿💕\n#drugtwt #drugstwt #subtwt https://t.co/yDWjkfcdNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/od/ADHD-rsd/植物医学专业/诗歌/日本語_Deutsch/互关慎重",
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1943417317855236106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 2489,
+          "like_count": 9742,
+          "listed_count": 0,
+          "media_count": 666,
+          "tweet_count": 3584
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T20:03:22.000Z",
+        "description": "𝙳𝚘 𝚘𝚗𝚎 𝚖𝚘𝚛𝚎 𝚕𝚒𝚗𝚎, 𝚍𝚘𝚗'𝚝 𝚏𝚊𝚕𝚕 𝚊𝚜𝚕𝚎𝚎𝚙... #drugtwt #shtwt #edtwt #subtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "shtwt"
+              },
+              {
+                "end": 61,
+                "start": 55,
+                "tag": "edtwt"
+              },
+              {
+                "end": 69,
+                "start": 62,
+                "tag": "subtwt"
+              }
+            ]
+          }
+        },
+        "id": "1914771936351031296",
+        "name": "𝑽𝒂𝒏𝒏𝒚 🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063692810386128896/x3NDRO7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 60,
+          "like_count": 1596,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 312
+        },
+        "username": "lines4vanny",
+        "verified": false
+      }
+    ]
+  }
+}
