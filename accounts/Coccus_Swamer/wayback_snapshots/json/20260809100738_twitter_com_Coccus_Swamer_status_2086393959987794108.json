@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2086393959987794108",
+    "created_at": "2026-08-09T10:07:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T11:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086393959987794108"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086393959987794108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我没办法忍受啊…弟弟、即将从我眼前消失…被你厌倦，被你舍弃，我已经无法再吸引你的注意力了…抛弃我之后，你照样能过从前那样一般无二的日子…可是、要我、和以前一样…我办不到…我听说了，弟弟被上面的人，被招揽…你会抛下我，抛下其他人，独自离去…很快，你就会彻底忘了我吧…然后，日后你肯定还会抱除我以外的其他人，每当想到这个，我就痛苦的难以忍受…与其、受此煎熬，倒不如干脆把你…"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我没办法忍受啊…弟弟、即将从我眼前消失…被你厌倦，被你舍弃，我已经无法再吸引你的注意力了…抛弃我之后，你照样能过从前那样一般无二的日子…可是、要我、和以前一样…我办不到…我听说了，弟弟被上面的人，被招揽…你会抛下我，抛下其他人，独自离去…很快，你就会彻底忘了我吧…然后，日后你肯定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2086393959987794108",
+        "created_at": "2026-08-09T10:07:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086393959987794108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086393959987794108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我没办法忍受啊…弟弟、即将从我眼前消失…被你厌倦，被你舍弃，我已经无法再吸引你的注意力了…抛弃我之后，你照样能过从前那样一般无二的日子…可是、要我、和以前一样…我办不到…我听说了，弟弟被上面的人，被招揽…你会抛下我，抛下其他人，独自离去…很快，你就会彻底忘了我吧…然后，日后你肯定还会抱除我以外的其他人，每当想到这个，我就痛苦的难以忍受…与其、受此煎熬，倒不如干脆把你…"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没办法忍受啊…弟弟、即将从我眼前消失…被你厌倦，被你舍弃，我已经无法再吸引你的注意力了…抛弃我之后，你照样能过从前那样一般无二的日子…可是、要我、和以前一样…我办不到…我听说了，弟弟被上面的人，被招揽…你会抛下我，抛下其他人，独自离去…很快，你就会彻底忘了我吧…然后，日后你肯定"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2086393959987794108",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 2728,
+          "like_count": 10109,
+          "listed_count": 0,
+          "media_count": 708,
+          "tweet_count": 3736
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

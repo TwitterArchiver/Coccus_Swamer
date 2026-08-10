@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083073513330479104"
+      ],
+      "media_source_tweet_id": [
+        "2083073590031749260"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083155733051564088",
+    "created_at": "2026-07-31T11:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083155733051564088"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "sfx"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "sh"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "ed"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2074934018760392704",
+          "start": 3,
+          "username": "LolshedwLol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/20yb7M3WJe",
+          "end": 100,
+          "expanded_url": "https://x.com/LolshedwLol/status/2083073590031749260/video/1",
+          "media_key": "13_2083073513330479104",
+          "start": 77,
+          "url": "https://t.co/20yb7M3WJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083155733051564088",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083073590031749260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LolshedwLol: Oh\n!⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP⚠️!\n#sfx #sh #ed https://t.co/20yb7M3WJe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72466,
+        "height": 848,
+        "media_key": "13_2083073513330479104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083073513330479104/img/gFNAlnhsj9uQkCD5.jpg",
+        "public_metrics": {
+          "view_count": 5864
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083073513330479104/vid/avc1/320x706/sVij0mb0349-YkpI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083073513330479104/vid/avc1/384x848/dSycFkaTspykRlLE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083073513330479104/pl/DvZOl9YVsF-DrPAK.m3u8"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083073513330479104"
+          ]
+        },
+        "author_id": "2074934018760392704",
+        "conversation_id": "2083073590031749260",
+        "created_at": "2026-07-31T06:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083073590031749260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "sfx"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "sh"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "ed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/20yb7M3WJe",
+              "end": 83,
+              "expanded_url": "https://x.com/LolshedwLol/status/2083073590031749260/video/1",
+              "media_key": "13_2083073513330479104",
+              "start": 60,
+              "url": "https://t.co/20yb7M3WJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083073590031749260",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 5097,
+          "like_count": 432,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "Oh\n!⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP⚠️!\n#sfx #sh #ed https://t.co/20yb7M3WJe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083073513330479104"
+          ],
+          "media_source_tweet_id": [
+            "2083073590031749260"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083155733051564088",
+        "created_at": "2026-07-31T11:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083155733051564088"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "sfx"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "sh"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "ed"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2074934018760392704",
+              "start": 3,
+              "username": "LolshedwLol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/20yb7M3WJe",
+              "end": 100,
+              "expanded_url": "https://x.com/LolshedwLol/status/2083073590031749260/video/1",
+              "media_key": "13_2083073513330479104",
+              "start": 77,
+              "url": "https://t.co/20yb7M3WJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083155733051564088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083073590031749260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LolshedwLol: Oh\n!⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP⚠️!\n#sfx #sh #ed https://t.co/20yb7M3WJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 2711,
+          "like_count": 10076,
+          "listed_count": 0,
+          "media_count": 706,
+          "tweet_count": 3728
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-08T19:10:35.000Z",
+        "description": "TikTok: Jaimesk42",
+        "id": "2074934018760392704",
+        "name": "lol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082867201539747843/tT_bQevH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 12,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "LolshedwLol",
+        "verified": false
+      }
+    ]
+  }
+}
