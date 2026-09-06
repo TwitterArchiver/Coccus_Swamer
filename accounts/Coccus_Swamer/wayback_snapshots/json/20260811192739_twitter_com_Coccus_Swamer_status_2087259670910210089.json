@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2087259670910210089",
+    "created_at": "2026-08-11T19:27:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087259670910210089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808604308163940352",
+          "start": 3,
+          "username": "cici20120712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087259670910210089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087054164811825263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cici20120712: 想象一下，我是你的废物二次元女朋友，一三五出门打舞萌，二四六在家玩galgame，周日在家里面睡一整天觉，心情好就打fps游戏打到自己心情不好，心情不好就榨你发泄心情，要你帮忙吹头发洗内衣，还强迫你叫妈妈喝奶，在街上看到美少女的奶子和腿还会哦…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2087054161833779200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPa0s9caYAAU8db.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2087259670910210089",
+        "created_at": "2026-08-11T19:27:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087259670910210089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808604308163940352",
+              "start": 3,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087259670910210089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087054164811825263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cici20120712: 想象一下，我是你的废物二次元女朋友，一三五出门打舞萌，二四六在家玩galgame，周日在家里面睡一整天觉，心情好就打fps游戏打到自己心情不好，心情不好就榨你发泄心情，要你帮忙吹头发洗内衣，还强迫你叫妈妈喝奶，在街上看到美少女的奶子和腿还会哦…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087054161833779200"
+          ]
+        },
+        "author_id": "1808604308163940352",
+        "conversation_id": "2087054164811825263",
+        "created_at": "2026-08-11T05:51:03.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087054164811825263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLlJqlW7Dp",
+              "end": 165,
+              "expanded_url": "https://x.com/cici20120712/status/2087054164811825263/photo/1",
+              "media_key": "3_2087054161833779200",
+              "start": 142,
+              "url": "https://t.co/dLlJqlW7Dp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087054164811825263",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087054161833779200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 41133,
+          "like_count": 1784,
+          "quote_count": 1,
+          "reply_count": 237,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下，我是你的废物二次元女朋友，一三五出门打舞萌，二四六在家玩galgame，周日在家里面睡一整天觉，心情好就打fps游戏打到自己心情不好，心情不好就榨你发泄心情，要你帮忙吹头发洗内衣，还强迫你叫妈妈喝奶，在街上看到美少女的奶子和腿还会哦哦哦的肘你让你看，没事干就用萝莉音辱骂你 https://t.co/dLlJqlW7Dp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2087259670910210089",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 2734,
+          "like_count": 10149,
+          "listed_count": 0,
+          "media_count": 710,
+          "tweet_count": 3753
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087054164811825263",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2064496772102373752",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808604308163940352/1722854184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72584,
+          "following_count": 116,
+          "like_count": 1141,
+          "listed_count": 193,
+          "media_count": 824,
+          "tweet_count": 1522
+        },
+        "url": "",
+        "username": "cici20120712",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

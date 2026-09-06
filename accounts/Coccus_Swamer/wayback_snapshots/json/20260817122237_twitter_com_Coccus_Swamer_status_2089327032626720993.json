@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089316776547098624",
+        "3_2089322786271752192",
+        "3_2089322796728057856",
+        "3_2089327022262910976"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089327032626720993",
+    "created_at": "2026-08-17T12:22:37.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089327032626720993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mo0vlKNWe6",
+          "end": 165,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2089327032626720993/photo/1",
+          "media_key": "3_2089316776547098624",
+          "start": 142,
+          "url": "https://t.co/Mo0vlKNWe6"
+        },
+        {
+          "display_url": "pic.x.com/Mo0vlKNWe6",
+          "end": 165,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2089327032626720993/photo/1",
+          "media_key": "3_2089322786271752192",
+          "start": 142,
+          "url": "https://t.co/Mo0vlKNWe6"
+        },
+        {
+          "display_url": "pic.x.com/Mo0vlKNWe6",
+          "end": 165,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2089327032626720993/photo/1",
+          "media_key": "3_2089322796728057856",
+          "start": 142,
+          "url": "https://t.co/Mo0vlKNWe6"
+        },
+        {
+          "display_url": "pic.x.com/Mo0vlKNWe6",
+          "end": 165,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2089327032626720993/photo/1",
+          "media_key": "3_2089327022262910976",
+          "start": 142,
+          "url": "https://t.co/Mo0vlKNWe6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089327032626720993",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089316776547098624"
+      },
+      {
+        "media_key": "3_2089322786271752192"
+      },
+      {
+        "media_key": "3_2089322796728057856"
+      },
+      {
+        "media_key": "3_2089327022262910976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "在医院遇到一个比我小一个月的先生，他爸爸摔了一跤颅内出血在重症监护室；出租车司机有一个学文化管理的女儿和我一样大找不到工作；急诊的分诊台让我去别的医院；树枝上的蜡蝉若虫其实是别人涂的口香糖；走路发呆被车创飞几米远；下雨坏掉的电动车打滑摔倒在人行道；丢失的充电宝不知去向扣我99元押金；关心的话说出口被问关你屁事；渐渐的发现自己看不懂文字；在天主教堂祈祷肺癌能让我心安理得的去世；我把最后一根许愿烟送给了那位先生；一个老人看着房东直租的广告告诉我活着没意思。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在医院遇到一个比我小一个月的先生，他爸爸摔了一跤颅内出血在重症监护室；出租车司机有一个学文化管理的女儿和我一样大找不到工作；急诊的分诊台让我去别的医院；树枝上的蜡蝉若虫其实是别人涂的口香糖；走路发呆被车创飞几米远；下雨坏掉的电动车打滑摔倒在人行道；丢失的充电宝不知去向扣我99元押金 https://t.co/Mo0vlKNWe6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2778,
+        "media_key": "3_2089316776547098624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6-ieFaoAAknZM.jpg",
+        "width": 2084
+      },
+      {
+        "height": 1292,
+        "media_key": "3_2089322786271752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7EASDbcAAgfcb.jpg",
+        "width": 2800
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089322796728057856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7EA5AaAAAmAD7.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089327022262910976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7H22WbAAAWnLA.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089316776547098624",
+            "3_2089322786271752192",
+            "3_2089322796728057856",
+            "3_2089327022262910976"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089327032626720993",
+        "created_at": "2026-08-17T12:22:37.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089327032626720993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mo0vlKNWe6",
+              "end": 165,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2089327032626720993/photo/1",
+              "media_key": "3_2089316776547098624",
+              "start": 142,
+              "url": "https://t.co/Mo0vlKNWe6"
+            },
+            {
+              "display_url": "pic.x.com/Mo0vlKNWe6",
+              "end": 165,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2089327032626720993/photo/1",
+              "media_key": "3_2089322786271752192",
+              "start": 142,
+              "url": "https://t.co/Mo0vlKNWe6"
+            },
+            {
+              "display_url": "pic.x.com/Mo0vlKNWe6",
+              "end": 165,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2089327032626720993/photo/1",
+              "media_key": "3_2089322796728057856",
+              "start": 142,
+              "url": "https://t.co/Mo0vlKNWe6"
+            },
+            {
+              "display_url": "pic.x.com/Mo0vlKNWe6",
+              "end": 165,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2089327032626720993/photo/1",
+              "media_key": "3_2089327022262910976",
+              "start": 142,
+              "url": "https://t.co/Mo0vlKNWe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089327032626720993",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089316776547098624"
+          },
+          {
+            "media_key": "3_2089322786271752192"
+          },
+          {
+            "media_key": "3_2089322796728057856"
+          },
+          {
+            "media_key": "3_2089327022262910976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "在医院遇到一个比我小一个月的先生，他爸爸摔了一跤颅内出血在重症监护室；出租车司机有一个学文化管理的女儿和我一样大找不到工作；急诊的分诊台让我去别的医院；树枝上的蜡蝉若虫其实是别人涂的口香糖；走路发呆被车创飞几米远；下雨坏掉的电动车打滑摔倒在人行道；丢失的充电宝不知去向扣我99元押金；关心的话说出口被问关你屁事；渐渐的发现自己看不懂文字；在天主教堂祈祷肺癌能让我心安理得的去世；我把最后一根许愿烟送给了那位先生；一个老人看着房东直租的广告告诉我活着没意思。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在医院遇到一个比我小一个月的先生，他爸爸摔了一跤颅内出血在重症监护室；出租车司机有一个学文化管理的女儿和我一样大找不到工作；急诊的分诊台让我去别的医院；树枝上的蜡蝉若虫其实是别人涂的口香糖；走路发呆被车创飞几米远；下雨坏掉的电动车打滑摔倒在人行道；丢失的充电宝不知去向扣我99元押金 https://t.co/Mo0vlKNWe6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2089327032626720993",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 2749,
+          "like_count": 10148,
+          "listed_count": 0,
+          "media_count": 711,
+          "tweet_count": 3761
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

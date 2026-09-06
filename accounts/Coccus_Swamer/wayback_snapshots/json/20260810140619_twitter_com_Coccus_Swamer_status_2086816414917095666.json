@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2086815874883993833",
+    "created_at": "2026-08-10T14:06:19.000Z",
+    "display_text_range": [
+      0,
+      152
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086816414917095666"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086816414917095666",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "再来。\n\n暴雨预报，  \n三闾大夫的衣冠被雷劈成湿透的比基尼。  \n\n湘水倒灌，黑色乳晕涨成漩涡；  \n我与宋玉共舔他留下的伤口！  \n\n白色混凝土，红色交通灯；  \n血管同电缆 缠绕  \n颈椎骨折同他的衣冠  \n贯穿，  \n不可逆转的潮汐！  \n\n青蚨蝶，青蚨蝶，  \n我们投下的艾草与谎言在浪里翻滚：  \n终曲，屈子沉江。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086815874883993833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再来。\n\n暴雨预报，  \n三闾大夫的衣冠被雷劈成湿透的比基尼。  \n\n湘水倒灌，黑色乳晕涨成漩涡；  \n我与宋玉共舔他留下的伤口！  \n\n白色混凝土，红色交通灯；  \n血管同电缆 缠绕  \n颈椎骨折同他的衣冠  \n贯穿，  \n不可逆转的潮汐！  \n\n青蚨蝶，青蚨蝶，  \n我们投下的艾草与谎言在浪里翻滚："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2086815868634431488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXb-eGagAAphqp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2086815874883993833",
+        "created_at": "2026-08-10T14:06:19.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086816414917095666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086816414917095666",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "再来。\n\n暴雨预报，  \n三闾大夫的衣冠被雷劈成湿透的比基尼。  \n\n湘水倒灌，黑色乳晕涨成漩涡；  \n我与宋玉共舔他留下的伤口！  \n\n白色混凝土，红色交通灯；  \n血管同电缆 缠绕  \n颈椎骨折同他的衣冠  \n贯穿，  \n不可逆转的潮汐！  \n\n青蚨蝶，青蚨蝶，  \n我们投下的艾草与谎言在浪里翻滚：  \n终曲，屈子沉江。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086815874883993833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再来。\n\n暴雨预报，  \n三闾大夫的衣冠被雷劈成湿透的比基尼。  \n\n湘水倒灌，黑色乳晕涨成漩涡；  \n我与宋玉共舔他留下的伤口！  \n\n白色混凝土，红色交通灯；  \n血管同电缆 缠绕  \n颈椎骨折同他的衣冠  \n贯穿，  \n不可逆转的潮汐！  \n\n青蚨蝶，青蚨蝶，  \n我们投下的艾草与谎言在浪里翻滚："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086815868634431488"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2086815874883993833",
+        "created_at": "2026-08-10T14:04:10.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086815874883993833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLvMsIn2DS",
+              "end": 141,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2086815874883993833/photo/1",
+              "media_key": "3_2086815868634431488",
+              "start": 118,
+              "url": "https://t.co/yLvMsIn2DS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086815874883993833",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086815868634431488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“天气予报，\n楚地八万里遍地露脐装”\n江河泛滥，赤色乳房；\n我与屈原共饮汨罗河！\n灰色钢铁，黄色车线；\n神经同血 蔓延\n脊髓骨骼同他的脊梁\n插入，\n不可承受的剂量！\n白海豚，白海豚，\n我们投入的粽叶与懦弱在江上漂浮：\n插曲，屈平投江。 https://t.co/yLvMsIn2DS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2086816414917095666",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 2730,
+          "like_count": 10134,
+          "listed_count": 0,
+          "media_count": 709,
+          "tweet_count": 3743
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

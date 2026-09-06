@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092941593791897600"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2092941601316417840",
+    "created_at": "2026-08-27T11:45:37.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092941601316417840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFA5rWcjbi",
+          "end": 96,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2092941601316417840/photo/1",
+          "media_key": "3_2092941593791897600",
+          "start": 73,
+          "url": "https://t.co/rFA5rWcjbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092941601316417840",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092941593791897600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你是一个嗯造雌二醇补佳乐雌激素死爹哦那吗肥头大耳肥猪精神病心理疾病癔症家里蹲素颜碳水做题蛆肥蛆性压抑贵南楚南雄竞淘汰劣种二次元突变体黄皮劣等杂碎 https://t.co/rFA5rWcjbi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2092941593791897600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQufSmmbIAASakS.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092941593791897600"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2092941601316417840",
+        "created_at": "2026-08-27T11:45:37.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092941601316417840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFA5rWcjbi",
+              "end": 96,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2092941601316417840/photo/1",
+              "media_key": "3_2092941593791897600",
+              "start": 73,
+              "url": "https://t.co/rFA5rWcjbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092941601316417840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092941593791897600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是一个嗯造雌二醇补佳乐雌激素死爹哦那吗肥头大耳肥猪精神病心理疾病癔症家里蹲素颜碳水做题蛆肥蛆性压抑贵南楚南雄竞淘汰劣种二次元突变体黄皮劣等杂碎 https://t.co/rFA5rWcjbi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2092941601316417840",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 2758,
+          "like_count": 10190,
+          "listed_count": 0,
+          "media_count": 716,
+          "tweet_count": 3778
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

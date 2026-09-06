@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091841510547378177"
+      ],
+      "media_source_tweet_id": [
+        "2091842025050001566"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2091942529227005976",
+    "created_at": "2026-08-24T17:35:40.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091942529227005976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2021933134041034756",
+          "start": 3,
+          "username": "rakkyolucky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rgAjLtISit",
+          "end": 68,
+          "expanded_url": "https://x.com/rakkyolucky/status/2091842025050001566/video/1",
+          "media_key": "13_2091841510547378177",
+          "start": 45,
+          "url": "https://t.co/rgAjLtISit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091942529227005976",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2091841510547378177"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1325
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091842025050001566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rakkyolucky: 細かいところまだ荒いけど、いつかちゃんとBUしたい…！ https://t.co/rgAjLtISit"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6336,
+        "height": 684,
+        "media_key": "13_2091841510547378177",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091841510547378177/img/rCUPJDxYh3Nf8jX4.jpg",
+        "public_metrics": {
+          "view_count": 97203
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091841510547378177/vid/avc1/280x270/VrLMMG2i8F6m_3EH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091841510547378177/vid/avc1/372x360/4kYYlJp3uFSBnTTL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091841510547378177/vid/avc1/710x684/h85j3ePcSXqzecGs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091841510547378177/pl/4_ctVjJg3475iwmQ.m3u8?tag=14"
+          }
+        ],
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091841510547378177"
+          ],
+          "media_source_tweet_id": [
+            "2091842025050001566"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2091942529227005976",
+        "created_at": "2026-08-24T17:35:40.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091942529227005976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2021933134041034756",
+              "start": 3,
+              "username": "rakkyolucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgAjLtISit",
+              "end": 68,
+              "expanded_url": "https://x.com/rakkyolucky/status/2091842025050001566/video/1",
+              "media_key": "13_2091841510547378177",
+              "start": 45,
+              "url": "https://t.co/rgAjLtISit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091942529227005976",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091841510547378177"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1325
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091842025050001566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rakkyolucky: 細かいところまだ荒いけど、いつかちゃんとBUしたい…！ https://t.co/rgAjLtISit"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091841510547378177"
+          ]
+        },
+        "author_id": "2021933134041034756",
+        "conversation_id": "2091842025050001566",
+        "created_at": "2026-08-24T10:56:17.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091842025050001566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgAjLtISit",
+              "end": 51,
+              "expanded_url": "https://x.com/rakkyolucky/status/2091842025050001566/video/1",
+              "media_key": "13_2091841510547378177",
+              "start": 28,
+              "url": "https://t.co/rgAjLtISit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091842025050001566",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091841510547378177"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3158,
+          "impression_count": 246252,
+          "like_count": 14196,
+          "quote_count": 104,
+          "reply_count": 21,
+          "retweet_count": 1325
+        },
+        "reply_settings": "everyone",
+        "text": "細かいところまだ荒いけど、いつかちゃんとBUしたい…！ https://t.co/rgAjLtISit"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2091942529227005976",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 2750,
+          "like_count": 10180,
+          "listed_count": 0,
+          "media_count": 714,
+          "tweet_count": 3771
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-12T13:03:29.000Z",
+        "description": "3dｷｬﾗｸﾀｰﾃﾞｻﾞｲﾅｰ/ﾌｨｷﾞｭｱ",
+        "id": "2021933134041034756",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091842025050001566",
+        "name": "文乃",
+        "pinned_tweet_id": "2075127824034476068",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063265527548784640/a3IpGb19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 19,
+          "like_count": 509,
+          "listed_count": 13,
+          "media_count": 7,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "rakkyolucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

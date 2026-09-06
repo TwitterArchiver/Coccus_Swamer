@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088923228261724160",
+        "3_2088923235266314240",
+        "3_2088923242014916608",
+        "3_2088923249686294528"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088923261912449464",
+    "created_at": "2026-08-16T09:38:10.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088923261912449464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gFcBafEwQF",
+          "end": 31,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2088923261912449464/photo/1",
+          "media_key": "3_2088923228261724160",
+          "start": 8,
+          "url": "https://t.co/gFcBafEwQF"
+        },
+        {
+          "display_url": "pic.x.com/gFcBafEwQF",
+          "end": 31,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2088923261912449464/photo/1",
+          "media_key": "3_2088923235266314240",
+          "start": 8,
+          "url": "https://t.co/gFcBafEwQF"
+        },
+        {
+          "display_url": "pic.x.com/gFcBafEwQF",
+          "end": 31,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2088923261912449464/photo/1",
+          "media_key": "3_2088923242014916608",
+          "start": 8,
+          "url": "https://t.co/gFcBafEwQF"
+        },
+        {
+          "display_url": "pic.x.com/gFcBafEwQF",
+          "end": 31,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2088923261912449464/photo/1",
+          "media_key": "3_2088923249686294528",
+          "start": 8,
+          "url": "https://t.co/gFcBafEwQF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088923261912449464",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088923228261724160"
+      },
+      {
+        "media_key": "3_2088923235266314240"
+      },
+      {
+        "media_key": "3_2088923242014916608"
+      },
+      {
+        "media_key": "3_2088923249686294528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么这么对我 https://t.co/gFcBafEwQF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2088923228261724160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1Ym8eaMAAkskV.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2088923235266314240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1YnWkbwAADFki.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2088923242014916608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1YnvtbQAAWEfD.jpg",
+        "width": 1440
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2088923249686294528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1YoMSbMAAcG40.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088923228261724160",
+            "3_2088923235266314240",
+            "3_2088923242014916608",
+            "3_2088923249686294528"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088923261912449464",
+        "created_at": "2026-08-16T09:38:10.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088923261912449464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFcBafEwQF",
+              "end": 31,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2088923261912449464/photo/1",
+              "media_key": "3_2088923228261724160",
+              "start": 8,
+              "url": "https://t.co/gFcBafEwQF"
+            },
+            {
+              "display_url": "pic.x.com/gFcBafEwQF",
+              "end": 31,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2088923261912449464/photo/1",
+              "media_key": "3_2088923235266314240",
+              "start": 8,
+              "url": "https://t.co/gFcBafEwQF"
+            },
+            {
+              "display_url": "pic.x.com/gFcBafEwQF",
+              "end": 31,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2088923261912449464/photo/1",
+              "media_key": "3_2088923242014916608",
+              "start": 8,
+              "url": "https://t.co/gFcBafEwQF"
+            },
+            {
+              "display_url": "pic.x.com/gFcBafEwQF",
+              "end": 31,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2088923261912449464/photo/1",
+              "media_key": "3_2088923249686294528",
+              "start": 8,
+              "url": "https://t.co/gFcBafEwQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088923261912449464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088923228261724160"
+          },
+          {
+            "media_key": "3_2088923235266314240"
+          },
+          {
+            "media_key": "3_2088923242014916608"
+          },
+          {
+            "media_key": "3_2088923249686294528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这么对我 https://t.co/gFcBafEwQF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2088923261912449464",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 2753,
+          "like_count": 10149,
+          "listed_count": 0,
+          "media_count": 711,
+          "tweet_count": 3761
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

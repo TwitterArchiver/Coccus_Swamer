@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092263522512285698"
+      ],
+      "media_source_tweet_id": [
+        "2092263546981900342"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092926417743102398",
+    "created_at": "2026-08-27T10:45:17.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092926417743102398"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "zeno"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "基地絵"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1583788552889913345",
+          "start": 3,
+          "username": "3xqiiv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RUKc5NbKP5",
+          "end": 61,
+          "expanded_url": "https://x.com/3xqiiv/status/2092263546981900342/video/1",
+          "media_key": "13_2092263522512285698",
+          "start": 38,
+          "url": "https://t.co/RUKc5NbKP5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092926417743102398",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2092263522512285698"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 573
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092263546981900342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3xqiiv: 消されたのでここで出します😭\n#zeno #基地絵 https://t.co/RUKc5NbKP5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12866,
+        "height": 720,
+        "media_key": "13_2092263522512285698",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092263522512285698/img/mTNE8kZtahK_wl9t.jpg",
+        "public_metrics": {
+          "view_count": 24141
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092263522512285698/vid/avc1/360x270/2FFsRA16_6SHe-f6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092263522512285698/vid/avc1/480x360/PBkIQzy5NwJcmeNt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092263522512285698/vid/avc1/960x720/fExD6_QxFUbdU3ZO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092263522512285698/pl/de1ddxXCSL9pmbm_.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092263522512285698"
+          ],
+          "media_source_tweet_id": [
+            "2092263546981900342"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092926417743102398",
+        "created_at": "2026-08-27T10:45:17.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092926417743102398"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "zeno"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "基地絵"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1583788552889913345",
+              "start": 3,
+              "username": "3xqiiv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUKc5NbKP5",
+              "end": 61,
+              "expanded_url": "https://x.com/3xqiiv/status/2092263546981900342/video/1",
+              "media_key": "13_2092263522512285698",
+              "start": 38,
+              "url": "https://t.co/RUKc5NbKP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092926417743102398",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092263522512285698"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 573
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092263546981900342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3xqiiv: 消されたのでここで出します😭\n#zeno #基地絵 https://t.co/RUKc5NbKP5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092263522512285698"
+          ]
+        },
+        "author_id": "1583788552889913345",
+        "conversation_id": "2092263546981900342",
+        "created_at": "2026-08-25T14:51:16.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092263546981900342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "zeno"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "基地絵"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUKc5NbKP5",
+              "end": 49,
+              "expanded_url": "https://x.com/3xqiiv/status/2092263546981900342/video/1",
+              "media_key": "13_2092263522512285698",
+              "start": 26,
+              "url": "https://t.co/RUKc5NbKP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092263546981900342",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092263522512285698"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 631,
+          "impression_count": 50089,
+          "like_count": 3459,
+          "quote_count": 42,
+          "reply_count": 1,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "消されたのでここで出します😭\n#zeno #基地絵 https://t.co/RUKc5NbKP5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2092926417743102398",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 2757,
+          "like_count": 10188,
+          "listed_count": 0,
+          "media_count": 715,
+          "tweet_count": 3777
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-22T11:53:37.000Z",
+        "description": "マシュマロ↓ 成長記録\n🗝️→ @nizu_2\nかさばはアホタレ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "nizu_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/dfigx6zlyhs943…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/dfigx6zlyhs943?t=9vefBD&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/vkiI5uQhCu"
+              }
+            ]
+          }
+        },
+        "id": "1583788552889913345",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092263546981900342",
+        "name": "いずﾐ",
+        "pinned_tweet_id": "1982288403208044799",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088701252507168768/rZBYKdvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 60,
+          "like_count": 2014,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/vkiI5uQhCu",
+        "username": "3xqiiv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

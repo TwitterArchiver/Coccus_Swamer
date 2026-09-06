@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086863668269178880"
+      ],
+      "media_source_tweet_id": [
+        "2086863696635314259"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2087114768046080133",
+    "created_at": "2026-08-11T09:51:52.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087114768046080133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1045340019341152256",
+          "start": 3,
+          "username": "DarknifeG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oECPoWdG2D",
+          "end": 52,
+          "expanded_url": "https://x.com/DarknifeG/status/2086863696635314259/video/1",
+          "media_key": "13_2086863668269178880",
+          "start": 29,
+          "url": "https://t.co/oECPoWdG2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087114768046080133",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2086863668269178880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1300
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086863696635314259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DarknifeG: 百重【Bai Zhong】 https://t.co/oECPoWdG2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15637,
+        "height": 1280,
+        "media_key": "13_2086863668269178880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086863668269178880/img/l25iwyK_AZng9AtB.jpg",
+        "public_metrics": {
+          "view_count": 97529
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086863668269178880/vid/avc1/320x568/hmTqIUPYj16FBZip.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086863668269178880/vid/avc1/480x852/FqbQKRh0sMZDVDkU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086863668269178880/vid/avc1/720x1280/JbRxiW-3MgO8ieuA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086863668269178880/pl/bd286reZs7OgG_iu.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086863668269178880"
+          ]
+        },
+        "author_id": "1045340019341152256",
+        "conversation_id": "2086863696635314259",
+        "created_at": "2026-08-10T17:14:11.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086863696635314259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oECPoWdG2D",
+              "end": 37,
+              "expanded_url": "https://x.com/DarknifeG/status/2086863696635314259/video/1",
+              "media_key": "13_2086863668269178880",
+              "start": 14,
+              "url": "https://t.co/oECPoWdG2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086863696635314259",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086863668269178880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3292,
+          "impression_count": 197551,
+          "like_count": 16906,
+          "quote_count": 12,
+          "reply_count": 19,
+          "retweet_count": 1300
+        },
+        "reply_settings": "everyone",
+        "text": "百重【Bai Zhong】 https://t.co/oECPoWdG2D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086863668269178880"
+          ],
+          "media_source_tweet_id": [
+            "2086863696635314259"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2087114768046080133",
+        "created_at": "2026-08-11T09:51:52.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087114768046080133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1045340019341152256",
+              "start": 3,
+              "username": "DarknifeG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oECPoWdG2D",
+              "end": 52,
+              "expanded_url": "https://x.com/DarknifeG/status/2086863696635314259/video/1",
+              "media_key": "13_2086863668269178880",
+              "start": 29,
+              "url": "https://t.co/oECPoWdG2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087114768046080133",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086863668269178880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1300
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086863696635314259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DarknifeG: 百重【Bai Zhong】 https://t.co/oECPoWdG2D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2087114768046080133",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 2735,
+          "like_count": 10147,
+          "listed_count": 0,
+          "media_count": 710,
+          "tweet_count": 3750
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-27T15:50:56.000Z",
+        "description": "请不要无授权转载，另外谢谢您对我创作的认可",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@darknifeg",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@darknifeg",
+                "start": 0,
+                "url": "https://t.co/h8wiTWwIqk"
+              }
+            ]
+          }
+        },
+        "id": "1045340019341152256",
+        "is_identity_verified": false,
+        "location": "china",
+        "most_recent_tweet_id": "2087101270482149492",
+        "name": "Greene",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045340019341152256/1629888181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488923896757768198/KbcwzMDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15356,
+          "following_count": 482,
+          "like_count": 17555,
+          "listed_count": 76,
+          "media_count": 434,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/h8wiTWwIqk",
+        "username": "DarknifeG",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

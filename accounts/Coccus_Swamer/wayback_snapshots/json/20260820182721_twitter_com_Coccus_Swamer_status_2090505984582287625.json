@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090505969214353408",
+        "3_2090505977707794432"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090505984582287625",
+    "created_at": "2026-08-20T18:27:21.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T19:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090505984582287625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j4osd28Cor",
+          "end": 30,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2090505984582287625/photo/1",
+          "media_key": "3_2090505969214353408",
+          "start": 7,
+          "url": "https://t.co/j4osd28Cor"
+        },
+        {
+          "display_url": "pic.x.com/j4osd28Cor",
+          "end": 30,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2090505984582287625/photo/1",
+          "media_key": "3_2090505977707794432",
+          "start": 7,
+          "url": "https://t.co/j4osd28Cor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090505984582287625",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090505969214353408"
+      },
+      {
+        "media_key": "3_2090505977707794432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来吃安定吧。 https://t.co/j4osd28Cor"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_2090505969214353408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQL4Gl_a8AAWFV3.jpg",
+        "width": 1208
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2090505977707794432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQL4HFoakAAJk07.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090505969214353408",
+            "3_2090505977707794432"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090505984582287625",
+        "created_at": "2026-08-20T18:27:21.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T19:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090505984582287625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4osd28Cor",
+              "end": 30,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2090505984582287625/photo/1",
+              "media_key": "3_2090505969214353408",
+              "start": 7,
+              "url": "https://t.co/j4osd28Cor"
+            },
+            {
+              "display_url": "pic.x.com/j4osd28Cor",
+              "end": 30,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2090505984582287625/photo/1",
+              "media_key": "3_2090505977707794432",
+              "start": 7,
+              "url": "https://t.co/j4osd28Cor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090505984582287625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090505969214353408"
+          },
+          {
+            "media_key": "3_2090505977707794432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来吃安定吧。 https://t.co/j4osd28Cor"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2090505984582287625",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 2741,
+          "like_count": 10148,
+          "listed_count": 0,
+          "media_count": 712,
+          "tweet_count": 3763
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
