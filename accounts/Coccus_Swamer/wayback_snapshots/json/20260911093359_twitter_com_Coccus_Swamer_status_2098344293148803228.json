@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098344287155220480"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2098344293148803228",
+    "created_at": "2026-09-11T09:33:59.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098344293148803228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bgHI5pR2Bn",
+          "end": 87,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2098344293148803228/photo/1",
+          "media_key": "3_2098344287155220480",
+          "start": 64,
+          "url": "https://t.co/bgHI5pR2Bn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098344293148803228",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098344287155220480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样面临上课睡觉的困难\n\n你所谓的忧愁，\n叫我弄坏了胃口，\n许多年以后，\n还有不甘的残留，\n多卑劣的丑，\n犹如溽热的气候。 https://t.co/bgHI5pR2Bn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2098344287155220480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7RAvxbcAAq8m1.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098344287155220480"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2098344293148803228",
+        "created_at": "2026-09-11T09:33:59.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098344293148803228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgHI5pR2Bn",
+              "end": 87,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2098344293148803228/photo/1",
+              "media_key": "3_2098344287155220480",
+              "start": 64,
+              "url": "https://t.co/bgHI5pR2Bn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098344293148803228",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098344287155220480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样面临上课睡觉的困难\n\n你所谓的忧愁，\n叫我弄坏了胃口，\n许多年以后，\n还有不甘的残留，\n多卑劣的丑，\n犹如溽热的气候。 https://t.co/bgHI5pR2Bn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2098344293148803228",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 2746,
+          "like_count": 10178,
+          "listed_count": 0,
+          "media_count": 719,
+          "tweet_count": 3784
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

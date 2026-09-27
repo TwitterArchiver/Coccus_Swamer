@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100904623284641792",
+        "3_2100904630133899264",
+        "3_2100904637184577536"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2100904642943361230",
+    "created_at": "2026-09-18T11:07:54.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T12:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100904642943361230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wrvOcr7XSh",
+          "end": 47,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2100904642943361230/photo/1",
+          "media_key": "3_2100904623284641792",
+          "start": 24,
+          "url": "https://t.co/wrvOcr7XSh"
+        },
+        {
+          "display_url": "pic.x.com/wrvOcr7XSh",
+          "end": 47,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2100904642943361230/photo/1",
+          "media_key": "3_2100904630133899264",
+          "start": 24,
+          "url": "https://t.co/wrvOcr7XSh"
+        },
+        {
+          "display_url": "pic.x.com/wrvOcr7XSh",
+          "end": 47,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2100904642943361230/photo/1",
+          "media_key": "3_2100904637184577536",
+          "start": 24,
+          "url": "https://t.co/wrvOcr7XSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100904642943361230",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100904623284641792"
+      },
+      {
+        "media_key": "3_2100904630133899264"
+      },
+      {
+        "media_key": "3_2100904637184577536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白发三千丈，缘愁似个长。不知明镜里，何处得秋霜 https://t.co/wrvOcr7XSh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2100904623284641792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfpn7HbYAAxrxN.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2100904630133899264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfpoUoawAAU7T2.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2100904637184577536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfpou5bkAANG5F.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100904623284641792",
+            "3_2100904630133899264",
+            "3_2100904637184577536"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2100904642943361230",
+        "created_at": "2026-09-18T11:07:54.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100904642943361230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrvOcr7XSh",
+              "end": 47,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2100904642943361230/photo/1",
+              "media_key": "3_2100904623284641792",
+              "start": 24,
+              "url": "https://t.co/wrvOcr7XSh"
+            },
+            {
+              "display_url": "pic.x.com/wrvOcr7XSh",
+              "end": 47,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2100904642943361230/photo/1",
+              "media_key": "3_2100904630133899264",
+              "start": 24,
+              "url": "https://t.co/wrvOcr7XSh"
+            },
+            {
+              "display_url": "pic.x.com/wrvOcr7XSh",
+              "end": 47,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2100904642943361230/photo/1",
+              "media_key": "3_2100904637184577536",
+              "start": 24,
+              "url": "https://t.co/wrvOcr7XSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100904642943361230",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100904623284641792"
+          },
+          {
+            "media_key": "3_2100904630133899264"
+          },
+          {
+            "media_key": "3_2100904637184577536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白发三千丈，缘愁似个长。不知明镜里，何处得秋霜 https://t.co/wrvOcr7XSh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容/一个月没更新就是死了\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2100904642943361230",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 2748,
+          "like_count": 10203,
+          "listed_count": 0,
+          "media_count": 722,
+          "tweet_count": 3799
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095190856085172228"
+      ],
+      "media_source_tweet_id": [
+        "2095190864574423288"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2095525012065362224",
+    "created_at": "2026-09-03T14:51:10.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095525012065362224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050966735453564928",
+          "start": 3,
+          "username": "Vindicatorn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5XhiDsNDEG",
+          "end": 62,
+          "expanded_url": "https://x.com/Vindicatorn/status/2095190864574423288/photo/1",
+          "media_key": "3_2095190856085172228",
+          "start": 39,
+          "url": "https://t.co/5XhiDsNDEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095525012065362224",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095190856085172228"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095190864574423288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vindicatorn: 9月3日 13:30 学员返校报到\n1.… https://t.co/5XhiDsNDEG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2095190856085172228",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROc-5macAQv0jU.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095190856085172228"
+          ],
+          "media_source_tweet_id": [
+            "2095190864574423288"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2095525012065362224",
+        "created_at": "2026-09-03T14:51:10.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095525012065362224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050966735453564928",
+              "start": 3,
+              "username": "Vindicatorn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XhiDsNDEG",
+              "end": 62,
+              "expanded_url": "https://x.com/Vindicatorn/status/2095190864574423288/photo/1",
+              "media_key": "3_2095190856085172228",
+              "start": 39,
+              "url": "https://t.co/5XhiDsNDEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095525012065362224",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095190856085172228"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095190864574423288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vindicatorn: 9月3日 13:30 学员返校报到\n1.… https://t.co/5XhiDsNDEG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095190856085172228"
+          ]
+        },
+        "author_id": "2050966735453564928",
+        "conversation_id": "2095190864574423288",
+        "created_at": "2026-09-02T16:43:23.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095190864574423288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XhiDsNDEG",
+              "end": 44,
+              "expanded_url": "https://x.com/Vindicatorn/status/2095190864574423288/photo/1",
+              "media_key": "3_2095190856085172228",
+              "start": 21,
+              "url": "https://t.co/5XhiDsNDEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095190864574423288",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095190856085172228"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "9月3日 13:30 学员返校报到\n1.  必须穿规定校服到场：上衣胸口完全敞开，乳环必须露在外面，乳头被乳环拉得发肿、发亮，走路时能看见乳环晃动、乳尖被风吹硬。下身短裤必须卡在腿根以上，臀缝、腿根和贞操锁的金属环、固定带全部外露，锁体贴着阴部，走路时锁会摩擦阴蒂和外阴，要求报到时已经湿透、锁上有水渍。\n2.  必须提交暑假与陌生人旅行的完整视频：包括被按着深吻、当众口交、被内射、被多人轮流使用、以及战败后被绑着强制高潮的片段。交不出或时长不够的，当场押到主席台下，当着全校学员的面把跳蛋塞进已经被锁住的穴里、再用假阳具从后面整根捅进去，调到最高档，不许求饶、不许并腿，玩到潮吹、腿软、翻白眼晕过去为止，醒过来还要当众报数自己高潮了几次。\n3.  身上不携带跳蛋、自慰棒、肛塞等工具的，一律不许进校门。安检时要当众把工具从包里拿出来、在门口先自己塞进去再进。\n4.  必须背红色胶皮小书包。下学期起全校统一发放恶堕乳胶战斗服和全透明校服：乳胶服会勒紧乳房和臀部、把乳环和贞操锁形状完全勒出来；透明校服则要求里面真空，乳头、乳环、锁体、湿痕全部可见。\n5.  报到当天立刻开始班级室内外交配活动：教室内按学号排队互相使用、走廊和操场允许当众插入、教室后门和主席台侧面设公开使用点。活动期间贞操锁由班主任统一掌控钥匙，谁被点名谁就要当场解开、被同学或老师使用到再次锁上为止。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 17313,
+          "like_count": 230,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "9月3日 13:30 学员返校报到\n1. https://t.co/5XhiDsNDEG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2095525012065362224",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 2751,
+          "like_count": 10186,
+          "listed_count": 0,
+          "media_count": 716,
+          "tweet_count": 3779
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T15:53:20.000Z",
+        "description": "我跟你好",
+        "id": "2050966735453564928",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2095514890798858736",
+        "name": "Vindicator",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050966735453564928/1785560366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082150003230015488/gIlQD9j-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 3145,
+          "like_count": 2720,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "Vindicatorn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

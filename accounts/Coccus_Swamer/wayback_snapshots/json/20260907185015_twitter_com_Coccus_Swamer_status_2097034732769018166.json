@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552238688590958592",
+    "conversation_id": "2097034732769018166",
+    "created_at": "2026-09-07T18:50:15.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T19:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097034732769018166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fubuki_027/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Fubuki_027/status/2096947821211787383",
+          "start": 35,
+          "url": "https://t.co/Ir5gBqMSHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097034732769018166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096947821211787383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的一时不知道说什么好……现在还没有缓过来。\n去天国吧，晚安，米莉亚 https://t.co/Ir5gBqMSHG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2097034732769018166",
+        "created_at": "2026-09-07T18:50:15.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T19:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097034732769018166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fubuki_027/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Fubuki_027/status/2096947821211787383",
+              "start": 35,
+              "url": "https://t.co/Ir5gBqMSHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097034732769018166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096947821211787383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的一时不知道说什么好……现在还没有缓过来。\n去天国吧，晚安，米莉亚 https://t.co/Ir5gBqMSHG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472419244126388226",
+        "conversation_id": "2096947821211787383",
+        "created_at": "2026-09-07T13:04:54.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096947821211787383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1933166589144395776",
+              "start": 8,
+              "username": "HyacinthWithYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096947821211787383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6246,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n米莉亚（@HyacinthWithYou），已于2026年9月7日13:01由其母亲确认离世，死因是意外死亡，享年20岁。\n晚安，米莉亚。🕯️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2097034732769018166",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 2743,
+          "like_count": 10186,
+          "listed_count": 0,
+          "media_count": 716,
+          "tweet_count": 3782
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-19T04:11:30.000Z",
+        "description": "🩵🩷我喜欢你🩷🩵\n是狐狸！| INFP | MtX | 无证深柜中 | 想割手爱od | 重生日2026.5.8🍥 | 小号 @Rinfen_027 | 随缘回fo请多指教🥺\n永远的米莉亚 @HyacinthWithYou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Rinfen_027"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "HyacinthWithYou"
+              }
+            ]
+          }
+        },
+        "id": "1472419244126388226",
+        "is_identity_verified": false,
+        "location": "山东济南/青岛",
+        "most_recent_tweet_id": "2096947821211787383",
+        "name": "Rinfen27.🍥",
+        "pinned_tweet_id": "2096836970152706358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1472419244126388226/1780457083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066320077000228864/GiHJ7Exj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 2347,
+          "like_count": 8596,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "Fubuki_027",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

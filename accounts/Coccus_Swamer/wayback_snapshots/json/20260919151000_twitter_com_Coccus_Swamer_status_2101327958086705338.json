@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101327944237162496"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2101327958086705338",
+    "created_at": "2026-09-19T15:10:00.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101327958086705338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eGD1Pjvog7",
+          "end": 159,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/2101327958086705338/photo/1",
+          "media_key": "3_2101327944237162496",
+          "start": 136,
+          "url": "https://t.co/eGD1Pjvog7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101327958086705338",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101327944237162496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 530,
+            "id": "1933166589144395776",
+            "start": 514,
+            "username": "HyacinthWithYou"
+          }
+        ]
+      },
+      "text": "绝缘\n\n收到信笺的时候，\n上面写着“十三号楼”[1]。\n我该用什么样的表情去接受，\nICU，洗胃管，监护仪和氧气瓶。\n偏僻的角落是楼的阶梯，\n爬上去，讲台般的绞刑架……\n或是斩首台。\n空旷的阶梯平台，先是将尽生命的氧气瓶，\n再向上去，是没有什么变化的监护仪，\n监护仪呵。\n护士们指了指床位后，便匆匆离去了。\n站不了一下，聊不上话。\n还有一套我高中的木质桌椅，上面的台灯\n照亮了蜷缩的我——这里用来写病历。\n写完之后，就走吧。\n信笺的末尾落款还是我，\n写完这封信后，就走吧。\n——我是说，你可以走了。\n\n[1]《癌症楼》索尔仁尼琴：“癌症楼也叫作“十三号楼”。帕维尔·尼古拉耶维奇·鲁萨诺夫从来不迷信，也不可能有迷信思想，但是，当他看到为他开的住院许可证上写着“十三号楼”的时候，他的心不知为什么却为之一沉。这是很不明智的，就该把什么假肢楼或者肠道楼称为十三号楼。…………帕维尔·尼古拉耶维奇像个孤儿似的望了望自己的家人，拒绝了米塔的搀扶，自己牢牢地抓住栏杆，开始上楼。他的心怦怦直跳，而这还绝不是因为登高。他沿着梯级往上走，犹如被押上那个……怎么称呼它呢……像讲台似的高处去砍掉脑袋。”\n\n（献给我最好的朋友，已经过世的米莉亚（@HyacinthWithYou））"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "绝缘\n\n收到信笺的时候，\n上面写着“十三号楼”[1]。\n我该用什么样的表情去接受，\nICU，洗胃管，监护仪和氧气瓶。\n偏僻的角落是楼的阶梯，\n爬上去，讲台般的绞刑架……\n或是斩首台。\n空旷的阶梯平台，先是将尽生命的氧气瓶，\n再向上去，是没有什么变化的监护仪，\n监护仪呵。 https://t.co/eGD1Pjvog7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.note.mentions.username: [1933166589144395776].",
+      "parameter": "entities.note.mentions.username",
+      "resource_id": "1933166589144395776",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1933166589144395776"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2101327944237162496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlqocjboAAfW23.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101327944237162496"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2101327958086705338",
+        "created_at": "2026-09-19T15:10:00.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101327958086705338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGD1Pjvog7",
+              "end": 159,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/2101327958086705338/photo/1",
+              "media_key": "3_2101327944237162496",
+              "start": 136,
+              "url": "https://t.co/eGD1Pjvog7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101327958086705338",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101327944237162496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 530,
+                "id": "1933166589144395776",
+                "start": 514,
+                "username": "HyacinthWithYou"
+              }
+            ]
+          },
+          "text": "绝缘\n\n收到信笺的时候，\n上面写着“十三号楼”[1]。\n我该用什么样的表情去接受，\nICU，洗胃管，监护仪和氧气瓶。\n偏僻的角落是楼的阶梯，\n爬上去，讲台般的绞刑架……\n或是斩首台。\n空旷的阶梯平台，先是将尽生命的氧气瓶，\n再向上去，是没有什么变化的监护仪，\n监护仪呵。\n护士们指了指床位后，便匆匆离去了。\n站不了一下，聊不上话。\n还有一套我高中的木质桌椅，上面的台灯\n照亮了蜷缩的我——这里用来写病历。\n写完之后，就走吧。\n信笺的末尾落款还是我，\n写完这封信后，就走吧。\n——我是说，你可以走了。\n\n[1]《癌症楼》索尔仁尼琴：“癌症楼也叫作“十三号楼”。帕维尔·尼古拉耶维奇·鲁萨诺夫从来不迷信，也不可能有迷信思想，但是，当他看到为他开的住院许可证上写着“十三号楼”的时候，他的心不知为什么却为之一沉。这是很不明智的，就该把什么假肢楼或者肠道楼称为十三号楼。…………帕维尔·尼古拉耶维奇像个孤儿似的望了望自己的家人，拒绝了米塔的搀扶，自己牢牢地抓住栏杆，开始上楼。他的心怦怦直跳，而这还绝不是因为登高。他沿着梯级往上走，犹如被押上那个……怎么称呼它呢……像讲台似的高处去砍掉脑袋。”\n\n（献给我最好的朋友，已经过世的米莉亚（@HyacinthWithYou））"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绝缘\n\n收到信笺的时候，\n上面写着“十三号楼”[1]。\n我该用什么样的表情去接受，\nICU，洗胃管，监护仪和氧气瓶。\n偏僻的角落是楼的阶梯，\n爬上去，讲台般的绞刑架……\n或是斩首台。\n空旷的阶梯平台，先是将尽生命的氧气瓶，\n再向上去，是没有什么变化的监护仪，\n监护仪呵。 https://t.co/eGD1Pjvog7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容/一个月没更新就是死了\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2101327958086705338",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 2753,
+          "like_count": 10208,
+          "listed_count": 0,
+          "media_count": 723,
+          "tweet_count": 3800
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

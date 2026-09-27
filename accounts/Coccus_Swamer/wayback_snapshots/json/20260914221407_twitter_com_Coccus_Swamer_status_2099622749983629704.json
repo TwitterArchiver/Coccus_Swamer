@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2099064076886581248"
+      ],
+      "media_source_tweet_id": [
+        "2099064099485503861"
+      ]
+    },
+    "author_id": "1552238688590958592",
+    "conversation_id": "2099622749983629704",
+    "created_at": "2026-09-14T22:14:07.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T23:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099622749983629704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1536309166691991553",
+          "start": 3,
+          "username": "rangagangaa_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BoYn5SfSYD",
+          "end": 65,
+          "expanded_url": "https://x.com/rangagangaa_/status/2099064099485503861/photo/1",
+          "media_key": "16_2099064076886581248",
+          "start": 42,
+          "url": "https://t.co/BoYn5SfSYD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099622749983629704",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "16_2099064076886581248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099064099485503861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rangagangaa_: The Sadness/ 哭悲  (2021) https://t.co/BoYn5SfSYD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2099064076886581248",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSFfqBeboAA92Nb.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSFfqBeboAA92Nb.mp4"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2099064076886581248"
+          ],
+          "media_source_tweet_id": [
+            "2099064099485503861"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "2099622749983629704",
+        "created_at": "2026-09-14T22:14:07.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099622749983629704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1536309166691991553",
+              "start": 3,
+              "username": "rangagangaa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoYn5SfSYD",
+              "end": 65,
+              "expanded_url": "https://x.com/rangagangaa_/status/2099064099485503861/photo/1",
+              "media_key": "16_2099064076886581248",
+              "start": 42,
+              "url": "https://t.co/BoYn5SfSYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099622749983629704",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "16_2099064076886581248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099064099485503861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rangagangaa_: The Sadness/ 哭悲  (2021) https://t.co/BoYn5SfSYD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2099064076886581248"
+          ]
+        },
+        "author_id": "1536309166691991553",
+        "conversation_id": "2099064099485503861",
+        "created_at": "2026-09-13T09:14:14.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099064099485503861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoYn5SfSYD",
+              "end": 47,
+              "expanded_url": "https://x.com/rangagangaa_/status/2099064099485503861/photo/1",
+              "media_key": "16_2099064076886581248",
+              "start": 24,
+              "url": "https://t.co/BoYn5SfSYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099064099485503861",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "16_2099064076886581248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1029,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "The Sadness/ 哭悲  (2021) https://t.co/BoYn5SfSYD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanjing, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  118.77778,
+                  32.06167
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanjing",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容/一个月没更新就是死了\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2099622749983629704",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 2752,
+          "like_count": 10192,
+          "listed_count": 0,
+          "media_count": 720,
+          "tweet_count": 3793
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-13T11:27:09.000Z",
+        "description": "Horror🧟‍♂️ Movies 🎬Tattoos 💀Foxes🦊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/cDqBp",
+                "end": 23,
+                "expanded_url": "https://boxd.it/cDqBp",
+                "start": 0,
+                "url": "https://t.co/XiLMzdwWEP"
+              }
+            ]
+          }
+        },
+        "id": "1536309166691991553",
+        "is_identity_verified": false,
+        "location": "Australia",
+        "most_recent_tweet_id": "2099064099485503861",
+        "name": "rangagangaa",
+        "pinned_tweet_id": "2086981783980253389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536309166691991553/1784954061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080873724283375616/4XLFwxjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 122,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/XiLMzdwWEP",
+        "username": "rangagangaa_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
